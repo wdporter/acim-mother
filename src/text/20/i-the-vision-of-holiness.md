@@ -50,4 +50,4 @@ In your forgiveness of these strangers, aliens to you and yet your ancient
 Friends, lies their release and your redemption with them. The time of Easter 
 is a time of joy, and not of mourning. Look on your risen Friends, and 
 celebrate their holiness along with me. For Easter is the time of your 
-salvation, along with mine. <a href="https://acim.org/acim/en/s/242?wid=toc#1" class=whitespace-nowrap title="view on acim.org">T-20.I</a>
+salvation, along with mine. <a href="https://acim.org/acim/en/s/242?wid=toc#1" class="whitespace-nowrap" title="view on acim.org">T-20.I</a>
