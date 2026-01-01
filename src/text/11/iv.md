@@ -17,7 +17,7 @@ It is not until beliefs are fixed that perceptions stabilise.
 In effect, then, what you believe you _do_ see. 
 That is what I meant when I said, “Blessed are ye who have not seen and still believe”, for those who believe in the resurrection will see it. 
 The resurrection is the complete triumph of Christ over the ego, not by attack but by transcendence. 
-For Christ does rise above the ego and all its works, and ascends to the Mother and Her Kingdom.
+For Christ does rise above the ego and all its works, and ascends to the Mother and Her Realm.
 
 Would you join in the resurrection or the crucifixion? 
 Would you condemn your companions or free them? 
@@ -26,16 +26,7 @@ These questions are all the same, and are answered together.
 There has been much confusion about what perception means, because the word is used both for awareness and for the interpretation of awareness. 
 Yet you cannot be aware without interpretation, for what you perceive _is_ your interpretation.
 
-This course is perfectly clear. 
-If you do not see it clearly, it is because you are interpreting against it, and therefore do not believe it. 
-And since belief determines perception, you do not perceive what it means and therefore do not accept it. 
-Yet different experiences lead to different beliefs, and with them different perceptions. 
-For perceptions are learned _with_ beliefs, and experience does teach. 
-I am leading you to a new kind of experience that you will become less and less willing to deny. 
-Learning of Christ is easy, for to perceive with Him involves no strain at all. 
-His perceptions are your natural awareness, and it is only the distortions you introduce that tire you. 
-Let the Christ in you interpret for you, and do not try to limit what you see by narrow little beliefs that are unworthy of God’s Son. 
-For until Christ comes into His Own, the Son of God will see himself as Motherless.
+This course is perfectly clear. If you do not see it clearly, it is because you are interpreting against it, and therefore do not believe it. And since belief determines perception, you do not perceive what it means and therefore do not accept it. Yet different experiences lead to different beliefs, and with them different perceptions. For perceptions are learned _with_ beliefs, and experience does teach. I am leading you to a new kind of experience that you will become less and less willing to deny. Learning of Christ is easy, for to perceive with Him involves no strain at all. His perceptions are your natural awareness, and it is only the distortions you introduce that tire you. Let the Christ in you interpret for you, and do not try to limit what you see by narrow little beliefs that are unworthy of God’s Son. For until Christ comes into His Own, the Son of God will see himself as Motherless.
 
 I am _your_ resurrection and _your_ life. 
 You live in me because you live in God. 
@@ -64,13 +55,7 @@ Who, then, is _your_ own?
 The Mother has given you all that is Hers, and She Herself is yours with them. 
 Guard them in their resurrection, for otherwise you will not awake in God, safely surrounded by what is yours forever.
 
-You will not find peace until you have removed the nails from the hands of God’s Son, and taken the last thorn from his forehead. 
-The Love of God surrounds His Son whom the god of crucifixion condemns. 
-Teach not that I died in vain. 
-Teach rather that I did not die by demonstrating that I live in you. 
-For the undoing of the crucifixion of God’s Son is the work of the redemption, in which everyone has a part of equal value. 
-God does not judge Her guiltless Son. 
-Having given Herself to him, how could it be otherwise?
+You will not find peace until you have removed the nails from the hands of God’s Son, and taken the last thorn from his forehead. The Love of God surrounds His Son whom the god of crucifixion condemns. Teach not that I died in vain. Teach rather that I did not die by demonstrating that I live in you. For the undoing of the crucifixion of God’s Son is the work of the redemption, in which everyone has a part of equal value. God does not judge Her guiltless Son. Having given Herself to him, how could it be otherwise?
 
 You have nailed yourself to a cross, and placed a crown of thorns upon your own head. 
 Yet you cannot crucify God’s Son, for the Will of God cannot die. 

@@ -51,17 +51,7 @@ meaning because it is without God. You have “given” your peace to the gods y
 made, but they are not there to take it from you, and you cannot give it to 
 them. 
 
-You are not free to give up freedom, but only to deny it. You cannot do what 
-God did not intend, because what He did not intend does not happen. Your gods 
-do not bring chaos: you are endowing them with chaos, and accepting it of 
-them. All this has never been. Nothing but the laws of God has ever been, and 
-nothing but Her Will will ever be. You were created through Her laws and by 
-Her Will, and the manner of your creation established you a creator. What you 
-have made is so unworthy of you that you could hardly want it, if you were 
-willing to see it as it is. You will see nothing at all. And your vision will 
-automatically look beyond it, to what is in you and all around you. Reality 
-cannot break through the obstructions you interpose, but it will envelop you 
-completely when you let them go.
+You are not free to give up freedom, but only to deny it. You cannot do what God did not intend, because what She did not intend does not happen. Your gods do not bring chaos: you are endowing them with chaos, and accepting it of them. All this has never been. Nothing but the laws of God has ever been, and nothing but Her Will will ever be. You were created through Her laws and by Her Will, and the manner of your creation established you a creator. What you have made is so unworthy of you that you could hardly want it, if you were willing to see it as it is. You will see nothing at all. And your vision will automatically look beyond it, to what is in you and all around you. Reality cannot break through the obstructions you interpose, but it will envelop you completely when you let them go.
 
 When you have experienced the protection of God, the making of idols becomes 
 inconceivable. There are no strange images in the Mind of God, and what is not 

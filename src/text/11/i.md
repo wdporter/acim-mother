@@ -44,17 +44,7 @@ upon those who create like Her. You do not know this simply because you have
 tried to limit what She created, and so you believe that all creation is 
 limited. How, then, could you know your creations, having denied infinity? 
 
-The laws of the universe do not permit contradiction. What holds for God holds 
-for you. If you believe you are absent from God, you will believe that She is 
-absent from you. Infinity is meaningless without you, and you are meaningless 
-without God. There is no end to God and Her Son, for we _are_ the universe. 
-God is not incomplete, and She is not childless. Because She did not will to 
-be alone, She created a Son like Herself. Do not deny Her Her Son, for your 
-unwillingness to accept Her Motherhood has denied you yours. See Her creations 
-as Her Son, for yours were created in honour of Her. The universe of love does 
-not stop because you do not see it, nor have your closed eyes lost the ability 
-to see. Look upon the glory of His creation, and you will learn what God has 
-kept for you.
+The laws of the universe do not permit contradiction. What holds for God holds for you. If you believe you are absent from God, you will believe that She is absent from you. Infinity is meaningless without you, and you are meaningless without God. There is no end to God and Her Son, for we _are_ the universe. God is not incomplete, and She is not childless. Because She did not will to be alone, She created a Son like Herself. Do not deny Her Her Son, for your unwillingness to accept Her Motherhood has denied you yours. See Her creations as Her Son, for yours were created in honour of Her. The universe of love does not stop because you do not see it, nor have your closed eyes lost the ability to see. Look upon the glory of His creation, and you will learn what God has kept for you.
 
 God has given you a place in Her Mind that is yours forever. Yet you can keep 
 it only by giving it, as it was given you. Could you be alone there, when it 
@@ -74,14 +64,7 @@ and your Mother are one. God wills to create, and your will is Hers. It
 follows, then, that you will to create, since your will follows from Hers. And 
 being an extension of Her Will, yours must be the same.
 
-Yet what you will you do not know. This is not strange when you realise that 
-to deny is to “not know”. God’s Will is that you are Her Son. By denying this 
-you deny your own will, and therefore do not know what it is. You must ask 
-what God’s Will is in everything, because it is yours. You do not know what it 
-is, but the Holy Spirit remembers it for you. Ask Him, therefore, what God’s 
-Will is for you, and He will tell you yours. It cannot be too often repeated 
-that you do not know it. Whenever what the Holy Spirit tells you appears to be 
-coercive, it is only because you have not recognised your will.
+Yet what you will you do not know. This is not strange when you realise that to deny is to “not know”. God’s Will is that you are Her Son. By denying this you deny your own will, and therefore do not know what it is. You must ask what God’s Will is in everything, because it is yours. You do not know what it is, but the Holy Spirit remembers it for you. Ask Him, therefore, what God’s Will is for you, and He will tell you yours. It cannot be too often repeated that you do not know it. Whenever what the Holy Spirit tells you appears to be coercive, it is only because you have not recognised your will.
 
 The projection of the ego makes it appear as if God’s Will is outside 
 yourself, and therefore not yours. In this interpretation it seems possible 
@@ -102,12 +85,4 @@ your whole fear. Every symptom of sickness and fear arises here, because this
 is the belief that makes you _want_ not to know. Believing this you hide in 
 darkness, denying that the light is in you.
 
-You are asked to trust the Holy Spirit only because He speaks for you. He is 
-the Voice for God, but never forget that God did not will to be alone. She 
-shares Her Will with you; She does not thrust it upon you. Always remember 
-that what She gives She keeps, so that nothing She gives can contradict Her. 
-You who share Her life must share it to know it, for sharing _is_ knowing. 
-Blessed are you who learn that to hear the Will of your Mother is to know your 
-own. For it is your will to be like Her, Whose Will it is that it be so. God’s 
-Will is that Her Son be one, and united with Her in Her Oneness. That is why 
-healing is the beginning of the recognition that your will is Hers. <acim-org-link pagenumber={{pageNumber}} reference={{reference}}></acim-org-link>
+You are asked to trust the Holy Spirit only because He speaks for you. He is the Voice for God, but never forget that God did not will to be alone. She shares Her Will with you; She does not thrust it upon you. Always remember that what She gives She keeps, so that nothing She gives can contradict Her. You who share Her life must share it to know it, for sharing _is_ knowing. Blessed are you who learn that to hear the Will of your Mother is to know your own. For it is your will to be like Her, Whose Will it is that it be so. God’s Will is that Her Son be one, and united with Her in Her Oneness. That is why healing is the beginning of the recognition that your will is Hers. <acim-org-link pagenumber={{pageNumber}} reference={{reference}}></acim-org-link>

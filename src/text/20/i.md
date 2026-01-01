@@ -31,14 +31,7 @@ forgiveness offered by you to me, and returned by me to you. We cannot be
 united in crucifixion and in death. Nor can the resurrection be complete until 
 your forgiveness rests on Christ, along with mine.
 
-A week is short, and yet this holy week is the symbol of the whole journey the 
-Son of God has undertaken. He started with the sign of victory, the promise of 
-the resurrection, already given him. Let him not wander into the temptation of 
-crucifixion, and delay him there. Help him to go in peace beyond it, with the 
-light of his own innocence lighting his way to his redemption and release. 
-Hold him not back with thorns and nails when his redemption is so near. But 
-let the whiteness of your shining gift of lilies speed him on his way to 
-resurrection. 
+A week is short, and yet this holy week is the symbol of the whole journey the Son of God has undertaken. He started with the sign of victory, the promise of the resurrection, already given him. Let him not wander into the temptation of crucifixion, and delay him there. Help him to go in peace beyond it, with the light of his own innocence lighting his way to his redemption and release. Hold him not back with thorns and nails when his redemption is so near. But let the whiteness of your shining gift of lilies speed him on his way to resurrection. 
 
 Easter is not the celebration of the _cost_ of sin, but of its _end._ If you 
 see glimpses of the face of Christ behind the veil, looking between the 
