@@ -1,10 +1,15 @@
+---js
+const layout = "mylayout.njk"
+const title = "The Vision of Holiness"
+const reference = "T-20.I"
+const pageNumber = 242
+const eleventyNavigation = {
+	key: reference,
+	order: pageNumber,
+	title: `${reference} ${title}`,
+	parent: reference.split(".")[0]
+}
 ---
-layout: mylayout.njk
-title: The Vision of Holiness
-reference: T-20.I
----
-
-## {{reference}} {{title}}
 
 This is Palm Sunday, the celebration of victory and the acceptance of the 
 truth. Let us not spend this holy week brooding on the crucifixion of God’s 
@@ -12,12 +17,6 @@ Son, but happily in the celebration of his release. For Easter is the sign of
 peace, not pain. A slain Christ has no meaning. But a risen Christ becomes the 
 symbol of the Son of God’s forgiveness on himself; the sign he looks upon 
 himself as healed and whole.
-
-<details><summary>extra info</summary>
-
-is this a paragraph?
-
-</details>
 
 This week begins with palms and ends with lilies, the white and holy sign the 
 Son of God is innocent. Let no dark sign of crucifixion intervene between the 
@@ -50,4 +49,4 @@ In your forgiveness of these strangers, aliens to you and yet your ancient
 Friends, lies their release and your redemption with them. The time of Easter 
 is a time of joy, and not of mourning. Look on your risen Friends, and 
 celebrate their holiness along with me. For Easter is the time of your 
-salvation, along with mine. <a href="https://acim.org/acim/en/s/242?wid=toc#1" class="whitespace-nowrap" title="view on acim.org">T-20.I</a>
+salvation, along with mine. <acim-org-link pagenumber={{pageNumber}} reference={{reference}}></acim-org-link>

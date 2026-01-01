@@ -1,24 +1,76 @@
 ---
 bookTitle: A Course in Miracles
+bookAbbreviation: ACIM
 ---
 <!DOCTYPE html>
 <meta charset=utf-8>
 <meta name=viewport content="width=device-width"> <!-- ,initial-scale=1 -->
 <meta name=description content="A Course in Miracles reimagined with gender changes. God is Mother and brothers [sic] become companions ">
-<link rel=icon href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2280%22>📘</text></svg>" type="image/svg+xml">
-<title>{{bookTitle}} :: {{reference}} {{title}} </title>
-<link rel=stylesheet href=https://cdn.simplecss.org/simple.min.css>
+<link rel=icon href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2280%22>✴</text></svg>" type="image/svg+xml">
+<title>{{bookAbbreviation}} :: {{reference}} {{title}} </title>
+<link rel=stylesheet href=https://cdn.simplecss.org/simple.min.css type=text/css>
 <link rel=author href=mailto:david.porter@fastmail.com>
-<link rel=stylesheet href={{ "/bundle.css" | url }}>
+<link rel=stylesheet href={{ "/assets/bundle.css" | url }} type=text/css>
+<script src={{ "/assets/acim-org-link.js" | url }}></script>
 
 <header>
 	<h1><a href=/ class="no-underline text-var-text">{{bookTitle}}</a></h1>
-	<p>ACIM for the 21st century. God is Mother. We do this with our companions</p>
+	<p>ACIM is pantheism: God is Mother. We do this for our companions</p>
+	<p><button popovertarget=menu title="menu">☰</button></p>
 </header>
 <main>
+	<nav>
+	{% set bPages = collections.all | eleventyNavigationBreadcrumb(reference, { includeSelf: true, allowMissing: true }) %}
+	{% set index=0 %}
+	{%- for page in bPages %}
+		{% if index == 0 %}
+			<a href="{{page.url}}">🏠</a> →
+		{% elseif index == bPages.length-1 %}
+			{{page.title}}
+		{% elseif index == 1 %}
+			<a href="{{page.url}}">{{page.title.slice(2) }}</a> →
+		{% else %}
+			<a href="{{page.url}}">{{page.title}}</a> →
+		{% endif %}
+		{% set index = index + 1 %}
+	{% endfor %}
+	</nav>
+	<h2>{% if hideReference != true %}{{reference}}.{% endif %} {{title}}</h2>
+
+
+
  {{ content | safe }}
+
+
 </main>
 
 <footer>
 	<p>made with 💕 by W. David Porter</p>
 </footer>
+
+<nav popover id=menu>
+{% set navPages = collections.all | eleventyNavigation("home") %}
+{% macro renderNavListItem(entry) -%}
+	<a class="ml-4 {% if entry.url == page.url %} border border-purple border-dashed {% endif %}" href="{{entry.url}}">{{entry.title}}</a><br>
+{%- endmacro %}
+<ul>
+{%- for navPage in navPages %}
+	<details name=volume {% if navPage.url in page.url %}open{%endif%}><summary>{{navPage.title}}</summary>
+		<!--<a href="{{navPage.url}}">{{navPage.title.slice(2)}}</a><br> maybe i don't want to show this-->
+		{% for childNavPage in navPage.children %}
+			{% if childNavPage.children.length == 0 %}
+				{{ renderNavListItem(childNavPage )}}
+			{% else %}
+				<details class="ml-4" name=chapter {% if childNavPage.url in page.url %}open{%endif%}><summary>{{childNavPage.title}}</summary>
+					{% for grandchildNavPage in childNavPage.children %}
+						{{ renderNavListItem(grandchildNavPage )}}
+					{% endfor %}
+				</details>
+			{% endif %}
+		{% endfor %}
+	</details>
+
+{%- endfor %}
+</ul>
+
+</nav>

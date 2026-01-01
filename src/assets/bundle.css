@@ -1,0 +1,70 @@
+/* tailwind-type classes */
+.border {
+	border-width: 1px !important;
+}
+.border-black {
+	border-color: black !important;
+}
+.border-purple {
+	border-color: purple !important;
+}
+
+.border-dashed {
+	border-style: dashed !important;
+}
+.hidden {
+	display: none;
+}
+.italic {
+	font-style: italic;
+}
+.ml-4 {
+	margin-left: 1rem !important;
+}
+.mx-12 {
+	margin-left: 3rem;
+	margin-right: 3rem;
+}
+.no-underline {
+	text-decoration-line: none;
+}
+.not-italic {
+	font-style: normal;
+}
+	
+.text-var-text {
+	color: var(--text);
+}
+
+.whitespace-nowrap {
+	white-space: nowrap;
+}
+
+
+
+/* element styles */
+
+h1>a:visited {
+	color: var(--text);	
+}
+
+/* popover menu */
+
+#menu * {
+	all: revert
+}
+
+#menu {
+	margin: 0;
+	height: 100vh;
+	translate: -100vw;
+}
+
+#menu:popover-open {
+  translate: 0;
+}
+
+#menu a, #menu a:visited  {
+	color: var(--accent)
+}
+

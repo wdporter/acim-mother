@@ -1,0 +1,99 @@
+---js
+const layout = "mylayout.njk"
+const title = "Waking to Redemption"
+const reference = "T-11.VI"
+const pageNumber = 151
+const eleventyNavigation = {
+	key: reference,
+	order: pageNumber,
+	title: `${reference} ${title}`,
+	parent: reference.split(".")[0]
+}
+---
+
+It is impossible not to believe what you see, but it is equally impossible to see what you do not believe. 
+Perceptions are built up on the basis of experience, and experience leads to beliefs. 
+It is not until beliefs are fixed that perceptions stabilise. 
+In effect, then, what you believe you _do_ see. 
+That is what I meant when I said, “Blessed are ye who have not seen and still believe”, for those who believe in the resurrection will see it. 
+The resurrection is the complete triumph of Christ over the ego, not by attack but by transcendence. 
+For Christ does rise above the ego and all its works, and ascends to the Mother and Her Kingdom.
+
+Would you join in the resurrection or the crucifixion? 
+Would you condemn your companions or free them? 
+Would you transcend your prison and ascend to the Mother? 
+These questions are all the same, and are answered together. 
+There has been much confusion about what perception means, because the word is used both for awareness and for the interpretation of awareness. 
+Yet you cannot be aware without interpretation, for what you perceive _is_ your interpretation.
+
+This course is perfectly clear. 
+If you do not see it clearly, it is because you are interpreting against it, and therefore do not believe it. 
+And since belief determines perception, you do not perceive what it means and therefore do not accept it. 
+Yet different experiences lead to different beliefs, and with them different perceptions. 
+For perceptions are learned _with_ beliefs, and experience does teach. 
+I am leading you to a new kind of experience that you will become less and less willing to deny. 
+Learning of Christ is easy, for to perceive with Him involves no strain at all. 
+His perceptions are your natural awareness, and it is only the distortions you introduce that tire you. 
+Let the Christ in you interpret for you, and do not try to limit what you see by narrow little beliefs that are unworthy of God’s Son. 
+For until Christ comes into His Own, the Son of God will see himself as Motherless.
+
+I am _your_ resurrection and _your_ life. 
+You live in me because you live in God. 
+And everyone lives in you, as you live in everyone. 
+Can you, then, perceive unworthiness in a companion and not perceive it in yourself? 
+And can you perceive it in yourself and not perceive it in God? 
+Believe in the resurrection because it has been accomplished, and it has been accomplished in you. 
+This is as true now as it will ever be, for the resurrection is the Will of God, which knows no time and no exceptions. 
+But make no exceptions yourself, or you will not perceive what has been accomplished for you. 
+For we ascend unto the Mother together, as it was in the beginning, is now and ever shall be, for such is the nature of God’s Son as his Mother created him.
+
+Do not underestimate the power of the devotion of God’s Son, nor the power the god he worships has over him. 
+For he places himself at the altar of his god, whether it be the god he made or the God Who created him. 
+That is why his slavery is as complete as his freedom, for he will obey only the god he accepts. 
+The god of crucifixion demands that he crucify, and his worshippers obey. 
+In his name they crucify themselves, believing that the power of the Son of God is born of sacrifice and pain. 
+The God of resurrection demands nothing, for She does not will to take away. 
+She does not require obedience, for obedience implies submission. 
+She would only have you learn your will and follow it, not in the spirit of sacrifice and submission, but in the gladness of freedom.
+
+Resurrection must compel your allegiance gladly, because it is the symbol of joy. 
+Its whole compelling power lies in the fact that it represents what you want to be. 
+The freedom to leave behind everything that hurts you and humbles you and frightens you cannot be thrust upon you, but it can be offered you through the grace of God. 
+And you can accept it by Her grace, for God is gracious to Her Son, accepting him without question as Her Own. 
+Who, then, is _your_ own? 
+The Mother has given you all that is Hers, and She Herself is yours with them. 
+Guard them in their resurrection, for otherwise you will not awake in God, safely surrounded by what is yours forever.
+
+You will not find peace until you have removed the nails from the hands of God’s Son, and taken the last thorn from his forehead. 
+The Love of God surrounds His Son whom the god of crucifixion condemns. 
+Teach not that I died in vain. 
+Teach rather that I did not die by demonstrating that I live in you. 
+For the undoing of the crucifixion of God’s Son is the work of the redemption, in which everyone has a part of equal value. 
+God does not judge Her guiltless Son. 
+Having given Herself to him, how could it be otherwise?
+
+You have nailed yourself to a cross, and placed a crown of thorns upon your own head. 
+Yet you cannot crucify God’s Son, for the Will of God cannot die. 
+Her Son has been redeemed from his own crucifixion, and you cannot assign to death whom God has given eternal life. 
+The dream of crucifixion still lies heavy on your eyes, but what you see in dreams is not reality. 
+While you perceive the Son of God as crucified, you are asleep. 
+And as long as you believe that you can crucify him, you are only having nightmares. 
+You who are beginning to wake are still aware of dreams, and have not yet forgotten them. 
+The forgetting of dreams and the awareness of Christ come with the awakening of others to share your redemption.
+
+You will awaken to your own call, for the Call to awake is within you. 
+If I live in you, you are awake. 
+Yet you must see the works I do through you, or you will not perceive that I have done them unto you. 
+Do not set limits on what you believe I can do through you, or you will not accept what I can do _for_ you. 
+Yet it is done already, and unless you give all that you have received you will not know that your redeemer lives, and that you have awakened with him. 
+Redemption is recognised only by sharing it.
+
+God’s Son _is_ saved. 
+Bring only this awareness to the Sonship, and you will have a part in the redemption as valuable as mine. 
+For your part must be like mine if you learn it of me. 
+If you believe that yours is limited, you are limiting mine. 
+There is no order of difficulty in miracles because all of God’s Sons are of equal value, and their equality is their oneness. 
+The whole power of God is in every part of Her, and nothing contradictory to Her Will is either great or small. 
+What does not exist has no size and no measure. 
+To God all things are possible. 
+And to Christ it is given to be like the Mother. <acim-org-link pagenumber={{pageNumber}} reference={{reference}}></acim-org-link>
