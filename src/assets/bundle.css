@@ -39,6 +39,9 @@
 .hidden {
 	display: none;
 }
+.-indent-8 {
+	text-indent: -2rem;
+}
 .italic {
 	font-style: italic;
 }
