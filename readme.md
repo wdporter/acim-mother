@@ -1,5 +1,6 @@
 TODO:
 
-* add a button to show the menu
-* create menu as a popover
-* make a component for acim.org links on each page
+* create menu as a popover (created but needs tweaking)
+* fix breadcrumb special case for M-4
+* fix breadcrumb for part 2 workbook to match acim.org
+* links to all volume and section index page inside nav details
