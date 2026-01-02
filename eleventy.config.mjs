@@ -9,5 +9,4 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addPlugin(eleventyNavigationPlugin)
 	eleventyConfig.addPassthroughCopy("src/assets")
 
-
 };

@@ -2,6 +2,7 @@
 const layout = "mylayout.njk"
 const title = "Introduction"
 const reference = "W-in"
+const superTitle = "Workbook for Students"
 const pageNumber = 401
 const eleventyNavigation = {
 	key: reference,
