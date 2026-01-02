@@ -11,76 +11,23 @@ const eleventyNavigation = {
 }
 ---
 
-This is a course in miracles. 
-As such, the laws of healing must be understood before the purpose of the course can be accomplished. 
-Let us review the principles that we have covered, and arrange them in a way that summarises all that must occur for healing to be possible. 
-For when it once is possible it must occur.
+This is a course in miracles. As such, the laws of healing must be understood before the purpose of the course can be accomplished. Let us review the principles that we have covered, and arrange them in a way that summarizes all that must occur for healing to be possible. For when it once is possible it must occur.
 
-All sickness comes from separation. 
-When the separation is denied, it goes. 
-For it is gone as soon as the idea that brought it has been healed, and been replaced by sanity. 
-Sickness and sin are seen as consequence and cause, in a relationship kept hidden from awareness that it may be carefully preserved from reason’s light.
+All sickness comes from separation. When the separation is denied, it goes. For it is gone as soon as the idea that brought it has been healed, and been replaced by sanity. Sickness and sin are seen as consequence and cause, in a relationship kept hidden from awareness that it may be carefully preserved from reason’s light.
 
-Guilt asks for punishment, and its request is granted. 
-Not in truth, but in the world of shadows and illusions built on sin. 
-The Son of God perceived what he would see because perception is a wish fulfilled. 
-Perception changes, made to take the place of changeless knowledge. 
-Yet is truth unchanged. It cannot be perceived, but only known. 
-What is perceived takes many forms, but none has meaning. 
-Brought to truth, its senselessness is quite apparent. 
-Kept apart from truth, it seems to have a meaning and be real.
+Guilt asks for punishment, and its request is granted. Not in truth, but in the world of shadows and illusions built on sin. The Son of God perceived what he would see because perception is a wish fulfilled. Perception changes, made to take the place of changeless knowledge. Yet is truth unchanged. It cannot be perceived, but only known. What is perceived takes many forms, but none has meaning. Brought to truth, its senselessness is quite apparent. Kept apart from truth, it seems to have a meaning and be real.
 
-Perception’s laws are opposite to truth, and what is true of knowledge is not true of anything that is apart from it. 
-Yet has God given answer to the world of sickness, which applies to all its forms. 
-God’s answer is eternal, though it works in time, where it is needed. 
-Yet because it is of God, the laws of time do not affect its workings. 
-It is in this world, but not a part of it. 
-For it is real, and dwells where all reality must be. 
-Ideas leave not their source, and their effects but seem to be apart from them. 
-Ideas are of the mind. 
-What is projected out, and seems to be external to the mind, is not outside at all, but an effect of what is in, and has not left its source.
+Perception’s laws are opposite to truth, and what is true of knowledge is not true of anything that is apart from it. Yet has God given answer to the world of sickness, which applies to all its forms. God’s answer is eternal, though it works in time, where it is needed. Yet because it is of God, the laws of time do not affect its workings. It is in this world, but not a part of it. For it is real, and dwells where all reality must be. Ideas leave not their source, and their effects but seem to be apart from them. Ideas are of the mind. What is projected out, and seems to be external to the mind, is not outside at all, but an effect of what is in, and has not left its source.
 
-God’s answer lies where the belief in sin must be, for only there can its effects be utterly undone and without cause. 
-Perception’s laws must be reversed, because they _are_ reversals of the laws of truth. 
-The laws of truth forever will be true, and cannot be reversed: yet can be seen as upside down. 
-And this must be corrected where the illusion of reversal lies.
+God’s answer lies where the belief in sin must be, for only there can its effects be utterly undone and without cause. Perception’s laws must be reversed, because they _are_ reversals of the laws of truth. The laws of truth forever will be true, and cannot be reversed; yet can be seen as upside down. And this must be corrected where the illusion of reversal lies.
 
-It is impossible that one illusion be less amenable to truth than are the rest. 
-But it is possible that some are given greater value, and less willingly offered to truth for healing and for help. 
-No illusion has any truth in it. 
-Yet it appears some are more true than others, although this clearly makes no sense at all. 
-All that a hierarchy of illusions can show is preference, not reality. 
-What relevance has preference to the truth? 
-Illusions are illusions and are false. 
-Your preference gives them no reality. 
-Not one is true in any way, and all must yield with equal ease to what God gave as answer to them all. 
-God’s Will is One. 
-And any wish that seems to go against Her Will has no foundation in the truth.
+It is impossible that one illusion be less amenable to truth than are the rest. But it is possible that some are given greater value, and less willingly offered to truth for healing and for help. No illusion has any truth in it. Yet it appears some are more true than others, although this clearly makes no sense at all. All that a hierarchy of illusions can show is preference, not reality. What relevance has preference to the truth? Illusions are illusions and are false. Your preference gives them no reality. Not one is true in any way, and all must yield with equal ease to what God gave as answer to them all. God’s Will is One. And any wish that seems to go against Her Will has no foundation in the truth.
 
-Sin is not error, for it goes beyond correction to impossibility. 
-Yet the belief that it is real has made some errors seem forever past the hope of healing, and the lasting grounds for hell. 
-If this were so, would Heaven be opposed by its own opposite, as real as it. 
-Then would God’s Will be split in two, and all creation be subjected to the laws of two opposing powers, until God becomes impatient, splits the world apart, and relegates attack unto Herself. 
-Thus has She lost Her Mind, proclaiming sin has taken Her reality from Her and brought Her Love at last to vengeance’s heels. 
-For such an insane picture an insane defence can be expected, but can not establish that the picture must be true.
+Sin is not error, for it goes beyond correction to impossibility. Yet the belief that it is real has made some errors seem forever past the hope of healing, and the lasting grounds for hell. If this were so, would Heaven be opposed by its own opposite, as real as it. Then would God’s Will be split in two, and all creation be subjected to the laws of two opposing powers, until God becomes impatient, splits the world apart, and relegates attack unto Herself. Thus has She lost Her Mind, proclaiming sin has taken Her reality from Her and brought Her Love at last to vengeance’s heels. For such an insane picture an insane defense can be expected, but can not establish that the picture must be true.
 
-Nothing gives meaning where no meaning is. 
-And truth needs no defence to make it true. 
-Illusions have no witnesses and no effects. 
-Who looks on them is but deceived. 
-Forgiveness is the only function here, and serves to bring the joy this world denies to every aspect of God’s Son where sin was thought to rule. 
-Perhaps you do not see the role forgiveness plays in ending death and all beliefs that rise from mists of guilt. 
-Sins are beliefs that you impose between your companion and yourself. 
-They limit you to time and place, and give a little space to you, another little space to him. 
-This separating off is symbolised, in your perception, by a body which is clearly separate and a thing apart. 
-Yet what this symbol represents is but your wish to _be_ apart and separate.
+Nothing gives meaning where no meaning is. And truth needs no defense to make it true. Illusions have no witnesses and no effects. Who looks on them is but deceived. Forgiveness is the only function here, and serves to bring the joy this world denies to every aspect of God’s Son where sin was thought to rule. Perhaps you do not see the role forgiveness plays in ending death and all beliefs that rise from mists of guilt. Sins are beliefs that you impose between your companions and yourself. They limit you to time and place, and give a little space to you, another little space to them. This separating off is symbolized, in your perception, by a body which is clearly separate and a thing apart. Yet what this symbol represents is but your wish to _be_ apart and separate.
 
-Forgiveness takes away what stands between your companions and yourself. It is the wish that you be joined with them, and not apart. 
-We call it “wish” because it still conceives of other choices, and has not yet reached beyond the world of choice entirely. 
-Yet is this wish in line with Heaven’s state, and not in opposition to God’s Will. 
-Although it falls far short of giving you your full inheritance, it does remove the obstacles that you have placed between the Heaven where you are, and recognition of where and what you are. 
-Facts are unchanged. 
-Yet facts can be denied and thus unknown, though they were known before they were denied.
+Forgiveness takes away what stands between your companions and yourself. It is the wish that you be joined with them, and not apart. We call it “wish” because it still conceives of other choices, and has not yet reached beyond the world of choice entirely. Yet is this wish in line with Heaven’s state, and not in opposition to God’s Will. Although it falls far short of giving you your full inheritance, it does remove the obstacles that you have placed between the Heaven where you are, and recognition of where and what you are. Facts are unchanged. Yet facts can be denied and thus unknown, though they were known before they were denied.
 
 Salvation, perfect and complete, asks but a little wish that what is true be true; a little willingness to overlook what is not there; a little sigh that speaks for Heaven as a preference to this world that death and desolation seem to rule. In joyous answer will creation rise within you, to replace the world you see with Heaven, wholly perfect and complete. What is forgiveness but a willingness that truth be true? What can remain unhealed and broken from a unity which holds all things within itself? There is no sin. And every miracle is possible the instant that the Son of God perceives his wishes and the Will of God are one.
 
@@ -88,18 +35,18 @@ What is the Will of God? She wills Her Son have everything. And this She guarant
 
 Let us consider what the error is, so it can be corrected, not protected. Sin is belief attack can be projected outside the mind where the belief arose. Here is the firm conviction that ideas can leave their source made real and meaningful. And from this error does the world of sin and sacrifice arise. This world is an attempt to prove your innocence, while cherishing attack. Its failure lies in that you still feel guilty, though without understanding why. Effects are seen as separate from their source, and seem to be beyond you to control or to prevent. What is thus kept apart can never join.
 
-Cause and effect are one, not separate. God wills you learn what always has been true: that She created you as part of Her, and this must still be true because ideas leave not their source. Such is creation’s law: that each idea the mind conceives but adds to its abundance, never takes away. This is as true of what is idly wished as what is truly willed, because the mind can wish to be deceived, but cannot make it be what it is not. And to believe ideas can leave their source is to invite illusions to be true, without success. For never will success be possible in trying to deceive the Son of God.
+Cause and effect are one, not separate. God wills you learn what always has been true: that She created you as part of Her, and this must still be true because ideas leave not their source. Such is creation’s law; that each idea the mind conceives but adds to its abundance, never takes away. This is as true of what is idly wished as what is truly willed, because the mind can wish to be deceived, but cannot make it be what it is not. And to believe ideas can leave their source is to invite illusions to be true, without success. For never will success be possible in trying to deceive the Son of God.
 
-The miracle is possible when cause and consequence are brought together, not kept separate. The healing of effect without the cause can merely shift effects to other forms. And this is not release. God’s Son could never be content with less than full salvation and escape from guilt. For otherwise he still demands that he must make some sacrifice, and thus denies that everything is his, unlimited by loss of any kind. A tiny sacrifice is just the same in its effects as is the whole idea of sacrifice. If loss in any form is possible, then is God’s Son made incomplete and not himself. Nor will he know himself, nor recognise his will. He has forsworn his Mother and himself, and made Them both his enemies in hate.
+The miracle is possible when cause and consequence are brought together, not kept separate. The healing of effect without the cause can merely shift effects to other forms. And this is not release. God’s Son could never be content with less than full salvation and escape from guilt. For otherwise he still demands that he must make some sacrifice, and thus denies that everything is his, unlimited by loss of any kind. A tiny sacrifice is just the same in its effects as is the whole idea of sacrifice. If loss in any form is possible, then is God’s Son made incomplete and not himself. Nor will he know himself, nor recognize his will. He has forsworn his Mother and himself, and made Them both his enemies in hate.
 
-Illusions serve the purpose they were made to serve. And from their purpose they derive whatever meaning that they seem to have. God gave to all illusions that were made another purpose that would justify a miracle whatever form they took. In every miracle all healing lies, for God gave answer to them all as one. And what is one to Her must be the same. If you believe what is the same is different you but deceive yourself. What God calls one will be forever one, not separate. Her Realm is united: thus it was created, and thus will it ever be.
+Illusions serve the purpose they were made to serve. And from their purpose they derive whatever meaning that they seem to have. God gave to all illusions that were made another purpose that would justify a miracle whatever form they took. In every miracle all healing lies, for God gave answer to them all as one. And what is one to Her must be the same. If you believe what is the same is different you but deceive yourself. What God calls one will be forever one, not separate. Her Realm is united; thus it was created, and thus will it ever be.
 
-The miracle but calls your ancient Name, which you will recognise because the truth is in your memory. And to this Name your companion calls for his release and yours. Heaven is shining on the Son of God. Deny him not, that you may be released. Each instant is the Son of God reborn until he chooses not to die again. In every wish to hurt he chooses death instead of what his Mother wills for him. Yet every instant offers life to him because his Mother wills that he should live.
+The miracle but calls your ancient Name, which you will recognize because the truth is in your memory. And to this Name your companions calls for their release and yours. Heaven is shining on the Son of God. Deny him not, that you may be released. Each instant is the Son of God reborn until he chooses not to die again. In every wish to hurt he chooses death instead of what his Mother wills for him. Yet every instant offers life to him because his Mother wills that he should live.
 
 In crucifixion is redemption laid, for healing is not needed where there is no pain or suffering. Forgiveness is the answer to attack of any kind. So is attack deprived of its effects, and hate is answered in the name of love. To you to whom it has been given to save the Son of God from crucifixion and from hell and death, all glory be forever. For you have power to save the Son of God because his Mother willed that it be so. And in your hands does all salvation lie, to be both offered and received as one.
 
 To use the power God has given you as She would have it used is natural. It is not arrogant to be as She created you, nor to make use of what She gave to answer all Her Son’s mistakes and set him free. But it is arrogant to lay aside the power that She gave, and choose a little senseless wish instead of what She wills. The gift of God to you is limitless. There is no circumstance it cannot answer, and no problem which is not resolved within its gracious light.
 
-Abide in peace, where God would have you be. And be the means whereby your companion finds the peace in which your wishes are fulfilled. Let us unite in bringing blessing to the world of sin and death. For what can save each one of us can save us all. There is no difference among the Sons of God. The unity that specialness denies will save them all, for what is one can have no specialness. And everything belongs to each of them. No wishes lie between a companion and his own. To get from one is to deprive them all. And yet to bless but one gives blessing to them all as one.
+Abide in peace, where God would have you be. And be the means whereby your companion finds the peace in which your wishes are fulfilled. Let us unite in bringing blessing to the world of sin and death. For what can save each one of us can save us all. There is no difference among the Sons of God. The unity that specialness denies will save them all, for what is one can have no specialness. And everything belongs to each of them. No wishes lie between a companion and their own. To get from one is to deprive them all. And yet to bless but one gives blessing to them all as one.
 
-Your ancient Name belongs to everyone, as theirs to you. Call on your companion’s name and God will answer, for on Her you call. Could She refuse to answer when She has already answered all who call on Her? A miracle can make no change at all. But it can make what always has been true be recognised by those who know it not; and by this little gift of truth but let to be itself, the Son of God allowed to be himself, and all creation freed to call upon the Name of God as one. <acim-org-link pagenumber={{pageNumber}} reference={{reference}}></acim-org-link>
+Your ancient Name belongs to everyone, as theirs to you. Call on your companion’s name and God will answer, for on Her you call. Could She refuse to answer when She has already answered all who call on Her? A miracle can make no change at all. But it can make what always has been true be recognized by those who know it not; and by this little gift of truth but let to be itself, the Son of God allowed to be himself, and all creation freed to call upon the Name of God as one. <acim-org-link pagenumber={{pageNumber}} reference={{reference}}></acim-org-link>
