@@ -10,6 +10,9 @@ const eleventyNavigation = {
 	order: 464
 }
 ---
-
-{{ collections.all | eleventyNavigation: reference | eleventyNavigationToHtml }}
-
+{% assign navPages = collections.all | eleventyNavigation: reference %}
+<ul class="list-none">
+{%- for entry in navPages %}
+  <li><a href="{{ entry.url }}">{{ entry.key}} {{ entry.title }}</a></li>
+{%- endfor %}
+</ul>

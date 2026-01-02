@@ -6,7 +6,7 @@ const pageNumber = 242
 const eleventyNavigation = {
 	key: reference,
 	order: pageNumber,
-	title: `${reference} ${title}`,
+	title,
 	parent: reference.split(".")[0]
 }
 ---

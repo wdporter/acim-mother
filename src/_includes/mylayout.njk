@@ -15,23 +15,26 @@ bookAbbreviation: ACIM
 
 <header>
 	<h1><a href=/ class="no-underline text-var-text">{{bookTitle}}</a></h1>
-	<p>ACIM is pantheism: God is Mother. We do this for our companions</p>
+	<p>If ACIM is pantheism, then God is Mother. We do this for our companions</p>
 	<p><button popovertarget=menu title="menu">☰</button></p>
 </header>
 <main>
 	<nav>
 	{% set bPages = collections.all | eleventyNavigationBreadcrumb(reference, { includeSelf: true, allowMissing: true }) %}
 	{% set index=0 %}
-	{%- for page in bPages %}
-		{% if index == 0 %}
-			<a href="{{page.url}}">🏠</a> →
+	{%- for myPage in bPages %}
+		{% if index == 0 %} <!-- home -->
+			<a href="{{myPage.url}}">🏠</a>
+		{% elseif index == 1 %} <!-- volume -->
+			<a href="{{myPage.url}}">{{myPage.title}}</a> 
 		{% elseif index == bPages.length-1 %}
-			{{page.title}}
+			{{myPage.key }}. {{myPage.title}}
 		{% elseif index == 1 %}
-			<a href="{{page.url}}">{{page.title.slice(2) }}</a> →
+			<a href="{{myPage.url}}">{{myPage.title}}</a>
 		{% else %}
-			<a href="{{page.url}}">{{page.title}}</a> →
+			<a href="{{myPage.url}}">{{myPage.key.slice(2) }}. {{myPage.title}}</a>
 		{% endif %}
+		{% if myPage.url != page.url %}→{% endif %}
 		{% set index = index + 1 %}
 	{% endfor %}
 	</nav>
@@ -51,26 +54,40 @@ bookAbbreviation: ACIM
 <nav popover id=menu>
 {% set navPages = collections.all | eleventyNavigation("home") %}
 {% macro renderNavListItem(entry) -%}
-	<a class="ml-4 {% if entry.url == page.url %} border border-purple border-dashed {% endif %}" href="{{entry.url}}">{{entry.title}}</a><br>
+	{% if entry.key.includes(".") %}
+		{% set smallRef = entry.key.split(".")[1] %}
+	{% elseif smallRef == "in" %}
+		{% set smallRef = "" %}
+	{% else %}
+		{% set smallRef = entry.key.split("-")[1] %}
+	{% endif %}
+	{% if smallRef == "in" %}
+		{% set smallRef = "" %}
+	{% endif %}
+	<li class=""><a class="{% if entry.url == page.url %} border border-purple border-dashed {% endif %}" href="{{entry.url}}">{{smallRef}} {{entry.title}}</a>
 {%- endmacro %}
-<ul>
+
 {%- for navPage in navPages %}
-	<details name=volume {% if navPage.url in page.url %}open{%endif%}><summary>{{navPage.title}}</summary>
-		<!--<a href="{{navPage.url}}">{{navPage.title.slice(2)}}</a><br> maybe i don't want to show this-->
+	<details {% if navPage.url in page.url %}open{%endif%}><summary>{{navPage.title}}</summary>
+		<ul class="list-none pl-4 my-0">
 		{% for childNavPage in navPage.children %}
+			<li>
 			{% if childNavPage.children.length == 0 %}
 				{{ renderNavListItem(childNavPage )}}
 			{% else %}
-				<details class="ml-4" name=chapter {% if childNavPage.url in page.url %}open{%endif%}><summary>{{childNavPage.title}}</summary>
+				<details class="" {% if childNavPage.url in page.url %}open{%endif%}><summary>{% if navPage.title == "Workbook for Students" %}{{childNavPage.key.split(" ")[1]}}{%else%}{{childNavPage.key.slice(2)}}{%endif%} {{childNavPage.title}}</summary>
+					<ul class="list-none pl-8">
 					{% for grandchildNavPage in childNavPage.children %}
 						{{ renderNavListItem(grandchildNavPage )}}
 					{% endfor %}
+					</ul>
 				</details>
 			{% endif %}
 		{% endfor %}
+		</ul>
 	</details>
 
 {%- endfor %}
-</ul>
+
 
 </nav>

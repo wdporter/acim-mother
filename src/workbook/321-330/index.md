@@ -11,11 +11,8 @@ const eleventyNavigation = {
 }
 ---
 
-
-
-
-{% assign navPages = collections.all | eleventyNavigation: "W-321–330" %}
-<ul>
+{% assign navPages = collections.all | eleventyNavigation: reference %}
+<ul class="list-none">
 {%- for entry in navPages %}
   <li><a href="{{ entry.url }}">{{ entry.title }}</a></li>
 {%- endfor %}

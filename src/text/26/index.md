@@ -4,10 +4,15 @@ const title = "The Transition"
 const reference = "T-26"
 const eleventyNavigation = {
 	key: reference,
-	title: `${reference} ${title}`,
-	parent: reference[0]
+	title,
+	parent: "T",
+	order: 295
 }
 ---
 
-{{ collections.all | eleventyNavigation: reference | eleventyNavigationToHtml }}
-
+{% assign navPages = collections.all | eleventyNavigation: reference %}
+<ul class="list-none">
+{%- for entry in navPages %}
+  <li><a href="{{ entry.url }}">{{ entry.key}} {{ entry.title }}</a></li>
+{%- endfor %}
+</ul>

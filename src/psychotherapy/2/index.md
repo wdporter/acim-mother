@@ -1,12 +1,12 @@
 ---js
 const layout = "mylayout.njk"
-const title = "Reason and Perception"
-const reference = "T-21"
+const title = "The Process of Psychotherapy"
+const reference = "P-2"
 const eleventyNavigation = {
 	key: reference,
 	title,
-	parent: "T",
-	order: 251
+	parent: reference[0],
+	order: 904
 }
 ---
 

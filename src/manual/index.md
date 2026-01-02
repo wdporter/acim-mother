@@ -5,13 +5,16 @@ const reference = "M"
 const hideReference = true
 const eleventyNavigation = {
 	key: reference,
-	title: `${reference} ${title}`,
+	title,
 	parent: "home",
 	order: 801
 }
 ---
 
-{{ collections.all | eleventyNavigation: "M" | eleventyNavigationToHtml }}
-
-
+{% assign navPages = collections.all | eleventyNavigation: reference %}
+<ul class="list-none">
+{%- for entry in navPages %}
+  <li><a href="{{ entry.url }}">{{ entry.key}} {{ entry.title }}</a></li>
+{%- endfor %}
+</ul>
 

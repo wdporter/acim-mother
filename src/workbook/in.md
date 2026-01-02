@@ -6,27 +6,17 @@ const pageNumber = 401
 const eleventyNavigation = {
 	key: reference,
 	order: pageNumber,
-	title: `${reference} ${title}`,
+	title,
 	parent: reference[0],
 	order: pageNumber
 }
 ---
 
-A theoretical foundation such as the text provides is necessary as a framework to make the exercises in this workbook meaningful. 
-Yet it is doing the exercises that will make the goal of the course possible. 
-An untrained mind can accomplish nothing. 
-It is the purpose of this workbook to train your mind to think along the lines the text sets forth.
+A theoretical foundation such as the text provides is necessary as a framework to make the exercises in this workbook meaningful. Yet it is doing the exercises that will make the goal of the course possible. An untrained mind can accomplish nothing. It is the purpose of this workbook to train your mind to think along the lines the text sets forth.
 
-The exercises are very simple. 
-They do not require a great deal of time, and it does not matter where you do them. 
-They need no preparation. 
-The training period is one year. 
-The exercises are numbered from 1 to 365. 
-Do not undertake to do more than one set of exercises a day.
+The exercises are very simple. They do not require a great deal of time, and it does not matter where you do them. They need no preparation. The training period is one year. The exercises are numbered from 1 to 365. Do not undertake to do more than one set of exercises a day.
 
-The workbook is divided into two main sections, the first dealing with the undoing of the way you see now, and the second with the acquisition of true perception. 
-With the exception of the review periods, each day’s exercises are planned around one central idea, which is stated first. 
-This is followed by a description of the specific procedures by which the idea for the day is to be applied.
+The workbook is divided into two main sections, the first dealing with the undoing of the way you see now, and the second with the acquisition of true perception. With the exception of the review periods, each day’s exercises are planned around one central idea, which is stated first. This is followed by a description of the specific procedures by which the idea for the day is to be applied.
 
 The purpose of the workbook is to train your mind in a systematic way to a different perception of everyone and everything in the world. 
 The exercises are planned to help you generalise the lessons, so that you will understand that each of them is equally applicable to everyone and everything you see.

@@ -1,0 +1,26 @@
+---js
+const layout = "mylayout.njk"
+const title = "Beyond All Symbols"
+const reference = "T-27.III"
+const pageNumber = 308
+const eleventyNavigation = {
+	key: reference,
+	order: pageNumber,
+	title,
+	parent: "T-27"
+}
+---
+
+Power cannot oppose. For opposition would weaken it, and weakened power is a contradiction in ideas. Weak strength is meaningless, and power used to weaken is employed to limit. And therefore it must be limited and weak, because that is its purpose. Power is unopposed, to be itself. No weakness can intrude on it without changing it into something it is not. To weaken is to limit, and impose an opposite that contradicts the concept that it attacks. And by this does it join to the idea a something it is not, and make it unintelligible. Who can understand a double concept, such as “weakened power” or “hateful love”?
+
+You have decided that your companions are symbols for a “hateful love”, a “weakened power”, and above all, a “living death”. And so they have no meaning to you, for they stand for what is meaningless. They represent a double thought, where half is cancelled out by the remaining half. Yet even this is quickly contradicted by the half it cancelled out, and so they both are gone. And now they stand for nothing. Symbols which but represent ideas that cannot be must stand for empty space and nothingness. Yet nothingness and empty space can not be interference. What can interfere with the awareness of reality is the belief that there is something there.
+
+The picture of your companion that you see means nothing. There is nothing to attack or to deny; to love or hate, or to endow with power or to see as weak. The picture has been wholly cancelled out, because it symbolised a contradiction that cancelled out the thought it represents. And thus the picture has no cause at all. Who can perceive effect without a cause? What can the causeless be but nothingness? The picture of your companion that you see is wholly absent and has never been. Let, then, the empty space it occupies be recognised as vacant, and the time devoted to its seeing be perceived as idly spent, a time unoccupied.
+
+An empty space that is not seen as filled, an unused interval of time not seen as spent and fully occupied, become a silent invitation to the truth to enter, and to make itself at home. No preparation can be made that would enhance the invitation’s real appeal. For what you leave as vacant God will fill, and where She is there must the truth abide. Unweakened power, with no opposite, is what creation is. For this there are no symbols. Nothing points beyond the truth, for what can stand for more than everything? Yet true undoing must be kind. And so the first replacement for your picture is another picture of another kind.
+
+As nothingness cannot be pictured, so there is no symbol for totality. Reality is ultimately known without a form, unpictured and unseen. Forgiveness is not yet a power known as wholly free of limits. Yet it sets no limits you have chosen to impose. Forgiveness is the means by which the truth is represented temporarily. It lets the Holy Spirit make exchange of pictures possible, until the time when aids are meaningless and learning done. No learning aid has use that can extend beyond the goal of learning. When its aim has been accomplished it is functionless. Yet in the learning interval it has a use that now you fear, but yet will love.
+
+The picture of your companion given you to occupy the space so lately left unoccupied and vacant will not need defence of any kind. For you will give it overwhelming preference. Nor delay an instant in deciding that it is the only one you want. It does not stand for double concepts. Though it is but half the picture and is incomplete, within itself it is the same. The other half of what it represents remains unknown, but is not cancelled out. And thus is God left free to take the final step Herself. For this you need no pictures and no learning aids. And what will ultimately take the place of every learning aid will merely _be_.
+
+Forgiveness vanishes and symbols fade, and nothing that the eyes have ever seen or ears have heard remains to be perceived. A power wholly limitless has come, not to destroy, but to receive its own. There is no choice of function anywhere. The choice you fear to lose you never had. Yet only this appears to interfere with power unlimited and single thoughts, complete and happy, without opposite. You do not know the peace of power that opposes nothing. Yet no other kind can be at all. Give welcome to the power beyond forgiveness, and beyond the world of symbols and of limitations. She would merely be, and so She merely is. <acim-org-link pagenumber={{pageNumber}} reference={{reference}}></acim-org-link>

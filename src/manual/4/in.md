@@ -3,11 +3,11 @@ const layout = "mylayout.njk"
 const title = "What Are the Characteristics of God’s Teachers?"
 const reference = "M-4 "
 const hideReference = true
-const pageNumber = 838.1
+const pageNumber = 805.5
 const eleventyNavigation = {
 	key: reference,
 	order: pageNumber,
-	title: `${reference} ${title}`,
+	title,
 	parent: "M-4"
 }
 ---

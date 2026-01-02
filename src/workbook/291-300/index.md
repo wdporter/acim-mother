@@ -10,14 +10,9 @@ const eleventyNavigation = {
 	order: 709
 }
 ---
-
-
-
-
 {% assign navPages = collections.all | eleventyNavigation: reference %}
-<ul>
+<ul class="list-none">
 {%- for entry in navPages %}
   <li><a href="{{ entry.url }}">{{ entry.title }}</a></li>
 {%- endfor %}
 </ul>
-

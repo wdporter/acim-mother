@@ -1,12 +1,12 @@
 ---js
 const layout = "mylayout.njk"
-const title = "Reason and Perception"
-const reference = "T-21"
+const title = "The Healing of the Dream"
+const reference = "T-27"
 const eleventyNavigation = {
 	key: reference,
-	title,
-	parent: "T",
-	order: 251
+	title: title,
+	parent: reference[0],
+	order: 306
 }
 ---
 
@@ -16,3 +16,4 @@ const eleventyNavigation = {
   <li><a href="{{ entry.url }}">{{ entry.key}} {{ entry.title }}</a></li>
 {%- endfor %}
 </ul>
+
