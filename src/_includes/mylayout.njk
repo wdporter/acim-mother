@@ -19,32 +19,44 @@ bookAbbreviation: ACIM
 	<p><button popovertarget=menu title="menu">☰</button></p>
 </header>
 <main>
-	<nav>
-	{% set bPages = collections.all | eleventyNavigationBreadcrumb(reference, { includeSelf: true, allowMissing: true }) %}
-	{% set index=0 %}
-	{%- for myPage in bPages %}
-		{% if index == 0 %} <!-- home -->
+	<nav> {#- breadcrumbs -#}
+	{%- set bPages = collections.all | eleventyNavigationBreadcrumb(reference, { includeSelf: true, allowMissing: true }) -%}
+	{%- for myPage in bPages -%}
+		{%- set keyParts = myPage.key.split(r/\.|-/)  -%}
+		{%- set lastPartOfKey = keyParts[keyParts.length-1] -%}
+		{%- if loop.first %} {#- home -#}
 			<a href="{{myPage.url}}">🏠</a>
-		{% elseif index == 1 %} <!-- volume -->
-			<a href="{{myPage.url}}">{{myPage.title}}</a> 
-		{% elseif index == bPages.length-1 %}
-			{{myPage.key }}. {{myPage.title}}
-		{% elseif index == 1 %}
-			<a href="{{myPage.url}}">{{myPage.title}}</a>
-		{% else %}
-			<a href="{{myPage.url}}">{{myPage.key.slice(2) }}. {{myPage.title}}</a>
-		{% endif %}
-		{% if myPage.url != page.url %}→{% endif %}
-		{% set index = index + 1 %}
-	{% endfor %}
+		{%- elseif loop.index == 2 -%} {#- volume name -#}
+			{%- if loop.last -%}
+				{{myPage.title}} {#- volume name, no link -#}
+			{%- else -%}
+				<a href="{{myPage.url}}">{{myPage.title}}</a>  {#- volume name, with link -#} 	
+			{%- endif -%}
+		{%- elseif myPage.key[0] == "W" -%}
+			{%- if loop.index == 3 and loop.last %} {#- section name, no link, no reference -#}
+				{{myPage.title}}
+			{%- elseif loop.index == 3 -%} {#- section name, link, no reference -#}
+				<a href="{{myPage.url}}">{{myPage.title}}</a> 
+			{%- else -%} {#- last page, no link -#}
+				{{ lastPartOfKey }}. {{myPage.title}}
+			{%- endif -%}
+		{%- elseif loop.last %} {#- no link, but want only the last part of the reference -#}
+				{{ lastPartOfKey }}. {{myPage.title}}
+		{%- else -%} {#- anywhere inbetween -#}
+			<a href="{{myPage.url}}">{{ lastPartOfKey }}. {{myPage.title}}</a> 
+		{%- endif -%}
+		{%- if myPage.url != page.url -%}&ensp;→&ensp;{%- endif -%}
+	{%- endfor -%}
 	</nav>
-	<h2>{% if hideReference != true %}{{reference}}.{% endif %} {{title}}</h2>
-
-
+	
+	{%- if superTitle -%}
+		<h2>{{ superTitle }}</h2>
+		<h3>{%- if hideReference != true -%}{{reference}}.{%- endif %} {{title}}</h3>
+	{%- else -%}
+		<h2>{%- if hideReference != true -%}{{reference}}.{%- endif %} {{title}}</h2>
+	{%- endif -%}
 
  {{ content | safe }}
-
-
 </main>
 
 <footer>
