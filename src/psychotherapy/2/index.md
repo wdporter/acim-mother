@@ -8,6 +8,8 @@ const eleventyNavigation = {
 	parent: reference[0],
 	order: 904
 }
+const prev = "/psychotherapy/1"
+const next = "/psychotherapy/2/in"
 ---
 
 {% assign navPages = collections.all | eleventyNavigation: reference %}

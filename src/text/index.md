@@ -9,6 +9,8 @@ const eleventyNavigation = {
 	parent: "home",
 	order: 51
 }
+const prev = "/song/3/iv"
+const next = "/text/in"
 ---
 
 {% assign navPages = collections.all | eleventyNavigation: "T" %}

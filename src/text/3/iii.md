@@ -2,13 +2,16 @@
 const layout = "mylayout.njk"
 const title = "Perception versus Knowledge"
 const reference = "T-3.III"
-const pageNumber = 73
+const pagenumber = 73
 const eleventyNavigation = {
 	key: reference,
-	order: pageNumber,
+	order: pagenumber,
 	title,
 	parent: reference.split(".")[0]
 }
+const prev = "/text/3/ii"
+const next = "/text/3/iv"
+
 ---
 
 We have been emphasizing perception, and have said very little about knowledge as yet. This is because perception must be straightened out before you can know anything. To know is to be certain. Uncertainty means that you do not know. Knowledge is power because it is certain, and certainty is strength. Perception is temporary. As an attribute of the belief in space and time, it is subject to either fear or love. Misperceptions produce fear and true perceptions foster love, but neither brings certainty because all perception varies. That is why it is not knowledge. True perception is the basis for knowledge, but knowing is the affirmation of truth and beyond all perceptions.
@@ -23,4 +26,5 @@ The Bible tells you to know yourself, or to be certain. Certainty is always of G
 
 Right perception is necessary before God can communicate directly to Her altars, which She established in Her Sons. There She can communicate Her certainty, and Her knowledge will bring peace without question. God is not a stranger to Her Sons, and Her Sons are not strangers to each other. Knowledge preceded both perception and time, and will ultimately replace them. That is the real meaning of “Alpha and Omega, the beginning and the end,” and “Before Abraham was I am.” Perception can and must be stabilized, but knowledge _is_ stable. “Fear God and keep His commandments” becomes “Know God and accept Her certainty.”
 
-If you attack error in another, you will hurt yourself. You cannot know your companions when you attack them. Attack is always made upon strangers. You are making them strangers by misperceiving them, and so you cannot know them. It is because you have made them a stranger that you are afraid of them. Perceive them correctly so that you can know them. There are no strangers in God’s creation. To create as She created you can create only what you know, and therefore accept as yours. God knows Her children with perfect certainty. She created them by knowing them. She recognizes them perfectly. When they do not recognize each other, they do not recognize Her. <acim-org-link pageNumber={{pagenumber}} reference={{reference}}></acim-org-link>
+If you attack error in another, you will hurt yourself. You cannot know your companions when you attack them. Attack is always made upon strangers. You are making them strangers by misperceiving them, and so you cannot know them. It is because you have made them a stranger that you are afraid of them. Perceive them correctly so that you can know them. There are no strangers in God’s creation. To create as She created you can create only what you know, and therefore accept as yours. God knows Her children with perfect certainty. She created them by knowing them. She recognizes them perfectly. When they do not recognize each other, they do not recognize Her. <acim-org-link pagenumber={{pagenumber}} reference={{reference}}></acim-org-link>
+

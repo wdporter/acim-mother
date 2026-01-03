@@ -3,14 +3,16 @@ const layout = "mylayout.njk"
 const title = "Introduction"
 const reference = "W-in"
 const superTitle = "Workbook for Students"
-const pageNumber = 401
+const pagenumber = 401
 const eleventyNavigation = {
 	key: reference,
-	order: pageNumber,
+	order: pagenumber,
 	title,
 	parent: reference[0],
-	order: pageNumber
+	order: pagenumber
 }
+const prev = "/text/31/viii"
+const next = "/workbook/1-50/1"
 ---
 
 A theoretical foundation such as the text provides is necessary as a framework to make the exercises in this workbook meaningful. Yet it is doing the exercises that will make the goal of the course possible. An untrained mind can accomplish nothing. It is the purpose of this workbook to train your mind to think along the lines the text sets forth.
@@ -29,4 +31,4 @@ The overall aim of the exercises is to increase your ability to extend the ideas
 
 Some of the ideas the workbook presents you will find hard to believe, and others may seem to be quite startling. This does not matter. You are merely asked to apply the ideas as you are directed to do. You are not asked to judge them at all. You are asked only to use them. It is their use that will give them meaning to you, and will show you that they are true.
 
-Remember only this; you need not believe the ideas, you need not accept them, and you need not even welcome them. Some of them you may actively resist. None of this will matter, or decrease their efficacy. But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reactions to the ideas may be, use them. Nothing more than that is required. <acim-org-link pagenumber={{pageNumber}} reference={{reference}}></acim-org-link>
+Remember only this; you need not believe the ideas, you need not accept them, and you need not even welcome them. Some of them you may actively resist. None of this will matter, or decrease their efficacy. But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reactions to the ideas may be, use them. Nothing more than that is required. <acim-org-link pagenumber={{pagenumber}} reference={{reference}}></acim-org-link>

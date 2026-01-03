@@ -10,6 +10,8 @@ const eleventyNavigation = {
 	order: 546
 }
 const templateEngineOverride = "njk"
+const prev = "/workbook/121-140/140"
+const next = "/workbook/r-iv/in"
 ---
 {%- set navPages = collections.all | eleventyNavigation(reference) -%}
 <ul  class="list-none">

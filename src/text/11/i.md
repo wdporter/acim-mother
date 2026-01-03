@@ -2,13 +2,15 @@
 const layout = "mylayout.njk"
 const title = "The Gifts of Motherhood"
 const reference = "T-11.I"
-const pageNumber = 146
+const pagenumber = 146
 const eleventyNavigation = {
 	key: reference,
-	order: pageNumber,
+	order: pagenumber,
 	title,
 	parent: reference.split(".")[0]
 }
+const prev = "/text/11/in"
+const next = "/text/11/ii"
 ---
 
 You have learned your need of healing. Would you bring anything else to the Sonship, recognizing your need of healing for yourself? For in this lies the beginning of the return to knowledge; the foundation on which God will help build again the thought system you share with Her. Not one stone you place upon it but will be blessed by Her, for you will be restoring the holy dwelling place of Her Son, where She wills Her Son to be and where he is. In whatever part of the mind of God’s Son you restore this reality, you restore it to yourself. You dwell in the Mind of God with your companion, for God Herself did not will to be alone.
@@ -31,4 +33,4 @@ The projection of the ego makes it appear as if God’s Will is outside yourself
 
 You cannot be happy unless you do what you will truly, and you cannot change this because it is immutable. It is immutable by God’s Will and yours, for otherwise Her Will would not be extended. You are afraid to know God’s Will, because you believe it is not yours. This belief is your whole sickness and your whole fear. Every symptom of sickness and fear arises here, because this is the belief that makes you _want_ not to know. Believing this you hide in darkness, denying that the light is in you.
 
-You are asked to trust the Holy Spirit only because He speaks for you. He is the Voice for God, but never forget that God did not will to be alone. She shares Her Will with you; She does not thrust it upon you. Always remember that what She gives She keeps, so that nothing She gives can contradict Her. You who share Her life must share it to know it, for sharing _is_ knowing. Blessed are you who learn that to hear the Will of your Mother is to know your own. For it is your will to be like Her, Whose Will it is that it be so. God’s Will is that Her Son be one, and united with Her in Her Oneness. That is why healing is the beginning of the recognition that your will is Hers. <acim-org-link pagenumber={{pageNumber}} reference={{reference}}></acim-org-link>
+You are asked to trust the Holy Spirit only because He speaks for you. He is the Voice for God, but never forget that God did not will to be alone. She shares Her Will with you; She does not thrust it upon you. Always remember that what She gives She keeps, so that nothing She gives can contradict Her. You who share Her life must share it to know it, for sharing _is_ knowing. Blessed are you who learn that to hear the Will of your Mother is to know your own. For it is your will to be like Her, Whose Will it is that it be so. God’s Will is that Her Son be one, and united with Her in Her Oneness. That is why healing is the beginning of the recognition that your will is Hers. <acim-org-link pagenumber={{pagenumber}} reference={{reference}}></acim-org-link>

@@ -2,14 +2,16 @@
 const layout = "mylayout.njk"
 const title = "The End of Sickness"
 const reference = "T-10.IV"
-const pageNumber = 142
+const pagenumber = 142
 const eleventyNavigation = {
 	key: reference,
-	order: pageNumber,
+	order: pagenumber,
 	title,
 	parent: reference.split(".")[0],
 	order: 142
 }
+const prev = "/text/10/iii"
+const next = "/text/10/v"
 ---
 All magic is an attempt at reconciling the irreconcilable. All religion is the recognition that the irreconcilable cannot be reconciled. Sickness and perfection are irreconcilable. If God created you perfect, you _are_ perfect. If you believe you can be sick, you have placed other gods before Her. God is not at war with the gods of sickness you made, but you are. They are the symbol of deciding against God, and you are afraid of them because they cannot be reconciled with God’s Will. If you attack them, you will make them real to you. But if you refuse to worship them in whatever form they may appear to you, and wherever you think you see them, they will disappear into the nothingness out of which they were made.
 
@@ -25,4 +27,4 @@ When you have experienced the protection of God, the making of idols becomes inc
 
 The miracle is the act of a Son of God who has laid aside all false gods, and calls on his companions to do likewise. It is an act of faith, because it is the recognition that his companion can do it. It is a call to the Holy Spirit in his mind, a call that is strengthened by joining. Because miracle workers have heard God’s Voice, they strengthen It in a sick companion by weakening their belief in sickness, which they do not share. The power of one mind can shine into another, because all the lamps of God were lit by the same spark. It is everywhere and it is eternal.
 
-In many only the spark remains, for the Great Rays are obscured. Yet God has kept the spark alive so that the Rays can never be completely forgotten. If you but see the little spark you will learn of the greater light, for the Rays are there unseen. Perceiving the spark will heal, but knowing the light will create. Yet in the returning the little light must be acknowledged first, for the separation was a descent from magnitude to littleness. But the spark is still as pure as the Great Light, because it is the remaining call of creation. Put all your faith in it, and God Herself will answer you. <acim-org-link pagenumber={{pageNumber}} reference={{reference}}></acim-org-link>
+In many only the spark remains, for the Great Rays are obscured. Yet God has kept the spark alive so that the Rays can never be completely forgotten. If you but see the little spark you will learn of the greater light, for the Rays are there unseen. Perceiving the spark will heal, but knowing the light will create. Yet in the returning the little light must be acknowledged first, for the separation was a descent from magnitude to littleness. But the spark is still as pure as the Great Light, because it is the remaining call of creation. Put all your faith in it, and God Herself will answer you. <acim-org-link pagenumber={{pagenumber}} reference={{reference}}></acim-org-link>

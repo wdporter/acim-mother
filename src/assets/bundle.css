@@ -36,6 +36,9 @@
 .border-dashed {
 	border-style: dashed !important;
 }
+.flex {
+	display: flex;
+}
 .hidden {
 	display: none;
 }

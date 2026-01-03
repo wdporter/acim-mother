@@ -8,6 +8,8 @@ const eleventyNavigation = {
 	parent: reference[0],
 	order: 306
 }
+const prev = "/text/26/x"
+const next = "/text/27/i"
 ---
 
 {% assign navPages = collections.all | eleventyNavigation: reference %}

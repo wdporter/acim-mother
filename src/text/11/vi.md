@@ -2,13 +2,15 @@
 const layout = "mylayout.njk"
 const title = "Waking to Redemption"
 const reference = "T-11.VI"
-const pageNumber = 151
+const pagenumber = 151
 const eleventyNavigation = {
 	key: reference,
-	order: pageNumber,
+	order: pagenumber,
 	title,
 	parent: reference.split(".")[0]
 }
+const prev = "/text/11/v"
+const next = "/text/11/vii"
 ---
 
 It is impossible not to believe what you see, but it is equally impossible to see what you do not believe. Perceptions are built up on the basis of experience, and experience leads to beliefs. It is not until beliefs are fixed that perceptions stabilize. In effect, then, what you believe you _do_ see. That is what I meant when I said, “Blessed are ye who have not seen and still believe,” for those who believe in the resurrection will see it. The resurrection is the complete triumph of Christ over the ego, not by attack but by transcendence. For Christ does rise above the ego and all its works, and ascends to the Mother and Her Kingdom.
@@ -29,4 +31,4 @@ You have nailed yourself to a cross, and placed a crown of thorns upon your own 
 
 You will awaken to your own call, for the Call to awake is within you. If I live in you, you are awake. Yet you must see the works I do through you, or you will not perceive that I have done them unto you. Do not set limits on what you believe I can do through you, or you will not accept what I can do _for_ you. Yet it is done already, and unless you give all that you have received you will not know that your redeemer liveth, and that you have awakened with him. Redemption is recognized only by sharing it.
 
-God’s Son _is_ saved. Bring only this awareness to the Sonship, and you will have a part in the redemption as valuable as mine. For your part must be like mine if you learn it of me. If you believe that yours is limited, you are limiting mine. There is no order of difficulty in miracles because all of God’s Sons are of equal value, and their equality is their oneness. The whole power of God is in every part of Her, and nothing contradictory to Her Will is either great or small. What does not exist has no size and no measure. To God all things are possible. And to Christ it is given to be like the Mother. <acim-org-link pagenumber={{pageNumber}} reference={{reference}}></acim-org-link>
+God’s Son _is_ saved. Bring only this awareness to the Sonship, and you will have a part in the redemption as valuable as mine. For your part must be like mine if you learn it of me. If you believe that yours is limited, you are limiting mine. There is no order of difficulty in miracles because all of God’s Sons are of equal value, and their equality is their oneness. The whole power of God is in every part of Her, and nothing contradictory to Her Will is either great or small. What does not exist has no size and no measure. To God all things are possible. And to Christ it is given to be like the Mother. <acim-org-link pagenumber={{pagenumber}} reference={{reference}}></acim-org-link>

@@ -2,13 +2,15 @@
 const layout = "mylayout.njk"
 const title = "The Laws of Healing"
 const reference = "T-26.VII"
-const pageNumber = 301
+const pagenumber = 301
 const eleventyNavigation = {
 	key: reference,
-	order: pageNumber,
+	order: pagenumber,
 	title,
 	parent: reference.split(".")[0]
 }
+const prev = "/text/26/vi"
+const next = "/text/26/viii"
 ---
 
 This is a course in miracles. As such, the laws of healing must be understood before the purpose of the course can be accomplished. Let us review the principles that we have covered, and arrange them in a way that summarizes all that must occur for healing to be possible. For when it once is possible it must occur.
@@ -49,4 +51,4 @@ To use the power God has given you as She would have it used is natural. It is n
 
 Abide in peace, where God would have you be. And be the means whereby your companion finds the peace in which your wishes are fulfilled. Let us unite in bringing blessing to the world of sin and death. For what can save each one of us can save us all. There is no difference among the Sons of God. The unity that specialness denies will save them all, for what is one can have no specialness. And everything belongs to each of them. No wishes lie between a companion and their own. To get from one is to deprive them all. And yet to bless but one gives blessing to them all as one.
 
-Your ancient Name belongs to everyone, as theirs to you. Call on your companion’s name and God will answer, for on Her you call. Could She refuse to answer when She has already answered all who call on Her? A miracle can make no change at all. But it can make what always has been true be recognized by those who know it not; and by this little gift of truth but let to be itself, the Son of God allowed to be himself, and all creation freed to call upon the Name of God as one. <acim-org-link pagenumber={{pageNumber}} reference={{reference}}></acim-org-link>
+Your ancient Name belongs to everyone, as theirs to you. Call on your companion’s name and God will answer, for on Her you call. Could She refuse to answer when She has already answered all who call on Her? A miracle can make no change at all. But it can make what always has been true be recognized by those who know it not; and by this little gift of truth but let to be itself, the Son of God allowed to be himself, and all creation freed to call upon the Name of God as one. <acim-org-link pagenumber={{pagenumber}} reference={{reference}}></acim-org-link>

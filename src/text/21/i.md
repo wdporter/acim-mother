@@ -2,13 +2,15 @@
 const layout = "mylayout.njk"
 const title = "The Forgotten Song"
 const reference = "T-21.I"
-const pageNumber = 252
+const pagenumber = 252
 const eleventyNavigation = {
 	key: reference,
-	order: pageNumber,
+	order: pagenumber,
 	title,
 	parent: reference.split(".")[0]
 }
+const prev = "/text/21/in"
+const next = "/text/21/ii"
 ---
 
 Never forget the world the sightless “see” must be imagined, for what it really looks like is unknown to them. They must infer what could be seen from evidence forever indirect; and reconstruct their inferences as they stumble and fall because of what they did not recognize, or walk unharmed through open doorways that they thought were closed. And so it is with you. You do not see. Your cues for inference are wrong, and so you stumble and fall down upon the stones you did not recognize, but fail to be aware you can go through the doors you thought were closed, but which stand open before unseeing eyes, waiting to welcome you.
@@ -29,4 +31,4 @@ Beyond the body, beyond the sun and stars, past everything you see and yet someh
 
 This is the vision of the Son of God, whom you know well. Here is the sight of him who knows his Mother. Here is the memory of what you are; a part of this, with all of it within, and joined to all as surely as all is joined in you. Accept the vision that can show you this, and not the body. You know the ancient song, and know it well. Nothing will ever be as dear to you as is this ancient hymn of love the Son of God sings to his Mother still.
 
-And now the blind can see, for that same song they sing in honor of their Creator gives praise to them as well. The blindness that they made will not withstand the memory of this song. And they will look upon the vision of the Son of God, remembering who he is they sing of. What is a miracle but this remembering? And who is there in whom this memory lies not? The light in one awakens it in all. And when you see it in your companion, you _are_ remembering for everyone. <acim-org-link pagenumber={{pageNumber}} reference={{reference}}></acim-org-link>
+And now the blind can see, for that same song they sing in honor of their Creator gives praise to them as well. The blindness that they made will not withstand the memory of this song. And they will look upon the vision of the Son of God, remembering who he is they sing of. What is a miracle but this remembering? And who is there in whom this memory lies not? The light in one awakens it in all. And when you see it in your companion, you _are_ remembering for everyone. <acim-org-link pagenumber={{pagenumber}} reference={{reference}}></acim-org-link>

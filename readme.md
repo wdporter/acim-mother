@@ -8,4 +8,3 @@ TODO:
 * change the headings on workbook pages.
 * prev and next buttons on every page
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9c147889-f2a8-47f4-ab3d-a01c50189944/deploy-status)](https://app.netlify.com/projects/acim-mother/deploys)
