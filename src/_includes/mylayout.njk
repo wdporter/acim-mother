@@ -75,20 +75,29 @@ bookAbbreviation: ACIM
 </footer>
 
 <nav popover id=menu>
-{% set navPages = collections.all | eleventyNavigation("home") %}
-{% macro renderNavListItem(entry) -%}
-	{% if entry.key.includes(".") %}
-		{% set smallRef = entry.key.split(".")[1] %}
-	{% elseif smallRef == "in" %}
-		{% set smallRef = "" %}
-	{% else %}
-		{% set smallRef = entry.key.split("-")[1] %}
-	{% endif %}
-	{% if smallRef == "in" %}
-		{% set smallRef = "" %}
-	{% endif %}
+{%- set navPages = collections.all | eleventyNavigation("home") -%}
+{%- macro renderNavListItem(entry) -%}
+	{%- if entry.key.includes(".") -%}
+		{%- set smallRef = entry.key.split(".")[1] -%}
+	{%- elseif smallRef == "in" -%}
+		{%- set smallRef = "" -%}
+	{%- else %}
+		{%- set smallRef = entry.key.split("-")[1] -%}
+	{%- endif %}
+	{%- if smallRef == "in" -%}
+		{%- set smallRef = "" -%}
+	{%- endif -%}
+	{#- some brute force here on workbook entries, too hard to generalise -#}
+	{%- if smallRef.length > 0 -%}
+		{%- set smallRef = smallRef | trim -%}
+		{%- set smallRef = smallRef.replace(r/\d*–\d*/, "")  -%}
+		{%- set smallRef = smallRef.replace(r/^r[A-Z]*/, "")  -%}
+		{%- if smallRef.length > 0 -%}
+			{%- set smallRef = smallRef + ". " -%}
+		{%- endif -%}	
+	{%- endif -%}
 	<li class=""><a class="{% if entry.url == page.url %} border border-purple border-dashed {% endif %}" href="{{entry.url}}">{{smallRef}} {{entry.title}}</a>
-{%- endmacro %}
+{%- endmacro -%}
 
 {%- for navPage in navPages %}
 	<details {% if navPage.url in page.url %}open{%endif%}><summary>{{navPage.title}}</summary>

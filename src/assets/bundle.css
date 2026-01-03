@@ -10,6 +10,11 @@
 	max-width: 80vw; 
 }
 
+#menu li {
+	text-indent: -1rem;	
+	padding-left: 1rem;
+}
+
 #menu:popover-open {
   translate: 0;
 }
