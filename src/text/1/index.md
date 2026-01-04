@@ -1,15 +1,15 @@
 ---js
 const layout = "mylayout.njk"
-const title = "The Healing of the Dream"
-const reference = "T-27"
+const title = "The Meaning of Miracles"
+const reference = "T-1"
 const eleventyNavigation = {
 	key: reference,
-	title: title,
+	title,
 	parent: reference[0],
-	order: 306
+	order: 53
 }
-const prev = "/text/26/x"
-const next = "/text/27/i"
+const prev = "/text/in"
+const next = "/text/1/i"
 ---
 {%- assign navPages = collections.all | eleventyNavigation: reference -%}
 <ul class="list-none">

@@ -1,7 +1,7 @@
 ---js
 const layout = "mylayout.njk"
 const title = "What Are the Characteristics of God’s Teachers?"
-const reference = "M-4 "
+const reference = "M-4.in"
 const hideReference = true
 const pagenumber = 805.5
 const eleventyNavigation = {

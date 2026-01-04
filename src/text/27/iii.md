@@ -10,7 +10,7 @@ const eleventyNavigation = {
 	parent: "T-27"
 }
 const prev = "/text/27/ii"
-const next = "/text/274/iv"
+const next = "/text/27/iv"
 ---
 
 Power cannot oppose. For opposition would weaken it, and weakened power is a contradiction in ideas. Weak strength is meaningless, and power used to weaken is employed to limit. And therefore it must be limited and weak, because that is its purpose. Power is unopposed, to be itself. No weakness can intrude on it without changing it into something it is not. To weaken is to limit, and impose an opposite that contradicts the concept that it attacks. And by this does it join to the idea a something it is not, and make it unintelligible. Who can understand a double concept, such as “weakened power” or “hateful love”?
