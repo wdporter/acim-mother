@@ -1,13 +1,17 @@
 ---js
 const layout = "mylayout.njk"
 const title = "Introduction"
-const reference = "T-11.in"
+const volume = "T"
+const chapter = 11
+const section = "in"
+const reference = `${volume}-${chapter}.${section}`
 const pagenumber = 145
 const eleventyNavigation = {
 	key: reference,
 	order: pagenumber,
 	title,
-	parent: reference.split(".")[0]
+	parent: `${volume}-${chapter}`,
+	navFormat: title
 }
 const prev = "/text/11"
 const next = "/text/11/i"

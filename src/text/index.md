@@ -14,9 +14,5 @@ const next = "/text/in"
 ---
 
 {% assign navPages = collections.all | eleventyNavigation: "T" %}
-<ul class="list-none">
-{%- for entry in navPages %}
-  <li><a href="{{ entry.url }}">{{ entry.key | split: "-" | last}}. {{ entry.title }}</a></li>
-{%- endfor %}
-</ul>
+{%- render "indexpage", navPages: navPages  -%}
 

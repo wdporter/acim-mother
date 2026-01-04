@@ -7,7 +7,8 @@ const eleventyNavigation = {
 	key: reference,
 	order: pagenumber,
 	title,
-	parent: reference.split(".")[0]
+	parent: reference.split(".")[0],
+	navFormat: `${reference.split(".")[1]}. ${title}`
 }
 const prev = "/psychotherapy/2/ii"
 const next = "/psychotherapy/2/iv"

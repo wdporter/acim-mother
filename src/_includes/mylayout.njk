@@ -98,7 +98,7 @@ bookAbbreviation: ACIM
 			{%- set smallRef = smallRef + ". " -%}
 		{%- endif -%}	
 	{%- endif -%}
-	<li class=""><a class="{% if entry.url == page.url %} border border-purple border-dashed {% endif %}" href="{{entry.url}}">{{smallRef}} {{entry.title}}</a>
+	<li class=""><a class="{% if entry.url == page.url %} border border-fuchsia border-dashed {% endif %}" href="{{entry.url}}">{{smallRef}} {{entry.title}}</a>
 {%- endmacro -%}
 
 {%- for navPage in navPages %}

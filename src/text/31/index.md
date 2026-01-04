@@ -1,19 +1,18 @@
 ---js
 const layout = "mylayout.njk"
 const title = "The Final Vision"
-const reference = "T-31"
+const volume = "T"
+const chapter = 31
+const reference = `${volume}-${chapter}`
 const eleventyNavigation = {
 	key: reference,
 	title: title,
-	parent: reference[0],
-	order: 343
+	parent: volume,
+	order: 343,
+	navFormat: `${chapter}. ${title}`
 }
 const prev = "/text/30/viii"
 const next = "/text/31/i"
 ---
 {%- assign navPages = collections.all | eleventyNavigation: reference -%}
-<ul class="list-none">
-{%- for entry in navPages -%}
-  <li><a href="{{ entry.url }}">{{ entry.key | split: "." | last }}. {{ entry.title }}</a></li>
-{%- endfor -%}
-</ul>
+{%- render "indexpage", navPages: navPages  -%}

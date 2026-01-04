@@ -1,13 +1,17 @@
 ---js
 const layout = "mylayout.njk"
 const title = "Waking to Redemption"
-const reference = "T-11.VI"
+const volume = "T"
+const chapter = 11
+const section = "VI"
+const reference = `${volume}-${chapter}.${section}`
 const pagenumber = 151
 const eleventyNavigation = {
 	key: reference,
 	order: pagenumber,
 	title,
-	parent: reference.split(".")[0]
+	parent: `${volume}-${chapter}`,
+	navFormat: `${section}. ${title}`
 }
 const prev = "/text/11/v"
 const next = "/text/11/vii"

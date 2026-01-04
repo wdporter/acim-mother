@@ -2,12 +2,14 @@
 const layout = "mylayout.njk"
 const title = "From Vigilance to Peace"
 const reference = "T-7.VI"
+const referenceParts = reference.split(".")
 const pagenumber = 112
 const eleventyNavigation = {
 	key: reference,
 	order: pagenumber,
 	title,
-	parent: reference.split(".")[0]
+	parent: referenceParts[0],
+	navFormat: `${referenceParts[1]}. ${title}`
 }
 const prev = "/text/7/v"
 const next = "/text/7/vii"

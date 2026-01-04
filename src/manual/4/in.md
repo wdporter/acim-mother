@@ -8,7 +8,8 @@ const eleventyNavigation = {
 	key: reference,
 	order: pagenumber,
 	title,
-	parent: "M-4"
+	parent: "M-4",
+	navFormat: title
 }
 const prev = "/manual/3"
 const next = "/manual/4/i"

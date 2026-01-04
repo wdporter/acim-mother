@@ -2,20 +2,18 @@
 const layout = "mylayout.njk"
 const title = "The Idols of Sickness"
 const reference = "T-10"
+const referenceParts = reference.split("-")
 const eleventyNavigation = {
 	key: reference,
 	title,
-	parent: "T",
-	order: 138
+	parent: reference[0],
+	order: 138,
+	navFormat: `${referenceParts[1]}. ${title}`
 }
 const prev = "/text/9/viii"
 const next = "/text/10/in"
 ---
 
-{% assign navPages = collections.all | eleventyNavigation: reference %}
-<ul class="list-none">
-{%- for entry in navPages %}
-  <li><a href="{{ entry.url }}">{{ entry.key | split: "." | last }}. {{ entry.title }}</a></li>
-{%- endfor %}
-</ul>
+{%- assign navPages = collections.all | eleventyNavigation: reference -%}
+{%- render "indexpage", navPages: navPages  -%}
 

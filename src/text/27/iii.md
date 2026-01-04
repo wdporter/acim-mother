@@ -1,13 +1,16 @@
 ---js
 const layout = "mylayout.njk"
 const title = "Beyond All Symbols"
-const reference = "T-27.III"
+const chapter = "T-27"
+const section = "III"
+const reference = `${chapter}.${section}`
 const pagenumber = 308
 const eleventyNavigation = {
 	key: reference,
 	order: pagenumber,
 	title,
-	parent: "T-27"
+	parent: chapter,
+	navFormat: `${section}. ${title}`
 }
 const prev = "/text/27/ii"
 const next = "/text/27/iv"

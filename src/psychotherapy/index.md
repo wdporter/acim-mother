@@ -13,11 +13,8 @@ const prev = "/clarification/ep"
 const next = "/psychotherapy/2/in"
 ---
 
-{% assign navPages = collections.all | eleventyNavigation: reference %}
-<ul class="list-none">
-{%- for entry in navPages %}
-  <li><a href="{{ entry.url }}">{{ entry.key | split: "-" | last}}. {{ entry.title }}</a></li>
-{%- endfor %}
+{%- assign navPages = collections.all | eleventyNavigation: reference -%}
+{%- render "indexpage", navPages: navPages  -%}
 </ul>
 
 

@@ -1,0 +1,30 @@
+---js
+const layout = "mylayout.njk"
+const title = "The Fear to Look Within"
+const reference = "T-21.IV"
+const pagenumber = 255
+const eleventyNavigation = {
+	key: reference,
+	order: pagenumber,
+	title,
+	parent: "T-21",
+	navFormat: "IV. " + title
+}
+const prev = "/text/21/iii"
+const next = "/text/21/v"
+---
+The Holy Spirit will never teach you that you are sinful. Errors He will correct, but this makes no one fearful. You are indeed afraid to look within and see the sin you think is there. This you would not be fearful to admit. Fear in association with sin the ego deems quite appropriate, and smiles approvingly. It has no fear to let you feel ashamed. It doubts not your belief and faith in sin. Its temples do not shake because of this. Your faith that sin is there but witnesses to your desire that it _be_ there to see. This merely seems to be the source of fear.
+
+Remember that the ego is not alone. Its rule is tempered, and its unknown “enemy,” Whom it cannot even see, it fears. Loudly the ego tells you not to look inward, for if you do your eyes will light on sin, and God will strike you blind. This you believe, and so you do not look. Yet this is not the ego’s hidden fear, nor yours who serve it. Loudly indeed the ego claims it is; too loudly and too often. For underneath this constant shout and frantic proclamation, the ego is not certain it is so. Beneath your fear to look within because of sin is yet another fear, and one which makes the ego tremble.
+
+What if you looked within and saw no sin? This “fearful” question is one the ego never asks. And you who ask it now are threatening the ego’s whole defensive system too seriously for it to bother to pretend it is your friend. Those who have joined their companions have detached themselves from their belief that their identity lies in the ego. A holy relationship is one in which you join with what is part of you in truth. And your belief in sin has been already shaken, nor are you now entirely unwilling to look within and see it not.
+
+Your liberation still is only partial; still limited and incomplete, yet born within you. Not wholly mad, you have been willing to look on much of your insanity and recognize its madness. Your faith is moving inward, past insanity and on to reason. And what your reason tells you now the ego would not hear. The Holy Spirit’s purpose was accepted by the part of your mind the ego knows not of. No more did you. And yet this part, with which you now identify, is not afraid to look upon itself. It knows no sin. How, otherwise, could it have been willing to see the Holy Spirit’s purpose as its own?
+
+This part has seen your companions, and recognized them perfectly since time began. And it desired nothing but to join with them and to be free again, as once it was. It has been waiting for the birth of freedom; the acceptance of release to come to you. And now you recognize that it was not the ego that joined the Holy Spirit’s purpose, and so there must be something else. Think not that this is madness. For this your reason tells you, and it follows perfectly from what you have already learned.
+
+There is no inconsistency in what the Holy Spirit teaches. This is the reasoning of the sane. You have perceived the ego’s madness, and not been made afraid because you did not choose to share in it. At times it still deceives you. Yet in your saner moments, its ranting strikes no terror in your heart. For you have realized that all the gifts it would withdraw from you, in rage at your “presumptuous” wish to look within, you do not want. A few remaining trinkets still seem to shine and catch your eye. Yet you would not “sell” Heaven to have them.
+
+And now the ego _is_ afraid. Yet what it hears in terror, the other part hears as the sweetest music; the song it longed to hear since first the ego came into your mind. The ego’s weakness is its strength. The song of freedom, which sings the praises of another world, brings to it hope of peace. For it remembers Heaven, and now it sees that Heaven has come to earth at last, from which the ego’s rule has kept it out so long. Heaven has come because it found a home in your relationship on earth. And earth can hold no longer what has been given Heaven as its own.
+
+Look gently on your companion, and remember the ego’s weakness is revealed in both your sight. What it would keep apart has met and joined, and looks upon the ego unafraid. Little child, innocent of sin, follow in gladness the way to certainty. Be not held back by fear’s insane insistence that sureness lies in doubt. This has no meaning. What matters it to you how loudly it is proclaimed? The senseless is not made meaningful by repetition and by clamor. The quiet way is open. Follow it happily, and question not what must be so. <acim-org-link pagenumber={{pagenumber}} reference={{reference}}></acim-org-link>

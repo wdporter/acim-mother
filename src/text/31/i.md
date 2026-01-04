@@ -1,13 +1,16 @@
 ---js
 const layout = "mylayout.njk"
 const title = "The Simplicity of Salvation"
-const reference = "T-31.I"
+const chapter = "T-31"
+const section = "I"
+const reference = `${chapter}-${section}`
 const pagenumber = 343
 const eleventyNavigation = {
 	key: reference,
 	order: pagenumber,
 	title,
-	parent: "T-31"
+	parent: chapter,
+	navFormat: `${section}. ${title}`
 }
 const prev = "/text/30/viii"
 const next = "/text/31/ii"

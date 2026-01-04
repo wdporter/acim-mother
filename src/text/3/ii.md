@@ -2,12 +2,14 @@
 const layout = "mylayout.njk"
 const title = "Miracles as True Perception"
 const reference = "T-3.II"
+const referenceParts = reference.split(".")
 const pagenumber = 72
 const eleventyNavigation = {
 	key: reference,
 	order: pagenumber,
 	title,
-	parent: "T-3"
+	parent: referenceParts[0],
+	navFormat: `${referenceParts[1]}. ${title}`
 }
 const prev = "/text/3/i"
 const next = "/text/3/iii"

@@ -6,14 +6,11 @@ const eleventyNavigation = {
 	key: reference,
 	title,
 	parent: reference[0],
-	order: 53
+	order: 53,
+	navFormat: `${reference.split("-")[1]}. ${title}`
 }
 const prev = "/text/in"
 const next = "/text/1/i"
 ---
 {%- assign navPages = collections.all | eleventyNavigation: reference -%}
-<ul class="list-none">
-{%- for entry in navPages -%}
-  <li><a href="{{ entry.url }}">{{ entry.key | split: "." | last }}. {{ entry.title }}</a></li>
-{%- endfor -%}
-</ul>
+{%- render "indexpage", navPages: navPages  -%}

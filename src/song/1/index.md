@@ -1,16 +1,16 @@
 ---js
 const layout = "mylayout.njk"
-const title = "Manual for Teachers"
-const reference = "M"
-const hideReference = true
+const title = "Prayer"
+const reference = "S-1"
 const eleventyNavigation = {
 	key: reference,
 	title,
-	parent: "home",
-	order: 801
+	parent: reference[0],
+	order: 922,
+	navFormat: `${reference.split("-")[1]}. ${title}`
 }
-const prev = "/workbook/ep"
-const next = "/manual/in"
+const prev = "/psychotherapy/3/iii"
+const next = "/song/1/in"
 ---
 
 {%- assign navPages = collections.all | eleventyNavigation: reference -%}

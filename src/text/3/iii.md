@@ -2,12 +2,14 @@
 const layout = "mylayout.njk"
 const title = "Perception versus Knowledge"
 const reference = "T-3.III"
+const referenceParts = reference.split(".")
 const pagenumber = 73
 const eleventyNavigation = {
 	key: reference,
 	order: pagenumber,
 	title,
-	parent: reference.split(".")[0]
+	parent: referenceParts[0],
+	navFormat: referenceParts[1]
 }
 const prev = "/text/3/ii"
 const next = "/text/3/iv"
