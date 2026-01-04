@@ -55,7 +55,9 @@ bookAbbreviation: ACIM
 	{%- else -%}
 		{%- set shortRef = shortRef + "." -%}
 	{%- endif -%}
-	{%- if superTitle -%}
+	{%- if bigTitle -%}
+		<h2>{{bigTitle}}</h2>
+	{%- elseif superTitle -%}
 		<h2>{{ superTitle }}</h2>{#- commented out because workbookpages don't need it, but i'm not sur if it's neededin other places -#}
 		<h3>{#- {%- if not hideReference -%}{{ shortRef }}{%- endif %} -#}{{title}}</h3>
 	{%- else -%}
