@@ -1,13 +1,15 @@
 ---js
 const layout = "mylayout.njk"
 const title = "The Meaning of Miracles"
-const reference = "T-1"
+const volume = "T"
+const chapter = 1
+const reference = `${volume}-${chapter}`
+const headerTitle = `${chapter}. ${title}`
 const eleventyNavigation = {
 	key: reference,
-	title,
-	parent: reference[0],
-	order: 53,
-	navFormat: `${reference.split("-")[1]}. ${title}`
+	title: headerTitle,
+	parent: volume,
+	order: 53
 }
 const prev = "/text/in"
 const next = "/text/1/i"

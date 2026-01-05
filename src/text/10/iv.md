@@ -1,16 +1,19 @@
 ---js
 const layout = "mylayout.njk"
 const title = "The End of Sickness"
-const reference = "T-10.IV"
-const referenceParts = reference.split(".")
-const pagenumber = 142
+const volume = "T"
+const chapter = 10
+const parent = `${volume}-${chapter}`
+const section = "IV"
+const reference = `${parent}.${section}`
+const headerTitle = `${section}. ${title}`
+const pageNumber = 142
 const eleventyNavigation = {
 	key: reference,
-	order: pagenumber,
-	title,
-	parent: referenceParts[0],
-	order: 142,
-	navFormat: `${referenceParts[1]}. ${title}`
+	order: pageNumber,
+	title: headerTitle,
+	parent,
+	order: 142
 }
 const prev = "/text/10/iii"
 const next = "/text/10/v"
@@ -29,4 +32,4 @@ When you have experienced the protection of God, the making of idols becomes inc
 
 The miracle is the act of a Son of God who has laid aside all false gods, and calls on his companions to do likewise. It is an act of faith, because it is the recognition that his companion can do it. It is a call to the Holy Spirit in his mind, a call that is strengthened by joining. Because miracle workers have heard God’s Voice, they strengthen It in a sick companion by weakening their belief in sickness, which they do not share. The power of one mind can shine into another, because all the lamps of God were lit by the same spark. It is everywhere and it is eternal.
 
-In many only the spark remains, for the Great Rays are obscured. Yet God has kept the spark alive so that the Rays can never be completely forgotten. If you but see the little spark you will learn of the greater light, for the Rays are there unseen. Perceiving the spark will heal, but knowing the light will create. Yet in the returning the little light must be acknowledged first, for the separation was a descent from magnitude to littleness. But the spark is still as pure as the Great Light, because it is the remaining call of creation. Put all your faith in it, and God Herself will answer you. <acim-org-link pagenumber={{pagenumber}} reference={{reference}}></acim-org-link>
+In many only the spark remains, for the Great Rays are obscured. Yet God has kept the spark alive so that the Rays can never be completely forgotten. If you but see the little spark you will learn of the greater light, for the Rays are there unseen. Perceiving the spark will heal, but knowing the light will create. Yet in the returning the little light must be acknowledged first, for the separation was a descent from magnitude to littleness. But the spark is still as pure as the Great Light, because it is the remaining call of creation. Put all your faith in it, and God Herself will answer you. {% include "acim-org-link", pageNumber: pageNumber, reference: reference  %}

@@ -1,14 +1,16 @@
 ---js
 const layout = "mylayout.njk"
 const title = "The Role of the Psychotherapist"
-const reference = "P-2.III"
-const pagenumber = 907
+const chapter = "P-2"
+const section = "III"
+const reference = `${chapter}-${section}`
+const headerTitle = `${section}. ${title}`
+const pageNumber = 907
 const eleventyNavigation = {
 	key: reference,
-	order: pagenumber,
-	title,
-	parent: reference.split(".")[0],
-	navFormat: `${reference.split(".")[1]}. ${title}`
+	order: pageNumber,
+	title: headerTitle,
+	parent: chapter
 }
 const prev = "/psychotherapy/2/ii"
 const next = "/psychotherapy/2/iv"
@@ -20,4 +22,4 @@ Healing is limited by the limitations of the psychotherapist, as it is limited b
 
 It is quite possible for psychotherapy to seem to fail. It is even possible for the result to look like retrogression. But in the end there must be some success. One asks for help; another hears and tries to answer in the form of help. This is the formula for salvation, and must heal. Divided goals alone can interfere with perfect healing. One wholly egoless therapist could heal the world without a word, merely by being there. No one need see them or talk to them or even know of their existence. Their simple Presence is enough to heal.
 
-The ideal therapist is one with Christ. But healing is a process, not a fact. The therapist cannot progress without the patient, and patients cannot be ready to receive the Christ or they could not be sick. In a sense, egoless psychotherapists are abstractions that stands at the end of the process of healing, too advanced to believe in sickness and too near to God to keep their feet on earth. Now they can help through those in need of help, for thus they carry out the plan established for salvation. Psychotherapists becomes their patients, working through other patients to express their thoughts as they receive them from the Mind of Christ. <acim-org-link pagenumber={{pagenumber}} reference={{reference}}></acim-org-link>
+The ideal therapist is one with Christ. But healing is a process, not a fact. The therapist cannot progress without the patient, and patients cannot be ready to receive the Christ or they could not be sick. In a sense, egoless psychotherapists are abstractions that stands at the end of the process of healing, too advanced to believe in sickness and too near to God to keep their feet on earth. Now they can help through those in need of help, for thus they carry out the plan established for salvation. Psychotherapists becomes their patients, working through other patients to express their thoughts as they receive them from the Mind of Christ. {% include "acim-org-link", pageNumber: pageNumber, reference: reference  %}

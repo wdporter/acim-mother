@@ -1,14 +1,18 @@
 ---js
 const layout = "mylayout.njk"
 const title = "The Fear to Look Within"
-const reference = "T-21.IV"
-const pagenumber = 255
+const volume = "T"
+const chapter = 21
+const parent = `${volume}-${chapter}`
+const section = "IV"
+const reference = `${parent}.${section}`
+const headerTitle = `${section}. ${title}`
+const pageNumber = 255
 const eleventyNavigation = {
 	key: reference,
-	order: pagenumber,
-	title,
-	parent: "T-21",
-	navFormat: "IV. " + title
+	order: pageNumber,
+	title: headerTitle,
+	parent 
 }
 const prev = "/text/21/iii"
 const next = "/text/21/v"
@@ -27,4 +31,4 @@ There is no inconsistency in what the Holy Spirit teaches. This is the reasoning
 
 And now the ego _is_ afraid. Yet what it hears in terror, the other part hears as the sweetest music; the song it longed to hear since first the ego came into your mind. The ego’s weakness is its strength. The song of freedom, which sings the praises of another world, brings to it hope of peace. For it remembers Heaven, and now it sees that Heaven has come to earth at last, from which the ego’s rule has kept it out so long. Heaven has come because it found a home in your relationship on earth. And earth can hold no longer what has been given Heaven as its own.
 
-Look gently on your companion, and remember the ego’s weakness is revealed in both your sight. What it would keep apart has met and joined, and looks upon the ego unafraid. Little child, innocent of sin, follow in gladness the way to certainty. Be not held back by fear’s insane insistence that sureness lies in doubt. This has no meaning. What matters it to you how loudly it is proclaimed? The senseless is not made meaningful by repetition and by clamor. The quiet way is open. Follow it happily, and question not what must be so. <acim-org-link pagenumber={{pagenumber}} reference={{reference}}></acim-org-link>
+Look gently on your companion, and remember the ego’s weakness is revealed in both your sight. What it would keep apart has met and joined, and looks upon the ego unafraid. Little child, innocent of sin, follow in gladness the way to certainty. Be not held back by fear’s insane insistence that sureness lies in doubt. This has no meaning. What matters it to you how loudly it is proclaimed? The senseless is not made meaningful by repetition and by clamor. The quiet way is open. Follow it happily, and question not what must be so. {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}

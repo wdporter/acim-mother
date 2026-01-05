@@ -5,12 +5,12 @@ const chapter = "T-13"
 const section = "IX"
 const reference = `${chapter}.${section}`
 const pageNumber = 173
+const headerTitle = `${section}. ${title}`
 const eleventyNavigation = {
 	key: reference,
 	order: pageNumber,
-	title,
-	parent: `${chapter}`,
-	navFormat: `${section}. ${title}`
+	title: headerTitle,
+	parent: `${chapter}`
 }
 const prev = "/text/13/viii"
 const next = "/text/13/x"
@@ -29,4 +29,4 @@ See no one, then, as guilty, and you will affirm the truth of guiltlessness unto
 
 Guilt makes you blind, for while you see one spot of guilt within you, you will not see the light. And by projecting it the world seems dark, and shrouded in your guilt. You throw a dark veil over it, and cannot see it because you cannot look within. You are afraid of what you would see there, but it is not there. _The thing you fear is gone._ If you would look within you would see only the Atonement, shining in quiet and in peace upon the altar to your Mother.
 
-Do not be afraid to look within. The ego tells you all is black with guilt within you, and bids you not to look. Instead, it bids you look upon your companions, and see the guilt in them. Yet this you cannot do without remaining blind. For those who see their companions in the dark, and guilty in the dark in which they shroud them, are too afraid to look upon the light within. Within you is not what you believe is there, and what you put your faith in. Within you is the holy sign of perfect faith your Mother has in you. She does not value you as you do. She knows Herself, and knows the truth in you. She knows there is no difference, for She knows not of differences. Can you see guilt where God knows there is perfect innocence? You can deny Her knowledge, but you cannot change it. Look, then, upon the light She placed within you, and learn that what you feared was there has been replaced with love. <acim-org-link pagenumber={{pageNumber}} reference={{reference}}></acim-org-link>
+Do not be afraid to look within. The ego tells you all is black with guilt within you, and bids you not to look. Instead, it bids you look upon your companions, and see the guilt in them. Yet this you cannot do without remaining blind. For those who see their companions in the dark, and guilty in the dark in which they shroud them, are too afraid to look upon the light within. Within you is not what you believe is there, and what you put your faith in. Within you is the holy sign of perfect faith your Mother has in you. She does not value you as you do. She knows Herself, and knows the truth in you. She knows there is no difference, for She knows not of differences. Can you see guilt where God knows there is perfect innocence? You can deny Her knowledge, but you cannot change it. Look, then, upon the light She placed within you, and learn that what you feared was there has been replaced with love. {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}

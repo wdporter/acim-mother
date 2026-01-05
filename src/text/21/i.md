@@ -1,14 +1,18 @@
 ---js
 const layout = "mylayout.njk"
 const title = "The Forgotten Song"
-const reference = "T-21.I"
-const pagenumber = 252
+const volume = "T"
+const chapter = 21
+const parent = `${volume}-${chapter}`
+const section = "I"
+const reference = `${parent}.${section}`
+const pageNumber = 252
+const headerTitle = `${section}. ${title}`
 const eleventyNavigation = {
 	key: reference,
-	order: pagenumber,
-	title,
-	parent: "T-21",
-	navFormat: "I. " + title
+	order: pageNumber,
+	title: headerTitle,
+	parent
 }
 const prev = "/text/21/in"
 const next = "/text/21/ii"
@@ -32,4 +36,4 @@ Beyond the body, beyond the sun and stars, past everything you see and yet someh
 
 This is the vision of the Son of God, whom you know well. Here is the sight of him who knows his Mother. Here is the memory of what you are; a part of this, with all of it within, and joined to all as surely as all is joined in you. Accept the vision that can show you this, and not the body. You know the ancient song, and know it well. Nothing will ever be as dear to you as is this ancient hymn of love the Son of God sings to his Mother still.
 
-And now the blind can see, for that same song they sing in honor of their Creator gives praise to them as well. The blindness that they made will not withstand the memory of this song. And they will look upon the vision of the Son of God, remembering who he is they sing of. What is a miracle but this remembering? And who is there in whom this memory lies not? The light in one awakens it in all. And when you see it in your companion, you _are_ remembering for everyone. <acim-org-link pagenumber={{pagenumber}} reference={{reference}}></acim-org-link>
+And now the blind can see, for that same song they sing in honor of their Creator gives praise to them as well. The blindness that they made will not withstand the memory of this song. And they will look upon the vision of the Son of God, remembering who he is they sing of. What is a miracle but this remembering? And who is there in whom this memory lies not? The light in one awakens it in all. And when you see it in your companion, you _are_ remembering for everyone. {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}

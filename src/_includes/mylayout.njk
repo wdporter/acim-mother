@@ -19,55 +19,39 @@ bookAbbreviation: ACIM
 	<p><button popovertarget=menu title="menu">☰</button></p>
 </header>
 <main>
-	<nav> {#- breadcrumbs -#}
+	<nav>
+	{#- breadcrumbs -#}
 	{%- set bPages = collections.all | eleventyNavigationBreadcrumb(reference, { includeSelf: true, allowMissing: true }) -%}
 	{%- for myPage in bPages -%}
-		{%- set keyParts = myPage.key.split(r/\.|-/)  -%}
-		{%- set lastPartOfKey = keyParts[keyParts.length-1] -%}
-		{%- if loop.first %} {#- home -#}
-			<a href="{{myPage.url}}">🏠</a>
-		{%- elseif loop.index == 2 -%} {#- volume name -#}
-			{%- if loop.last -%}
-				{{myPage.title}} {#- volume name, no link -#}
-			{%- else -%}
-				<a href="{{myPage.url}}">{{myPage.title}}</a>  {#- volume name, with link -#} 	
-			{%- endif -%}
-		{%- elseif myPage.key[0] == "W" -%}
-			{%- if loop.index == 3 and loop.last %} {#- section name, no link, no reference -#}
-				{{myPage.title}}
-			{%- elseif loop.index == 3 -%} {#- section name, link, no reference -#}
-				<a href="{{myPage.url}}">{{myPage.title}}</a> 
-			{%- else -%} {#- last page, no link -#}
-				{{ lastPartOfKey }}. {{myPage.title}}
-			{%- endif -%}
-		{%- elseif loop.last %} {#- no link, but want only the last part of the reference -#}
-				{{ lastPartOfKey }}. {{myPage.title}}
-		{%- else -%} {#- anywhere inbetween -#}
-			<a href="{{myPage.url}}">{{ lastPartOfKey }}. {{myPage.title}}</a> 
+		{%-  set myTitle = myPage.breadcrumbTitle if myPage.breadcrumbTitle else myPage.title -%}
+		{%- if loop.last -%}
+			{{ myTitle }} 
+		{%- else -%}
+			<a href="{{myPage.url}}">{{ myTitle }}</a>&ensp;→&ensp;
 		{%- endif -%}
-		{%- if myPage.url != page.url -%}&ensp;→&ensp;{%- endif -%}
 	{%- endfor -%}
 	</nav>
-	{%- set refParts = reference.split(r/\.|-/) -%}
-	{%- set shortRef = refParts[refParts.length - 1] -%}
-	{%- if shortRef == "in"  -%}
-		{%- set shortRef = "" -%}
-	{%- else -%}
-		{%- set shortRef = shortRef + "." -%}
-	{%- endif -%}
-	{%- if bigTitle -%}
-		<h2>{{bigTitle}}</h2>
-	{%- elseif superTitle -%}
-		<h2>{{ superTitle }}</h2>{#- commented out because workbookpages don't need it, but i'm not sur if it's neededin other places -#}
-		<h3>{#- {%- if not hideReference -%}{{ shortRef }}{%- endif %} -#}{{title}}</h3>
-	{%- else -%}
-		<h2>{%- if not hideReference -%}{{ shortRef }}{%- endif %} {{title}}</h2>
-	{%- endif -%}
 
- {{ content | safe }}
+	{%- if superTitle -%}
+		<h2>{{ superTitle }}</h2>
+		<h2>{%- if longTitle -%}
+			{{longTitle}}
+		{%- else -%}
+			{{ headerTitle if headerTitle else title }}
+		{%-  endif -%}</h2>
+	{%- else -%}
+		<h2>{%- if longTitle -%}
+			{{longTitle}}
+		{%- else -%}
+			{{ headerTitle if headerTitle else title }}
+		{%- endif -%}</h2>
+	{%-  endif -%}
+
+	{{ content | safe }}
+
 </main>
 
-<nav class="flex" style="justify-content: space-between;">
+<nav class="flex justify-between">
 <p><a class=button href={{prev}}>Previous</a></p>
 <p><a class=button href={{next}}>Next</a></p>	
 </nav>
@@ -75,54 +59,37 @@ bookAbbreviation: ACIM
 <footer>
 	<p>made with 💕 by W. David Porter</p>
 </footer>
-
 <nav popover id=menu>
-{%- set navPages = collections.all | eleventyNavigation("home") -%}
+	<a href="/" class="{%- if page.url == '/' -%} border border-fuchsia border-dashed {%- endif -%}">🏠 Home</a>
 {%- macro renderNavListItem(entry) -%}
-	{%- if entry.key.includes(".") -%}
-		{%- set smallRef = entry.key.split(".")[1] -%}
-	{%- elseif smallRef == "in" -%}
-		{%- set smallRef = "" -%}
-	{%- else %}
-		{%- set smallRef = entry.key.split("-")[1] -%}
-	{%- endif %}
-	{%- if smallRef == "in" -%}
-		{%- set smallRef = "" -%}
-	{%- endif -%}
-	{#- some brute force here on workbook entries, too hard to generalise -#}
-	{%- if smallRef.length > 0 -%}
-		{%- set smallRef = smallRef | trim -%}
-		{%- set smallRef = smallRef.replace(r/\d*–\d*/, "")  -%}
-		{%- set smallRef = smallRef.replace(r/^r[A-Z]*/, "")  -%}
-		{%- if smallRef.length > 0 -%}
-			{%- set smallRef = smallRef + ". " -%}
-		{%- endif -%}	
-	{%- endif -%}
-	<li class=""><a class="{% if entry.url == page.url %} border border-fuchsia border-dashed {% endif %}" href="{{entry.url}}">{{smallRef}} {{entry.title}}</a>
+	{%-  set myTitle = entry.menuTitle if entry.menuTitle else entry.title -%}
+	<li><a class="{%- if entry.url == page.url -%} border border-fuchsia border-dashed {%- endif -%}" href="{{entry.url}}">{{myTitle}}</a>
 {%- endmacro -%}
 
-{%- for navPage in navPages %}
-	<details {% if navPage.url in page.url %}open{%endif%}><summary>{{navPage.title}}</summary>
+{%- set navPages = collections.all | eleventyNavigation("home") -%}
+{%- for navPage in navPages -%}
+	{%-  set myTitle = navPage.menuTitle if navPage.menuTitle else navPage.title -%}
+	<details {% if navPage.url in page.url -%}open{%- endif %}><summary>{{myTitle}}</summary>
 		<ul class="list-none pl-4 my-0">
-		{{ renderNavListItem(navPage )}}
-		{% for childNavPage in navPage.children %}
+		{{ renderNavListItem(navPage ) }}
+		{%- for childNavPage in navPage.children -%}
+			{%-  set childTitle = childNavPage.menuTitle if childNavPage.menuTitle else childNavPage.title -%}
 			<li>
-			{% if childNavPage.children.length == 0 %}
-				{{ renderNavListItem(childNavPage )}}
+			{%- if childNavPage.children.length == 0 -%}
+				{{ renderNavListItem(childNavPage) }}
 			{% else %}
-				<details class="" {% if childNavPage.url in page.url %}open{%endif%}><summary>{% if navPage.title == "Workbook for Students" %}{{childNavPage.key.split(" ")[1]}}{%else%}{{childNavPage.key.slice(2)}}{%endif%} {{childNavPage.title}}</summary>
-					<ul class="list-none pl-8">
-					{{ renderNavListItem(childNavPage )}}
-					{% for grandchildNavPage in childNavPage.children %}
-						{{ renderNavListItem(grandchildNavPage )}}
-					{% endfor %}
+				<details {% if childNavPage.url in page.url %}open{% endif %}><summary>{{childTitle}}</summary>
+					<ul class="list-none pl-4 my-0">
+					{{ renderNavListItem(childNavPage) }}
+					{%- for grandchildNavPage in childNavPage.children -%}
+						{{ renderNavListItem(grandchildNavPage) }}
+					{%- endfor -%}
 					</ul>
 				</details>
-			{% endif %}
-		{% endfor %}
+			{%- endif -%}
+		{%- endfor -%}
 		</ul>
 	</details>
-
 {%- endfor %}
 
 

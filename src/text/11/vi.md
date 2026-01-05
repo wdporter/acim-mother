@@ -3,15 +3,16 @@ const layout = "mylayout.njk"
 const title = "Waking to Redemption"
 const volume = "T"
 const chapter = 11
+const parent = `${volume}-${chapter}`
 const section = "VI"
-const reference = `${volume}-${chapter}.${section}`
-const pagenumber = 151
+const reference = `${parent}.${section}`
+const headerTitle = `${section}. ${title}`
+const pageNumber = 151
 const eleventyNavigation = {
 	key: reference,
-	order: pagenumber,
-	title,
-	parent: `${volume}-${chapter}`,
-	navFormat: `${section}. ${title}`
+	order: pageNumber,
+	title: headerTitle,
+	parent
 }
 const prev = "/text/11/v"
 const next = "/text/11/vii"
@@ -35,4 +36,4 @@ You have nailed yourself to a cross, and placed a crown of thorns upon your own 
 
 You will awaken to your own call, for the Call to awake is within you. If I live in you, you are awake. Yet you must see the works I do through you, or you will not perceive that I have done them unto you. Do not set limits on what you believe I can do through you, or you will not accept what I can do _for_ you. Yet it is done already, and unless you give all that you have received you will not know that your redeemer liveth, and that you have awakened with him. Redemption is recognized only by sharing it.
 
-God’s Son _is_ saved. Bring only this awareness to the Sonship, and you will have a part in the redemption as valuable as mine. For your part must be like mine if you learn it of me. If you believe that yours is limited, you are limiting mine. There is no order of difficulty in miracles because all of God’s Sons are of equal value, and their equality is their oneness. The whole power of God is in every part of Her, and nothing contradictory to Her Will is either great or small. What does not exist has no size and no measure. To God all things are possible. And to Christ it is given to be like the Mother. <acim-org-link pagenumber={{pagenumber}} reference={{reference}}></acim-org-link>
+God’s Son _is_ saved. Bring only this awareness to the Sonship, and you will have a part in the redemption as valuable as mine. For your part must be like mine if you learn it of me. If you believe that yours is limited, you are limiting mine. There is no order of difficulty in miracles because all of God’s Sons are of equal value, and their equality is their oneness. The whole power of God is in every part of Her, and nothing contradictory to Her Will is either great or small. What does not exist has no size and no measure. To God all things are possible. And to Christ it is given to be like the Mother. {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}

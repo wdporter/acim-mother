@@ -4,12 +4,12 @@ const title = "The Vision of Holiness"
 const volume = "T"
 const chapter = 20
 const reference = `${volume}-${chapter}`
+const headerTitle = `${chapter}. ${title}`
 const eleventyNavigation = {
 	key: reference,
-	title,
+	title: headerTitle,
 	parent: volume,
-	order: 242,
-	navFormat: `${chapter}. ${title}`
+	order: 242
 }
 const prev = "/text/19/iv-d"
 const next = "/text/20/i"

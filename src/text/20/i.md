@@ -5,12 +5,12 @@ const chapter = "T-20"
 const section = "I"
 const reference = `${chapter}.${section}`
 const pageNumber = 242
+const headerTitle = `${section}. ${title}`
 const eleventyNavigation = {
 	key: reference,
 	order: pageNumber,
-	title,
-	parent: `${chapter}`,
-	navFormat: `${section}. ${title}`
+	title: headerTitle,
+	parent: `${chapter}`
 }
 const prev = "/text/19/iv-d"
 const next = "/text/20/ii"
@@ -22,4 +22,4 @@ This week begins with palms and ends with lilies, the white and holy sign the So
 
 A week is short, and yet this holy week is the symbol of the whole journey the Son of God has undertaken. He started with the sign of victory, the promise of the resurrection, already given him. Let him not wander into the temptation of crucifixion, and delay him there. Help him to go in peace beyond it, with the light of his own innocence lighting his way to his redemption and release. Hold him not back with thorns and nails when his redemption is so near. But let the whiteness of your shining gift of lilies speed him on his way to resurrection.
 
-Easter is not the celebration of the _cost_ of sin, but of its _end._ If you see glimpses of the face of Christ behind the veil, looking between the snow-white petals of the lilies you have received and given as your gift, you will behold your companion’s face and recognize it. I was a stranger and you took me in, not knowing who I was. Yet for your gift of lilies you will know. In your forgiveness of this stranger, alien to you and yet your ancient Friend, lies his release and your redemption with him. The time of Easter is a time of joy, and not of mourning. Look on your risen Friend, and celebrate his holiness along with me. For Easter is the time of your salvation, along with mine. <acim-org-link pagenumber={{pageNumber}} reference={{reference}}></acim-org-link>
+Easter is not the celebration of the _cost_ of sin, but of its _end._ If you see glimpses of the face of Christ behind the veil, looking between the snow-white petals of the lilies you have received and given as your gift, you will behold your companion’s face and recognize it. I was a stranger and you took me in, not knowing who I was. Yet for your gift of lilies you will know. In your forgiveness of this stranger, alien to you and yet your ancient Friend, lies his release and your redemption with him. The time of Easter is a time of joy, and not of mourning. Look on your risen Friend, and celebrate his holiness along with me. For Easter is the time of your salvation, along with mine. {% include "acim-org-link", pageNumber: pageNumber, reference: reference  %}

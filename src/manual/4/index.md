@@ -1,13 +1,16 @@
 ---js
 const layout = "mylayout.njk"
 const title = "What Are the Characteristics of God’s Teachers?"
-const reference = "M-4"
+const volume = "M"
+const chapter = 4
+const reference = `${volume}-${chapter}`
+const headerTitle = `${chapter}. ${title}`
 const eleventyNavigation = {
 	key: reference,
-	title,
-	parent: reference[0],
+	title: headerTitle,
+	parent: volume,
 	order: 805,
-	navFormat: `${reference.split("-")[1]}. ${title}`
+	indexPageTitle: headerTitle
 }
 const prev = "/manual/3"
 const next = "/manual/4/i"

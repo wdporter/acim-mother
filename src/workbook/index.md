@@ -2,7 +2,6 @@
 const layout = "mylayout.njk"
 const title = "Workbook for Students"
 const reference = "W"
-const hideReference = true
 const eleventyNavigation = {
 	key: reference,
 	title,
@@ -12,10 +11,5 @@ const eleventyNavigation = {
 const prev = "/text/31/viii"
 const next = "/workbook/1-50/1"
 ---
-
-{% assign navPages = collections.all | eleventyNavigation: "W" %}
-<ul class="list-none">
-{%- for entry in navPages %}
-  <li><a href="{{ entry.url }}">{{ entry.title }}</a></li>
-{%- endfor %}
-</ul>
+{%- assign navPages = collections.all | eleventyNavigation: reference -%}
+{%- render "indexpage", navPages: navPages  -%}

@@ -4,12 +4,12 @@ const title = "The Final Vision"
 const volume = "T"
 const chapter = 31
 const reference = `${volume}-${chapter}`
+const headerTitle = `${chapter}. ${title}`
 const eleventyNavigation = {
 	key: reference,
-	title: title,
+	title: headerTitle,
 	parent: volume,
-	order: 343,
-	navFormat: `${chapter}. ${title}`
+	order: 343
 }
 const prev = "/text/30/viii"
 const next = "/text/31/i"

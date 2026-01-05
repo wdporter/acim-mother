@@ -1,6 +1,11 @@
 <ul class=list-none>
 {%- for entry in navPages -%}
-  <li><a href="{{ entry.url }}">{{ entry.navFormat }}</a>
+	{%- if entry.indexPageTitle -%}
+		{%- assign myTitle =  entry.indexPageTitle  -%}
+	{%- else -%}
+		{%- assign myTitle =  entry.title  -%}
+	{%- endif -%}
+  <li><a href="{{ entry.url }}">{{ myTitle }}</a>
 {%- endfor %}
 </ul>
 

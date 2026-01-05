@@ -2,7 +2,7 @@
 const layout = "mylayout.njk"
 const title = "Text"
 const reference = "T"
-const hideReference = true
+const headerTitle = title
 const eleventyNavigation = {
 	key: reference,
 	title,

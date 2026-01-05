@@ -1,15 +1,18 @@
 ---js
 const layout = "mylayout.njk"
 const title = "From Vigilance to Peace"
-const reference = "T-7.VI"
-const referenceParts = reference.split(".")
-const pagenumber = 112
+const volume = "T"
+const chapter = 7
+const parent = `${volume}-${chapter}`
+const section = "VI"
+const reference = `${parent}.${section}`
+const headerTitle = `${section}. ${title}`
+const pageNumber = 112
 const eleventyNavigation = {
 	key: reference,
-	order: pagenumber,
-	title,
-	parent: referenceParts[0],
-	navFormat: `${referenceParts[1]}. ${title}`
+	order: pageNumber,
+	title: headerTitle,
+	parent
 }
 const prev = "/text/7/v"
 const next = "/text/7/vii"
@@ -38,5 +41,6 @@ Perceived without your part in it, God’s creation is seen as weak, and those w
 
 Allowing insanity to enter your mind means that you have not judged sanity as wholly desirable. If you want something else you will make something else, but because it is something else, it will attack your thought system and divide your allegiance. You cannot create in this divided state, and you must be vigilant against this divided state because only peace can be extended. Your divided mind is blocking the extension of the Realm; and its extension is your joy. If you do not extend the Realm, you are not thinking with your Creator and creating as She created.
 
-In this depressing state the Holy Spirit reminds you gently that you are sad because you are not fulfilling your function as co-creator with God, and are therefore depriving yourself of joy. This is not God’s choice but yours. If your mind could be out of accord with God’s, you would be willing without meaning. Yet because God’s Will is unchangeable, no conflict of will is possible. This is the Holy Spirit’s perfectly consistent teaching. Creation, not separation, is your will _because_ it is God’s, and nothing that opposes this means anything at all. Being a perfect accomplishment, the Sonship can only accomplish perfectly, extending the joy in which it was created, and identifying itself with both its Creator and its creations, knowing They are One. <acim-org-link pagenumber={{pagenumber}} reference={{reference}}></acim-org-link>
+In this depressing state the Holy Spirit reminds you gently that you are sad because you are not fulfilling your function as co-creator with God, and are therefore depriving yourself of joy. This is not God’s choice but yours. If your mind could be out of accord with God’s, you would be willing without meaning. Yet because God’s Will is unchangeable, no conflict of will is possible. This is the Holy Spirit’s perfectly consistent teaching. Creation, not separation, is your will _because_ it is God’s, and nothing that opposes this means anything at all. Being a perfect accomplishment, the Sonship can only accomplish perfectly, extending the joy in which it was created, and identifying itself with both its Creator and its creations, knowing They are One. {% include "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+
 

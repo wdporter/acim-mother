@@ -1,13 +1,15 @@
 ---js
 const layout = "mylayout.njk"
 const title = "Salvation and the Holy Relationship"
-const reference = "T-22"
+const volume = "T"
+const chapter = 22
+const reference = `${volume}-${chapter}`
+const headerTitle = `${chapter}. ${title}`
 const eleventyNavigation = {
 	key: reference,
-	title,
-	parent: "T",
-	order: 261,
-	navFormat: "22. " + title
+	title: headerTitle,
+	parent: volume,
+	order: 261
 }
 const prev = "/text/21/viii"
 const next = "/text/22/in"

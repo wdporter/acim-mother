@@ -1,21 +1,20 @@
 ---js
 const layout = "mylayout.njk"
 const title = "Perception versus Knowledge"
-const reference = "T-3.III"
-const referenceParts = reference.split(".")
-const pagenumber = 73
+const chapter = "T-3"
+const section = "III"
+const reference = `${chapter}. ${section}`
+const pageNumber = 73
+const headerTitle = `${section}. ${title}`
 const eleventyNavigation = {
 	key: reference,
-	order: pagenumber,
-	title,
-	parent: referenceParts[0],
-	navFormat: referenceParts[1]
+	order: pageNumber,
+	title: headerTitle,
+	parent: chapter
 }
 const prev = "/text/3/ii"
 const next = "/text/3/iv"
-
 ---
-
 We have been emphasizing perception, and have said very little about knowledge as yet. This is because perception must be straightened out before you can know anything. To know is to be certain. Uncertainty means that you do not know. Knowledge is power because it is certain, and certainty is strength. Perception is temporary. As an attribute of the belief in space and time, it is subject to either fear or love. Misperceptions produce fear and true perceptions foster love, but neither brings certainty because all perception varies. That is why it is not knowledge. True perception is the basis for knowledge, but knowing is the affirmation of truth and beyond all perceptions.
 
 All your difficulties stem from the fact that you do not recognize yourself, your companion or God. To recognize means to “know again,” implying that you knew before. You can see in many ways because perception involves interpretation, and this means that it is not whole or consistent. The miracle, being a way of perceiving, is not knowledge. It is the right answer to a question, but you do not question when you know. Questioning illusions is the first step in undoing them. The miracle, or the right answer, corrects them. Since perceptions change, their dependence on time is obvious. How you perceive at any given time determines what you do, and actions must occur in time. Knowledge is timeless, because certainty is not questionable. You know when you have ceased to ask questions.
@@ -28,5 +27,5 @@ The Bible tells you to know yourself, or to be certain. Certainty is always of G
 
 Right perception is necessary before God can communicate directly to Her altars, which She established in Her Sons. There She can communicate Her certainty, and Her knowledge will bring peace without question. God is not a stranger to Her Sons, and Her Sons are not strangers to each other. Knowledge preceded both perception and time, and will ultimately replace them. That is the real meaning of “Alpha and Omega, the beginning and the end,” and “Before Abraham was I am.” Perception can and must be stabilized, but knowledge _is_ stable. “Fear God and keep His commandments” becomes “Know God and accept Her certainty.”
 
-If you attack error in another, you will hurt yourself. You cannot know your companions when you attack them. Attack is always made upon strangers. You are making them strangers by misperceiving them, and so you cannot know them. It is because you have made them a stranger that you are afraid of them. Perceive them correctly so that you can know them. There are no strangers in God’s creation. To create as She created you can create only what you know, and therefore accept as yours. God knows Her children with perfect certainty. She created them by knowing them. She recognizes them perfectly. When they do not recognize each other, they do not recognize Her. <acim-org-link pagenumber={{pagenumber}} reference={{reference}}></acim-org-link>
+If you attack error in another, you will hurt yourself. You cannot know your companions when you attack them. Attack is always made upon strangers. You are making them strangers by misperceiving them, and so you cannot know them. It is because you have made them a stranger that you are afraid of them. Perceive them correctly so that you can know them. There are no strangers in God’s creation. To create as She created you can create only what you know, and therefore accept as yours. God knows Her children with perfect certainty. She created them by knowing them. She recognizes them perfectly. When they do not recognize each other, they do not recognize Her. {% include "acim-org-link", pageNumber: pageNumber, reference: reference  %}
 

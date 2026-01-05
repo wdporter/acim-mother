@@ -1,14 +1,15 @@
 ---js
 const layout = "mylayout.njk"
 const title = "The Innocent Perception"
-const reference = "T-3"
-const referenceParts = reference.split("-")
+const volume = "T"
+const chapter = 3
+const reference = `${volume}-${chapter}`
+const headerTitle = `${chapter}. ${title}`
 const eleventyNavigation = {
 	key: reference,
-	title,
-	parent: referenceParts[0],
-	order: 71,
-	navFormat: `${referenceParts[1]}. ${title}`
+	title: headerTitle,
+	parent: volume,
+	order: 71
 }
 const prev = "/text/2/viii"
 const next = "/text/3/i"

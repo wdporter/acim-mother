@@ -2,7 +2,6 @@
 const layout = "mylayout.njk"
 const title = "Psychotherapy"
 const reference = "P"
-const hideReference = true
 const eleventyNavigation = {
 	key: reference,
 	title,

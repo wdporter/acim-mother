@@ -1,13 +1,15 @@
 ---js
 const layout = "mylayout.njk"
 const title = "The Process of Psychotherapy"
-const reference = "P-2"
+const volume = "P"
+const chapter = 2
+const reference = `${volume}-${chapter}`
+const headerTitle = `${chapter}. ${title}`
 const eleventyNavigation = {
 	key: reference,
-	title,
-	parent: reference[0],
-	order: 904,
-	navFormat: `${reference.split("-")[1]}. ${title}`
+	title: headerTitle,
+	parent: volume,
+	order: 904
 }
 const prev = "/psychotherapy/1"
 const next = "/psychotherapy/2/in"

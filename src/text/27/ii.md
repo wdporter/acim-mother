@@ -1,16 +1,18 @@
 ---js
 const layout = "mylayout.njk"
 const title = "The Fear of Healing"
-const chapter = "T-27"
+const volume = "T"
+const chapter = 27
+const parent = `${volume}-${chapter}`
 const section = "II"
-const reference = `${chapter}.${section}`
-const pagenumber = 307
+const reference = `${parent}.${section}`
+const headerTitle = `${section}. ${title}`
+const pageNumber = 307
 const eleventyNavigation = {
 	key: reference,
-	order: pagenumber,
-	title,
-	parent: chapter,
-	navFormat: `${section}. ${title}`
+	order: pageNumber,
+	title: headerTitle,
+	parent
 }
 const prev = "/text/i"
 const next = "/text/iii"
@@ -45,4 +47,4 @@ In this interpretation of correction, your own mistakes you will not even see. T
 
 Correction is the function given both, but neither one alone. And when it is fulfilled as shared, it must correct mistakes in you and them. It cannot leave mistakes in one unhealed and set the other free. That is divided purpose, which can not be shared, and so it cannot be the goal in which the Holy Spirit sees His Own. And you can rest assured that He will not fulfill a function that He does not see and recognize as His. For only thus can He keep yours preserved intact, despite Your separate views of what your function is. If He upheld divided function, you were lost indeed. His inability to see His goal divided and distinct for you and them, preserves yourself from the awareness of a function not your own. And thus is healing given you and them.
 
-Correction must be left to One Who knows correction and forgiveness are the same. With half a mind this is not understood. Leave, then, correction to the Mind that is united, functioning as one because it is not split in purpose, and conceives a single function as its only one. Here is the function given it conceived to be its Own, and not apart from that its Giver keeps _because_ it has been shared. In His acceptance of this function lies the means whereby your mind is unified. His single purpose unifies the halves of you that you perceive as separate. And each forgives the other, that they may accept their other half as part of them. <acim-org-link pagenumber={{pagenumber}} reference={{reference}}></acim-org-link>
+Correction must be left to One Who knows correction and forgiveness are the same. With half a mind this is not understood. Leave, then, correction to the Mind that is united, functioning as one because it is not split in purpose, and conceives a single function as its only one. Here is the function given it conceived to be its Own, and not apart from that its Giver keeps _because_ it has been shared. In His acceptance of this function lies the means whereby your mind is unified. His single purpose unifies the halves of you that you perceive as separate. And each forgives the other, that they may accept their other half as part of them. <acim-org-link pageNumber={{pageNumber}} reference={{reference}}></acim-org-link>

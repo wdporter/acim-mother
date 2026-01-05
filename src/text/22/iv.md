@@ -1,14 +1,18 @@
 ---js
 const layout = "mylayout.njk"
 const title = "The Branching of the Road"
-const reference = "T-22.IV"
-const pagenumber = 265
+const volume = "T"
+const chapter = 22
+const parent = `${volume}-${chapter}`
+const section = "IV"
+const reference = `${parent}.${section}`
+const headerTitle = `${section}. ${title}`
+const pageNumber = 265
 const eleventyNavigation = {
 	key: reference,
-	order: pagenumber,
-	title,
-	parent: "T-22",
-	navFormat: "IV. " + title
+	order: pageNumber,
+	title: headerTitle,
+	parent
 }
 const prev = "/text/22/iii"
 const next = "/text/22/v"
@@ -25,4 +29,4 @@ Every mistake you and your companions make, the other will gently have corrected
 
 To all who share the Love of God the grace is given to be the givers of what they have received. And so they learn that it is theirs forever. All barriers disappear before their coming, as every obstacle was finally surmounted that seemed to rise and block their way before. This veil you and your companion lift together opens the way to truth to more than you. Those who would let illusions be lifted from their minds are this world’s saviors, walking the world with their Redeemer, and carrying His message of hope and freedom and release from suffering to everyone who needs a miracle to save him.
 
-How easy is it to offer this miracle to everyone! No one who has received it for themselves could find it difficult. For by receiving it, they learned it was not given them alone. Such is the function of a holy relationship; to receive together and give as you received. Standing before the veil, it still seems difficult. But hold out your hand, joined with your companion’s, and touch this heavy-seeming block, and you will learn how easily your fingers slip through its nothingness. It is no solid wall. And only an illusion stands between you and your companion, and the holy Self you share together. <acim-org-link pagenumber={{pagenumber}} reference={{reference}}></acim-org-link>
+How easy is it to offer this miracle to everyone! No one who has received it for themselves could find it difficult. For by receiving it, they learned it was not given them alone. Such is the function of a holy relationship; to receive together and give as you received. Standing before the veil, it still seems difficult. But hold out your hand, joined with your companion’s, and touch this heavy-seeming block, and you will learn how easily your fingers slip through its nothingness. It is no solid wall. And only an illusion stands between you and your companion, and the holy Self you share together. {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}

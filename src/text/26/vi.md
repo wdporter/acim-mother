@@ -1,14 +1,18 @@
 ---js
 const layout = "mylayout.njk"
 const title = "The Appointed Friend"
-const reference = "T-26.VI"
-const pagenumber = 300
+const volume = "T"
+const chapter = 26
+const parent = `${volume}-${chapter}`
+const section = "VI"
+const reference = `${parent}.${section}`
+const headerTitle = `${section}. ${title}`
+const pageNumber = 300
 const eleventyNavigation = {
 	key: reference,
-	order: pagenumber,
-	title,
-	parent: "T-26",
-	navFormat: "VI. " + title
+	order: pageNumber,
+	title: headerTitle,
+	parent
 }
 const prev = "/text/26/v"
 const next = "/text/26/vii"
@@ -18,4 +22,4 @@ Anything in this world that you believe is good and valuable and worth striving 
 
 Lead not your little life in solitude, with one illusion as your only friend. This is no friendship worthy of God’s Son, nor one with which he could remain content. Yet God has given him a better Friend, in Whom all power in earth and Heaven rests. The one illusion that you think is friend obscures His grace and majesty from you, and keeps His friendship and forgiveness from your welcoming embrace. Without Him you are friendless. Seek not another friend to take His place. There _is_ no other friend. What God appointed has no substitute, for what illusion can replace the truth?
 
-Who dwells with shadows is alone indeed, and loneliness is not the Will of God. Would you allow one shadow to usurp the throne that God appointed for your Friend, if you but realized its emptiness has left yours empty and unoccupied? Make no illusion friend, for if you do, it can but take the place of Him Whom God has called your Friend. And it is He Who is your only Friend in truth. He brings you gifts that are not of this world, and only He to Whom they have been given can make sure that you receive them. He will place them on your throne, when you make room for Him on His. <acim-org-link pagenumber={{pagenumber}} reference={{reference}}></acim-org-link>
+Who dwells with shadows is alone indeed, and loneliness is not the Will of God. Would you allow one shadow to usurp the throne that God appointed for your Friend, if you but realized its emptiness has left yours empty and unoccupied? Make no illusion friend, for if you do, it can but take the place of Him Whom God has called your Friend. And it is He Who is your only Friend in truth. He brings you gifts that are not of this world, and only He to Whom they have been given can make sure that you receive them. He will place them on your throne, when you make room for Him on His. {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}

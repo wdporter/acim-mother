@@ -1,14 +1,16 @@
 ---js
 const layout = "mylayout.njk"
 const title = "The Illusion of Needs"
-const reference = "T-1.VI"
-const pagenumber = 58
+const chapter = "T-1"
+const section = "VI"
+const reference = `${chapter}.${section}`
+const headerTitle = `${section}. ${title}`
+const pageNumber = 58
 const eleventyNavigation = {
 	key: reference,
-	order: pagenumber,
-	title,
-	parent: reference.split(".")[0],
-	navFormat: `${reference.split(".")[1]}. ${title}`
+	order: pageNumber,
+	title: headerTitle,
+	parent: chapter
 }
 const prev = "/text/3/v"
 const next = "/text/3/vii"
@@ -33,4 +35,4 @@ Only perfect love exists.\
 If there is fear, it produces a state that does not exist.* {.mx-12 .italic}
 
 
-Believe this and you will be free. Only God can establish this solution, and this faith _is_ Her gift. <acim-org-link pagenumber={{pagenumber}} reference={{reference}}></acim-org-link>
+Believe this and you will be free. Only God can establish this solution, and this faith _is_ Her gift. {% include "acim-org-link", pageNumber: pageNumber, reference: reference  %}

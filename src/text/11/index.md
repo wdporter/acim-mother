@@ -4,13 +4,12 @@ const title = "God or the Ego"
 const volume = "T"
 const chapter = 11
 const reference = `${volume}-${chapter}`
-const referenceParts = reference.split("-")
+const headerTitle = `${chapter}. ${title}`
 const eleventyNavigation = {
 	key: reference,
-	title,
+	title: headerTitle,
 	parent: volume,
-	order: 145,
-	navFormat: `${chapter}. ${title}`
+	order: 145
 }
 const prev = "/text/10/v"
 const next = "/text/11/in"
