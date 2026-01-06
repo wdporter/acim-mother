@@ -1,21 +1,21 @@
 ---js
-const layout = "mylayout.njk"
+const prev = "/text/30/viii"
+const next = "/text/31/ii"
 const title = "The Simplicity of Salvation"
-const volume = "T"
 const chapter = 31
-const parent = `${volume}-${chapter}`
 const section = "I"
+const pageNumber = 343
+const layout = "mylayout.njk"
+const volume = "T"
+const parent = `${volume}-${chapter}`
 const reference = `${parent}.${section}`
 const headerTitle = `${section}. ${title}`
-const pageNumber = 343
 const eleventyNavigation = {
 	key: reference,
 	order: pageNumber,
 	title: headerTitle,
 	parent
 }
-const prev = "/text/30/viii"
-const next = "/text/31/ii"
 ---
 How simple is salvation! All it says is what was never true is not true now, and never will be. The impossible has not occurred, and can have no effects. And that is all. Can this be hard to learn by anyone who wants it to be true? Only unwillingness to learn it could make such an easy lesson difficult. How hard is it to see that what is false can not be true, and what is true can not be false? You can no longer say that you perceive no differences in false and true. You have been told exactly how to tell one from the other, and just what to do if you become confused. Why, then, do you persist in learning not such simple things?
 

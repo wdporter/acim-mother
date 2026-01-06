@@ -1,21 +1,21 @@
 ---js
-const layout = "mylayout.njk"
+const prev = "/text/11/v"
+const next = "/text/11/vii"
 const title = "Waking to Redemption"
+const section = "VI"
+const pageNumber = 151
 const volume = "T"
 const chapter = 11
 const parent = `${volume}-${chapter}`
-const section = "VI"
 const reference = `${parent}.${section}`
 const headerTitle = `${section}. ${title}`
-const pageNumber = 151
 const eleventyNavigation = {
 	key: reference,
 	order: pageNumber,
 	title: headerTitle,
 	parent
 }
-const prev = "/text/11/v"
-const next = "/text/11/vii"
+const layout = "mylayout.njk"
 ---
 
 It is impossible not to believe what you see, but it is equally impossible to see what you do not believe. Perceptions are built up on the basis of experience, and experience leads to beliefs. It is not until beliefs are fixed that perceptions stabilize. In effect, then, what you believe you _do_ see. That is what I meant when I said, “Blessed are ye who have not seen and still believe,” for those who believe in the resurrection will see it. The resurrection is the complete triumph of Christ over the ego, not by attack but by transcendence. For Christ does rise above the ego and all its works, and ascends to the Mother and Her Realm.

@@ -1,22 +1,22 @@
 ---js
-const layout = "mylayout.njk"
+const prev = "/text/10/iii"
+const next = "/text/10/v"
 const title = "The End of Sickness"
+const section = "IV"
 const volume = "T"
 const chapter = 10
+const pageNumber = 142
 const parent = `${volume}-${chapter}`
-const section = "IV"
 const reference = `${parent}.${section}`
 const headerTitle = `${section}. ${title}`
-const pageNumber = 142
 const eleventyNavigation = {
 	key: reference,
 	order: pageNumber,
 	title: headerTitle,
 	parent,
-	order: 142
+	order: pageNumber
 }
-const prev = "/text/10/iii"
-const next = "/text/10/v"
+const layout = "mylayout.njk"
 ---
 All magic is an attempt at reconciling the irreconcilable. All religion is the recognition that the irreconcilable cannot be reconciled. Sickness and perfection are irreconcilable. If God created you perfect, you _are_ perfect. If you believe you can be sick, you have placed other gods before Her. God is not at war with the gods of sickness you made, but you are. They are the symbol of deciding against God, and you are afraid of them because they cannot be reconciled with God’s Will. If you attack them, you will make them real to you. But if you refuse to worship them in whatever form they may appear to you, and wherever you think you see them, they will disappear into the nothingness out of which they were made.
 

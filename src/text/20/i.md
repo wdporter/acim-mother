@@ -1,10 +1,11 @@
 ---js
-const layout = "mylayout.njk"
+const prev = "/text/19/iv-d"
+const next = "/text/20/ii"
 const title = "Holy Week"
-const chapter = "T-20"
 const section = "I"
+const pageNumber = 242.1
+const chapter = "T-20"
 const reference = `${chapter}.${section}`
-const pageNumber = 242
 const headerTitle = `${section}. ${title}`
 const eleventyNavigation = {
 	key: reference,
@@ -12,8 +13,7 @@ const eleventyNavigation = {
 	title: headerTitle,
 	parent: `${chapter}`
 }
-const prev = "/text/19/iv-d"
-const next = "/text/20/ii"
+const layout = "mylayout.njk"
 ---
 
 This is Palm Sunday, the celebration of victory and the acceptance of the truth. Let us not spend this holy week brooding on the crucifixion of God’s Son, but happily in the celebration of his release. For Easter is the sign of peace, not pain. A slain Christ has no meaning. But a risen Christ becomes the symbol of the Son of God’s forgiveness on himself; the sign he looks upon himself as healed and whole.

@@ -1,19 +1,18 @@
 ---js
-const title = "Prayer"
-const chapter = 1
-const prev = "/psychotherapy/3/iii"
-const next = "/song/1/in"
+const title = "The New Beginning"
+const chapter = 30
+const prev = "/text/30/viii"
+const next = "/text/31/i"
 const layout = "mylayout.njk"
-const volume = "S"
+const volume = "T"
 const reference = `${volume}-${chapter}`
 const headerTitle = `${chapter}. ${title}`
 const eleventyNavigation = {
 	key: reference,
 	title: headerTitle,
 	parent: volume,
-	order: 922
+	order: 333
 }
 ---
-
 {%- assign navPages = collections.all | eleventyNavigation: reference -%}
 {%- render "indexpage", navPages: navPages  -%}
