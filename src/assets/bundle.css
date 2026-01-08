@@ -13,4 +13,6 @@
   translate: 0;
 }
 
-
+main p {
+	font-family: Cambria, Constantia, serif;
+}
