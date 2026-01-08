@@ -5,12 +5,15 @@ bookAbbreviation: ACIM
 <!DOCTYPE html>
 <meta charset=utf-8>
 <meta name=viewport content="width=device-width"> <!-- ,initial-scale=1 -->
-<meta name=description content="A Course in Miracles reimagined with gender changes. God is Mother and brothers [sic] become companions ">
+<meta name=description content="A Course in Miracles reimagined with gender changes. God is Mother and brothers become companions ">
 <link rel=icon href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2280%22>⭐</text></svg>" type="image/svg+xml">
 <title>{{bookAbbreviation}} :: {{reference}} {{title}} </title>
+<link rel=stylesheet href=/assets/tailwind.css type=text/css>
 <link rel=stylesheet href=https://cdn.simplecss.org/simple.min.css type=text/css>
 <link rel=author href=mailto:david.porter@fastmail.com>
 <link rel=stylesheet href={{ "/assets/bundle.css" | url }} type=text/css>
+
+
 <script src={{ "/assets/acim-org-link.js" | url }}></script>
 
 <header>
@@ -63,22 +66,22 @@ bookAbbreviation: ACIM
 	<a href="/" class="{%- if page.url == '/' -%} border border-fuchsia border-dashed {%- endif -%}">🏠 Home</a>
 {%- macro renderNavListItem(entry) -%}
 	{%-  set myTitle = entry.menuTitle if entry.menuTitle else entry.title -%}
-	<li><a class="{%- if entry.url == page.url -%} border border-fuchsia border-dashed {%- endif -%}" href="{{entry.url}}">{{myTitle}}</a>
+	<li class="-indent-4 pl-4"><a class="{%- if entry.url == page.url -%} border-2 border-[#4B0082] border-dashed p-1 {%- endif -%}" href="{{entry.url}}">{{myTitle}}</a>
 {%- endmacro -%}
 
 {%- set navPages = collections.all | eleventyNavigation("home") -%}
 {%- for navPage in navPages -%}
 	{%-  set myTitle = navPage.menuTitle if navPage.menuTitle else navPage.title -%}
-	<details {% if navPage.url in page.url -%}open{%- endif %}><summary>{{myTitle}}</summary>
+	<details {% if navPage.url in page.url -%}open{%- endif %} class="pl-0 group"><summary class="group-open:-mb-2!">{{myTitle}}</summary>
 		<ul class="list-none pl-4 my-0">
 		{{ renderNavListItem(navPage ) }}
 		{%- for childNavPage in navPage.children -%}
 			{%-  set childTitle = childNavPage.menuTitle if childNavPage.menuTitle else childNavPage.title -%}
-			<li>
+			<li class="-indent-4 pl-4">
 			{%- if childNavPage.children.length == 0 -%}
 				{{ renderNavListItem(childNavPage) }}
 			{% else %}
-				<details {% if childNavPage.url in page.url %}open{% endif %}><summary>{{childTitle}}</summary>
+				<details {% if childNavPage.url in page.url %}open{% endif %}  class="pl-0 group"><summary class="group-open:-mb-2!">{{childTitle}}</summary>
 					<ul class="list-none pl-4 my-0">
 					{{ renderNavListItem(childNavPage) }}
 					{%- for grandchildNavPage in childNavPage.children -%}

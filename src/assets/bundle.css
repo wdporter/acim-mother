@@ -1,6 +1,5 @@
-/* popover menu */
-#menu * {
-	all: revert
+#menu details {
+	all: revert;
 }
 
 #menu {
@@ -10,94 +9,8 @@
 	max-width: 80vw; 
 }
 
-#menu li {
-	text-indent: -1rem;	
-	padding-left: 1rem;
-}
-
 #menu:popover-open {
   translate: 0;
 }
 
-#menu a, #menu a:visited  {
-	color: var(--accent)
-}
 
-#menu>details {
-	padding-left: 0;
-}
-
-/* tailwind-type classes */
-.border {
-	border-width: 1px !important;
-}
-.border-black {
-	border-color: black !important;
-}
-.border-fuchsia {
-	border-color: fuchsia !important;
-}
-
-.border-dashed {
-	border-style: dashed !important;
-}
-.flex {
-	display: flex;
-}
-.hidden {
-	display: none;
-}
-.-indent-8 {
-	text-indent: -2rem;
-}
-.italic {
-	font-style: italic;
-}
-.justify-between {
-	justify-content: space-between;
-}
-.list-none {
-	list-style-type: none !important;
-}
-.ml-4 {
-	margin-left: 1rem !important;
-}
-.mx-12 {
-	margin-left: 3rem;
-	margin-right: 3rem;
-}
-.my-0 {
-	margin-top: 0 !important;
-	margin-bottom: 0 !important;
-}
-.no-underline {
-	text-decoration-line: none;
-}
-.not-italic {
-	font-style: normal;
-}
-.pl-4  {
-	padding-left: 1rem !important;
-}	
-.pl-8  {
-	padding-left: 2rem !important;
-}	
-.text-var-text {
-	color: var(--text);
-}
-
-.whitespace-nowrap {
-	white-space: nowrap !important;
-}
-
-
-
-/* element styles */
-
-h1>a:visited {
-	color: var(--text);	
-}
-
-nav[popover] ul li:first-of-type {
-	margin-left: -1rem !important;
-}
