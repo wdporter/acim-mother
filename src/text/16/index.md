@@ -14,7 +14,6 @@ const eleventyNavigation = {
 }
 const layout = "mylayout.njk"
 ---
-
 {% assign navPages = collections.all | eleventyNavigation: reference %}
 {%- render "indexpage", navPages: navPages  -%}
 
