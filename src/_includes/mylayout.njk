@@ -9,7 +9,7 @@ bookAbbreviation: ACIM
 <link rel=icon href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2280%22>⭐</text></svg>" type="image/svg+xml">
 <title>{{reference}} | {{title}} | {{bookAbbreviation}} </title>
 <link rel=stylesheet href=/assets/tailwind.css type=text/css>
-<link rel=stylesheet href=https://cdn.simplecss.org/simple.min.css type=text/css>
+<link rel=stylesheet href=/assets/simple.min.css type=text/css>
 <link rel=author href=mailto:david.porter@fastmail.com>
 <link rel=stylesheet href={{ "/assets/bundle.css" | url }} type=text/css>
 
@@ -18,7 +18,7 @@ bookAbbreviation: ACIM
 
 <header>
 	<h1><a href=/ class="no-underline text-var-text">{{bookTitle}}</a></h1>
-	<p>If ACIM is pantheism, then God is Mother. We do this with our companions</p>
+	<p>If ACIM is pantheism, then God is Mother.<br>We do this with our companions</p>
 	<p><button popovertarget=menu title="menu">☰</button></p>
 </header>
 <main>
@@ -55,8 +55,8 @@ bookAbbreviation: ACIM
 </main>
 
 <nav class="flex justify-between">
-<p><a class=button href={{prev}}>Previous</a></p>
-<p><a class=button href={{next}}>Next</a></p>	
+<p><a class="button" href={{prev}}><span class="text-3xl pl-4 pr-4 font-black">←</span></a></p>
+<p><a class="button" href={{next}}><span class="text-3xl pl-4 pr-4 font-black">→</span></a></p>	
 </nav>
 
 <footer>
