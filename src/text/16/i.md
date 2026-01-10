@@ -3,7 +3,7 @@ const prev = "/text/15/x"
 const next = "/text/16/ii"
 const title = "True Empathy"
 const section = "I"
-const pageNumber = 202.1
+const pageNumber = 202
 const chapter = "T-16"
 const reference = `${chapter}.${section}`
 const headerTitle = `${section}. ${title}`
@@ -23,7 +23,7 @@ Your part is only to remember this; you do not want anything you value to come o
 
 I am not alone, and I would not intrude the past upon my Guest.\
 I have invited Him, and He is here.\
-I need do nothing except not to interfere. {.mx-12 .italic}
+I need do nothing except not to interfere. {.ml-12! .mr-12! .italic}
 
 True empathy is of Him Who knows what it is. You will learn His interpretation of it if you let Him use your capacity for strength, and not for weakness. He will not desert you, but be sure that you desert not Him. Humility is strength in this sense only; that to recognize and accept the fact that you do not know is to recognize and accept the fact that He _does_ know. You are not sure that He will do His part, because you have never yet done yours completely. You cannot know how to respond to what you do not understand. Be tempted not in this, and yield not to the ego’s triumphant use of empathy for its glory.
 

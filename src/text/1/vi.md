@@ -26,13 +26,13 @@ The real purpose of this world is to use it to correct your unbelief. You can ne
 All aspects of fear are untrue because they do not exist at the creative level, and therefore do not exist at all. To whatever extent you are willing to submit your beliefs to this test, to that extent are your perceptions corrected. In sorting out the false from the true, the miracle proceeds along these lines:
 
 Perfect love casts out fear.\
-If fear exists, then there is not perfect love.* {.mx-12 .italic}
+If fear exists, then there is not perfect love.* {.ml-12! .mr-12! .italic}
 
 
 But:
 
 Only perfect love exists.\
-If there is fear, it produces a state that does not exist.* {.mx-12 .italic}
+If there is fear, it produces a state that does not exist.* {.ml-12! .mr-12! .italic}
 
 
 Believe this and you will be free. Only God can establish this solution, and this faith _is_ Her gift. {% include "acim-org-link", pageNumber: pageNumber, reference: reference  %}
