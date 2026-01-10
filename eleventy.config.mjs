@@ -22,23 +22,18 @@ export default async function(eleventyConfig) {
 	//compile tailwind before eleventy processes the files
   eleventyConfig.on('eleventy.before', async () => {
     const tailwindInputPath = path.resolve('./src/tailwind/tailwind.css');
-
     const tailwindOutputPath = './_temp/tailwind.css';
-
     const cssContent = fs.readFileSync(tailwindInputPath, 'utf8');
-
     const outputDir = path.dirname(tailwindOutputPath);
     if (!fs.existsSync(outputDir)) {
       fs.mkdirSync(outputDir, { recursive: true });
     }
-
     const result = await processor.process(cssContent, {
       from: tailwindInputPath,
       to: tailwindOutputPath,
     });
-
     fs.writeFileSync(tailwindOutputPath, result.css);
-  });
+  })
 
   const processor = postcss([
     //compile tailwind
