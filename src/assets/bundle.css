@@ -14,5 +14,5 @@
 }
 
 main p {
-	font-family: Cambria, Constantia, serif;
+	font-family: Palatino, var(--font-serif);
 }
