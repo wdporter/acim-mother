@@ -14,5 +14,5 @@
 }
 
 main p {
-	font-family: Palatino, var(--font-serif);
+	font-family: Palatino, var(--serif-font);
 }
