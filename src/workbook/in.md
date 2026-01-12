@@ -33,4 +33,6 @@ The overall aim of the exercises is to increase your ability to extend the ideas
 
 Some of the ideas the workbook presents you will find hard to believe, and others may seem to be quite startling. This does not matter. You are merely asked to apply the ideas as you are directed to do. You are not asked to judge them at all. You are asked only to use them. It is their use that will give them meaning to you, and will show you that they are true.
 
-Remember only this; you need not believe the ideas, you need not accept them, and you need not even welcome them. Some of them you may actively resist. None of this will matter, or decrease their efficacy. But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reactions to the ideas may be, use them. Nothing more than that is required. {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+Remember only this; you need not believe the ideas, you need not accept them, and you need not even welcome them. Some of them you may actively resist. None of this will matter, or decrease their efficacy. But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reactions to the ideas may be, use them. Nothing more than that is required.
+
+{% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}

@@ -27,4 +27,6 @@ Change is the greatest gift God gave to all that you would make eternal, to ensu
 
 This world will bind your feet and tie your hands and kill your body only if you think that it was made to crucify God’s Son. For even though it was a dream of death, you need not let it stand for this to you. Let _this_ be changed, and nothing in the world but must be changed as well. For nothing here but is defined as what you see it for.
 
-How lovely is the world whose purpose is forgiveness of God’s Son! How free from fear, how filled with blessing and with happiness! And what a joyous thing it is to dwell a little while in such a happy place! Nor can it be forgot, in such a world, it _is_ a little while till timelessness comes quietly to take the place of time. {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+How lovely is the world whose purpose is forgiveness of God’s Son! How free from fear, how filled with blessing and with happiness! And what a joyous thing it is to dwell a little while in such a happy place! Nor can it be forgot, in such a world, it _is_ a little while till timelessness comes quietly to take the place of time.
+
+{% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}
