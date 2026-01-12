@@ -18,22 +18,23 @@ bookAbbreviation: ACIM
 
 <header>
 	<h1><a href=/ class="no-underline text-var-text">{{bookTitle}}</a></h1>
-	<p>If ACIM is pantheism, then God is Mother.<br>We do this with our companions</p>
-	<p><button popovertarget=menu title="menu">☰</button></p>
+	<div>If ACIM is pantheism, then God is Mother.<br>We do this with our companions</div>
+	<div><button popovertarget=menu title="menu">☰</button></div>
 </header>
-<main>
-	<nav>
-	{#- breadcrumbs -#}
-	{%- set bPages = collections.all | eleventyNavigationBreadcrumb(reference, { includeSelf: true, allowMissing: true }) -%}
-	{%- for myPage in bPages -%}
-		{%-  set myTitle = myPage.breadcrumbTitle if myPage.breadcrumbTitle else myPage.title -%}
-		{%- if loop.last -%}
-			{{ myTitle }} 
-		{%- else -%}
-			<a href="{{myPage.url}}">{{ myTitle }}</a>&ensp;→&ensp;
-		{%- endif -%}
-	{%- endfor -%}
-	</nav>
+	<main>
+		<nav>
+		{#- breadcrumbs -#}
+		{%- set bPages = collections.all | eleventyNavigationBreadcrumb(reference, { includeSelf: true, allowMissing: true }) -%}
+		{%- for myPage in bPages -%}
+			{%-  set myTitle = myPage.breadcrumbTitle if myPage.breadcrumbTitle else myPage.title -%}
+			{%- if loop.last -%}
+				{{ myTitle }} 
+			{%- else -%}
+				<a href="{{myPage.url}}">{{ myTitle }}</a>&ensp;→&ensp;
+			{%- endif -%}
+		{%- endfor -%}
+		</nav>
+
 
 	{%- if superTitle -%}
 		<h2>{{ superTitle }}</h2>
@@ -60,7 +61,7 @@ bookAbbreviation: ACIM
 </nav>
 
 <footer>
-	<p>made with 💕 by W. David Porter</p>
+	<div>made with 💕 by W. David Porter</div>
 </footer>
 <nav popover id=menu>
 	<a href="/" class="{%- if page.url == '/' -%} border border-fuchsia border-dashed {%- endif -%}">🏠 Home</a>

@@ -13,6 +13,6 @@
   translate: 0;
 }
 
-main p {
+p {
 	font-family: Palatino, var(--serif-font);
 }
