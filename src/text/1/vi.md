@@ -37,4 +37,4 @@ If there is fear, it produces a state that does not exist.* {.ml-12! .mr-12!}
 
 Believe this and you will be free. Only God can establish this solution, and this faith _is_ Her gift.
 
- {% include "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+ {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}

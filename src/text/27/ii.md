@@ -49,4 +49,4 @@ Correction is the function given both, but neither one alone. And when it is ful
 
 Correction must be left to One Who knows correction and forgiveness are the same. With half a mind this is not understood. Leave, then, correction to the Mind that is united, functioning as one because it is not split in purpose, and conceives a single function as its only one. Here is the function given it conceived to be its Own, and not apart from that its Giver keeps _because_ it has been shared. In His acceptance of this function lies the means whereby your mind is unified. His single purpose unifies the halves of you that you perceive as separate. And each forgives the other, that they may accept their other half as part of them.
 
- {% include "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+ {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}

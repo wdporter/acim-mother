@@ -27,4 +27,4 @@ Nothing can prevail against a Son of God who commends his spirit into the Hands 
 
 The way to correct distortions is to withdraw your faith in them and invest it only in what is true. You cannot make untruth true. If you are willing to accept what is true in everything you perceive, you let it be true for you. Truth overcomes all error, and those who live in error and emptiness can never find lasting solace. If you perceive truly you are cancelling out misperceptions in yourself and in others simultaneously. Because you see them as they are, you offer them your acceptance of their truth so they can accept it for themselves. This is the healing that the miracle induces.
 
- {% include "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+ {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}

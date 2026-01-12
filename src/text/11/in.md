@@ -26,4 +26,4 @@ You make by projection, but God creates by extension. The cornerstone of God’s
 
 4. My companion, you are part of God and part of me. When you have at last looked at the ego’s foundation without shrinking you will also have looked upon ours. I come to you from our Mother to offer you everything again. Do not refuse it in order to keep a dark cornerstone hidden, for its protection will not save you. I give you the lamp and I will go with you. You will not take this journey alone. I will lead you to your true Mother, Who hath need of you, as I have. Will you not answer the call of love with joy?
 
-{% include "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+{% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}

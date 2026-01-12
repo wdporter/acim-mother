@@ -37,4 +37,4 @@ You who have tried to banish love have not succeeded, but you who choose to bani
 
 We are therefore embarking on an organized, well-structured and carefully planned program aimed at learning how to offer to the Holy Spirit everything you do not want. He knows what to do with it. You do not understand how to use what He knows. Whatever is given Him that is not of God is gone. Yet you must look at it yourself in perfect willingness, for otherwise His knowledge remains useless to you. Surely He will not fail to help you, since help is His only purpose. Do you not have greater reason for fearing the world as you perceive it, than for looking at the cause of fear and letting it go forever?
 
-{% include "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+{% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}

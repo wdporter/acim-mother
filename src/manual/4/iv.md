@@ -20,4 +20,4 @@ Harm is impossible for God’s teachers. They can neither harm nor be harmed. Ha
 
 Therefore, God’s teachers are wholly gentle. They need the strength of gentleness, for it is in this that the function of salvation becomes easy. To those who would do harm, it is impossible. To those to whom harm has no meaning, it is merely natural. What choice but this has meaning to the sane? Who chooses hell when they perceive a way to Heaven? And who would choose the weakness that must come from harm in place of the unfailing, all-encompassing and limitless strength of gentleness? The might of God’s teachers lies in their gentleness, for they have understood their evil thoughts came neither from God’s Son nor his Creator. Thus did they join their thoughts with Her Who is their Source. And so their will, which always was Her Own, is free to be itself.
 
- {% include "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+ {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}

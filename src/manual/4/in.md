@@ -20,4 +20,4 @@ The surface traits of God’s teachers are not at all alike. They do not look al
 
 All differences among the Sons of God are temporary. Nevertheless, in time it can be said that the advanced teachers of God have the following characteristics:
 
- {% include "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+ {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}

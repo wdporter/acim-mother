@@ -45,4 +45,4 @@ Your relationship with your companion has been uprooted from the world of shadow
 
 And when the memory of God has come to you in the holy place of forgiveness you will remember nothing else, and memory will be as useless as learning, for your only purpose will be creating. Yet this you cannot know until every perception has been cleansed and purified, and finally removed forever. Forgiveness removes only the untrue, lifting the shadows from the world and carrying it, safe and sure within its gentleness, to the bright world of new and clean perception. There is your purpose _now_. And it is there that peace awaits you.
 
- {% include "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+ {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}

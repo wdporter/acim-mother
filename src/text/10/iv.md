@@ -34,4 +34,4 @@ The miracle is the act of a Son of God who has laid aside all false gods, and ca
 
 In many only the spark remains, for the Great Rays are obscured. Yet God has kept the spark alive so that the Rays can never be completely forgotten. If you but see the little spark you will learn of the greater light, for the Rays are there unseen. Perceiving the spark will heal, but knowing the light will create. Yet in the returning the little light must be acknowledged first, for the separation was a descent from magnitude to littleness. But the spark is still as pure as the Great Light, because it is the remaining call of creation. Put all your faith in it, and God Herself will answer you.
 
- {% include "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+ {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}

@@ -23,4 +23,4 @@ const layout = "mylayout.njk"
 
  Ideally, psychotherapy is a series of holy encounters in which companions meet to bless each other and to receive the peace of God. And this will one day come to pass for every “patient” on the face of this earth, for who except a patient could possibly have come here? Therapists are only a somewhat more specialized teachers of God. They learn through teaching, and the more advanced they are the more they teach and the more they learn. But whatever stage they are in, there are patients who need them just that way. They [patients] cannot take more than they [psychotherapists] can give for now. Yet both will find sanity at last.
 
- {% include "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+ {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}

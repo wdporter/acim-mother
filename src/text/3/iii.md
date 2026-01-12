@@ -29,5 +29,5 @@ Right perception is necessary before God can communicate directly to Her altars,
 
 If you attack error in another, you will hurt yourself. You cannot know your companions when you attack them. Attack is always made upon strangers. You are making them strangers by misperceiving them, and so you cannot know them. It is because you have made them a stranger that you are afraid of them. Perceive them correctly so that you can know them. There are no strangers in God’s creation. To create as She created you can create only what you know, and therefore accept as yours. God knows Her children with perfect certainty. She created them by knowing them. She recognizes them perfectly. When they do not recognize each other, they do not recognize Her.
 
- {% include "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+ {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}
 

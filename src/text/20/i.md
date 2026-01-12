@@ -24,4 +24,4 @@ A week is short, and yet this holy week is the symbol of the whole journey the S
 
 Easter is not the celebration of the _cost_ of sin, but of its _end._ If you see glimpses of the face of Christ behind the veil, looking between the snow-white petals of the lilies you have received and given as your gift, you will behold your companion’s face and recognize it. I was a stranger and you took me in, not knowing who I was. Yet for your gift of lilies you will know. In your forgiveness of this stranger, alien to you and yet your ancient Friend, lies his release and your redemption with him. The time of Easter is a time of joy, and not of mourning. Look on your risen Friend, and celebrate his holiness along with me. For Easter is the time of your salvation, along with mine.
 
- {% include "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+ {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}

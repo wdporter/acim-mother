@@ -20,4 +20,4 @@ All other traits of God’s teachers rest on trust. Once that has been achieved,
 
 The peace of mind which the advanced teachers of God experience is largely due to their perfect honesty. It is only the wish to deceive that makes for war. No one at one with themselves can even conceive of conflict. Conflict is the inevitable result of self-deception, and self-deception is dishonesty. There is no challenge to a teacher of God. Challenge implies doubt, and the trust on which God’s teachers rest secure makes doubt impossible. Therefore they can only succeed. In this, as in all things, they are honest. They can only succeed, because they never do their will alone. They choose for all mankind; for all the world and all things in it; for the unchanging and unchangeable beyond appearances; and for the Son of God and his Creator. How could they not succeed? They choose in perfect honesty, sure of their choice as of themselves.
 
- {% include "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+ {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}

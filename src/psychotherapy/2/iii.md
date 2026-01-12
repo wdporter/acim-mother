@@ -24,4 +24,4 @@ It is quite possible for psychotherapy to seem to fail. It is even possible for 
 
 The ideal therapist is one with Christ. But healing is a process, not a fact. The therapist cannot progress without the patient, and patients cannot be ready to receive the Christ or they could not be sick. In a sense, egoless psychotherapists are abstractions that stands at the end of the process of healing, too advanced to believe in sickness and too near to God to keep their feet on earth. Now they can help through those in need of help, for thus they carry out the plan established for salvation. Psychotherapists becomes their patients, working through other patients to express their thoughts as they receive them from the Mind of Christ.
 
- {% include "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+ {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}

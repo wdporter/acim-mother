@@ -43,6 +43,6 @@ Allowing insanity to enter your mind means that you have not judged sanity as wh
 
 In this depressing state the Holy Spirit reminds you gently that you are sad because you are not fulfilling your function as co-creator with God, and are therefore depriving yourself of joy. This is not God’s choice but yours. If your mind could be out of accord with God’s, you would be willing without meaning. Yet because God’s Will is unchangeable, no conflict of will is possible. This is the Holy Spirit’s perfectly consistent teaching. Creation, not separation, is your will _because_ it is God’s, and nothing that opposes this means anything at all. Being a perfect accomplishment, the Sonship can only accomplish perfectly, extending the joy in which it was created, and identifying itself with both its Creator and its creations, knowing They are One.
 
- {% include "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+ {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}
 
 

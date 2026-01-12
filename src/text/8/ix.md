@@ -36,4 +36,4 @@ You have surely begun to realize that this is a very practical course, and one t
 
 The unification of purpose, then, is the Holy Spirit’s only way of healing. This is because it is the only level at which healing means anything. The re-establishing of meaning in a chaotic thought system _is_ the way to heal it. Your task is only to meet the conditions for meaning, since meaning itself is of God. Yet your return to meaning is essential to Hers, because your meaning is part of Hers. Your healing, then, is part of Her health, since it is part of Her Wholeness. She cannot lose this, but you _can_ not know it. Yet it is still Her Will for you, and Her Will must stand forever and in all things.
 
- {% include "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+ {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}

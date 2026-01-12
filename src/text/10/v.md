@@ -46,4 +46,4 @@ Do not perceive anything God did not create or you are denying Her. Hers is the 
 
 Arrogance is the denial of love, because love shares and arrogance withholds. As long as both appear to you to be desirable the concept of choice, which is not of God, will remain with you. While this is not true in eternity it _is_ true in time, so that while time lasts in your mind there will be choices. Time itself is your choice. If you would remember eternity, you must look only on the eternal. If you allow yourself to become preoccupied with the temporal, you are living in time. As always, your choice is determined by what you value. Time and eternity cannot both be real, because they contradict each other. If you will accept only what is timeless as real, you will begin to understand eternity and make it yours.
 
- {% include "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+ {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}

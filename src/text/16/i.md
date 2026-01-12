@@ -33,4 +33,4 @@ The meaning of love is lost in any relationship that looks to weakness, and hope
 
 _You_ will attempt to do this only in secrecy. And you will think that by meeting the needs of one you do not jeopardize another, because you keep them separate and secret from each other. That is not the way, for it leads not to life and truth. No needs will long be left unmet if you leave them all to Him Whose function is to meet them. That is His function, and not yours. He will not meet them secretly, for He would share everything you give through Him. That is why He gives it. What you give through Him is for the whole Sonship, not for part of it. Leave Him His function, for He will fulfill it if you but ask Him to enter your relationships, and bless them for you.
 
- {% include "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+ {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}

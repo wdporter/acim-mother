@@ -20,4 +20,4 @@ To you who are in time a little while, prayer takes the form that best will suit
 
 Lay down your dreams, you holy Son of God, and rising up as God created you, dispense with idols and remember Her. Prayer will sustain you now, and bless you as you lift your heart to Her in rising song that reaches higher and then higher still, until both high and low have disappeared. Faith in your goal will grow and hold you up as you ascend the shining stairway to the lawns of Heaven and the gate of peace. For this is prayer, and here salvation is. This is the way. It is God’s gift to you.
 
- {% include "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+ {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}

@@ -37,4 +37,4 @@ What has no meaning cannot be perceived. And meaning always looks within to find
 
 When you have looked on what seemed terrifying, and seen it change to sights of loveliness and peace; when you have looked on scenes of violence and death, and watched them change to quiet views of gardens under open skies, with clear, life-giving water running happily beside them in dancing brooks that never waste away; who need persuade you to accept the gift of vision? And after vision, who is there who could refuse what must come after? Think but an instant just on this; you can behold the holiness God gave Her Son. And never need you think that there is something else for you to see.
 
- {% include "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+ {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}
