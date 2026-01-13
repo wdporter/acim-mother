@@ -1,0 +1,52 @@
+---js
+const layout = "mylayout.njk"
+const title = "The Dreamer of the Dream"
+const volume = "T"
+const chapter = 27
+const parent = `${volume}-${chapter}`
+const section = "VII"
+const reference = `${parent}.${section}`
+const headerTitle = `${section}. ${title}`
+const pageNumber = 312
+const eleventyNavigation = {
+	key: reference,
+	order: pageNumber,
+	title: headerTitle,
+	parent
+}
+const prev = "/text/27/vi"
+const next = "/text/27/viii"
+---
+Suffering is an emphasis upon all that the world has done to injure you. Here is the world’s demented version of salvation clearly shown. Like to a dream of punishment, in which dreamers are unconscious of what brought on the attack against themselves, they sees themselves attacked unjustly and by something not themselves. They are the victim of this “something else,” a thing outside themselves, for which they have no reason to be held responsible. They must be innocent because they know not what they do, but what is done to them. Yet is their own attack upon themselves apparent still, for it is they who bear the suffering. And they cannot escape because its source is seen outside themselves.
+
+Now you are being shown you _can_ escape. All that is needed is you look upon the problem as it is, and not the way that you have set it up. How could there be another way to solve a problem that is very simple, but has been obscured by heavy clouds of complication, which were made to keep the problem unresolved? Without the clouds the problem will emerge in all its primitive simplicity. The choice will not be difficult, because the problem is absurd when clearly seen. No one has difficulty making up their mind to let a simple problem be resolved if it is seen as hurting them, and also very easily removed.
+
+The “reasoning” by which the world is made, on which it rests, by which it is maintained, is simply this: “_You_ are the cause of what I do. Your presence justifies my wrath, and you exist and think apart from me. While you attack I must be innocent. And what I suffer from is your attack.” No one who looks upon this “reasoning” exactly as it is could fail to see it does not follow and it makes no sense. Yet it seems sensible, because it looks as if the world were hurting you. And so it seems as if there is no need to go beyond the obvious in terms of cause.
+
+There is indeed a need. The world’s escape from condemnation is a need which those within the world are joined in sharing. Yet they do not recognize their common need. For each one thinks that if they do their part, the condemnation of the world will rest on them. And it is this that they perceive to _be_ their part in its deliverance. Vengeance must have a focus. Otherwise is the avenger’s knife in their own hand, and pointed to themselves. And they must see it in another’s hand, if they would be a victim of attack they did not choose. And thus they suffer from the wounds a knife they do not hold has made upon themselves.
+
+This is the purpose of the world they see. And looked at thus, the world provides the means by which this purpose seems to be fulfilled. The means attest the purpose, but are not themselves a cause. Nor will the cause be changed by seeing it apart from its effects. The cause produces the effects, which then bear witness to the cause, and not themselves. Look, then, beyond effects. It is not here the cause of suffering and sin must lie. And dwell not on the suffering and sin, for they are but reflections of their cause.
+
+The part you play in salvaging the world from condemnation is your own escape. Forget not that the witness to the world of evil cannot speak except for what has seen a need for evil in the world. And this is where your guilt was first beheld. In separation from your companion was the first attack upon yourself begun. And it is this the world bears witness to. Seek not another cause, nor look among the mighty legions of its witnesses for its undoing. They support its claim on your allegiance. What conceals the truth is not where you should look to _find_ the truth.
+
+The witnesses to sin all stand within one little space. And it is here you find the cause of your perspective on the world. Once you were unaware of what the cause of everything the world appeared to thrust upon you, uninvited and unasked, must really be. Of one thing you were sure: Of all the many causes you perceived as bringing pain and suffering to you, your guilt was not among them. Nor did you in any way request them for yourself. This is how all illusions came about. The ones who makes them do not see themselves as making them, and their reality does not depend on them. Whatever cause they have is something quite apart from them, and what they see is separate from their mind. They cannot doubt their dreams’ reality, because they do not see the part they play in making them and making them seem real.
+
+No one can waken from a dream the world is dreaming for them. They become a part of someone else’s dream. They cannot choose to waken from a dream they did not make. Helpless they stand, victims to a dream conceived and cherished by a separate mind. Careless indeed of them this mind must be, as thoughtless of their peace and happiness as is the weather or the time of day. It loves them not, but casts them as it will in any role that satisfies its dream. So little is their worth that they are but a dancing shadow, leaping up and down according to a senseless plot conceived within the idle dreaming of the world.
+
+This is the only picture you can see; the one alternative that you can choose, the other possibility of cause, if you be not the dreamer of your dreams. And this is what you choose if you deny the cause of suffering is in your mind. Be glad indeed it is, for thus are you the one decider of your destiny in time. The choice is yours to make between a sleeping death and dreams of evil or a happy wakening and joy of life.
+
+What could you choose between but life or death, waking or sleeping, peace or war, your dreams or your reality? There is a risk of thinking death is peace, because the world equates the body with the Self which God created. Yet a thing can never be its opposite. And death is opposite to peace, because it is the opposite of life. And life is peace. Awaken and forget all thoughts of death, and you will find you have the peace of God. Yet if the choice is really given you, then you must see the causes of the things you choose between exactly as they are and where they are.
+
+What choices can be made between two states, but one of which is clearly recognized? Who could be free to choose between effects, when only one is seen as up to them? An honest choice could never be perceived as one in which the choice is split between a tiny you and an enormous world, with different dreams about the truth in you. The gap between reality and dreams lies not between the dreaming of the world and what you dream in secret. They are one. The dreaming of the world is but a part of your own dream you gave away, and saw as if it were its start and ending, both. Yet was it started by your secret dream, which you do not perceive although it caused the part you see and do not doubt is real. How could you doubt it while you lie asleep, and dream in secret that its cause is real?
+
+A companion separated from yourself, an ancient enemy, a murderer who stalks you in the night and plots your death, yet plans that it be lingering and slow; of this you dream. Yet underneath this dream is yet another, in which you become the murderer, the secret enemy, the scavenger and the destroyer of your companion and the world alike. Here is the cause of suffering, the space between your little dreams and your reality. The little gap you do not even see, the birthplace of illusions and of fear, the time of terror and of ancient hate, the instant of disaster, all are here. Here is the cause of unreality. And it is here that it will be undone.
+
+_You_ are the dreamer of the world of dreams. No other cause it has, nor ever will. Nothing more fearful than an idle dream has terrified God’s Son, and made him think that he has lost his innocence, denied his Mother, and made war upon himself. So fearful is the dream, so seeming real, he could not waken to reality without the sweat of terror and a scream of mortal fear, unless a gentler dream preceded his awaking, and allowed his calmer mind to welcome, not to fear, the Voice that calls with love to waken him; a gentler dream, in which his suffering was healed and where his companion was his friend. God willed he waken gently and with joy, and gave him means to waken without fear.
+
+Accept the dream She gave instead of yours. It is not difficult to change a dream when once the dreamer has been recognized. Rest in the Holy Spirit, and allow His gentle dreams to take the place of those you dreamed in terror and in fear of death. He brings forgiving dreams, in which the choice is not who is the murderer and who shall be the victim. In the dreams He brings there is no murder and there is no death. The dream of guilt is fading from your sight, although your eyes are closed. A smile has come to lighten up your sleeping face. The sleep is peaceful now, for these are happy dreams.
+
+Dream softly of your sinless companion, who unites with you in holy innocence. And from this dream the Lord of Heaven will Herself awaken Her beloved Son. Dream of your companions’ kindnesses instead of dwelling in your dreams on their mistakes. Select their thoughtfulness to dream about instead of counting up the hurts they gave. Forgive them their illusions, and give thanks to them for all the helpfulness they gave. And do not brush aside their many gifts because they are not perfect in your dreams. They represent their Mother, Whom you see as offering both life and death to you.
+
+Friend, She gives but life. Yet what you see as gifts your companion offers represent the gifts you dream your Mother gives to you. Let all your companions’ gifts be seen in light of charity and kindness offered you. And let no pain disturb your dream of deep appreciation for their gifts to you. (
+
+{% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}
