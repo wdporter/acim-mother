@@ -8,11 +8,11 @@ bookAbbreviation: ACIM
 <meta name=description content="A Course in Miracles reimagined with gender changes. God is Mother and brothers become companions ">
 <link rel=icon href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2280%22>⭐</text></svg>" type="image/svg+xml">
 <title>{{reference}} | {{title}} | {{bookAbbreviation}} </title>
+<link rel=stylesheet href=/assets/simple.css type=text/css>
 <link rel=stylesheet href=/assets/tailwind.css type=text/css>
-<link rel=stylesheet href=/assets/simple.min.css type=text/css>
-<link rel=author href=mailto:david.porter@fastmail.com>
 <link rel=stylesheet href={{ "/assets/bundle.css" | url }} type=text/css>
 
+<link rel=author href=mailto:david.porter@fastmail.com>
 
 <script src={{ "/assets/acim-org-link.js" | url }}></script>
 
@@ -74,7 +74,7 @@ bookAbbreviation: ACIM
 {%- for navPage in navPages -%}
 	{%-  set myTitle = navPage.menuTitle if navPage.menuTitle else navPage.title -%}
 	<details {% if navPage.url in page.url -%}open{%- endif %} class="pl-0 group"><summary class="group-open:-mb-2!">{{myTitle}}</summary>
-		<ul class="list-none pl-4 my-0">
+		<ul class="list-none pl-4 mt-0 mb-0">
 		{{ renderNavListItem(navPage ) }}
 		{%- for childNavPage in navPage.children -%}
 			{%-  set childTitle = childNavPage.menuTitle if childNavPage.menuTitle else childNavPage.title -%}
@@ -83,7 +83,7 @@ bookAbbreviation: ACIM
 				{{ renderNavListItem(childNavPage) }}
 			{% else %}
 				<details {% if childNavPage.url in page.url %}open{% endif %}  class="pl-0 group"><summary class="group-open:-mb-2!">{{childTitle}}</summary>
-					<ul class="list-none pl-4 my-0">
+					<ul class="list-none pl-4 mt-0 mb-0">
 					{{ renderNavListItem(childNavPage) }}
 					{%- for grandchildNavPage in childNavPage.children -%}
 						{{ renderNavListItem(grandchildNavPage) }}
