@@ -6,15 +6,14 @@ const eleventyNavigation = {
 	key: reference,
 	title,
 	parent: "home",
-	order: 901
+	order: 5
 }
-const prev = "/use-of-terms/8"
-const next = "/psychotherapy/2/in"
+const prev = "/use-of-terms"
+const next = "/song"
 ---
+
+<h3>Purpose, Process and Practice</h3>
 
 {%- assign navPages = collections.all | eleventyNavigation: reference -%}
 {%- render "indexpage", navPages: navPages  -%}
-</ul>
-
-
 
