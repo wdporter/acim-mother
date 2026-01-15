@@ -5,7 +5,7 @@ const prev = "/psychotherapy/3/iii"
 const next = "/song/1/in"
 const layout = "mylayout.njk"
 const volume = "S"
-const reference = `${volume}-${chapter}`
+const reference = `${volume}:${chapter}`
 const headerTitle = `${chapter}. ${title}`
 const eleventyNavigation = {
 	key: reference,

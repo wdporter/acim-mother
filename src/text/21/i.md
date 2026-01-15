@@ -1,9 +1,9 @@
 ---js
 const layout = "mylayout.njk"
 const title = "The Forgotten Song"
-const volume = "T"
+const volume = "Tx"
 const chapter = 21
-const parent = `${volume}-${chapter}`
+const parent = `${volume}:${chapter}`
 const section = "I"
 const reference = `${parent}.${section}`
 const pageNumber = 252

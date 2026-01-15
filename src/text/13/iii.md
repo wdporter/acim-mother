@@ -18,9 +18,9 @@ Guilt remains the only
 thing that hides the Mother, for guilt is the attack upon Her Son.
 The guilty *always* condemn, and having done so, they
 *will* condemn, linking the future to the past as is the
-ego's law. Fidelity unto this law lets no light in, for it
+ego’s law. Fidelity unto this law lets no light in, for it
 *demands* fidelity to darkness and *forbids* awakening. The
-ego's laws are strict, and breaches are severely punished.
+ego’s laws are strict, and breaches are severely punished.
 Therefore give no obedience to its laws, for they are laws of
 punishment. And those who follow them believe that they are guilty,
 and so they *must* condemn. Between the future and the past, the
@@ -29,8 +29,8 @@ stands between them like a lamp that shines so brightly that the
 chain of darkness in which you bound yourselves will disappear.*
 
 Release from guilt is the
-ego's whole undoing. *Make no one fearful*, for their guilt is
-yours, and by obeying the ego's harsh commandments, you bring its
+ego’s whole undoing. *Make no one fearful*, for their guilt is
+yours, and by obeying the ego’s harsh commandments, you bring its
 condemnation of yourself, and you will not escape the punishment it
 offers those who obey it. The ego rewards fidelity to it with pain,
 for faith in it *is* pain. And faith can be rewarded only in

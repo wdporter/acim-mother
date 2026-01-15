@@ -4,7 +4,7 @@ const next = "/text/19/i"
 const title = "Beyond the Body"
 const chapter = 19
 const volume = "Tx"
-const reference = `${volume}-${chapter}`
+const reference = `${volume}:${chapter}`
 const headerTitle = `${chapter}. ${title}`
 const eleventyNavigation = {
 	key: reference,

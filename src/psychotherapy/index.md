@@ -8,7 +8,7 @@ const eleventyNavigation = {
 	parent: "home",
 	order: 901
 }
-const prev = "/clarification/ep"
+const prev = "/use-of-terms/8"
 const next = "/psychotherapy/2/in"
 ---
 

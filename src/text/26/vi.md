@@ -1,9 +1,9 @@
 ---js
 const layout = "mylayout.njk"
 const title = "The Appointed Friend"
-const volume = "T"
+const volume = "Tx"
 const chapter = 26
-const parent = `${volume}-${chapter}`
+const parent = `${volume}:${chapter}`
 const section = "VI"
 const reference = `${parent}.${section}`
 const headerTitle = `${section}. ${title}`

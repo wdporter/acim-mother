@@ -1,9 +1,9 @@
 ---js
 const layout = "mylayout.njk"
 const title = "From Vigilance to Peace"
-const volume = "T"
+const volume = "Tx"
 const chapter = 7
-const parent = `${volume}-${chapter}`
+const parent = `${volume}:${chapter}`
 const section = "VI"
 const reference = `${parent}.${section}`
 const headerTitle = `${section}. ${title}`

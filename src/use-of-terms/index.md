@@ -1,15 +1,15 @@
 ---js
 const layout = "mylayout.njk"
-const title = "Clarification of Terms"
+const title = "Use of Terms"
 const reference = "C"
 const eleventyNavigation = {
 	key: reference,
 	title,
 	parent: "home",
-	order: 851
+	order: 4
 }
 const prev = "/manual/29"
-const next = "/clarification/in"
+const next = "/use-of-terms/1"
 ---
 
 {%- assign navPages = collections.all | eleventyNavigation: reference -%}

@@ -6,7 +6,7 @@ const eleventyNavigation = {
 	key: reference,
 	title,
 	parent: "home",
-	order: 801
+	order: 3
 }
 const prev = "/workbook/ep"
 const next = "/manual/in"

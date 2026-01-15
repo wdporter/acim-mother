@@ -84,7 +84,7 @@ the fear. It is possible to reach a state in which you bring your
 will under my guidance without much conscious effort, but this
 implies habit patterns which you have not developed dependably as
 yet. God cannot ask more than you will. The strength to do comes from
-your own undivided will to do. There is no strain in doing God's
+your own undivided will to do. There is no strain in doing God’s
 Will as soon as you recognize that it is also your own.
 
 The lesson here is quite

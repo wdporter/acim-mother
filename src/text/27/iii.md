@@ -1,9 +1,9 @@
 ---js
 const layout = "mylayout.njk"
 const title = "Beyond All Symbols"
-const volume = "T"
+const volume = "Tx"
 const chapter = 27
-const parent = `${volume}-${chapter}`
+const parent = `${volume}:${chapter}`
 const section = "III"
 const reference = `${parent}.${section}`
 const headerTitle = `${section}. ${title}`

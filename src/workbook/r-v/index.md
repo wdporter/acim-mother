@@ -3,7 +3,7 @@ const layout = "mylayout.njk"
 const title = "Review V: Lessons 171–180"
 const volume = "W"
 const chapter = "rV"
-const reference = `${volume}-${chapter}`
+const reference = `${volume}:${chapter}`
 const headerTitle = title
 const eleventyNavigation = {
 	key: reference,
