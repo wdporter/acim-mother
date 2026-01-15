@@ -1,6 +1,6 @@
 ---js
 const layout = "mylayout.njk"
-const title = "Review IV"
+const title = "Review IV: Lessons 141–150"
 const volume = "W"
 const chapter = "rIV"
 const reference = `${volume}-${chapter}`
@@ -9,7 +9,7 @@ const eleventyNavigation = {
 	key: reference,
 	title,
 	parent: volume,
-	order: 546
+	order: 9
 }
 const prev = "/workbook/121-140/140"
 const next = "/workbook/r-iv/in"

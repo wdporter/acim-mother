@@ -9,7 +9,7 @@ const superTitle = "Workbook for Students"
 const headerTitle = title
 const eleventyNavigation = {
 	key: reference,
-	order: pageNumber,
+	order: 1,
 	title,
 	parent: volume
 }

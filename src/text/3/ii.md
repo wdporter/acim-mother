@@ -1,7 +1,7 @@
 ---js
 const layout = "mylayout.njk"
 const title = "Miracles as True Perception"
-const chapter = "T-3"
+const chapter = "Tx:3"
 const section = "II"
 const reference = `${chapter}.${section}`
 const headerTitle = `${section}. ${title}`

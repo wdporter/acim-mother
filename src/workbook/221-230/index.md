@@ -9,7 +9,7 @@ const eleventyNavigation = {
 	key: reference,
 	title,
 	parent: volume,
-	order: 632
+	order: 15
 }
 ---
 {%- assign navPages = collections.all | eleventyNavigation: reference -%}

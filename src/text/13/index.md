@@ -9,7 +9,7 @@ const eleventyNavigation = {
 	key: reference,
 	title: headerTitle,
 	parent: volume,
-	order: 13
+	order: chapter
 }
 const prev = "/text/12/vii"
 const next = "/text/13/i"

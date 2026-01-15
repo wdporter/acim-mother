@@ -1,17 +1,17 @@
 ---js
 const layout = "mylayout.njk"
-const title = "The Holy Spirit’s Curriculum"
-const volume = "T"
+const title = "The Problem of Guilt"
+const volume = "Tx"
 const chapter = 12
-const reference = `${volume}-${chapter}`
+const reference = `${volume}:${chapter}`
 const headerTitle = `${chapter}. ${title}`
 const eleventyNavigation = {
 	key: reference,
 	title: headerTitle,
 	parent: volume,
-	order: 155
+	order: chapter
 }
-const prev = "/text/11/viii"
+const prev = "/text/11/x"
 const next = "/text/12/i"
 ---
 

@@ -1,7 +1,7 @@
 ---js
 const layout = "mylayout.njk"
 const title = "Perception versus Knowledge"
-const chapter = "T-3"
+const chapter = "Tx:3"
 const section = "III"
 const reference = `${chapter}. ${section}`
 const pageNumber = 73

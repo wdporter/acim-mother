@@ -1,16 +1,16 @@
 ---js
-const prev = "/text/14/xi"
+const prev = "/text/14/vii"
 const next = "/text/15/i"
 const chapter = 15
-const title = "The Holy Instant"
-const volume = "T"
-const reference = `${volume}-${chapter}`
+const title = "The Pupose of Time"
+const volume = "Tx"
+const reference = `${volume}:${chapter}`
 const headerTitle = `${chapter}. ${title}`
 const eleventyNavigation = {
 	key: reference,
 	title: headerTitle,
 	parent: volume,
-	order: 190
+	order: chapter
 }
 const layout = "mylayout.njk"
 ---
