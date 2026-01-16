@@ -1,48 +1,192 @@
 ---js
 const layout = "mylayout.njk"
-const title = "From Vigilance to Peace"
+const title = "Healing and the Changelessness of Mind"
 const volume = "Tx"
 const chapter = 7
 const parent = `${volume}:${chapter}`
 const section = "VI"
 const reference = `${parent}.${section}`
 const headerTitle = `${section}. ${title}`
-const pageNumber = 112
 const eleventyNavigation = {
 	key: reference,
-	order: pageNumber,
+	order: chapter,
 	title: headerTitle,
 	parent
 }
 const prev = "/text/7/v"
 const next = "/text/7/vii"
 ---
-Although you can love the Sonship only as one, you can perceive it as fragmented. It is impossible, however, to see something in part of it that you will not attribute to all of it. That is why attack is never discrete, and why it must be relinquished entirely. If it is not relinquished entirely it is not relinquished at all. Fear and love make or create, depending on whether the ego or the Holy Spirit begets or inspires them, but they _will_ return to the minds of the thinkers and they will affect their total perception. That includes their concept of God, of Her creations and of their own. They will not appreciate any of Them if they regard Them fearfully. They will appreciate all of Them if they regard Them with love.
+The body is nothing more
+than a framework for developing abilities. It is therefore a means
+for developing *potentials*, which is quite apart from what the
+potential is used *for*. *That* is a *decision*. The
+effects of the ego’s decision in this matter are so apparent that
+they need no elaboration here, but the Holy Spirit’s decision to
+use the body *only* for communication has such a direct
+connection with healing that it *does* need clarification. Unhealed healers *obviously* does not understand their own
+vocation.
 
-The mind that accepts attack cannot love. That is because it believes it can destroy love, and therefore does not understand what love is. If it does not understand what love is, it cannot perceive itself as loving. This loses the awareness of being, induces feelings of unreality and results in utter confusion. Your thinking has done this because of its power, but your thinking can also save you from this because its power is not of your making. Your ability to direct your thinking as you choose is part of its power. If you do not believe you can do this you have denied the power of your thought, and thus rendered it powerless in your belief.
+*Only* minds
+communicate. Since the ego *cannot* obliterate the impulse to communicate because it is also the impulse to create, the ego can only teach you that the *body* can both communicate *and*
+create and therefore does not *need* the mind. The ego thus
+tries to teach you that the body can *act* like the mind and is
+therefore self-sufficient. Yet we have learned that behavior is
+*not* the level for either teaching *or* learning. This
+must be so, since you *can* act in accordance with what you do
+*not* believe. To do this, however, will weaken you as teachers
+*and* learners because, as has been repeatedly emphasized, you
+teach what you *do* believe. An inconsistent lesson will be
+poorly taught *and poorly learned*. If you teach both sickness
+*and* healing, you are both a poor teacher *and* a poor
+learner.
 
-The ingeniousness of the ego to preserve itself is enormous, but it stems from the very power of the mind the ego denies. This means that the ego attacks what is preserving it, which must result in extreme anxiety. That is why the ego never recognizes what it is doing. It is perfectly logical but clearly insane. The ego draws upon the one source that is totally inimical to its existence _for_ its existence. Fearful of perceiving the power of this source, it is forced to depreciate it. This threatens its own existence, a state which it finds intolerable. Remaining logical but still insane, the ego resolves this completely insane dilemma in a completely insane way. It does not perceive _its_ existence as threatened by projecting the threat onto _you,_ and perceiving your being as nonexistent. This ensures its continuance if you side with it, by guaranteeing that you will not know your own safety.
+Healing is the one ability
+which everyone can develop and *must* develop if they are to be
+healed. Healing is the Holy Spirit’s form of communication and
+the *only* one He knows. He recognizes no other, because He does
+not accept the ego’s confusion of mind and body. Minds can
+communicate, but they *cannot* hurt. The body in the service of
+the ego can hurt other *bodies*, but this cannot occur unless
+the body has *already* been confused with the mind. This fact,
+too, can be used either for healing or for magic, but you must
+remember that magic is *always* the belief that healing is
+*harmful*. This is its totally insane premise, and so it
+proceeds accordingly.
 
-The ego cannot afford to know anything. Knowledge is total, and the ego does not believe in totality. This unbelief is its origin, and while the ego does not love you it _is_ faithful to its own antecedents, begetting as it was begotten. Mind always reproduces as it was produced. Produced by fear, the ego reproduces fear. This is its allegiance, and this allegiance makes it treacherous to love because you _are_ love. Love is your power, which the ego must deny. It must also deny everything this power gives you _because_ it gives you everything. No one who has everything wants the ego. Its own maker, then, does not want it. Rejection is therefore the only decision the ego could possibly encounter, if the mind that made it knew itself. And if it recognized any part of the Sonship, it _would_ know itself.
-
-The ego therefore opposes all appreciation, all recognition, all sane perception and all knowledge. It perceives their threat as total, because it senses that all commitments the mind makes are total. Forced, therefore, to detach itself from you, it is willing to attach itself to anything else. But there _is_ nothing else. The mind can, however, make up illusions, and if it does so it will believe in them, because that is how it made them.
-
-The Holy Spirit undoes illusions without attacking them, because He cannot perceive them at all. They therefore do not exist for Him. He resolves the apparent conflict they engender by perceiving conflict as meaningless. I have said before that the Holy Spirit perceives the conflict exactly as it is, and it _is_ meaningless. The Holy Spirit does not want you to understand conflict; He wants you to realize that, because conflict is meaningless, it is not understandable. As I have already said, understanding brings appreciation and appreciation brings love. Nothing else can be understood, because nothing else is real and therefore nothing else has meaning.
-
-If you will keep in mind what the Holy Spirit offers you, you cannot be vigilant for anything _but_ God and Her Realm. The only reason you may find this hard to accept is because you may still think there is something else. Belief does not require vigilance unless it is conflicted. If it is, there are conflicting components within it that have led to a state of war, and vigilance has therefore become essential. Vigilance has no place in peace. It is necessary against beliefs that are not true, and would never have been called upon by the Holy Spirit if you had not believed the untrue. When you believe something, you have made it true for you. When you believe what God does not know, your thought seems to contradict Hers, and this makes it appear as if you are attacking Her.
-
-I have repeatedly emphasized that the ego does believe it can attack God, and tries to persuade you that you have done this. If the mind cannot attack, the ego proceeds perfectly logically to the belief that you must be a body. By not seeing you as you are, it can see itself as it wants to be. Aware of its weakness the ego wants your allegiance, but not as you really are. The ego therefore wants to engage your mind in its own delusional system, because otherwise the light of your understanding would dispel it. It wants no part of truth, because the ego itself is not true. If truth is total, the untrue cannot exist. Commitment to either must be total; they cannot coexist in your mind without splitting it. If they cannot coexist in peace, and if you want peace, you must give up the idea of conflict entirely and for all time. This requires vigilance only as long as you do not recognize what is true. While you believe that two totally contradictory thought systems share truth, your need for vigilance is apparent.
-
-Your mind is dividing its allegiance between two realms, and you are totally committed to neither. Your identification with the Realm is totally beyond question except by you, when you are thinking insanely. What you are is not established by your perception, and is not influenced by it at all. Perceived problems in identification at any level are not problems of fact. They are problems of understanding, since their presence implies a belief that what you are is up to you to decide. The ego believes this totally, being fully committed to it. It is not true. The ego therefore is totally committed to untruth, perceiving in total contradiction to the Holy Spirit and to the knowledge of God.
-
-You can be perceived with meaning only by the Holy Spirit because your being _is_ the knowledge of God. Any belief you accept apart from this will obscure God’s Voice in you, and will therefore obscure God to you. Unless you perceive Her creation truly you cannot know the Creator, since God and Her creation are not separate. The Oneness of the Creator and the creation is your wholeness, your sanity and your limitless power. This limitless power is God’s gift to you, because it is what you are. If you dissociate your mind from it you are perceiving the most powerful force in the universe as if it were weak, because you do not believe you are part of it.
-
-Perceived without your part in it, God’s creation is seen as weak, and those who see themselves as weakened do attack. The attack must be blind, however, because there is nothing to attack. Therefore they make up images, perceive them as unworthy and attack them for their unworthiness. That is all the world of the ego is. Nothing. It has no meaning. It does not exist. Do not try to understand it because, if you do, you are believing that it can be understood and is therefore capable of being appreciated and loved. That would justify its existence, which cannot be justified. You cannot make the meaningless meaningful. This can only be an insane attempt.
-
-Allowing insanity to enter your mind means that you have not judged sanity as wholly desirable. If you want something else you will make something else, but because it is something else, it will attack your thought system and divide your allegiance. You cannot create in this divided state, and you must be vigilant against this divided state because only peace can be extended. Your divided mind is blocking the extension of the Realm; and its extension is your joy. If you do not extend the Realm, you are not thinking with your Creator and creating as She created.
-
-In this depressing state the Holy Spirit reminds you gently that you are sad because you are not fulfilling your function as co-creator with God, and are therefore depriving yourself of joy. This is not God’s choice but yours. If your mind could be out of accord with God’s, you would be willing without meaning. Yet because God’s Will is unchangeable, no conflict of will is possible. This is the Holy Spirit’s perfectly consistent teaching. Creation, not separation, is your will _because_ it is God’s, and nothing that opposes this means anything at all. Being a perfect accomplishment, the Sonship can only accomplish perfectly, extending the joy in which it was created, and identifying itself with both its Creator and its creations, knowing They are One.
-
- {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+Healing only
+*strengthens*. Magic *always* tries to weaken. Healing
+perceives *nothing* in the healer that everyone else does not
+*share* with them. Magic *always* sees something
+“special”in the healer which they believe they can offer as a
+gift to someone who does *not* have it. They may believe that the
+gift comes *from* God *to* them, but it is quite evident that they
+does not understand God if they think they have something that others *do not*. You might well ask, then, why some healing *can*
+result from this kind of thinking, and there is a reason for this.
 
 
+However misguided “magical healers”may be, they are *also* trying to help.
+They are conflicted and unstable, but *at times* they are offering
+something to the Sonship, and the only thing the Sonship can
+*accept* is healing. When the so-called “healing”
+works, then, the impulse to help and to *be* helped have
+coincided. This is coincidental because healers may *not* be
+experiencing themselves as truly helpful at the time, but the belief
+that they *are*, in the mind of another, helps *them*.
+
+The Holy Spirit does
+*not* work by chance, and healing that is of Him *always*
+works. Unless the healer *always* heals by Him, the results
+*will* vary. Yet healing itself *is* consistence since
+*only* consistence is conflict-free, and only the conflict-free
+*are* whole. By accepting exceptions and acknowledging that they
+can sometimes heal and sometimes not, healers are *obviously*
+accepting inconsistency. They are therefore *in* conflict and
+*teaching* conflict. Can anything of God *not* be for all
+and for always?
+
+Love is incapable of
+*any* exceptions. Only if there is fear does the *idea* of
+exceptions seem to be meaningful. Exceptions are fearful because they
+are made *by* fear. The “fearful healer”is a
+contradiction in terms and is therefore a concept which *only* a
+conflicted mind could possibly perceive as meaningful. Fear does
+*not* gladden. Healing *does*. Fear *always* makes
+exceptions. Healing *never* does. Fear produces dissociation
+because it induces *separation*. Healing *always* produces
+harmony because it proceeds from integration.
+
+Healing is predictable
+because it can be counted on. *Everything* that is of God can be
+counted on because everything of God is wholly *real*. Healing
+can be counted on *because* it is inspired by Her Voice and is
+in accord with Her laws. Yet if healing *is* consistence, it
+cannot be inconsistently understood. Understanding *means*
+consistence because *God* means consistence. Since that is *Her*
+meaning, it is also *yours*. Your meaning cannot *be* out
+of accord with Hers because your whole meaning, and your *only*
+meaning, comes *from* Her and is *like* Her. God cannot be
+out of accord with *Herself*, and *you* cannot be out of
+accord with Her. You cannot separate your *self* from your
+Creator, Who created you by sharing *Her* Being *with*
+you.
+
+Unhealed healers want
+gratitude *from* their companions, but they is not grateful *to*
+them. This is because they [unhealed healers] think they are *giving* something
+*to* them [companions] and are *not* receiving something equally
+desirable in return. Their [unhealed healers’] *teaching* is limited because they are
+*learning* so little. Their healing lesson is limited by their own
+ingratitude, which is a lesson in *sickness*. Learning is
+constant and so vital in its power for change that a Child of God can
+recognize their power in one instant and change the world in the next.
+That is because by changing *their* mind they have changed the most
+powerful device that was ever created *for* change.
+
+This in no way contradicts
+the changelessness of mind as *God* created it, but you think
+that you *have* changed it as long as you learn through the ego.
+This *does* place you in a position of needing to learn a lesson
+which seems contradictory—you must learn to change your mind
+*about* your mind. Only by this can you learn that it *is*
+changeless. When you heal that is exactly what you *are*
+learning. You are recognizing the changeless mind in your companions by
+realizing that they *could* not have changed their mind. That is how
+you perceive the Holy Spirit in them. It is *only* the Holy
+Spirit in them that never changes His mind. They themselves must think they
+*can*, or they would not perceive themselves as sick. They therefore
+does not know what their self *is*.
+
+If *you* see only the
+changeless in them, you have not really changed them at all. By
+changing *your* mind about theirs *for* them, you help them
+*undo* the change their ego thinks it has made in them. As you can
+hear two voices, so you can see in two ways. One way shows you an
+image, or better, an idol which you may worship out of fear but which
+you will never love. The other shows you only truth, which you will
+love because you will *understand* it. Understanding is
+*appreciation* because what you understand you can
+*identify* with, and by making it part of *you*, you have
+accepted it with love.
+
+That is how God Herself
+created *you*—in understanding, in appreciation, and in love.
+The ego is totally unable to understand this, because it does
+*not* understand what it makes; it does *not* appreciate
+it; and it does *not* love it. It incorporates to *take
+away.* It literally believes that every time it deprives someone
+of something, *it* has increased. We have spoken often of the
+increase of the Realm by *your* creations, which can only be
+created as *you* were. The whole glory and perfect joy that
+*is* the Realm lies in you to give. Do you not *want* to
+give it? 
+
+You *cannot* forget
+the Mother because I am with you, and *I* cannot forget Her. To
+forget *me* is to forget yourself and Her Who created you. Our
+companions *are* forgetful. That is why they need your remembrance of me and Her Who created me. Through this remembrance, you can change their minds about *themselves*, as I can change
+*yours.* Your minds are so powerful a light that you can look
+into theirs and enlighten them, as I can enlighten yours. I do not
+want to share my *body* in communion, because that is to share
+nothing. [Would I try to share an illusion with the most holy
+children of a most holy Mother?] Yet I do want to share my
+*mind* with you because we *are* of One Mind and that
+Mind *is* ours.
+
+See *only* this
+Mind everywhere because only this *is* everywhere and in
+everything. It *is* everything because it encompasses all things
+within *itself*. Blessed are you who perceive only this, because
+you perceive only what is true. Come therefore unto me and learn of
+the truth in *you*. The Mind we share is shared by all our
+companions, and as we see them truly, they *will* be healed. Let
+*your* mind shine with mine upon their minds and by our gratitude to them, make them aware of the light in *them*.
+
+This light will shine back
+upon *you* and on the whole Family because this is your proper
+gift to God. She will accept it and give it to the Family because it
+is acceptable to Her and therefore to Her Children. This is the true
+communion of the Spirit, Who sees the altar of God in everyone and,
+by bringing it to *your* appreciation, calls upon you to love
+God *and* Her creations. You can appreciate the Sonship
+*only* as one. This is part of the Law of Creation and therefore
+governs *all* thought.

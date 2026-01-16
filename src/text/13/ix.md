@@ -1,7 +1,7 @@
 ---js
 const layout = "mylayout.njk"
 const title = "The Cloud of Guilt"
-const chapter = "T-13"
+const chapter = "Tx:13"
 const section = "IX"
 const reference = `${chapter}.${section}`
 const pageNumber = 173

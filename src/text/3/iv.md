@@ -1,30 +1,63 @@
 ---js
 const prev = "/text/3/iii"
 const next = "/text/3/v"
-const title = "Error and the Ego"
+const title = "Miracles as Accurate Perception"
 const section = "IV"
-const pageNumber = 74
-const chapter = "T-3"
+const chapter = "Tx:3"
 const reference = `${chapter}.${section}`
 const headerTitle = `${section}. ${title}`
 const eleventyNavigation = {
 	key: reference,
-	order: pageNumber,
+	order: 4,
 	title: headerTitle,
 	parent: chapter
 }
 const layout = "mylayout.njk"
 ---
-The abilities you now possess are only shadows of your real strength. All of your present functions are divided and open to question and doubt. This is because you are not certain how you will use them, and are therefore incapable of knowledge. You are also incapable of knowledge because you can still perceive lovelessly. Perception did not exist until the separation introduced degrees, aspects and intervals. Spirit has no levels, and all conflict arises from the concept of levels. Only the Levels of the Trinity are capable of unity. The levels created by the separation cannot but conflict. This is because they are meaningless to each other.
+We have repeatedly stated
+that the basic concepts referred to in this course are *not*
+matters of degree. Certain fundamental concepts *cannot* be
+meaningfully understood in terms of coexisting polarities. It is
+impossible to conceive of light and darkness, or everything and
+nothing, as joint possibilities. They are all true *or* all
+false. It is essential that you realize that behavior is erratic
+until a firm commitment to one or the other is made.
 
-Consciousness, the level of perception, was the first split introduced into the mind after the separation, making the mind a perceiver rather than a creator. Consciousness is correctly identified as the domain of the ego. The ego is a wrong-minded attempt to perceive yourself as you wish to be, rather than as you are. Yet you can know yourself only as you are, because that is all you can be sure of. Everything else _is_ open to question.
+A firm commitment to
+darkness or nothingness is impossible. No one has ever lived who has
+not experienced *some* light and *some* [of everything]. This makes everyone really unable to deny truth totally, even if they generally deceives themselves in this connection. That is why those who live largely in darkness and emptiness never find any lasting solace. Innocence is *not* a partial attribute. It is not a real defense
+*until* it is total. When it is partial, it is characterized by
+the same erratic nature that holds for other two-edged defenses.
 
-The ego is the questioning aspect of the post-separation self, which was made rather than created. It is capable of asking questions but not of perceiving meaningful answers, because these would involve knowledge and cannot be perceived. The mind is therefore confused, because only One-mindedness can be without confusion. A separated or divided mind _must_ be confused. It is necessarily uncertain about what it is. It has to be in conflict because it is out of accord with itself. This makes its aspects strangers to each other, and this is the essence of the fear-prone condition, in which attack is always possible. You have every reason to feel afraid as you perceive yourself. This is why you cannot escape from fear until you realize that you did not and could not create yourself. You can never make your misperceptions true, and your creation is beyond your own error. That is why you must eventually choose to heal the separation.
+The partly innocent are
+apt to be quite stupid at times. It is not until their innocence
+becomes a genuine viewpoint which is universal in its application
+that it becomes wisdom. Innocent (or true) perception means that you
+*never* misperceive and *always* see truly. More simply, it
+means that you never see what does not really exist. When you lack
+confidence in what someone will do, you are attesting to your belief
+that they is not in their right mind. This is hardly a miracle-based
+frame of reference. It also has the disastrous effect of denying the
+creative power of the miracle.
 
-Right-mindedness is not to be confused with the knowing mind, because it is applicable only to right perception. You can be right-minded or wrong-minded, and even this is subject to degrees, clearly demonstrating that knowledge is not involved. The term “right-mindedness” is properly used as the correction for “wrong-mindedness,” and applies to the state of mind that induces accurate perception. It is miracle-minded because it heals misperception, and this is indeed a miracle in view of how you perceive yourself.
+The miracle perceives
+everything *as it is*. If nothing but the truth exists (and this
+is really a redundant statement because what is not true
+*cannot* exist) right-minded seeing cannot see anything
+*but* perfection. We have said many times that *only* what
+God creates, or what people create with the same will, has any real
+existence. This, then, is all the innocent can see. They do not
+suffer from the distortions of the separated ones. The way to correct
+all such distortions is to withdraw your *faith* from them and
+invest it *only* in what is true.
 
-Perception always involves some misuse of mind, because it brings the mind into areas of uncertainty. The mind is very active. When it chooses to be separated it chooses to perceive. Until then it wills only to know. Afterwards it can only choose ambiguously, and the only way out of ambiguity is clear perception. The mind returns to its proper function only when it wills to know. This places it in the service of spirit, where perception is changed. The mind chooses to divide itself when it chooses to make its own levels. But it could not entirely separate itself from spirit, because it is from spirit that it derives its whole power to make or create. Even in miscreation the mind is affirming its Source, or it would merely cease to be. This is impossible, because the mind belongs to spirit which God created and which is therefore eternal.
-
-The ability to perceive made the body possible, because you must perceive _something_ and _with_ something. That is why perception involves an exchange or translation, which knowledge does not need. The interpretative function of perception, a distorted form of creation, then permits you to interpret the body as yourself in an attempt to escape from the conflict you have induced. Spirit, which knows, could not be reconciled with this loss of power, because it is incapable of darkness. This makes spirit almost inaccessible to the mind and entirely inaccessible to the body. Thereafter, spirit is perceived as a threat, because light abolishes darkness merely by showing you it is not there. Truth will always overcome error in this way. This cannot be an active process of correction because, as I have already emphasized, knowledge does not do anything. It can be perceived as an attacker, but it cannot attack. What you perceive as its attack is your own vague recognition that knowledge can always be remembered, never having been destroyed.
-
-God and Her creations remain in surety, and therefore know that no miscreation exists. Truth cannot deal with errors that you want. I was a man who remembered spirit and its knowledge. As a man I did not attempt to counteract error with knowledge, but to correct error from the bottom up. I demonstrated both the powerlessness of the body and the power of the mind. By uniting my will with that of my Creator, I naturally remembered spirit and its real purpose. I cannot unite your will with God’s for you, but I can erase all misperceptions from your mind if you will bring it under my guidance. Only your misperceptions stand in your way. Without them your choice is certain. Sane perception induces sane choosing. I cannot choose for you, but I can help you make your own right choice. “Many are called but few are chosen” should be, “All are called but few choose to listen.” Therefore, they do not choose right. The “chosen ones” are merely those who choose right sooner. Right minds can do this now, and they will find rest unto their souls. God knows you only in peace, and this _is_ your reality.  {% render "acim-org-link", pageNumber: pageNumber, reference: reference %}
+You *cannot* validate
+the invalid. I would suggest that you voluntarily give up all such
+attempts because they can only be frantic. If you are willing to
+validate what *is* true in everything you perceive, you will
+make it true for *you*. Truth overcomes *all* error. This
+means that if you perceive truly, you are canceling out
+misperceptions in yourself *and* in others simultaneously.
+Because you see them as they are, you offer them your own validation
+of *their* truth. This is the healing which the miracle actively
+fosters.

@@ -1,37 +1,101 @@
 ---js
 const prev = "/text/10/iii"
 const next = "/text/10/v"
-const title = "The End of Sickness"
+const title = "From Darkness to Light"
 const section = "IV"
 const volume = "Tx"
 const chapter = 10
-const pageNumber = 142
 const parent = `${volume}:${chapter}`
 const reference = `${parent}.${section}`
 const headerTitle = `${section}. ${title}`
 const eleventyNavigation = {
 	key: reference,
-	order: pageNumber,
+	order: chapter,
 	title: headerTitle,
 	parent,
 	order: pageNumber
 }
 const layout = "mylayout.njk"
 ---
-All magic is an attempt at reconciling the irreconcilable. All religion is the recognition that the irreconcilable cannot be reconciled. Sickness and perfection are irreconcilable. If God created you perfect, you _are_ perfect. If you believe you can be sick, you have placed other gods before Her. God is not at war with the gods of sickness you made, but you are. They are the symbol of deciding against God, and you are afraid of them because they cannot be reconciled with God’s Will. If you attack them, you will make them real to you. But if you refuse to worship them in whatever form they may appear to you, and wherever you think you see them, they will disappear into the nothingness out of which they were made.
+When you are weary,
+remember you have hurt yourself. Your Comforter will rest you, but
+*you* cannot. You do not know *how*, for if you did you
+could never have grown weary. Unless you have hurt yourselves, you
+could never suffer in *any* way, for that is not God’s Will
+for Her Son. Pain is not of Her, for She knows no attack and Her peace
+surrounds you silently. God is very quiet, for there is no conflict
+in Her. Conflict is the root of all evil, for being blind, it does
+not see whom it attacks. Yet it *always* attacks the Son of God,
+and the Son of God is *you*.
 
-Reality can dawn only on an unclouded mind. It is always there to be accepted, but its acceptance depends on your willingness to have it. To know reality must involve the willingness to judge unreality for what it is. To overlook nothingness is merely to judge it correctly, and because of your ability to evaluate it truly, to let it go. Knowledge cannot dawn on a mind full of illusions, because truth and illusions are irreconcilable. Truth is whole, and cannot be known by part of a mind.
+God’s Son is indeed in
+need of comfort, for he knows not what he does, believing his will is
+not his own. The Realm is his, and yet he wanders homelessly. At
+home in God, he is lonely, and amid all his companions, he is
+friendless. Would God *let* this be real if She did not will to
+be alone Herself? And if your will is Hers, it cannot be true of you
+*because* it is not true of Her. Oh, my children, if you knew
+what God wills for you, your joy would be complete! And what She wills
+*has* happened, for it was *always* true.
 
-The Sonship cannot be perceived as partly sick, because to perceive it that way is not to perceive it at all. If the Sonship is one, it is one in all respects. Oneness cannot be divided. If you perceive other gods your mind is split, and you will not be able to limit the split, because it is the sign that you have removed part of your mind from God’s Will. This means it is out of control. To be out of control is to be out of reason, and then the mind does become unreasonable. By defining the mind wrongly, you perceive it as functioning wrongly.
+When the light comes and
+you have said, “God’s Will is mine”, you will see such
+beauty that you will *know* it is not of you. Out of your joy
+you will create beauty in Her Name, for *your* joy could no more
+be contained than Hers. The bleak little world will vanish into
+nothingness, and your heart will be so filled with joy that it will
+leap into Heaven and into the Presence of God. I cannot tell you what
+this will be like, for your hearts are not ready. Yet I *can*
+tell you and remind you often that what God wills for Herself She
+wills for *you*, and what She wills for you *is* yours.
 
-God’s laws will keep your mind at peace because peace is Her Will, and Her laws are established to uphold it. Her are the laws of freedom, but yours are the laws of bondage. Since freedom and bondage are irreconcilable, their laws cannot be understood together. The laws of God work only for your good, and there are no other laws beside Hers. Everything else is merely lawless and therefore chaotic. Yet God Herself has protected everything She created by Her laws. Everything that is not under them does not exist. “Laws of chaos” is a meaningless term. Creation is perfectly lawful, and the chaotic is without meaning because it is without God. You have “given” your peace to the gods you made, but they are not there to take it from you, and you cannot give it to them.
+The way is not hard, but
+it *is* very different. Yours is the way of pain, of which God
+knows nothing. *That* way is hard indeed and very lonely. Fear and grief are your guests, and they go with you and abide with you on the way. But the dark journey is not the way of God’s Son. Walk in light, and do not see the dark companions, for they are not fit companions for the Son of God, who was created *of* Light and
+*in* Light. The Great Light always surrounds you and shines out
+*from* you. How can you see the dark companions in a light such
+as this? If you see *them*, it is only because you are
+*denying* the light. But deny *them* instead, for the light
+is here, and the way is clear.
 
-You are not free to give up freedom, but only to deny it. You cannot do what God did not intend, because what She did not intend does not happen. Your gods do not bring chaos; you are endowing them with chaos, and accepting it of them. All this has never been. Nothing but the laws of God has ever been, and nothing but Her Will will ever be. You were created through Her laws and by Her Will, and the manner of your creation established you a creator. What you have made is so unworthy of you that you could hardly want it, if you were willing to see it as it is. You will see nothing at all. And your vision will automatically look beyond it, to what is in you and all around you. Reality cannot break through the obstructions you interpose, but it will envelop you completely when you let them go.
+God hides nothing from Her
+Son, even though Her Son would hide himself. Yet the Son of God
+cannot hide his glory, for God wills him to be glorious and gave him
+the light that shines in him. You will never lose your way, for God
+leads you. When you wander, you but undertake a journey which is not
+real. The dark companions, the dark way, are all illusions. Turn
+toward the light, for the little spark in you is part of a light so
+great that it can sweep you out of all darkness forever. For your
+Mother *is* your Creator, and you *are* like Her.
 
-When you have experienced the protection of God, the making of idols becomes inconceivable. There are no strange images in the Mind of God, and what is not in Her Mind cannot be in yours, because you are of one mind and that mind belongs to Her. It is yours _because_ it belongs to Her, for to Her ownership is sharing. And if it is so for Her, it is so for you. Her definitions _are_ Her laws, for by them She established the universe as what it is. No false gods you attempt to interpose between yourself and your reality affect truth at all. Peace is yours because God created you. And She created nothing else.
+The children of light
+cannot abide in darkness, for darkness is not in them. Do not be
+deceived by the dark comforters, and never let them enter the mind of
+God’s Son, for they have no place in Her temple. When you are
+tempted to deny Her, remember that there *are* no other gods
+that you can place before Her, and accept Her Will for you in peace.
+For you *cannot* accept it otherwise.
 
-The miracle is the act of a Son of God who has laid aside all false gods, and calls on his companions to do likewise. It is an act of faith, because it is the recognition that his companion can do it. It is a call to the Holy Spirit in his mind, a call that is strengthened by joining. Because miracle workers have heard God’s Voice, they strengthen It in a sick companion by weakening their belief in sickness, which they do not share. The power of one mind can shine into another, because all the lamps of God were lit by the same spark. It is everywhere and it is eternal.
+Only God’s Comforter
+*can* comfort you. In the quiet of Her temple, He waits to give
+you the peace that is yours. *Give* His peace that you may enter
+the temple and find it waiting for you. But be holy in the Presence
+of God, or you will not know that you are there. For what is unlike
+God cannot enter Her Mind because it was not Her Thought and
+therefore does not belong to Her. And *your* minds must be as
+pure as Hers if you would know what belongs to *you*. Guard
+carefully Her temple, for She Herself dwells there and abides in
+peace. You cannot enter God’s Presence with the dark companions
+beside you, but you also cannot enter alone.
 
-In many only the spark remains, for the Great Rays are obscured. Yet God has kept the spark alive so that the Rays can never be completely forgotten. If you but see the little spark you will learn of the greater light, for the Rays are there unseen. Perceiving the spark will heal, but knowing the light will create. Yet in the returning the little light must be acknowledged first, for the separation was a descent from magnitude to littleness. But the spark is still as pure as the Great Light, because it is the remaining call of creation. Put all your faith in it, and God Herself will answer you.
-
- {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+*All* your companions
+must enter *with* you, for until you have accepted them,
+*you* cannot enter. For you cannot understand Wholeness unless
+*you* are whole, and no part of the Son can be excluded if they
+would know the Wholeness of their Mother. In your mind, you can accept
+the whole Family and bless it with the light your Mother gave it.
+Then you will be worthy to dwell in the temple *with* Her
+because it is *your* will not to be alone. God blessed Her Son
+forever. If you will bless him in time, you will *be* in
+eternity. Time cannot separate you from God if you use it on
+*behalf* of the eternal.

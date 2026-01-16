@@ -1,7 +1,7 @@
 ---js
 const prev = "/text/15/i"
 const next = "/text/15/iii"
-const chapter = "T-15"
+const chapter = "Tx:15"
 const section = "II"
 const title = "The End of Doubt"
 const pageNumber = 191

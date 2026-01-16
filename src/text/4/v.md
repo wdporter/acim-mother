@@ -1,30 +1,151 @@
 ---js
 const prev = "/text/4/iv"
 const next = "/text/4/vi"
-const title = "The Ego-Body Illusion"
-const chapter = "T-4"
+const title = "The Escape From Fear"
+const chapter = "Tx:4"
 const section = "V"
-const pageNumber = 84
 const layout = "mylayout.njk"
 const reference = `${chapter}.${section}`
 const headerTitle = `${section}. ${title}`
 const eleventyNavigation = {
 	key: reference,
-	order: pageNumber,
+	order: 5,
 	title: headerTitle,
 	parent: chapter
 }
 ---
-All things work together for good. There are no exceptions except in the ego’s judgment. The ego exerts maximal vigilance about what it permits into awareness, and this is not the way a balanced mind holds together. The ego is thrown further off balance because it keeps its primary motivation from your awareness, and raises control rather than sanity to predominance. The ego has every reason to do this, according to the thought system which gave rise to it and which it serves. Sane judgment would inevitably judge against the ego, and must be obliterated by the ego in the interest of its self-preservation.
 
-A major source of the ego’s off-balanced state is its lack of discrimination between the body and the Thoughts of God. Thoughts of God are unacceptable to the ego, because they clearly point to the nonexistence of the ego itself. The ego therefore either distorts them or refuses to accept them. It cannot, however, make them cease to be. It therefore tries to conceal not only “unacceptable” body impulses, but also the Thoughts of God, because both are threatening to it. Being concerned primarily with its own preservation in the face of threat, the ego perceives them as the same. By perceiving them as the same, the ego attempts to save itself from being swept away, as it would surely be in the presence of knowledge.
+If you cannot hear the
+Voice of God, it is because you do not choose to listen. The fact
+that you *do* listen to the voice of your ego is demonstrated by
+your attitudes, your feelings, and your behavior. Your attitudes are
+obviously conflicted, your feelings have a narrow range on the
+negative side but are never purely joyous, and your behavior is
+either strained or unpredictable. Yet this is what you *want.*
+This is what you are fighting to keep and what you are vigilant to
+save. Your minds are filled with schemes to save the face of your
+egos, and you do not seek the Face of God. The glass in which the ego
+seeks to see its face is dark indeed. How can it maintain the trick
+of its existence except with mirrors? But where *you* look to
+find yourself is up to you.
 
-Any thought system that confuses God and the body must be insane. Yet this confusion is essential to the ego, which judges only in terms of threat or non-threat to itself. In one sense the ego’s fear of God is at least logical, since the idea of Her does dispel the ego. But fear of the body, with which the ego identifies so closely, makes no sense at all.
+We have said that you
+cannot change your mind by changing your behavior, but we have also
+said, and many times before, that you *can* change your mind.
+When your mood tells you that you have chosen wrongly, and this is so
+whenever you are not joyous, then *know* this need not be. In
+every case you have thought wrongly about some Soul that God created
+and are perceiving images your ego makes in a darkened glass. Think
+honestly what you have thought that God would *not* have thought
+and what you have *not* thought that God would have you think.
+Search sincerely for what you have done and left undone accordingly,
+and then change your minds *to think with God’s*.
 
-The body is the ego’s home by its own election. It is the only identification with which the ego feels safe, since the body’s vulnerability is its own best argument that you cannot be of God. This is the belief that the ego sponsors eagerly. Yet the ego hates the body, because it cannot accept it as good enough to be its home. Here is where the mind becomes actually dazed. Being told by the ego that it is really part of the body and that the body is its protector, the mind is also told that the body cannot protect it. Therefore, the mind asks, “Where can I go for protection?” to which the ego replies, “Turn to me.” The mind, and not without cause, reminds the ego that it has itself insisted that it is identified with the body, so there is no point in turning to _it_ for protection. The ego has no real answer to this because there is none, but it does have a typical solution. It obliterates the question from the mind’s awareness. Once out of awareness the question can and does produce uneasiness, but it cannot be answered because it cannot be asked.
+This may seem hard to you,
+but it is much easier than trying to think *against* it. Your
+mind *is* one with God’s. Denying this and thinking
+otherwise has held your ego together but has literally split your
+mind. As a loving companion, I am deeply concerned with your mind and
+urge you to follow my example as you look at yourselves and at each
+other and see in both the glorious creations of a glorious
+Mother.
 
-This is the question that _must_ be asked: “Where can I go for protection?” “Seek and ye shall find” does not mean that you should seek blindly and desperately for something you would not recognize. Meaningful seeking is consciously undertaken, consciously organized and consciously directed. The goal must be formulated clearly and kept in mind. Learning and wanting to learn are inseparable. You learn best when you believe what you are trying to learn is of value to you. However, not everything you may want to learn has lasting value. Indeed, many of the things you want to learn may be chosen _because_ their value will not last.
+When you are sad, *know
+that this need not be*. Depression *always* arises ultimately
+from a sense of being deprived of something you want and do not have.
+*Know* you are deprived of nothing except by your own decisions,
+and then decide otherwise.
 
-The ego thinks it is an advantage not to commit itself to anything that is eternal, because the eternal must come from God. Eternalness is the one function the ego has tried to develop, but has systematically failed to achieve. The ego compromises with the issue of the eternal, just as it does with all issues touching on the real question in any way. By becoming involved with tangential issues, it hopes to hide the real question and keep it out of mind. The ego’s characteristic busyness with nonessentials is for precisely that purpose. Preoccupations with problems set up to be incapable of solution are favorite ego devices for impeding learning progress. In all these diversionary tactics, however, the one question that is never asked by those who pursue them is, “What for?” This is the question that _you_ must learn to ask in connection with everything. What is the purpose? Whatever it is, it will direct your efforts automatically. When you make a decision of purpose, then, you have made a decision about your future effort; a decision that will remain in effect unless you change your mind.
+When you are anxious,
+*know* that all anxiety comes from the capriciousness of the ego
+*and need not be.* You can be as vigilant *against* the
+ego’s dictates as *for* them.
 
- {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+When you feel guilty,
+*know* that the ego has indeed violated the laws of God, but
+*you* have not. Leave the sins of the ego to me. That is what
+Atonement is for. But until you change your mind about those your ego
+has hurt, the Atonement cannot release you. As long as you feel
+guilty, your ego is in command because only the ego *can*
+experience guilt. *This need not be.*
+
+Watch your mind for the
+temptations of the ego and do not be deceived by it. *Know* it
+offers you nothing. When you have given up this voluntary
+dispiriting, you will see how your mind can focus and rise above
+fatigue and heal. Yet you are not sufficiently vigilant
+*against* the demands of the ego to disengage yourself. *This
+need not be.*
+
+The habit of engaging
+*with* God and Her creations is easily made if you actively
+refuse to let your minds slip away. The problem is *not* one of
+concentration; it is the belief that no one, including yourself, is
+*worth* consistent effort. Side with me *consistently*
+against this deception, and do not permit this shabby belief to pull
+you back. The disheartened are useless to themselves and to me, but
+only the ego can *be* disheartened. Have you *really*
+considered how many opportunities you have to gladden yourselves and
+how many of them you have refused? There is no limit to the power of
+Sons of God, but they themself can limit the expression of their power as
+much as they choose.
+
+Your mind and mine can
+unite in shining your ego away and releasing the strength of God into
+everything you think and will and do. Do not settle for anything
+*less* than this, and refuse to accept anything *but* this
+as your goal. Watch your minds carefully for *any* beliefs that
+hinder its accomplishment, and step away from them. Judge how well
+you have done this by your own feelings, for this is the one
+*right* use of judgment. Judgment, like any other defense, can
+be used to attack or protect, to hurt or to heal. The ego
+*should* be brought to your judgment and found wanting there.
+Without your own allegiance, protection, and love, it cannot exist.
+Judge your ego truly, and you *must* withdraw allegiance,
+protection, and love from it.
+
+You are mirrors of truth
+in which God Herself shines in perfect light. To the ego’s dark
+glass you need but say, “I will not look there because I
+*know* these images are not true.” Then let the Holy One
+shine on you in peace, knowing that this and *only* this must
+be. Her Mind shone on you in your creation and brought *your*
+mind into being. Her Mind still shines on you and must shine
+*through* you. Your ego cannot prevent *Her* from shining
+on you, but it *can* prevent you from letting Her shine
+*through* you.
+
+The first coming of Christ
+is just another name for the creation, for Christ is the Son of God.
+The *second* coming of Christ means nothing more than the end of
+the ego’s rule over part of the minds of men and the healing of
+the mind. I was created like you in the first, and I have called you
+to join with me in the second. If you will think over your lives, you
+will see how carefully the preparations were made. I am in charge of
+the second coming, and my judgment, which is used only for
+protection, cannot be wrong because it *never* attacks.
+*Yours* is so distorted that you believe I was mistaken in
+choosing you. I assure you this is a mistake of your egos. Do
+*not* mistake it for humility.
+
+Your egos are trying to
+convince you that *they* are real and *I* am not because,
+if *I* am real, I am no more real than *you* are. That
+knowledge, and I assure you that it *is* knowledge, means that
+Christ must come into your minds and heal them. Although I am
+*not* attacking your egos, I *am* working with your higher
+mind whether you are asleep or awake, just as your ego does with your
+lower mind. I am your vigilance in this, because you are too confused
+to recognize your own hope. I was *not* mistaken. Your minds
+*will* elect to join with mine, and together we are
+invincible.
+
+You will yet come together
+in my name, and your sanity will be restored. I raised the dead by
+*knowing* that life is an eternal attribute of everything that
+the living God created. Why do you believe it is harder for me to
+inspire the dispirited or to stabilize the unstable? *I* do not
+believe that there is an order of difficulty in miracles; *you*
+do. I have called, and you will answer. I *know* that miracles
+are natural because they are expressions of love. My calling you is
+as natural as your answer and as inevitable.

@@ -1,7 +1,7 @@
 ---js
 const prev = "/text/14/i"
 const next = "/text/14/iii"
-const chapter = "T-14"
+const chapter = "Tx:14"
 const section = "II"
 const title = "The Happy Learner"
 const pageNumber = 179

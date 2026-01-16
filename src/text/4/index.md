@@ -1,6 +1,6 @@
 ---js
-const prev = "/text/3/ix"
-const next = "/text/4/i"
+const prev = "/text/3"
+const next = "/text/5"
 const title = "The Root of All Evil"
 const chapter = 4
 const layout = "mylayout.njk"
