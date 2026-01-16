@@ -172,21 +172,27 @@ own be seen as one. Yours are mistakes, but theirs are sins and not the
 same as yours. Theirs merit punishment, while yours in fairness should
 be overlooked.
 
-In this interpretation of
-correction, your own mistakes you will not even see. The focus of
-correction has been placed outside yourself on one who cannot be a
-part of you while this perception lasts. What is condemned can never
-be returned to its accuser, who hated it and hates it still. This is
-your companion, focus of your hate, unworthy to be part of you and thus
-outside yourself—the other half which is denied. And only what is
-left without their presence is perceived as all of you. To this
-remaining half the Holy Spirit must represent the other half until
-you recognize it *is* the other half. And this He does by giving
+In this interpretation of correction, your own mistakes you will not even see. 
+The focus of correction has been placed outside yourself on one who cannot be 
+a part of you while this perception lasts. What is condemned can never 
+be returned to its accuser, who hated it and hates it still. This is 
+your companion, focus of your hate, unworthy to be part of you and thus 
+outside yourself—the other half which is denied. And only what is 
+left without their presence is perceived as all of you. To this 
+remaining half the Holy Spirit must represent the other half until 
+you recognise it *is* the other half. And this He does by giving 
 both of you a function that is one, not different.
 
-Correction is the function
-given *both*, but neither one alone. And when it is fulfilled as
-*shared*, it *must* correct mistakes in both of you. It cannot leave mistakes in one unhealed and set the other free. That is divided purpose which cannot be shared, and so it cannot be the function which the Holy Spirit sees as His. And you can rest assured that He will not fulfil a function that He cannot understand and recognize as His. For only thus can He keep yours preserved intact, despite your separated view of what your function is. If He upheld divided function, you were lost indeed. His inability to see His goal divided and distinct for each of you preserves your Self from being made aware of any function other than Its own. And thus is healing given both of you.
+Correction is the function given *both*, but neither one alone. And when it is 
+fulfilled as *shared*, it *must* correct mistakes in both of you. It cannot leave 
+mistakes in one unhealed and set the other free. That is divided purpose which 
+cannot be shared, and so it cannot be the function which the Holy Spirit sees as 
+His. And you can rest assured that He will not fulfil a function that He cannot 
+understand and recognise as His. For only thus can He keep yours preserved 
+intact, despite your separated view of what your function is. If He upheld 
+divided function, you were lost indeed. His inability to see His goal divided and 
+distinct for each of you preserves your Self from being made aware of any 
+function other than Its own. And thus is healing given both of you.
 
 Correction must be left to
 One Who knows correction and forgiveness are the same. With half a

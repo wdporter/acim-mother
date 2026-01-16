@@ -49,16 +49,15 @@ madness to attempt to pass it. Yet reason sees through it easily
 *because* it is an error. The form it takes cannot conceal its
 emptiness from reason’s eyes.
 
-*Only* the form of
-error attracts the ego. Meaning it does not recognize and does not
-know if it is there or not. Everything which the body’s eyes can
-see is a mistake, an error in perception, a distorted fragment of the
-whole, without the meaning that the whole would give. And yet
-mistakes, regardless of their form, can be corrected. Sin is but
-error in a special form the ego venerates. It would preserve all
-errors and make them sins. For here is its own stability, its heavy
-anchor in the shifting world it made — the rock on which its church is
-built and where its worshipers are bound to bodies and believe the
+*Only* the form of error attracts the ego. Meaning it does not recognise and 
+does not know if it is there or not. Everything which the body’s eyes can 
+see is a mistake, an error in perception, a distorted fragment of the 
+whole, without the meaning that the whole would give. And yet 
+mistakes, regardless of their form, can be corrected. Sin is but 
+error in a special form the ego venerates. It would preserve all 
+errors and make them sins. For here is its own stability, its heavy 
+anchor in the shifting world it made — the rock on which its church is 
+built and where its worshipers are bound to bodies and believe the 
 body’s freedom is their own.
 
 Reason will tell you that
@@ -81,15 +80,14 @@ left not its maker, and it is their maker that sees through them.
 What was its maker’s *goal* but not to see? For this the
 body’s eyes are perfect means, but not for *seeing*. See how the body’s eyes rest on externals and cannot go beyond. Watch how they stop at nothingness, unable to go beyond the form to meaning. Nothing so blinding as perception of form. For sight of form means understanding has been obscured.
 
-Only *mistakes* have
-different forms, and so they can deceive. You can change form
-*because* it is not true. It could not be reality, *because*
-it can be changed. Reason will tell you that, if form is not reality,
-it must be an illusion and is not *there* to see. And if you see
-it, you must be mistaken, for you are seeing what can *not* be
-real as if it *were*. What cannot see beyond what is not there
-*must* be distorted perception and must perceive illusions as
-the truth. Could it then *recognize* the truth?
+Only *mistakes* have different forms, and so they can deceive. 
+You can change form *because* it is not true. It could not be reality, 
+*because* it can be changed. Reason will tell you that, if form is not reality, 
+it must be an illusion and is not *there* to see. And if you see 
+it, you must be mistaken, for you are seeing what can *not* be 
+real as if it *were*. What cannot see beyond what is not there 
+*must* be distorted perception and must perceive illusions as 
+the truth. Could it then *recognise* the truth?
 
 Let not the *form* of
 their mistakes keep you from them whose holiness is yours. Let not the

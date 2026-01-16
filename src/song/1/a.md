@@ -29,7 +29,7 @@ is done. For such it was before time seemed to be.
 
 To you who are in time a little while, prayer takes the form
 that best will suit your need. You have but one. What God created
-one must recognize its oneness, and rejoice that what illusions
+one must recognise its oneness, and rejoice that what illusions
 seemed to separate is one forever in the Mind of God. Prayer now
 must be the means by which Godʹs Child leaves separate goals and
 separate interests by, and turns in holy gladness to the truth of
@@ -48,7 +48,7 @@ Asking is holy, and it is holy because it is a way of reaching
 God. She is the Answerer because you are in need of an Answer.
 No‐one can ask for another and receive the Answer for them. But
 you can, and indeed you must, help them by offering your love and
-support that their answer be holy and their true need recognized. That
+support that their answer be holy and their true need recognised. That
 is prayer; it is the same for yourself or for another. There is no
 difference. If you received the answers for another, there would be a
 difference.

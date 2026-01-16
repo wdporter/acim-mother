@@ -68,15 +68,13 @@ not hold the evil deeds of a person even against themself. Is it likely,
 then, that She would hold against anyone the evil that *another*
 did?
 
-Be very sure that you
-recognize how utterly impossible this assumption really is and how
-*entirely* it arises from misprojection. This kind of error is
-responsible for a host of related errors including the belief that
-God rejected people and forced them out of the Garden of Eden. It is also
-responsible for the fact that you may believe from time to time that
-I am misdirecting you. I have made every effort to use words that are
-almost impossible to distort, but people are very inventive when it comes
-to twisting symbols around.
+Be very sure that you recognise how utterly impossible this assumption really is 
+and how *entirely* it arises from misprojection. This kind of error is responsible 
+for a host of related errors including the belief that God rejected people and 
+forced them out of the Garden of Eden. It is also responsible for the fact that 
+you may believe from time to time that I am misdirecting you. I have made 
+every effort to use words that are almost impossible to distort, but people are 
+very inventive when it comes to twisting symbols around.
 
 God Herself is *not*
 symbolic; She is *fact*. The Atonement too is totally without
@@ -138,16 +136,15 @@ together refers to the fact that strength and innocence are
 the pure in heart for they shall see God” is another way of
 saying the same thing.
 
-There has been some human
-controversy about the nature of seeing in relation to the integrative
-powers of the brain. Correctly understood, the issue revolves around
-the question of whether the body or the mind can see (or understand).
-This is not really open to question at all. The body is not capable
-of understanding, and only the mind can perceive *anything*. A
-pure mind knows the truth, and this *is* its strength. It cannot
-attack the body because it recognizes exactly what the body
-*is.* This is what “a sane mind in a sane body” really
-means. It does *not* confuse destruction with innocence because
+There has been some human controversy about the nature of seeing in relation 
+to the integrative powers of the brain. Correctly understood, the issue revolves 
+around the question of whether the body or the mind can see (or understand). 
+This is not really open to question at all. The body is not capable 
+of understanding, and only the mind can perceive *anything*. A 
+pure mind knows the truth, and this *is* its strength. It cannot 
+attack the body because it recognises exactly what the body 
+*is.* This is what “a sane mind in a sane body” really 
+means. It does *not* confuse destruction with innocence because 
 it associates innocence with strength, *not* with weakness.
 
 Innocence is

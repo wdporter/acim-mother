@@ -27,15 +27,12 @@ And this produces great discomfort. This need not be. This course
 requires almost nothing of you. It is impossible to imagine one that
 asks so little or could offer more.
 
-The period of discomfort
-that follows the sudden change in a relationship from sin to holiness
-should now be almost over. To the extent you still experience it, you
-are refusing to leave the means to Him Who changed the purpose. You
-recognize you want the goal. Are you not also willing to accept the
-means? If you are not, let us admit that *you* are inconsistent.
-A purpose is *attained* by means, and if you want a purpose, you *must*
-be willing to want the means as well. How can one be sincere and say,
-“I want this above all else, and yet I do not want to learn the
+The period of discomfort that follows the sudden change in a relationship from sin to holiness should now be almost over. To the extent you still experience it, you are refusing to leave the means to Him Who changed the purpose. You 
+recognise you want the goal. Are you not also willing to accept the 
+means? If you are not, let us admit that *you* are inconsistent. 
+A purpose is *attained* by means, and if you want a purpose, you *must* 
+be willing to want the means as well. How can one be sincere and say, 
+“I want this above all else, and yet I do not want to learn the 
 means to get it”?
 
 To obtain the goal, the
@@ -50,16 +47,14 @@ they are impossible, your wanting of the *purpose* has been shaken. For
 if a goal is possible to reach, the means to do so must be possible
 as well.
 
-It *is* impossible to
-see your companions as sinless and yet to look upon them as a body. Is
-this not perfectly consistent with the goal of holiness? For holiness
-is merely the result of letting the effects of sin be lifted so what
-was always true is recognized. To see a sinless *body* is
-impossible, for holiness is positive, and the body is merely neutral.
-It is not sinful, but neither is it sinless. As nothing, which it is,
-the body cannot meaningfully be invested with attributes of Christ *or*
-of the ego. Either must be an error, for both would place the
-attributes where they cannot be. And both must be undone for purposes
+It *is* impossible to see your companions as sinless and yet to look upon them as a body. Is this not perfectly consistent with the goal of holiness? For holiness 
+is merely the result of letting the effects of sin be lifted so what 
+was always true is recognised. To see a sinless *body* is 
+impossible, for holiness is positive, and the body is merely neutral. 
+It is not sinful, but neither is it sinless. As nothing, which it is, 
+the body cannot meaningfully be invested with attributes of Christ *or* 
+of the ego. Either must be an error, for both would place the 
+attributes where they cannot be. And both must be undone for purposes 
 of truth.
 
 The body *is* the

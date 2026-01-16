@@ -127,17 +127,15 @@ protection, cannot be wrong because it *never* attacks.
 choosing you. I assure you this is a mistake of your egos. Do
 *not* mistake it for humility.
 
-Your egos are trying to
-convince you that *they* are real and *I* am not because,
-if *I* am real, I am no more real than *you* are. That
-knowledge, and I assure you that it *is* knowledge, means that
-Christ must come into your minds and heal them. Although I am
-*not* attacking your egos, I *am* working with your higher
-mind whether you are asleep or awake, just as your ego does with your
-lower mind. I am your vigilance in this, because you are too confused
-to recognize your own hope. I was *not* mistaken. Your minds
-*will* elect to join with mine, and together we are
-invincible.
+Your egos are trying to convince you that *they* are real and *I* am not 
+because, if *I* am real, I am no more real than *you* are. That 
+knowledge, and I assure you that it *is* knowledge, means that 
+Christ must come into your minds and heal them. Although I am 
+*not* attacking your egos, I *am* working with your higher 
+mind whether you are asleep or awake, just as your ego does with your 
+lower mind. I am your vigilance in this, because you are too confused 
+to recognise your own hope. I was *not* mistaken. Your minds 
+*will* elect to join with mine, and together we are invincible.
 
 You will yet come together
 in my name, and your sanity will be restored. I raised the dead by

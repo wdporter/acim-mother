@@ -75,22 +75,19 @@ This produces consistent behavior but entails great strain
 
 In both cases, the will and the behavior are out of accord, resulting in a situation in which you are doing what you do *not* will. This arouses a sense of coercion, which usually produces rage. The rage then invades the mind and projection in the wrong sense is likely to follow. Depression or anxiety is virtually certain.
 
-Remember that whenever
-there is fear, it is because you have not made up your mind. Your
-will is split, and your behavior inevitably becomes erratic.
-Correcting at the behavioral level can shift the error from the first
-to the second type of strain described above but will not obliterate
-the fear. It is possible to reach a state in which you bring your
-will under my guidance without much conscious effort, but this
-implies habit patterns which you have not developed dependably as
-yet. God cannot ask more than you will. The strength to do comes from
-your own undivided will to do. There is no strain in doing God’s
-Will as soon as you recognize that it is also your own.
+Remember that whenever there is fear, it is because you have not made up your 
+mind. Your will is split, and your behaviour inevitably becomes erratic. 
+Correcting at the behavioural level can shift the error from the first 
+to the second type of strain described above but will not obliterate 
+the fear. It is possible to reach a state in which you bring your 
+will under my guidance without much conscious effort, but this 
+implies habit patterns which you have not developed dependably as 
+yet. God cannot ask more than you will. The strength to do comes from 
+your own undivided will to do. There is no strain in doing God’s 
+Will as soon as you recognise that it is also your own.
 
-The lesson here is quite
-simple but particularly apt to be overlooked. I will therefore repeat
-it, urging you to listen. Only your *mind* can produce fear. It
-does so whenever it is conflicted in what it wills, thus producing
-inevitable strain because willing and doing become discordant. This
-cannot be corrected by better *doing*, but it *can* be
+The lesson here is quite simple but particularly apt to be overlooked. I will therefore repeat it, urging you to listen. Only your *mind* can produce fear. It 
+does so whenever it is conflicted in what it wills, thus producing 
+inevitable strain because willing and doing become discordant. This 
+cannot be corrected by better *doing*, but it *can* be 
 corrected by higher *willing*.

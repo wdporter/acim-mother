@@ -59,15 +59,14 @@ they whom God so loves is done to God Herself. Think not She wills to
 bind you, Who has made you co-creator of the universe along with Her.
 She would but keep your will forever and forever limitless.
 
-This world awaits the
-freedom you will give when you have recognized that *you* are
-free. But you will not forgive the world until you have forgiven Her
-Who gave your will to you. For it is *by* your will the world is
-given freedom. Nor can you be free apart from Her Whose holy Will you
-share. God turns to you to ask the world be saved, for by your own
-salvation it is healed. And no one walks upon the earth but must
-depend on your decision, that they learn death has no power over them
-because they share your freedom as they share your will. It *is*
-your will to heal them, and because you have decided *with* them,
-they are healed. And now is God forgiven, for you chose to look upon
+This world awaits the freedom you will give when you have recognised that 
+*you* are free. But you will not forgive the world until you have forgiven Her 
+Who gave your will to you. For it is *by* your will the world is 
+given freedom. Nor can you be free apart from Her Whose holy Will you 
+share. God turns to you to ask the world be saved, for by your own 
+salvation it is healed. And no one walks upon the earth but must 
+depend on your decision, that they learn death has no power over them 
+because they share your freedom as they share your will. It *is* 
+your will to heal them, and because you have decided *with* them, 
+they are healed. And now is God forgiven, for you chose to look upon 
 your companion as a friend.

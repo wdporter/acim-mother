@@ -21,7 +21,7 @@ slightly ahead of the patient, and help them to avoid a few of the
 pitfalls along the road by seeing them first. Ideally, they are also followers, for One should walk ahead of them to give them light to see.
 Without this One, both will merely stumble blindly on to nowhere.
 It is, however, impossible that this One be wholly absent if the goal
-is healing. They [this One] may, however, not be recognized. And so the little
+is healing. They [this One] may, however, not be recognised. And so the little
 light that can be then accepted is all there is to light the way to truth.
 
 Healing is limited by the limitations of the psychotherapist,

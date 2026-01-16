@@ -36,7 +36,7 @@ cannot be used for purposes of union. If, then, you see your companion
 becomes impossible. Your faithlessness to them has separated you from
 them and kept you *both* apart from being healed. Your
 faithlessness has thus opposed the Holy Spirit’s purpose and
-brought illusions centered on the *body* to stand between you. And the
+brought illusions centred on the *body* to stand between you. And the
 body *will* seem to be sick, for you have made of it an
 “enemy” of healing and the opposite of truth.
 
@@ -66,21 +66,19 @@ of seeming wholeness but without connection. This will not harm the
 body, but it *will* keep the delusional thought system in the
 *mind*.
 
-Here then is healing
-needed. And it is here that healing *is*. For God gave healing
-not apart from sickness, nor established remedy where sickness cannot
+Here then is healing needed. And it is here that healing *is*. For God gave 
+healing not apart from sickness, nor established remedy where sickness cannot
 be. They are together, and when they are seen together, all attempts
 to keep both truth and illusion in the mind, where both must be, are
-recognized as dedication to illusion and given up when brought to
+recognised as dedication to illusion and given up when brought to
 truth and seen as totally irreconcilable with truth in any respect or
 in any way.
 
-Truth and illusion have
-*no* connection. This will remain forever true, however much you
-seek to connect them. But illusions are always connected, as is
+Truth and illusion have *no* connection. This will remain forever true, however 
+much you seek to connect them. But illusions are always connected, as is
 truth. Each is united, a complete thought system, but totally
 disconnected to each other. Where there is no overlap, there
-separation must be complete. And to perceive this is to recognize
+separation must be complete. And to perceive this is to recognise
 where separation is and where it must be healed. The result of an
 idea is never separate from its source. The *idea* of separation
 produced the body and remains connected to it, making it sick because
@@ -132,9 +130,7 @@ Spirit’s perception and is the sign you share it with Him. Faith
 is a gift you offer to the Child of God through Him, and wholly
 acceptable to their Mother as to them. And therefore offered *you*.
 
-Your holy relationship,
-with its new purpose, offers you faith to give unto each other. Your
-faithlessness had driven you apart, and so you did not recognize
+Your holy relationship, with its new purpose, offers you faith to give unto each other. Your faithlessness had driven you apart, and so you did not recognise
 salvation in each other. Yet faith *unites* you in the holiness you
 see, not through the body’s eyes but in the sight of Him Who
 joined you and in Whom *you* are united. Grace is not given to a body,

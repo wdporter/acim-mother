@@ -39,16 +39,15 @@ this secret. So it is this secret that we must look upon calmly, for
 the ego cannot protect you against truth, and in *its* presence
 the ego is dispelled.
 
-In the calm light of truth,
-let us recognize that you believe you *have* crucified God’s
-Child. You have not admitted to this “terrible” secret
-because you *still* wish to crucify them if you could *find*
-them. Yet the wish has hidden them from you because it is very fearful,
-and you are *afraid* to find them. You have handled this wish to
-kill *yourself* by *not knowing* who you are and
-identifying with something *else*. You have projected guilt
-blindly and indiscriminately, but you have *not* uncovered its
-source. For the ego *does* want to kill you, and if you identify
+In the calm light of truth, let us recognise that you believe you *have* 
+crucified God’s Child. You have not admitted to this “terrible” secret 
+because you *still* wish to crucify them if you could *find* 
+them. Yet the wish has hidden them from you because it is very fearful, 
+and you are *afraid* to find them. You have handled this wish to 
+kill *yourself* by *not knowing* who you are and 
+identifying with something *else*. You have projected guilt 
+blindly and indiscriminately, but you have *not* uncovered its 
+source. For the ego *does* want to kill you, and if you identify 
 *with* it, you must believe *its* goal is *yours.*
 
 We once said that the
@@ -73,11 +72,10 @@ that by *not* learning the course, you are *protecting*
 yourself. And you do not realise that it is only your guiltlessness
 which *can* protect you.
 
-The Atonement has always
-been interpreted as the release from guilt, and this is correct if it
-is understood. Yet even when I have interpreted it *for* you,
+The Atonement has always been interpreted as the release from guilt, and this 
+is correct if it is understood. Yet even when I have interpreted it *for* you,
 you have rejected it and have *not* accepted it for yourself.
-You have recognized the futility of the ego and its offerings, but
+You have recognised the futility of the ego and its offerings, but
 though you do not want the ego, you do not look upon the alternative
 with gladness. You are *afraid* of redemption, and you believe
 it will kill you. Make no mistake about the depth of your fear. For
@@ -94,5 +92,5 @@ have never been separated *from* them. In this understanding lies
 your remembering, for it is the recognition of love *without*
 fear. There will be great joy in Heaven on your homecoming, and the
 joy will be *yours*. For the redeemed son of man [sic] *is* the
-guiltless Child of God, and to recognize them *is* your
+guiltless Child of God, and to recognise them *is* your
 redemption.

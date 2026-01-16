@@ -27,10 +27,9 @@ yourself as *weaker*, you attempt to “equalize” the
 situation *you* have made. You use attack to do so because you
 believe that attack was successful in weakening *you*.
 
-That is why the
-recognition of your *own* invulnerability is so important in the
+That is why the recognition of your *own* invulnerability is so important in the
 restoration of your sanity. For if you accept your invulnerability,
-you are recognizing that attack *has* no effect. Although you
+you are recognising that attack *has* no effect. Although you
 have attacked yourself, and very brutally, you will demonstrate that
 *nothing happened*. Therefore, by attacking you have not done
 *anything*. Once you realise this, there is no longer any
@@ -41,9 +40,8 @@ yourself have *failed* to weaken you, *you are still
 strong*. You therefore have no need to “equalize” the
 situation to establish your strength.
 
-You will never realise the
-utter uselessness of attack *except* by recognizing that your
-attack on *yourself* had no effects. For others *do* react
+You will never realise the utter uselessness of attack *except* by recognising 
+that your attack on *yourself* had no effects. For others *do* react
 to attack if they perceive it, and if you are trying to attack
 *them*, you will be unable to avoid interpreting this as
 reinforcement. The *only* place where you can cancel out all

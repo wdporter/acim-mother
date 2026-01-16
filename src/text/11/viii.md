@@ -18,9 +18,9 @@ const layout = "mylayout.njk"
 ---
 Miracles demonstrate that
 learning has occurred under the right guidance, for learning is
-invisible, and what has been learned can be recognized only by its
+invisible, and what has been learned can be recognised only by its
 *results*. Its generalization is demonstrated as you use it in
-more and more situations. You will recognize that you have learned
+more and more situations. You will recognise that you have learned
 there is no order of difficulty in miracles when you have applied
 them to *all* situations. There *is* no situation to which
 miracles do not apply, and by applying them to all situations, you
@@ -31,11 +31,10 @@ sends you for your blessing. In every Child of God His blessing lies,
 and in *your* blessing of the Children of God is His blessing to
 *you*.
 
-Everyone in the world must
-play their part in the redemption of the world to recognize that the
-world *has been* redeemed. You cannot see the invisible. Yet if
-you see its effects, you *know* it must be there. By perceiving
-what it *does*, you recognize its being. And by *what* it
+Everyone in the world must play their part in the redemption of the world to 
+recognise that the world *has been* redeemed. You cannot see the invisible. 
+Yet if you see its effects, you *know* it must be there. By perceiving
+what it *does*, you recognise its being. And by *what* it
 does, you learn what it *is*. You cannot *see* your
 abilities, but you gain confidence in their existence as they enable
 you to *act*. And the *results* of your actions you
@@ -83,7 +82,7 @@ what you seek you *will* find. The ego finds what *it*
 seeks and *only* that. It does not find love, for that is
 *not* what it is seeking. Yet seeking and finding are the same,
 and if you seek for two goals you will find them, but you will
-*recognize neither*. For you will think they are the same
+*recognise neither*. For you will think they are the same
 because you *want* them both. The mind always strives for
 integration, and if it is split and wants to *keep* the split,
 it will believe it has one goal by *making* it one.
@@ -117,7 +116,7 @@ invitations. You have looked upon your minds and accepted opposition
 there, having *sought* it there. But do not then believe that
 the witnesses for opposition are true, for they attest only to
 *your* decision about reality, returning to you the message you
-*gave* them. Love is recognized by its messengers. If you make
+*gave* them. Love is recognised by its messengers. If you make
 love manifest, its messengers will come to you because you
 *invited* them.
 
@@ -169,10 +168,9 @@ function only by judging as *He* does, reserving no judgment at
 all unto yourselves. For you will judge *against* yourselves,
 but *He* will judge *for* you.
 
-Remember, then, that
-whenever you look without and react unfavorably to what you see, you
-have judged yourself unworthy and have condemned yourself to death.
-The death penalty is the ego’s ultimate goal, for it fully
+Remember, then, that whenever you look without and react unfavourably to 
+what you see, you have judged yourself unworthy and have condemned 
+yourself to death. The death penalty is the ego’s ultimate goal, for it fully
 believes that you are a criminal, as deserving of death as God knows
 you are deserving of life. The death penalty never leaves the
 ego’s mind, for that is what it always reserves for you in the

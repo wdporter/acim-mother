@@ -28,16 +28,15 @@ the accepted purpose of the relationship. And that is why the Holy
 Spirit must change its purpose to make it useful to *them* and
 harmless unto *you*.
 
-If you accept this change,
-you have accepted the idea of making room for truth. The
-*source* of sin is gone. You may imagine that you still
-experience its effects, but it is not your purpose, and you no longer
-*want* it. No one allows a purpose to be replaced while they
-desire it, for nothing is so cherished and protected as is a goal
-the mind accepts. This it will follow, grimly or happily, but always
-with faith and with the persistence that faith inevitably brings. The
-power of faith is *never* recognized if it is placed in sin. But
-it is *always* recognized if it is placed in love.
+If you accept this change, you have accepted the idea of making room for truth. 
+The *source* of sin is gone. You may imagine that you still 
+experience its effects, but it is not your purpose, and you no longer 
+*want* it. No one allows a purpose to be replaced while they 
+desire it, for nothing is so cherished and protected as is a goal 
+the mind accepts. This it will follow, grimly or happily, but always 
+with faith and with the persistence that faith inevitably brings. The 
+power of faith is *never* recognised if it is placed in sin. But 
+it is *always* recognised if it is placed in love.
 
 Why is it strange to you
 that faith can move mountains? This is indeed a little feat for such
@@ -92,16 +91,15 @@ body has your faith and your belief. But holiness would set your
 companion free, removing hatred by removing fear, not as a symptom, but
 at its source.
 
-Those who would free their
-companions from the body can *have* no fear. They have renounced
-the means for sin by choosing to let all limitations be removed.
-Desiring to look upon their companions in holiness, the power of belief
-and faith goes far beyond the body, *supporting* vision, not
-obstructing it. But first they chose to recognize how much their
-faith had limited their understanding of the world, desiring to place
-its power elsewhere should another point of view be given them. The
-miracles which follow this decision are also born of faith. For all
-who choose to look away from sin are given vision and are led to
+Those who would free their companions from the body can *have* no fear. 
+They have renounced the means for sin by choosing to let all limitations be 
+removed. Desiring to look upon their companions in holiness, the power of 
+belief and faith goes far beyond the body, *supporting* vision, not 
+obstructing it. But first they chose to recognise how much their 
+faith had limited their understanding of the world, desiring to place 
+its power elsewhere should another point of view be given them. The 
+miracles which follow this decision are also born of faith. For all 
+who choose to look away from sin are given vision and are led to 
 holiness.
 
 Those who believe in sin

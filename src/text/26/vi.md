@@ -117,18 +117,17 @@ death, a vault God’s Child entered an instant, to be instantly
 restored unto Her Mother’s perfect Love. And how can they be kept
 in chains long since removed and gone forever from their mind?
 
-The Child that God created
-is as free as God created them. They were reborn the instant that they
-chose to die instead of live. And will you not forgive them now
-because they made an error in the past that God remembers not and is
-not there? Now you are shifting back and forth between the past and
-present. Sometimes the past seems real, as if it were the present.
-Voices from the past are heard and then are doubted. You are like to
-one who still hallucinates but lacks conviction in what they perceive.
-This is the borderland between the worlds, the bridge between the
-past and present. Here the shadow of the past remains, but still a
-present light is dimly recognized. Once it is seen, this light can
-never be forgotten. It must draw you from the past into the present,
+The Child that God created is as free as God created them. They were reborn 
+the instant that they chose to die instead of live. And will you not forgive them 
+now because they made an error in the past that God remembers not and is 
+not there? Now you are shifting back and forth between the past and 
+present. Sometimes the past seems real, as if it were the present. 
+Voices from the past are heard and then are doubted. You are like to 
+one who still hallucinates but lacks conviction in what they perceive. 
+This is the borderland between the worlds, the bridge between the 
+past and present. Here the shadow of the past remains, but still a 
+present light is dimly recognised. Once it is seen, this light can 
+never be forgotten. It must draw you from the past into the present, 
 where you really *are*.
 
 The shadow voices do not

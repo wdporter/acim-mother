@@ -94,10 +94,15 @@ God were fear indeed if they whom She created innocent could be a slave
 to guilt. God’s perfect Child remembers their creation. But in guilt
 they have forgotten what they really are.
 
-The fear of God results as surely from the lesson that Her Child is guilty as God’s Love must be remembered when they learns their innocence. For hate must mother fear and look upon its mother as itself. How wrong are you who fail to hear the call that echoes past each seeming call to death, that sings behind each murderous attack and pleads that love restore the dying world! You do not understand Who calls to you beyond each form of
-hate, each call to war. Yet you will recognize Her as you give Her
-answer in the language that She calls. She will appear when you have
-answered Her, and you will know in Her that God *is* Love.
+The fear of God results as surely from the lesson that Her Child is guilty as God’s 
+Love must be remembered when they learns their innocence. For hate must 
+mother fear and look upon its mother as itself. How wrong are you who fail to 
+hear the call that echoes past each seeming call to death, that sings behind each 
+murderous attack and pleads that love restore the dying world! You do not 
+understand Who calls to you beyond each form of hate, each call to war. Yet you 
+will recognise Her as you give Her answer in the language that She calls. She will 
+appear when you have answered Her, and you will know in Her that God *is* 
+Love.
 
 What is temptation but a wish to make the wrong decision on what you would learn and have an outcome that you do not want? It is the recognition that it is a state of mind unwanted that becomes the means whereby the choice is reässessed; another outcome seen to be preferred. You are deceived if you believe you want disaster and disunity and pain. Hear not the call for this within yourself. But listen, rather, to the deeper call
 beyond it that appeals for peace and joy. And all the world will

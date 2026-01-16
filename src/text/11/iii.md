@@ -36,9 +36,8 @@ You have denied its power to conceal love, which was its only
 purpose. The mask which *you* have drawn across the face of love
 has disappeared.
 
-If you would look upon
-love, which *is* the world’s reality, how could you do
-better than to recognize in every defense *against* it the
+If you would look upon love, which *is* the world’s reality, how could you do
+better than to recognise in every defense *against* it the
 underlying appeal *for* it? And how could you better learn of
 its reality than by answering the appeal for it by *giving* it?
 The Holy Spirit’s interpretation of fear *does* dispel it,
@@ -74,11 +73,8 @@ healing of yourself is thus the way to remember God. For you forgot
 your companions *with* Him, and God’s answer to your
 forgetting is but the way to remember.
 
-Perceive in sickness but
-another call for love and offer your companions what they believe they
-cannot offer themselves. Whatever the sickness, there is but *one*
-remedy. You will be made whole as you *make* whole, for to
-perceive in sickness the appeal for health is to recognize in hatred
+Perceive in sickness but another call for love and offer your companions what they believe they cannot offer themselves. Whatever the sickness, there is but *one* remedy. You will be made whole as you *make* whole, for to
+perceive in sickness the appeal for health is to recognise in hatred
 the call for love. And to give a companion what they *really* want
 is to offer it unto yourself, for your Mother wills you to know your
 companions *as* yourself. Answer *their* call for love and
@@ -90,7 +86,7 @@ about the frightening perceptions of little children which terrify
 them because they do not understand them. If they ask for
 enlightenment and *accept* it, their fears vanish, but if they
 *hide* their nightmares, they will *keep* them. It is easy
-to help an uncertain child, for they recognize that they does not know
+to help an uncertain child, for they recognise that they does not know
 what their perceptions mean. Yet you believe that you *do* know.
 Little children, you are hiding your heads under the covers of the
 heavy blankets you have laid upon yourselves. You are hiding your

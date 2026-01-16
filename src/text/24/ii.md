@@ -25,23 +25,26 @@ And now must war, the substitute for peace, come with the one
 alternative that you can choose for love. Your choosing it has given
 it all the reality it seems to have.
 
-Beliefs will never openly attack each other, because conflicting outcomes are impossible. But an unrecognized belief is a decision to war in secret, where the results of conflict are kept unknown and never brought to reason to be considered sensible or not. And many senseless outcomes have been reached, and meaningless decisions have been made and kept hidden to become beliefs, now given power to direct all subsequent decisions. Mistake you not the power of these hidden warriors to disrupt your peace. For it *is* at their mercy while you decide to leave it
-there. The secret enemies of peace, your least decision to choose
-attack instead of love, unrecognized and swift to challenge you to
-combat and to violence far more inclusive than you think, are there
-by your election. Do not deny their presence nor their terrible
-results. All that can be denied is their *reality,* but not their
-outcome.
+Beliefs will never openly attack each other, because conflicting outcomes are 
+impossible. But an unrecognised belief is a decision to war in secret, where the 
+results of conflict are kept unknown and never brought to reason to be 
+considered sensible or not. And many senseless outcomes have been reached, 
+and meaningless decisions have been made and kept hidden to become beliefs, 
+now given power to direct all subsequent decisions. Mistake you not the power 
+of these hidden warriors to disrupt your peace. For it *is* at their mercy while 
+you decide to leave it there. The secret enemies of peace, your least decision to 
+choose attack instead of love, unrecognised and swift to challenge you to 
+combat and to violence far more inclusive than you think, are there 
+by your election. Do not deny their presence nor their terrible 
+results. All that can be denied is their *reality,* but not their outcome.
 
-All that is ever cherished
-as a hidden belief, to be defended though unrecognized, is faith in
-specialness. This takes many forms but always clashes with the
-reality of God’s creation and with the grandeur which She gave Her
-Child. What else could justify attack? For who could hate someone whose
-Self is theirs and whom She knows? Only the special could have enemies,
-for they are different and not the same. And difference of any kind
-imposes orders of reality and a need to judge that cannot be
-escaped.
+All that is ever cherished as a hidden belief, to be defended though 
+unrecognised, is faith in specialness. This takes many forms but always clashes 
+with the reality of God’s creation and with the grandeur which She gave Her 
+Child. What else could justify attack? For who could hate someone whose 
+Self is theirs and whom She knows? Only the special could have enemies, 
+for they are different and not the same. And difference of any kind 
+imposes orders of reality and a need to judge that cannot be escaped.
 
 What God created cannot be
 attacked, for there is nothing in the universe unlike itself. But
@@ -93,17 +96,16 @@ your belief your specialness is *limited* by your relationship?
 And is not this the “enemy” that makes you both illusions
 to each other?
 
-The fear of God and of
-each other comes from each unrecognized belief in specialness. For
-each demands the other bow to it *against* their will. And God
-Herself must honour it or suffer vengeance. Every twinge of malice or
-stab of hate or wish to separate arises here. For here the purpose
-which you share becomes obscured from both of you. You would oppose
-this course because it teaches you you are *alike*. You have no
-purpose that is not the same and none your Mother does not share with
-you. For your relationship has been made clean of special goals. And
-would you now *defeat* the goal of holiness that Heaven gave it?
-What perspective can the special have that does not change with every
+The fear of God and of each other comes from each unrecognised belief in 
+specialness. For each demands the other bow to it *against* their will. And God 
+Herself must honour it or suffer vengeance. Every twinge of malice or 
+stab of hate or wish to separate arises here. For here the purpose 
+which you share becomes obscured from both of you. You would oppose 
+this course because it teaches you you are *alike*. You have no 
+purpose that is not the same and none your Mother does not share with 
+you. For your relationship has been made clean of special goals. And 
+would you now *defeat* the goal of holiness that Heaven gave it? 
+What perspective can the special have that does not change with every 
 seeming blow, each slight, or fancied judgment on itself?
 
 Those who are special
