@@ -1,9 +1,8 @@
 ---js
 const prev = "/text/11/vii"
-const next = "/text/12/i"
-const title = "The Problem and the Answer"
+const next = "/text/11/ix"
+const title = "The Guide For Miracles"
 const section = "VIII"
-const pageNumber = 153
 const volume = "Tx"
 const chapter = 11
 const parent = `${volume}:${chapter}`
@@ -11,44 +10,197 @@ const reference = `${parent}.${section}`
 const headerTitle = `${section}. ${title}`
 const eleventyNavigation = {
 	key: reference,
-	order: pageNumber,
+	order: 8,
 	title: headerTitle,
 	parent
 }
 const layout = "mylayout.njk"
 ---
-This is a very simple course. Perhaps you do not feel you need a course which, in the end, teaches that only reality is true. But do you believe it? When you perceive the real world, you will recognize that you did not believe it. Yet the swiftness with which your new and only real perception will be translated into knowledge will leave you but an instant to realize that this alone is true. And then everything you made will be forgotten; the good and the bad, the false and the true. For as Heaven and earth become one, even the real world will vanish from your sight. The end of the world is not its destruction, but its translation into Heaven. The reinterpretation of the world is the transfer of all perception to knowledge.
+Miracles demonstrate that
+learning has occurred under the right guidance, for learning is
+invisible, and what has been learned can be recognized only by its
+*results*. Its generalization is demonstrated as you use it in
+more and more situations. You will recognize that you have learned
+there is no order of difficulty in miracles when you have applied
+them to *all* situations. There *is* no situation to which
+miracles do not apply, and by applying them to all situations, you
+will gain the real world. For in this holy perception, you will be
+made whole, and the Atonement will radiate from *your*
+acceptance of it for *yourself* to everyone the Holy Spirit
+sends you for your blessing. In every Child of God His blessing lies,
+and in *your* blessing of the Children of God is His blessing to
+*you*.
 
-The Bible tells you to become as little children. Little children recognize that they do not understand what they perceive, and so they ask what it means. Do not make the mistake of believing that you understand what you perceive, for its meaning is lost to you. Yet the Holy Spirit has saved its meaning for you, and if you will let Him interpret it, He will restore to you what you have thrown away. Yet while you think you know its meaning, you will see no need to ask it of Him.
+Everyone in the world must
+play their part in the redemption of the world to recognize that the
+world *has been* redeemed. You cannot see the invisible. Yet if
+you see its effects, you *know* it must be there. By perceiving
+what it *does*, you recognize its being. And by *what* it
+does, you learn what it *is*. You cannot *see* your
+abilities, but you gain confidence in their existence as they enable
+you to *act*. And the *results* of your actions you
+*can* see.
 
-You do not know the meaning of anything you perceive. Not one thought you hold is wholly true. The recognition of this is your firm beginning. You are not misguided; you have accepted no guide at all. Instruction in perception is your great need, for you understand nothing. Recognize this but do not accept it, for understanding is your inheritance. Perceptions are learned, and you are not without a Teacher. Yet your willingness to learn of Him depends on your willingness to question everything you learned of yourself, for you who learned amiss should not be your own teacher.
+The Holy Spirit is
+invisible, but you can see the *results* of His Presence, and
+through them you will learn that He is there. What He enables you to
+do is clearly *not* of this world, for miracles violate every
+law of reality as this world judges it. Every law of time and space,
+of magnitude and mass, of prediction and control is transcended, for
+what the Holy Spirit enables you to do is clearly beyond *all*
+of them. Perceiving His results, you will understand *where* He
+must be and finally *know* what He is.
 
-No one can withhold truth except from thimselves. Yet God will not refuse you the Answer She gave. Ask, then, for what is yours, but which you did not make, and do not defend yourself against truth. You made the problem God has answered. Ask yourself, therefore, but one simple question:
+You cannot see the Holy
+Spirit, but you can see His manifestations. And unless you do, you
+will not realize He is there. Miracles are His witnesses and speak
+for His Presence. What you cannot see becomes real to you only
+through the witnesses who speak for it. For you can be *aware*
+of what you cannot see, and it can become compellingly real to you as
+its presence becomes manifest *through* you. Do the Holy
+Spirit’s work, for you *share* in His function. As your
+function in Heaven is creation, so your function on earth is healing.
+God shares Her function with you in Heaven, and the Holy Spirit
+shares His with you on earth.
 
-Do I want the problem or do I want the answer?
+As long as you believe you
+have two functions, so long will you need correction. For this belief
+is the *destruction* of peace, a goal in direct opposition to
+the Holy Spirit’s purpose. You see what you *expect,* and
+you expect what you *invite*. Your perception is the result of
+your invitation, coming to you as you sent for it. Whose
+manifestations would you see? Of whose presence would you be
+convinced? For you will believe in what you *manifest*, and as
+you look out, so will you see in. Two ways of looking at the world
+are in your mind, and your perception will reflect the guidance you
+chose.
 
-Decide for the answer and you will have it, for you will see it as it is, and it is yours already.
+I am the manifestation of
+the Holy Spirit, and when you see me, it will be because you have
+invited Him. For He *will* send you His witnesses if you will
+but look upon them. Remember always that you see what you seek, for
+what you seek you *will* find. The ego finds what *it*
+seeks and *only* that. It does not find love, for that is
+*not* what it is seeking. Yet seeking and finding are the same,
+and if you seek for two goals you will find them, but you will
+*recognize neither*. For you will think they are the same
+because you *want* them both. The mind always strives for
+integration, and if it is split and wants to *keep* the split,
+it will believe it has one goal by *making* it one.
 
-You may complain that this course is not sufficiently specific for you to understand and use. Yet perhaps you have not done what it specifically advocates. This is not a course in the play of ideas, but in their practical application. Nothing could be more specific than to be told that if you ask you will receive. The Holy Spirit will answer every specific problem as long as you believe that problems are specific. His answer is both many and one, as long as you believe that the one is many. You may be afraid of His specificity, for fear of what you think it will demand of you. Yet only by asking will you learn that nothing of God demands anything of you. God gives; She does not take. When you refuse to ask, it is because you believe that asking is taking rather than sharing.
+We said before that
+*what* you project is up to you, but it is *not* up to you
+*whether* to project, for projection is a law of mind.
+Perception *is* projection, and you look in *before* you
+look out. As you look in you choose the guide for seeing, and
+*then* you look out and behold their witnesses. This is *why*
+you find what you seek. What you want in *yourself*, you will
+make manifest by projection, and you will accept it *from* the
+world because you put it there *by* wanting it.
 
-The Holy Spirit will give you only what is yours, and will take nothing in return. For what is yours is everything, and you share it with God. That is its reality. Would the Holy Spirit, Who wills only to restore, be capable of misinterpreting the question you must ask to learn His answer? You _have_ heard the answer, but you have misunderstood the question. You believe that to ask for guidance of the Holy Spirit is to ask for deprivation.
+When you think you are
+projecting what you do *not* want, it is still because you
+*do* want it. This leads directly to dissociation, for it
+represents the acceptance of two goals, each perceived in a
+*different* place, separated from each other *because* you
+made them different. The mind then sees a divided world
+*outside* itself but not *within*. This gives it an
+illusion of integrity and enables it to believe that it is pursuing
+one goal. As long as you perceive the world as split, *you* are
+not healed. For to be healed is to pursue one goal because you have
+*accepted* only one and *want* but one.
 
-Little child of God, you do not understand your Mother. You believe in a world that takes, because you believe that you can get by taking. And by that perception you have lost sight of the real world. You are afraid of the world as you see it, but the real world is still yours for the asking. Do not deny it to yourself, for it can only free you. Nothing of God will enslave Her Son whom She created free and whose freedom is protected by Her Being. Blessed are you who are willing to ask the truth of God without fear, for only thus can you learn that Her answer is the release from fear.
+When you want *only*
+love you will see nothing else. The contradictory nature of the
+witnesses you perceive is merely the reflection of your conflicting
+invitations. You have looked upon your minds and accepted opposition
+there, having *sought* it there. But do not then believe that
+the witnesses for opposition are true, for they attest only to
+*your* decision about reality, returning to you the message you
+*gave* them. Love is recognized by its messengers. If you make
+love manifest, its messengers will come to you because you
+*invited* them.
 
-Beautiful child of God, you are asking only for what I promised you. Do you believe I would deceive you? The Realm of Heaven _is_ within you. Believe that the truth is in me, for I know that it is in you. God’s Sons have nothing they do not share. Ask for truth of any Son of God, and you have asked it of me. Not one of us but has the answer in him, to give to anyone who asks it of him.
+The power of decision is
+your one remaining freedom as a prisoner of this world. *You can
+decide to see it right*. What *you* made of it is *not*
+its reality, for its reality is only what you *gave* it. You
+cannot really give anything but love to anyone or anything, nor can
+you really *receive* anything else from them. If you think you
+have received anything else, it is because you have looked within and
+thought you saw the power to give something else *within
+yourself*. It was only this decision that determined what you
+found, for it was the decision of what you *sought*.
 
-Ask anything of God’s Son and his Mother will answer you, for Christ is not deceived in His Mother and His Mother is not deceived in Him. Do not, then, be deceived in your companions, and see only their loving thoughts as their reality, for by denying that their minds are split you will heal yours. Accept them as their Mother accepts thEm and heal them unto Christ, for Christ is their healing and yours. Christ is the Son of God Who is in no way separate from His Mother, Whose every thought is as loving as the Thought of His Mother by which He was created. Be not deceived in God’s Son, for thereby you must be deceived in yourself. And being deceived in yourself you are deceived in your Mother, in Whom no deceit is possible.
+You are afraid of me
+because you looked within and are afraid of what you saw. Yet you
+could not have seen reality, for the reality of your mind is the
+loveliest of God’s creations. Coming only from God, its power and
+grandeur could only bring you peace *if you really looked upon
+it.* If you are afraid, it is because you saw something *that is
+not there*. Yet in that same place, you could have looked upon me
+and all your companions in the perfect safety of the Mind which created
+us. For we are there in the peace of the Mother, Who wills to project
+Her peace through *you*.
 
-In the real world there is no sickness, for there is no separation and no division. Only loving thoughts are recognized, and because no one is without your help, the Help of God goes with you everywhere. As you become willing to accept this Help by asking for It, you will give It because you want It. Nothing will be beyond your healing power, because nothing will be denied your simple request. What problems will not disappear in the Presence of God’s Answer? Ask, then, to learn of the reality of your companions, because this is what you will perceive in them, and you will see your beauty reflected in theirs.
+When you have accepted
+your mission to *project* peace, you will *find* it, for by
+*making it manifest*, you will *see* it. Its holy witnesses
+will surround you because you *called* upon them and they will
+come to you. I have heard your call and I have answered it, but you
+will not look upon me nor *hear* the answer which you sought.
+That is because you do not yet want *only* that. Yet as I become
+more real to you, you will learn that you *do* want only that.
+And you will see me as you look within, and we will look upon the
+world as God created it together. Through the eyes of Christ,
+*only* the real world exists and can *be* seen. As you
+decide, so will you see. And all that you see but witnesses to your
+decision.
 
-Do not accept your companion’s variable perception of themselves for their split mind is yours, and you will not accept your healing without theirs. For you share the real world as you share Heaven, and their healing is yours. To love yourself is to heal yourself, and you cannot perceive part of you as sick and achieve your goal. Friend, we heal together as we live together and love together. Be not deceived in God’s Son, for he is one with himself and one with his Mother. Love him who is beloved of his Mother, and you will learn of the Mother’s Love for you.
+When you look within and
+see me, it will be because you have decided to manifest truth. And as
+you manifest it, you will see it both without *and* within, for
+you will see it without *because* you saw it first within.
+Everything you behold without is a judgment of what you beheld
+within. If it is *your* judgment, it will be wrong, for judgment
+is not your function. If it is the judgment of the Holy Spirit, it
+will be right, for judgment *is* His function. You share His
+function only by judging as *He* does, reserving no judgment at
+all unto yourselves. For you will judge *against* yourselves,
+but *He* will judge *for* you.
 
-If you perceive offense in a companion pluck the offense from your mind, for you are offended by Christ and are deceived in Him. Heal in Christ and be not offended by Him, for there is no offense in Him. If what you perceive offends you, you are offended in yourself and are condemning God’s Son whom God condemneth not. Let the Holy Spirit remove all offenses of God’s Son against himself and perceive no one but through His guidance, for He would save you from all condemnation. Accept His healing power and use it for all He sends you, for He wills to heal the Son of God, in whom He is not deceived.
+Remember, then, that
+whenever you look without and react unfavorably to what you see, you
+have judged yourself unworthy and have condemned yourself to death.
+The death penalty is the ego’s ultimate goal, for it fully
+believes that you are a criminal, as deserving of death as God knows
+you are deserving of life. The death penalty never leaves the
+ego’s mind, for that is what it always reserves for you in the
+end. Wanting to kill you as the final expression of its feeling for
+you, it lets you live but to await death. It will torment you while
+you live, but its hatred is not satisfied until you die. For your
+destruction is the one end toward which it works, and the only end
+with which it will be satisfied.
 
-Children perceive frightening ghosts and monsters and dragons, and they are terrified. Yet if they ask someone they trust for the meaning of what they perceive, and are willing to let their own interpretations go in favor of reality, their fear goes with them. When children are helped to translate their “ghost” into a curtain, their “monster” into a shadow, and their “dragon” into a dream they are no longer afraid, and laugh happily at their own fear.
+The ego is not a traitor
+to God to Whom treachery is impossible, but it *is* a traitor to
+you who believe *you* have been treacherous to your Mother. That
+is why the *undoing* of guilt is an essential part of the Holy
+Spirit’s teaching. For as long as you feel guilty, you are
+listening to the voice of the ego, which tells you that you
+*have* been treacherous to God and therefore *deserve*
+death. You will think that death comes from God and *not* from
+the ego because, by confusing yourself *with* the ego, you
+believe that *you* want death. And from what you want, God does
+*not* save you.
 
-You, my child, are afraid of your companions and of your Mother and of yourself. But you are merely deceived in them. Ask what they are of the Teacher of reality, and hearing His answer, you too will laugh at your fears and replace them with peace. For fear lies not in reality, but in the minds of children who do not understand reality. It is only their lack of understanding that frightens them, and when they learn to perceive truly they are not afraid. And because of this they will ask for truth again when they are frightened. It is not the reality of your companions or your Mother or yourself that frightens you. You do not know what they are, and so you perceive them as ghosts and monsters and dragons. Ask what their reality is from the One Who knows it, and He will tell you what they are. For you do not understand them, and because you are deceived by what you see you need reality to dispel your fears.
+When you are tempted to
+yield to the desire for death, *remember that I did not die*.
+You will realize that this is true when you look within and
+*see* me. Would I have overcome death for myself alone? And
+would eternal life have been given me of the Mother *unless* She
+had also given it to you? When you learn to make *me* manifest,
+*you* will never see death. For you will have looked upon the
+deathless in *yourself*, and you will see only the eternal as
+you look out upon a world that *cannot* die.
 
-Would you not exchange your fears for truth, if the exchange is yours for the asking? For if God is not deceived in you, you can be deceived only in yourself. Yet you can learn the truth about yourself from the Holy Spirit, Who will teach you that, as part of God, deceit in you is impossible. When you perceive yourself without deceit, you will accept the real world in place of the false one you have made. And then your Mother will lean down to you and take the last step for you, by raising you unto Herself.
-
-{% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}

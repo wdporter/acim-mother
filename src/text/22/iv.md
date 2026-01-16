@@ -1,34 +1,117 @@
 ---js
 const layout = "mylayout.njk"
-const title = "The Branching of the Road"
+const title = "Salvation and the Holy Relationship"
 const volume = "Tx"
 const chapter = 22
 const parent = `${volume}:${chapter}`
 const section = "IV"
 const reference = `${parent}.${section}`
 const headerTitle = `${section}. ${title}`
-const pageNumber = 265
 const eleventyNavigation = {
 	key: reference,
-	order: pageNumber,
+	order: 4,
 	title: headerTitle,
 	parent
 }
 const prev = "/text/22/iii"
 const next = "/text/22/v"
 ---
-When you come to the place where the branch in the road is quite apparent, you cannot go ahead. You must go either one way or the other. For now if you go straight ahead, the way you went before you reached the branch, you will go nowhere. The whole purpose of coming this far was to decide which branch you will take now. The way you came no longer matters. It can no longer serve. No one who reaches this far can make the wrong decision, although he can delay. And there is no part of the journey that seems more hopeless and futile than standing where the road branches, and not deciding on which way to go.
+The introduction of reason
+into the ego’s thought system is the beginning of its undoing.
+For reason and the ego are contradictory. Nor is it possible for them
+to co-exist in your awareness. And reason’s goal is to make plain
+and therefore obvious. You can *see* reason. This is not a play
+on words, for here is the beginning of a vision that has meaning.
+Vision is sense, quite literally. If it is not the body’s sight,
+it *must* be understood. For it is *plain*, and what is
+obvious is not ambiguous. It *can* be understood. And here do
+reason and the ego separate to go their different ways.
 
-It is but the first few steps along the right way that seem hard, for you have chosen, although you still may think you can go back and make the other choice. This is not so. A choice made with the power of Heaven to uphold it cannot be undone. Your way is decided. There will be nothing you will not be told, if you acknowledge this.
+The ego’s whole
+continuance depends on its belief you cannot learn this course. Share
+this belief, and reason will be unable to see your errors and make
+way for their correction. For reason sees *through* errors,
+telling you what you thought was real is not. Reason can see the
+difference between sin and mistakes because it *wants*
+correction. Therefore, it tells you what you thought was
+uncorrectable *can* be corrected, and thus it must have been an
+error. The ego’s opposition to correction leads to its fixed
+belief in sin and disregard of errors. It looks on *nothing*
+that can be corrected. Thus does the ego damn and reason save.
 
-And so you and your companion stand, here in this holy place, before the veil of sin that hangs between you and the face of Christ. Let it be lifted! Raise it together with your companion, for it is but a veil that stands between you. Either you or your companion alone will see it as a solid block, nor realize how thin the drapery that separates you now. Yet it is almost over in your awareness, and peace has reached you even here, before the veil. Think what will happen after. The Love of Christ will light your face, and shine from it into a darkened world that needs the light. And from this holy place He will return with you, not leaving it nor you. You will become His messenger, returning Him unto Himself.
+Reason is not salvation in
+itself, but it makes way for peace and brings you to a state of mind
+in which salvation can be given you. Sin is a block, set like a heavy
+gate, locked and without a key, across the road to peace. No one who
+looks on it without the help of reason would try to pass it. The
+body’s eyes behold it as solid granite, so thick it would be
+madness to attempt to pass it. Yet reason sees through it easily
+*because* it is an error. The form it takes cannot conceal its
+emptiness from reason’s eyes.
 
-Think of the loveliness that you will see, who walk with Him! And think how beautiful will you and your companion look to the other! How happy you will be to be together, after such a long and lonely journey where you walked alone. The gates of Heaven, open now for you, will you now open to the sorrowful. And none who looks upon the Christ in you but will rejoice. How beautiful the sight you saw beyond the veil, which you will bring to light the tired eyes of those as weary now as once you were. How thankful will they be to see you come among them, offering Christ’s forgiveness to dispel their faith in sin.
+*Only* the form of
+error attracts the ego. Meaning it does not recognize and does not
+know if it is there or not. Everything which the body’s eyes can
+see is a mistake, an error in perception, a distorted fragment of the
+whole, without the meaning that the whole would give. And yet
+mistakes, regardless of their form, can be corrected. Sin is but
+error in a special form the ego venerates. It would preserve all
+errors and make them sins. For here is its own stability, its heavy
+anchor in the shifting world it made—the rock on which its church is
+built and where its worshipers are bound to bodies and believe the
+body’s freedom is their own.
 
-Every mistake you and your companions make, the other will gently have corrected. For in their sight your loveliness is their salvation, which they would protect from harm. And you will be your companion’s strong protector from everything that seems to rise between you both. So shall you walk the world with me, whose message has not yet been given everyone. For you are here to let it be received. God’s offer still is open, yet it waits acceptance. From you who have accepted it is it received. Into your hand, joined with your companion’s, is it safely given, for you who share it have become its willing guardian and protector.
+Reason will tell you that
+the form of error is not what makes it a mistake. If what the form
+*conceals* is a mistake, the form cannot prevent correction. The
+body’s eyes see *only* form. They cannot see beyond what
+they were *made* to see. And they were made to look on error and
+not see past it. Theirs is indeed a strange perception, for they can
+see only illusions, unable to look beyond the granite block of sin
+and stopping at the outside form of nothing. To this distorted form
+of vision, the outside of everything, the wall that stands between
+you and the truth, is wholly true. Yet how can sight which stops at
+nothingness as if it were a solid wall see truly? It is held back by
+form, having been made to guarantee that nothing else but form will
+be perceived.
 
-To all who share the Love of God the grace is given to be the givers of what they have received. And so they learn that it is theirs forever. All barriers disappear before their coming, as every obstacle was finally surmounted that seemed to rise and block their way before. This veil you and your companion lift together opens the way to truth to more than you. Those who would let illusions be lifted from their minds are this world’s saviors, walking the world with their Redeemer, and carrying His message of hope and freedom and release from suffering to everyone who needs a miracle to save him.
+These eyes, made
+*not* to see, will *never* see. For the idea they represent
+left not its maker, and it is their maker that sees through them.
+What was its maker’s *goal* but not to see? For this the
+body’s eyes are perfect means, but not for *seeing*. See how the body’s eyes rest on externals and cannot go beyond. Watch how they stop at nothingness, unable to go beyond the form to meaning. Nothing so blinding as perception of form. For sight of form means understanding has been obscured.
 
-How easy is it to offer this miracle to everyone! No one who has received it for themselves could find it difficult. For by receiving it, they learned it was not given them alone. Such is the function of a holy relationship; to receive together and give as you received. Standing before the veil, it still seems difficult. But hold out your hand, joined with your companion’s, and touch this heavy-seeming block, and you will learn how easily your fingers slip through its nothingness. It is no solid wall. And only an illusion stands between you and your companion, and the holy Self you share together.
+Only *mistakes* have
+different forms, and so they can deceive. You can change form
+*because* it is not true. It could not be reality, *because*
+it can be changed. Reason will tell you that, if form is not reality,
+it must be an illusion and is not *there* to see. And if you see
+it, you must be mistaken, for you are seeing what can *not* be
+real as if it *were*. What cannot see beyond what is not there
+*must* be distorted perception and must perceive illusions as
+the truth. Could it then *recognize* the truth?
 
-{% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+Let not the *form* of
+their mistakes keep you from them whose holiness is yours. Let not the
+vision of their holiness, the sight of which would show you your
+forgiveness, be kept from you by what the body’s eyes can see.
+Let your awareness of your companion not be blocked by your perception
+of their sins and of their body. What is there in them that you would
+attack except what you associate with their body, which *you*
+believe can sin? Beyond their errors is *their* holiness and
+*your* salvation. You gave them not their holiness but tried to see
+your sins in them to save yourself. And yet their holiness *is*
+your forgiveness. Can *you* be saved by making sinful the one
+whose holiness is your salvation?
+
+A holy relationship,
+however newly born, must value holiness above all else. Unholy values
+will produce confusion, and in *awareness*. In an unholy
+relationship, each one is valued because they seems to justify the
+other’s sin. They see within the other what impels them to sin
+against their will. And thus they lay their sins upon the other and are
+attracted to them to *perpetuate* their sins. And so it must become
+impossible for each to see themself as *causing* sin by their
+desire to have sin real. Yet reason sees a holy relationship as what
+it is—a common state of mind, where both give errors gladly to
+correction that both may happily be healed as one.

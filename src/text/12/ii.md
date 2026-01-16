@@ -1,40 +1,98 @@
 ---js
 const layout = "mylayout.njk"
-const title = "The Way to Remember God"
+const title = "Crucifixion By Guilt"
 const volume = "Tx"
 const chapter = 12
 const parent = `${volume}:${chapter}`
 const section = "II"
 const reference = `parent.${section}`
 const headerTitle =  `${section}. ${title}`
-const pageNumber = 156
 const eleventyNavigation = {
 	key: reference,
-	order: pageNumber,
+	order: 2,
 	title: headerTitle,
 	parent
 }
 const prev = "/text/12/i"
 const next = "/text/12/iii"
 ---
-Miracles are merely the translation of denial into truth. If to love oneself is to heal oneself, those who are sick do not love themselves. Therefore, they are asking for the love that would heal them, but which they are denying to themselves. If they knew the truth about themselves they could not be sick. The task of the miracle worker thus becomes _to deny the denial of truth._ The sick must heal themselves, for the truth is in them. Yet having obscured it, the light in another mind must shine into theirs because that light _is_ theirs.
+The darkest of your hidden
+cornerstones holds your belief in guilt from your awareness. For in
+that dark and secret place is the realization that you have betrayed
+God’s Child by condemning them to death. You do not even suspect
+this murderous but insane idea lies hidden there, for the ego’s
+destructive urge is so intense that nothing short of the crucifixion
+of God’s Child can ultimately satisfy it. It does not know who the
+Child of God is because it is blind. Yet let it perceive guiltlessness
+anywhere, and it will try to destroy it because it is afraid.
 
-The light in them shines as brightly regardless of the density of the fog that obscures it. If you give no power to the fog to obscure the light, it has none. For it has power only if the Son of God gives power to it. He must himself withdraw that power, remembering that all power is of God. You can remember this for all the Sonship. Do not allow your companions not to remember, for their forgetfulness is yours. But your remembering is theirs, for God cannot be remembered alone. _This is what you have forgotten._ To perceive the healing of your companion as the healing of yourself is thus the way to remember God. For you forgot your companions with Her, and God’s Answer to your forgetting is but the way to remember.
+Much of the ego’s
+strange behavior is directly attributable to its definition of guilt.
+To the ego, *the guiltless are guilty*. Those who do not attack
+are its “enemies” because, by not valuing its
+interpretation of salvation, they are in an excellent position *to
+let it go*. They have approached the darkest and deepest
+cornerstone in the ego’s foundation, and while the ego can
+withstand your raising all else to question, it guards this one
+secret with its life, for its existence *does* depend on keeping
+this secret. So it is this secret that we must look upon calmly, for
+the ego cannot protect you against truth, and in *its* presence
+the ego is dispelled.
 
-Perceive in sickness but another call for love, and offer your companions what they believe they cannot offer themselves. Whatever the sickness, there is but one remedy. You will be made whole as you make whole, for to perceive in sickness the appeal for health is to recognize in hatred the call for love. And to give companions what they really want is to offer it unto yourself, for your Mother wills you to know your companions as yourself. Answer their call for love, and yours is answered. Healing is the Love of Christ for His Mother and for Himself.
+In the calm light of truth,
+let us recognize that you believe you *have* crucified God’s
+Child. You have not admitted to this “terrible” secret
+because you *still* wish to crucify them if you could *find*
+them. Yet the wish has hidden them from you because it is very fearful,
+and you are *afraid* to find them. You have handled this wish to
+kill *yourself* by *not knowing* who you are and
+identifying with something *else*. You have projected guilt
+blindly and indiscriminately, but you have *not* uncovered its
+source. For the ego *does* want to kill you, and if you identify
+*with* it, you must believe *its* goal is *yours.*
 
-Remember what was said about the frightening perceptions of little children, which terrify them because they do not understand them. If they ask for enlightenment and accept it, their fears vanish. But if they hide their nightmares they will keep them. It is easy to help uncertain children, for they recognize that they do not understand what their perceptions mean. Yet you believe that you do understand yours. Little child, you are hiding your head under the cover of the heavy blankets you have laid upon yourself. You are hiding your nightmares in the darkness of your own false certainty, and refusing to open your eyes and look at them.
+We once said that the
+crucifixion is the symbol of the ego. When it was confronted with the
+*real* guiltlessness of God’s Child, it *did* attempt to
+kill them, and the reason it gave was that guiltlessness is
+blasphemous to God. To the ego *the ego* is god, and
+guiltlessness *must* be interpreted as the final guilt which
+fully justifies murder. You do not yet understand that all your fear
+of this course stems ultimately from this interpretation, but if you
+will consider your reactions to it, you will become increasingly
+convinced that this is so.
 
-Let us not save nightmares, for they are not fitting offerings for Christ, and so they are not fit gifts for you. Take off the covers and look at what you are afraid of. Only the anticipation will frighten you, for the reality of nothingness cannot be frightening. Let us not delay this, for your dream of hatred will not leave you without help, and Help is here. Learn to be quiet in the midst of turmoil, for quietness is the end of strife and this is the journey to peace. Look straight at every image that rises to delay you, for the goal is inevitable because it is eternal. The goal of love is but your right, and it belongs to you despite your dreams.
+This course has explicitly
+stated that its goal for you is happiness and peace. Yet you are
+*afraid* of it. You have been told again and again that it will
+make you free, yet you react as if it is trying to imprison you. Most
+of the time you dismiss it, but you do *not* dismiss the
+*ego’s* thought system. You have *seen* its results and
+you *still* lack faith in it. You *must*, then, believe
+that by *not* learning the course, you are *protecting*
+yourself. And you do not realize that it is only your guiltlessness
+which *can* protect you.
 
-You still want what God wills, and no nightmare can defeat a child of God in his purpose. For your purpose was given you by God, and you must accomplish it because it is Her Will. Awake and remember your purpose, for it is your will to do so. What has been accomplished for you must be yours. Do not let your hatred stand in the way of love, for nothing can withstand the Love of Christ for His Mother, or His Mother’s Love for Him.
+The Atonement has always
+been interpreted as the release from guilt, and this is correct if it
+is understood. Yet even when I have interpreted it *for* you,
+you have rejected it and have *not* accepted it for yourself.
+You have recognized the futility of the ego and its offerings, but
+though you do not want the ego, you do not look upon the alternative
+with gladness. You are *afraid* of redemption, and you believe
+it will kill you. Make no mistake about the depth of your fear. For
+you believe that in the presence of truth you will turn on yourself
+and destroy yourself.
 
-A little while and you will see me, for I am not hidden because _you_ are hiding. I will awaken you as surely as I awakened myself, for I awoke for you. In my resurrection is your release. Our mission is to escape from crucifixion, not from redemption. Trust in my help, for I did not walk alone, and I will walk with you as our Mother walked with me. Do you not know that I walked with Her in peace? And does not that mean that peace goes with _us_ on the journey?
-
-There is no fear in perfect love. We will but be making perfect to you what is already perfect in you. You do not fear the unknown but the known. You will not fail in your mission because I did not fail in mine. Give me but a little trust in the name of the complete trust I have in you, and we will easily accomplish the goal of perfection together. For perfection _is,_ and cannot be denied. To deny the denial of perfection is not so difficult as to deny truth, and what we can accomplish together will be believed when you see it as accomplished.
-
-You who have tried to banish love have not succeeded, but you who choose to banish fear must succeed. The Lord is with you, but you know it not. Yet your Redeemer liveth, and abideth in you in the peace out of which He was created. Would you not exchange this awareness for the awareness of fear? When we have overcome fear—not by hiding it, not by minimizing it, and not by denying its full import in any way—this is what you will really see. You cannot lay aside the obstacles to real vision without looking upon them, for to lay aside means to judge against. If you will look, the Holy Spirit will judge, and He will judge truly. Yet He cannot shine away what you keep hidden, for you have not offered it to Him and He cannot take it from you.
-
-We are therefore embarking on an organized, well-structured and carefully planned program aimed at learning how to offer to the Holy Spirit everything you do not want. He knows what to do with it. You do not understand how to use what He knows. Whatever is given Him that is not of God is gone. Yet you must look at it yourself in perfect willingness, for otherwise His knowledge remains useless to you. Surely He will not fail to help you, since help is His only purpose. Do you not have greater reason for fearing the world as you perceive it, than for looking at the cause of fear and letting it go forever?
-
-{% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+Little children, this is
+not so. Your “guilty secret” is nothing, and if you will
+but bring it to the light, the light will dispel it. And then no dark
+cloud will remain between you and the remembrance of your Mother, for
+you will remember Her guiltless Child, who did not die, because they are
+immortal. And you will see that you were redeemed *with* them and
+have never been separated *from* them. In this understanding lies
+your remembering, for it is the recognition of love *without*
+fear. There will be great joy in Heaven on your homecoming, and the
+joy will be *yours*. For the redeemed son of man [sic] *is* the
+guiltless Child of God, and to recognize them *is* your
+redemption.

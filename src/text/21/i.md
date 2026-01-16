@@ -1,41 +1,43 @@
 ---js
 const layout = "mylayout.njk"
-const title = "The Forgotten Song"
+const title = "Introduction"
 const volume = "Tx"
 const chapter = 21
 const parent = `${volume}:${chapter}`
 const section = "I"
 const reference = `${parent}.${section}`
-const pageNumber = 252
 const headerTitle = `${section}. ${title}`
 const eleventyNavigation = {
 	key: reference,
-	order: pageNumber,
+	order: 1,
 	title: headerTitle,
 	parent
 }
-const prev = "/text/21/in"
+const prev = "/text/20/ix"
 const next = "/text/21/ii"
 ---
+Projection makes
+perception. The world you see is what you gave it, nothing more than
+that. But though it is no more than that, it is not less. Therefore,
+to you it is important. It is the witness to your state of mind, the
+outside picture of an inward condition. As a person thinketh, so do they
+perceive. Therefore, seek not to change the world, but will to change
+your mind *about* the world. Perception is a *result*, not
+a cause. And that is why order of difficulty in miracles is
+meaningless. Everything looked upon with vision is healed and holy.
+Nothing perceived without it means anything. And where there is no
+meaning, there is chaos.
 
-Never forget the world the sightless “see” must be imagined, for what it really looks like is unknown to them. They must infer what could be seen from evidence forever indirect; and reconstruct their inferences as they stumble and fall because of what they did not recognize, or walk unharmed through open doorways that they thought were closed. And so it is with you. You do not see. Your cues for inference are wrong, and so you stumble and fall down upon the stones you did not recognize, but fail to be aware you can go through the doors you thought were closed, but which stand open before unseeing eyes, waiting to welcome you.
+Damnation is your judgment
+on yourself, and this you *will* project upon the world. See it
+as damned, and all you see is what you did to hurt the Child of God. If
+you behold disaster and catastrophe, you tried to crucify them. If you
+see holiness and hope, you joined the Will of God to set them free.
+There is no choice that lies between these two decisions. And you
+*will* see the witness to the choice you made and learn from
+this to *recognize* which one you chose. [The world you see but
+shows you how much joy *you* have allowed yourself to see in you
+and to accept as *yours*. And if this *is* its meaning,
+then the power to *give* it joy *must* lie *within*
+you.]
 
-How foolish is it to attempt to judge what could be seen instead. It is not necessary to imagine what the world must look like. It must be seen before you recognize it for what it is. You can be shown which doors are open, and you can see where safety lies; and which way leads to darkness, which to light. Judgment will always give you false directions, but vision shows you where to go. Why should you guess?
-
-There is no need to learn through pain. And gentle lessons are acquired joyously, and are remembered gladly. What gives you happiness you want to learn and not forget. It is not this you would deny. Your question is whether the means by which this course is learned will bring to you the joy it promises. If you believed it would, the learning of it would be no problem. You are not a happy learner yet because you still remain uncertain that vision gives you more than judgment does, and you have learned that both you cannot have.
-
-The blind become accustomed to their world by their adjustments to it. They think they know their way about in it. They learned it, not through joyous lessons, but through the stern necessity of limits they believed they could not overcome. And still believing this, they hold those lessons dear, and cling to them because they cannot see. They do not understand the lessons _keep_ them blind. This they do not believe. And so they keep the world they learned to “see” in their imagination, believing that their choice is that or nothing. They hate the world they learned through pain. And everything they think is in it serves to remind them that they are incomplete and bitterly deprived.
-
-Thus they define their life and where they live, adjusting to it as they think they must, afraid to lose the little that they have. And so it is with all who see the body as all they have and all their companions have. They try to reach each other, and they fail, and fail again. And they adjust to loneliness, believing that to keep the body is to save the little that they have. Listen, and try to think if you remember what we will speak of now.
-
-Listen,—perhaps you catch a hint of an ancient state not quite forgotten; dim, perhaps, and yet not altogether unfamiliar, like a song whose name is long forgotten, and the circumstances in which you heard completely unremembered. Not the whole song has stayed with you, but just a little wisp of melody, attached not to a person or a place or anything particular. But you remember, from just this little part, how lovely was the song, how wonderful the setting where you heard it, and how you loved those who were there and listened with you.
-
-The notes are nothing. Yet you have kept them with you, not for themselves, but as a soft reminder of what would make you weep if you remembered how dear it was to you. You could remember, yet you are afraid, believing you would lose the world you learned since then. And yet you know that nothing in the world you learned is half so dear as this. Listen, and see if you remember an ancient song you knew so long ago and held more dear than any melody you taught yourself to cherish since.
-
-Beyond the body, beyond the sun and stars, past everything you see and yet somehow familiar, is an arc of golden light that stretches as you look into a great and shining circle. And all the circle fills with light before your eyes. The edges of the circle disappear, and what is in it is no longer contained at all. The light expands and covers everything, extending to infinity forever shining and with no break or limit anywhere. Within it everything is joined in perfect continuity. Nor is it possible to imagine that anything could be outside, for there is nowhere that this light is not.
-
-This is the vision of the Son of God, whom you know well. Here is the sight of him who knows his Mother. Here is the memory of what you are; a part of this, with all of it within, and joined to all as surely as all is joined in you. Accept the vision that can show you this, and not the body. You know the ancient song, and know it well. Nothing will ever be as dear to you as is this ancient hymn of love the Son of God sings to his Mother still.
-
-And now the blind can see, for that same song they sing in honor of their Creator gives praise to them as well. The blindness that they made will not withstand the memory of this song. And they will look upon the vision of the Son of God, remembering who he is they sing of. What is a miracle but this remembering? And who is there in whom this memory lies not? The light in one awakens it in all. And when you see it in your companion, you _are_ remembering for everyone.
-
-{% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}

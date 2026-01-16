@@ -1,40 +1,118 @@
 ---js
 const prev = "/text/20/vii"
-const next = "/text/21/in"
-const title = "The Vision of Sinlessness"
+const next = "/text/21/ix"
+const title = "The Consistency of Means and End"
 const section = "VIII"
-const pageNumber = 249
 const chapter = "Tx:20"
 const reference = `${chapter}.${section}`
 const headerTitle = `${section}. ${title}`
 const eleventyNavigation = {
 	key: reference,
-	order: pageNumber,
+	order: 9,
 	title: headerTitle,
 	parent: `${chapter}`
 }
 const layout = "mylayout.njk"
 ---
-Vision will come to you at first in glimpses, but they will be enough to show you what is given you who see your companion sinless. Truth is restored to you through your desire, as it was lost to you through your desire for something else. Open the holy place that you closed off by valuing the “something else,” and what was never lost will quietly return. It has been saved for you. Vision would not be necessary had judgment not been made. Desire now its whole undoing, and it is done for you.
 
-Do you not want to know your own Identity? Would you not happily exchange your doubts for certainty? Would you not willingly be free of misery, and learn again of joy? Your holy relationship offers all this to you. As it was given you, so will be its effects. And as its holy purpose was not made by you, the means by which its happy end is yours is also not of you. Rejoice in what is yours but for the asking, and think not that you need make either means or end. All this is given you who would but see your companion sinless. All this is given, waiting on your desire but to receive it. Vision is freely given to those who ask to see.
+We have said much about
+discrepancies of means and end and how these must be brought in line
+before your holy relationship can bring you only joy. But we have
+also said the means to meet the Holy Spirit’s goal will come from
+the same Source as does His purpose. Being so simple and direct, this
+course has nothing in it that is not consistent. The seeming
+inconsistencies or parts you find more difficult than others are
+merely indications of areas where means and end are still discrepant.
+And this produces great discomfort. This need not be. This course
+requires almost nothing of you. It is impossible to imagine one that
+asks so little or could offer more.
 
-Your companion’s sinlessness is given you in shining light, to look on with the Holy Spirit’s vision and to rejoice in along with Him. For peace will come to all who ask for it with real desire and sincerity of purpose, shared with the Holy Spirit and at one with Him on what salvation is. Be willing, then, to see your companion sinless, that Christ may rise before your vision and give you joy. And place no value on your companions’ body, which holds them to illusions of what they are. It is their desire to see their sinlessness, as it is yours. And bless the Son of God in your relationship, nor see in them what you have made of them.
+The period of discomfort
+that follows the sudden change in a relationship from sin to holiness
+should now be almost over. To the extent you still experience it, you
+are refusing to leave the means to Him Who changed the purpose. You
+recognize you want the goal. Are you not also willing to accept the
+means? If you are not, let us admit that *you* are inconsistent.
+A purpose is *attained* by means, and if you want a purpose, you *must*
+be willing to want the means as well. How can one be sincere and say,
+“I want this above all else, and yet I do not want to learn the
+means to get it”?
 
-The Holy Spirit guarantees that what God willed and gave you shall be yours. This is your purpose now, and the vision that makes it yours is ready to be given. You have the vision that enables you to see the body not. And as you look upon your companion, you will see an altar to your Mother, holy as Heaven, glowing with radiant purity and sparkling with the shining lilies you laid upon it. What can you value more than this? Why do you think the body is a better home, a safer shelter for God’s Son? Why would you rather look on it than on the truth? How can the engine of destruction be preferred, and chosen to replace the holy home the Holy Spirit offers, where He will dwell with you?
+To obtain the goal, the
+Holy Spirit indeed asked little. He asks no more to give the means as
+well. The means are second to the goal. And when you hesitate, it is
+because the *purpose* frightens you, and *not* the means. Remember this,
+for otherwise you will make the error of believing the means are
+difficult. Yet how can they be difficult if they are merely *given*
+you? They guarantee the goal, and they are perfectly in line with it.
+Before we look at them a little closer, remember that if you think
+they are impossible, your wanting of the *purpose* has been shaken. For
+if a goal is possible to reach, the means to do so must be possible
+as well.
 
-The body is the sign of weakness, vulnerability and loss of power. Can such a savior help you? Would you turn in your distress and need for help unto the helpless? Is the pitifully little the perfect choice to call upon for strength? Judgment will seem to make your saviors weak. Yet it is _you_ who need their strength. There is no problem, no event or situation, no perplexity that vision will not solve. All is redeemed when looked upon with vision. For this is not _your_ sight, and brings with it the laws beloved of Him [the Holy Spirit] Whose sight it is.
+It *is* impossible to
+see your companions as sinless and yet to look upon them as a body. Is
+this not perfectly consistent with the goal of holiness? For holiness
+is merely the result of letting the effects of sin be lifted so what
+was always true is recognized. To see a sinless *body* is
+impossible, for holiness is positive, and the body is merely neutral.
+It is not sinful, but neither is it sinless. As nothing, which it is,
+the body cannot meaningfully be invested with attributes of Christ *or*
+of the ego. Either must be an error, for both would place the
+attributes where they cannot be. And both must be undone for purposes
+of truth.
 
-Everything looked upon with vision falls gently into place, according to the laws brought to it by His [the Holy Spirit’s] calm and certain sight. The end for everything He looks upon is always sure. For it will meet His purpose, seen in unadjusted form and suited perfectly to meet it. Destructiveness becomes benign, and sin is turned to blessing under His gentle gaze. What can the body’s eyes perceive, with power to correct? Its eyes adjust to sin, unable to overlook it in any form and seeing it everywhere, in everything. Look through its eyes, and everything will stand condemned before you. All that could save you, you will never see. Your holy relationship, the source of your salvation, will be deprived of meaning, and its most holy purpose bereft of means for its accomplishment.
+The body *is* the
+means by which the ego tries to make the unholy relationship seem
+real. The unholy instant *is* the time of bodies. But the
+*purpose* here is sin. It cannot be attained *but* in illusion,
+and so the illusion of a companion as a body is quite in keeping with
+the purpose of unholiness. Because of this consistency, the means
+remain unquestioned while the end is cherished. Vision adapts to
+wish, for sight is always secondary to desire. And if you see the
+body, you have chosen judgment and not vision. For vision, like
+relationships, has no order. You either *see* or not.
 
-Judgment is but a toy, a whim, the senseless means to play the idle game of death in your imagination. But vision sets all things right, bringing them gently within the kindly sway of Heaven’s laws. What if you recognized this world is an hallucination? What if you really understood you made it up? What if you realized that those who seem to walk about in it, to sin and die, attack and murder and destroy themselves, are wholly unreal? Could you have faith in what you see, if you accepted this? And would you see it?
+Who sees a companion’s
+body has laid a judgment on them and sees them not. They [the judger] do not really see them [companion] as sinful; they does not see them at all. In the darkness of
+sin, they [companion] are invisible. They can but be imagined in the darkness, and it
+is here that the illusions you hold about them are not held up to their
+reality. Here are illusions and reality kept separated. Here are
+illusions never brought to truth and always hidden from it. And here
+in darkness is your companion’s reality imagined as a body, in
+unholy relationships with other bodies, serving the cause of sin an
+instant before they die.
 
-Hallucinations disappear when they are recognized for what they are. This is the healing and the remedy. Believe them not and they are gone. And all you need to do is recognize that _you_ did this. Once you accept this simple fact and take unto yourself the power you gave them, you are released from them. One thing is sure; hallucinations serve a purpose, and when that purpose is no longer held they disappear. Therefore, the question never is whether you want them, but always, do you want the purpose that they serve? This world seems to hold out many purposes, each different and with different values. Yet they are all the same. Again there is no order; only a seeming hierarchy of values.
+There is indeed a
+difference between this vain imagining and vision. The difference
+lies not in them, but in their purpose. Both are but means, each one
+appropriate to the end for which it is employed. Neither can serve
+the purpose of the other, for each one is a choice of purpose,
+employed on its behalf. Either is meaningless without the end for
+which it was intended, nor is it valued as a separate thing apart
+from the intention. The means seem real because the *goal* is valued.
+And judgment has no value *unless* the goal is sin.
 
-Only two purposes are possible. And one is sin, the other holiness. Nothing is in between, and which you choose determines what you see. For what you see is merely how you elect to meet your goal. Hallucinations serve to meet the goal of madness. They are the means by which the outside world, projected from within, adjusts to sin and seems to witness to its reality. It still is true that nothing is without. Yet upon nothing are all projections made. For it is the projection that gives the “nothing” all the meaning that it holds.
+The body cannot be looked
+upon except through judgment. To see the body is the sign that you
+lack vision and have denied the means the Holy Spirit offers you to
+serve *His* purpose. How can a holy relationship achieve its purpose
+through the means of sin? Judgment you taught yourself; vision is
+learned from Him Who would *undo* your teaching. His vision cannot see
+the body because it cannot look on sin. And thus it leads you to
+reality. Your holy companion, sight of whom is your release, is no
+illusion. Attempt to see them not in darkness, for your imaginings
+about them *will* seem real there. You closed your eyes to shut them out.
+Such was your purpose, and while this purpose seems to have any
+meaning, the means for its attainment will be evaluated as worth the
+seeing, and so you will not see.
 
-What has no meaning cannot be perceived. And meaning always looks within to find itself, and _then_ looks out. All meaning that you give the world outside must thus reflect the sight you saw within; or better, if you saw at all or merely judged against. Vision is the means by which the Holy Spirit translates your nightmares into happy dreams; your wild hallucinations that show you all the fearful outcomes of imagined sin into the calm and reassuring sights with which He would replace them. These gentle sights and sounds are looked on happily, and heard with joy. They are His substitutes for all the terrifying sights and screaming sounds the ego’s purpose brought to your horrified awareness. They step away from sin, reminding you that it is not reality which frightens you, and that the errors which you made can be corrected.
-
-When you have looked on what seemed terrifying, and seen it change to sights of loveliness and peace; when you have looked on scenes of violence and death, and watched them change to quiet views of gardens under open skies, with clear, life-giving water running happily beside them in dancing brooks that never waste away; who need persuade you to accept the gift of vision? And after vision, who is there who could refuse what must come after? Think but an instant just on this; you can behold the holiness God gave Her Son. And never need you think that there is something else for you to see.
-
- {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+Your question should not
+be, “How can I see my companion without the body?”. Ask only,
+“Do I *really* wish to see them sinless?”. And as you ask,
+forget not that their sinlessness is *your* escape from fear.
+Salvation is the Holy Spirit’s goal. The means is vision. For
+what the seeing look upon *is* sinless. No one who loves can
+judge, and what they see is free of condemnation. And what they
+sees they did not make, for it was given them to see, as was the vision
+which made their seeing possible.

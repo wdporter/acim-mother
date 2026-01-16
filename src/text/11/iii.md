@@ -1,9 +1,8 @@
 ---js
 const prev = "/text/11/ii"
 const next = "/text/11/iv"
-const title = "From Darkness to Light"
+const title = "The Mechanism of Miracles"
 const section = "III"
-const pageNumber = 148
 const volume = "Tx"
 const chapter = 11
 const parent = `${volume}:${chapter}`
@@ -11,26 +10,158 @@ const reference = `${parent}.${section}`
 const headerTitle = `${section}. ${title}`
 const eleventyNavigation = {
 	key: reference,
-	order: pageNumber,
+	order: 3,
 	title: headerTitle,
 	parent
 }
 const layout = "mylayout.njk"
 ---
-When you are weary, remember you have hurt yourself. Your Comforter will rest you, but you cannot. You do not know how, for if you did you could never have grown weary. Unless you hurt yourself you could never suffer in any way, for that is not God’s Will for Her Son. Pain is not of Her, for She knows no attack and Her peace surrounds you silently. God is very quiet, for there is no conflict in Her. Conflict is the root of all evil, for being blind it does not see whom it attacks. Yet it always attacks the Son of God, and the Son of God is you.
+Fear is a symptom of your
+deep sense of loss. If when you perceive it in others you learn to
+*supply* the loss, the basic *cause* of fear is removed.
+Thereby you teach yourself that fear does not exist *in you*,
+for you have *in yourself* the means for removing it and have
+demonstrated this by *giving* it. Fear and love are the only
+emotions of which you are capable. One is false, for it was made out
+of denial, and denial depends on the real belief in what is denied
+for its *own* existence.
 
-God’s Son is indeed in need of comfort, for he knows not what he does, believing his will is not his own. The Realm is his, and yet he wanders homeless. At home in God he is lonely, and amid all his companions he is friendless. Would God let this be real, when She did not will to be alone Herself? And if your will is Hers it cannot be true of you, because it is not true of Her.
+By interpreting fear
+correctly *as a positive affirmation of the underlying belief it
+masks*, you are undermining its perceived usefulness by rendering
+it useless. Defenses which do not work at all are
+*automatically* discarded. If you raise what fear conceals to
+*clear-cut, unequivocal predominance*, fear becomes meaningless.
+You have denied its power to conceal love, which was its only
+purpose. The mask which *you* have drawn across the face of love
+has disappeared.
 
-O my child, if you knew what God wills for you, your joy would be complete! And what She wills has happened, for it was always true. When the light comes and you have said, “God’s Will is mine,” you will see such beauty that you will know it is not of you. Out of your joy you will create beauty in Her Name, for your joy could no more be contained than Hers. The bleak little world will vanish into nothingness, and your heart will be so filled with joy that it will leap into Heaven, and into the Presence of God. I cannot tell you what this will be like, for your heart is not ready. Yet I can tell you, and remind you often, that what God wills for Herself She wills for you, and what She wills for you is yours.
+If you would look upon
+love, which *is* the world’s reality, how could you do
+better than to recognize in every defense *against* it the
+underlying appeal *for* it? And how could you better learn of
+its reality than by answering the appeal for it by *giving* it?
+The Holy Spirit’s interpretation of fear *does* dispel it,
+for the *awareness* of truth cannot *be* denied. Thus does
+the Holy Spirit replace fear with love and translate error into
+truth. And thus will *you* learn of Him how to replace your
+dream of separation with the fact of unity. For the separation is
+only the *denial* of union and, correctly interpreted, attests
+to your eternal knowledge that union is true.
 
-The way is not hard, but it _is_ very different. Yours is the way of pain, of which God knows nothing. That way is hard indeed, and very lonely. Fear and grief are your guests, and they go with you and abide with you on the way. But the dark journey is not the way of God’s Son. Walk in light and do not see the dark companions, for they are not fit companions for the Son of God, who was created _of_ light and _in_ light. The Great Light always surrounds you and shines out from you. How can you see the dark companions in a light such as this? If you see them, it is only because you are denying the light. But deny them instead, for the light is here and the way is clear.
+Miracles are merely the
+translation of denial into truth. If to love oneself is to
+*heal* oneself, those who are sick do *not* love
+themselves. Therefore, they are asking for the love that would heal
+them but which they are denying to themselves. If they knew the truth
+about themselves, they could not *be* sick. The task of the
+miracle-worker thus becomes *to deny the denial of truth*. The
+sick must heal *themselves*, for the truth is in them. Yet,
+having *obscured* it, the light in *another* mind must
+shine into theirs because that light *is* theirs.
 
-God hides nothing from Her Son, even though Her Son would hide himself. Yet the Son of God cannot hide his glory, for God wills him to be glorious, and gave him the light that shines in him. You will never lose your way, for God leads you. When you wander, you but undertake a journey that is not real. The dark companions, the dark way, are all illusions. Turn toward the light, for the little spark in you is part of a light so great that it can sweep you out of all darkness forever. For your Mother _is_ your Creator, and you _are_ like Her.
+The light in them shines
+as brightly, *regardless* of the density of the fog that
+obscures it. If *you* give no power to the fog to obscure the
+light, it *has* none, for it has power only because the Child of
+God gave power to it. They must *themself* withdraw that power,
+remembering that *all* power is of God. *You can remember this
+for all the Family of God*. Do not allow your companions not to remember,
+for their forgetfulness is *yours*. But *your* remembering is
+*theirs*, for God cannot be remembered alone. *This is what you
+have forgotten*. To perceive the healing of your companion as the
+healing of yourself is thus the way to remember God. For you forgot
+your companions *with* Him, and God’s answer to your
+forgetting is but the way to remember.
 
-The children of light cannot abide in darkness, for darkness is not in them. Do not be deceived by the dark comforters, and never let them enter the mind of God’s Son, for they have no place in Her temple. When you are tempted to deny Her remember that there _are_ no other gods to place before Her, and accept Her Will for you in peace. For you cannot accept it otherwise.
+Perceive in sickness but
+another call for love and offer your companions what they believe they
+cannot offer themselves. Whatever the sickness, there is but *one*
+remedy. You will be made whole as you *make* whole, for to
+perceive in sickness the appeal for health is to recognize in hatred
+the call for love. And to give a companion what they *really* want
+is to offer it unto yourself, for your Mother wills you to know your
+companions *as* yourself. Answer *their* call for love and
+*yours* is answered. Healing is the love of Christ for His
+Mother and for *Himself*.
 
-Only God’s Comforter can comfort you. In the quiet of Her temple, He [the Holy Spirit] waits to give you the peace that is yours. Give His peace, that you may enter the temple and find it waiting for you. But be holy in the Presence of God, or you will not know that you are there. For what is unlike God cannot enter Her Mind, because it was not Her Thought and therefore does not belong to Her. And your mind must be as pure as Hers, if you would know what belongs to you. Guard carefully Her temple, for She Herself dwells there and abides in peace. You cannot enter God’s Presence with the dark companions beside you, but you also cannot enter alone. All your companions must enter with you, for until you have accepted them _you_ cannot enter. For you cannot understand wholeness unless you are whole, and no part of the Son can be excluded if he would know the Wholeness of his Mother.
+Remember what we said
+about the frightening perceptions of little children which terrify
+them because they do not understand them. If they ask for
+enlightenment and *accept* it, their fears vanish, but if they
+*hide* their nightmares, they will *keep* them. It is easy
+to help an uncertain child, for they recognize that they does not know
+what their perceptions mean. Yet you believe that you *do* know.
+Little children, you are hiding your heads under the covers of the
+heavy blankets you have laid upon yourselves. You are hiding your
+nightmares in the darkness of your own certainty and refusing to open
+your eyes *and look at them*.
 
-In your mind you can accept the whole Sonship and bless it with the light your Mother gave it. Then you will be worthy to dwell in the temple with Her, because it is your will not to be alone. God blessed Her Son forever. If you will bless him in time, you will be in eternity. Time cannot separate you from God if you use it on behalf of the eternal.
+Let us not save
+nightmares, for they are not fitting offerings for Christ, and so
+they are not fit gifts for *you*. Take off the covers and look
+at what you are afraid of. Only the *anticipation* will frighten
+you, for the reality of nothingness cannot *be* frightening. Let
+us not delay this, for your dream of hatred will not leave you
+without help, and help is here. Learn to be quiet in the midst of
+turmoil, for quietness is the end of strife and this is the journey
+to peace. Look straight at every image that rises to delay you, for
+the goal is inevitable because it is eternal. The goal of love is but
+your right, and it belongs to you *despite* your preference.
 
-{% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+*You still want what God
+wills*, and no nightmare can defeat a Child of God in their purpose.
+For your purpose was given you by God, and you must accomplish it
+*because* it is Her Will. Awake and remember your purpose, for
+it is *your* will to do so. What has been accomplished for you
+*must* be yours. Do not let your hatred stand in the way of
+love, for *nothing* can withstand the love of Christ for His
+Mother or His Mother’s love for Him.
+
+A little while and you
+*will* see me, for I am not hidden because *you* are
+hiding. I will awaken you as surely as I awakened myself, for I awoke
+*for* you. In *my* resurrection is *your* release. Our
+mission is to escape *crucifixion*, not redemption. Trust in my
+help, for I did not walk alone, and I will walk with you as our
+Mother walked with me. Did you not know that I walked with Her in
+peace? And does not that mean that peace goes with *us* on the
+journey?
+
+There is no fear in
+perfect love. We will but be making perfect to you what is
+*already* perfect *in* you. You do not fear the
+*unknown*, but the *known*. You will not fail in your
+mission because I failed not in mine. Give me but a little trust in
+the name of the *complete* trust I have in you, and we will
+easily accomplish the goal of perfection together. For perfection
+*is* and cannot *be* denied. To deny the denial of
+perfection is not so difficult as the denial of truth, and what we
+can accomplish together *must* be believed when you *see*
+it as accomplished.
+
+You who have tried to
+banish love have not succeeded, but you who choose to banish fear
+*will* succeed. The Lord is with you, but you know it not. Yet
+your Redeemer liveth and abideth in you in the peace out of which He
+was created. Would you not exchange *this* awareness for the
+awareness of your fear? When we have overcome fear—not by hiding it,
+not by minimizing it, not by denying its full import in any way—this
+*is* what you will really see. You cannot lay aside the obstacle
+to real vision without looking upon it, for to lay aside means to
+judge *against*. If *you* will look, the Holy Spirit will
+judge and will judge truly. He cannot shine away what *you* keep
+hidden, for you have not offered it to Him, and He cannot take it
+*from* you.
+
+We are therefore embarking
+on an organized, well-structured, and carefully planned program aimed
+at learning how to offer to the Holy Spirit everything you do
+*not* want. *He* knows what to do with it. You do
+*not* know how to use what He knows. Whatever is revealed to Him
+that is not of God is gone. Yet you must reveal it to *yourself*
+in perfect willingness, for otherwise His knowledge remains useless
+to you. Surely He will not fail to help you, since help is His
+*only* purpose. Do you not have greater reason for fearing the
+world as *you* perceive it than for looking at the cause of fear
+and letting it go forever?

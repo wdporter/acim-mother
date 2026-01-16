@@ -1,9 +1,8 @@
 ---js
 const prev = "/text/11/v"
 const next = "/text/11/vii"
-const title = "Waking to Redemption"
+const title = "The Sane Curriculum"
 const section = "VI"
-const pageNumber = 151
 const volume = "Tx"
 const chapter = 11
 const parent = `${volume}:${chapter}`
@@ -11,31 +10,129 @@ const reference = `${parent}.${section}`
 const headerTitle = `${section}. ${title}`
 const eleventyNavigation = {
 	key: reference,
-	order: pageNumber,
+	order: 6,
 	title: headerTitle,
 	parent
 }
 const layout = "mylayout.njk"
 ---
+Only love is strong
+because it is *undivided*. The strong do not attack because they
+see no need to do so. *Before* the idea of attack can enter your
+mind, you must have *perceived* yourself as weak. Because you
+had attacked yourself and believed that the attack was
+*effective*, you behold yourself as weakened. No longer
+perceiving yourself and all your companions as equal and regarding
+yourself as *weaker*, you attempt to “equalize” the
+situation *you* have made. You use attack to do so because you
+believe that attack was successful in weakening *you*.
 
-It is impossible not to believe what you see, but it is equally impossible to see what you do not believe. Perceptions are built up on the basis of experience, and experience leads to beliefs. It is not until beliefs are fixed that perceptions stabilize. In effect, then, what you believe you _do_ see. That is what I meant when I said, “Blessed are ye who have not seen and still believe,” for those who believe in the resurrection will see it. The resurrection is the complete triumph of Christ over the ego, not by attack but by transcendence. For Christ does rise above the ego and all its works, and ascends to the Mother and Her Realm.
+That is why the
+recognition of your *own* invulnerability is so important in the
+restoration of your sanity. For if you accept your invulnerability,
+you are recognizing that attack *has* no effect. Although you
+have attacked yourself, and very brutally, you will demonstrate that
+*nothing happened*. Therefore, by attacking you have not done
+*anything*. Once you realize this, there is no longer any
+*sense* in attack, for it manifestly *does not work* and
+*cannot* protect you. Yet the recognition of your
+invulnerability has more than negative value. If your attacks on
+yourself have *failed* to weaken you, *you are still
+strong*. You therefore have no need to “equalize” the
+situation to establish your strength.
 
-Would you join in the resurrection or the crucifixion? Would you condemn your companions or free them? Would you transcend your prison and ascend to the Mother? These questions are all the same, and are answered together. There has been much confusion about what perception means, because the word is used both for awareness and for the interpretation of awareness. Yet you cannot be aware without interpretation, for what you perceive _is_ your interpretation.
+You will never realize the
+utter uselessness of attack *except* by recognizing that your
+attack on *yourself* had no effects. For others *do* react
+to attack if they perceive it, and if you are trying to attack
+*them*, you will be unable to avoid interpreting this as
+reinforcement. The *only* place where you can cancel out all
+reinforcement is in *yourself*. For *you* are always the
+first point of your attack, and if *this* has never been, it
+*has* no consequences.
 
-This course is perfectly clear. If you do not see it clearly, it is because you are interpreting against it, and therefore do not believe it. And since belief determines perception, you do not perceive what it means and therefore do not accept it. Yet different experiences lead to different beliefs, and with them different perceptions. For perceptions are learned _with_ beliefs, and experience does teach. I am leading you to a new kind of experience that you will become less and less willing to deny. Learning of Christ is easy, for to perceive with Him involves no strain at all. His perceptions are your natural awareness, and it is only the distortions you introduce that tire you. Let the Christ in you interpret for you, and do not try to limit what you see by narrow little beliefs that are unworthy of God’s Son. For until Christ comes into His Own, the Son of God will see himself as Motherless.
+The Holy Spirit’s love
+is your strength, for yours is divided and therefore not real. You
+could not trust your own love when you have *attacked* it. You
+cannot learn of perfect love with a split mind because a split mind
+has *made* itself a poor learner. You tried to make the
+separation eternal because you wanted to retain the characteristics
+of creation with your own *content*. Yet creation is *not*
+of you, and poor learners need special teaching. You have learning
+handicaps in a very literal sense.
 
-I am _your_ resurrection and _your_ life. You live in me because you live in God. And everyone lives in you, as you live in everyone. Can you, then, perceive unworthiness in a companion and not perceive it in yourself? And can you perceive it in yourself and not perceive it in God? Believe in the resurrection because it has been accomplished, and it has been accomplished in you. This is as true now as it will ever be, for the resurrection is the Will of God, which knows no time and no exceptions. But make no exceptions yourself, or you will not perceive what has been accomplished for you. For we ascend unto the Mother together, as it was in the beginning, is now and ever shall be, for such is the nature of God’s Son as his Mother created him.
+There are areas in your
+learning skills which are so impaired that you can progress only
+under constant, clear-cut direction provided by a Teacher Who can
+*transcend* your limited resources. He *becomes* your
+resource because, of *yourself*, you *cannot* learn. The
+learning situation in which you placed yourself *is* impossible,
+and in this situation you clearly require a special Teacher and a
+special curriculum. Poor learners are not good choices for teachers,
+either for themselves or for anyone else. You would hardly turn to
+*them* to establish the curriculum by which they can
+*escape* from their limitations. If they understood what is
+beyond them, they would not *be* handicapped.
 
-Do not underestimate the power of the devotion of God’s Son, nor the power the god he worships has over him. For he places himself at the altar of his god, whether it be the god he made or the God Who created him. That is why his slavery is as complete as his freedom, for he will obey only the god he accepts. Gods of crucifixion demand that he crucify, and their worshippers obey. In their name they crucify themselves, believing that the power of the Son of God is born of sacrifice and pain. The God of resurrection demands nothing, for She does not will to take away. She does not require obedience, for obedience implies submission. She would only have you learn your will and follow it, not in the spirit of sacrifice and submission, but in the gladness of freedom.
+You do not know the
+meaning of love, and that *is* your handicap. Do not attempt to
+teach yourselves what you do not understand, and do not try to set up
+curriculum goals where yours have clearly failed. *Your*
+learning goal has been *not* to learn, and this *cannot*
+lead to successful learning. You cannot transfer what you have not
+learned, and the impairment of the ability to generalize is a crucial
+learning failure. Would you ask those who have *failed* to learn
+what learning aids are *for? They do not know*. For if they
+could interpret the aids correctly, they would have learned from
+them.
 
-Resurrection must compel your allegiance gladly, because it is the symbol of joy. Its whole compelling power lies in the fact that it represents what you want to be. The freedom to leave behind everything that hurts you and humbles you and frightens you cannot be thrust upon you, but it can be offered you through the grace of God. And you can accept it by Her grace, for God is gracious to Her Son, accepting him without question as Her Own. Who, then, is _your_ own? The Mother has given you all that is Hers, and She Herself is yours with them. Guard them in their resurrection, for otherwise you will not awake in God, safely surrounded by what is yours forever.
+We have said that the
+ego’s rule is, “Seek and do *not* find”.
+Translated into curricular terms, this is the same as saying,
+“*Try* to learn but do *not* succeed”. The result
+of this curriculum goal is obvious. Every legitimate teaching aid,
+every real instruction, and every sensible guide to learning *will
+be misinterpreted*. For they are all for learning facilitation,
+which this strange curriculum goal is *against*. If you are
+trying to learn how *not* to learn and are using the aim of
+teaching to *defeat* itself, what can you expect *but*
+confusion? The curriculum does not make *sense*.
 
-You will not find peace until you have removed the nails from the hands of God’s Son, and taken the last thorn from his forehead. The Love of God surrounds Her Son whom the god of crucifixion condemns. Teach not that I died in vain. Teach rather that I did not die by demonstrating that I live in you. For the undoing of the crucifixion of God’s Son is the work of the redemption, in which everyone has a part of equal value. God does not judge Her guiltless Son. Having given Herself to him, how could it be otherwise?
+This kind of
+“learning” has so weakened your mind that you *cannot*
+love, for the curriculum you have chosen is *against* love and
+amounts to a course in *how to attack yourself*. A necessary
+minor, supplementing this major curriculum goal, is learning how
+*not* to overcome the split which made this goal believable. And
+you can *not* overcome it, for all *your* learning is on
+its *behalf*. Yet your will speaks against your learning, as
+your learning speaks against your will, and so you fight
+*against* learning and succeed, for that *is* your will.
+But you do not realize even yet that there *is* something you
+*do* will to learn, and that you can learn it because it
+*is* your will to do so.
 
-You have nailed yourself to a cross, and placed a crown of thorns upon your own head. Yet you cannot crucify God’s Son, for the Will of God cannot die. Her Son has been redeemed from his own crucifixion, and you cannot assign to death whom God has given eternal life. The dream of crucifixion still lies heavy on your eyes, but what you see in dreams is not reality. While you perceive the Son of God as crucified, you are asleep. And as long as you believe that you can crucify him, you are only having nightmares. You who are beginning to wake are still aware of dreams, and have not yet forgotten them. The forgetting of dreams and the awareness of Christ come with the awakening of others to share your redemption.
+You who have tried to
+learn what you do *not* will should take heart, for although the
+curriculum you set yourself is depressing indeed, it is merely
+ridiculous if you look at it. Is it *possible* that the way to
+achieve a goal is *not* to attain it? Resign *now* as your
+own teachers. *This* resignation will *not* lead to
+depression. It is merely the result of an honest appraisal of what
+you have taught yourselves and of the learning outcomes which have
+resulted. Under the proper learning conditions, which you can neither
+provide nor understand, you will become excellent learners *and*
+teachers. But it is not so yet and will not *be* so until the
+whole learning situation as *you* have set it up is
+reversed.
 
-You will awaken to your own call, for the Call to awake is within you. If I live in you, you are awake. Yet you must see the works I do through you, or you will not perceive that I have done them unto you. Do not set limits on what you believe I can do through you, or you will not accept what I can do _for_ you. Yet it is done already, and unless you give all that you have received you will not know that your redeemer liveth, and that you have awakened with him. Redemption is recognized only by sharing it.
-
-God’s Son _is_ saved. Bring only this awareness to the Sonship, and you will have a part in the redemption as valuable as mine. For your part must be like mine if you learn it of me. If you believe that yours is limited, you are limiting mine. There is no order of difficulty in miracles because all of God’s Sons are of equal value, and their equality is their oneness. The whole power of God is in every part of Her, and nothing contradictory to Her Will is either great or small. What does not exist has no size and no measure. To God all things are possible. And to Christ it is given to be like the Mother.
-
-{% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+Your learning
+*potential*, properly understood, is limitless because it will
+lead you to God. You can *teach* the way to Her *and* learn
+it if you follow the Teacher Who knows it and His curriculum for
+learning it. The curriculum is totally unambiguous because the goal
+is *not* divided, and the means and the end are in
+*complete* accord. You need offer only *undivided
+attention*. Everything else will be *given* you. For it is
+*your* will to learn aright, and nothing can oppose the will of
+God’s Child. Their learning is as unlimited as *they* are.

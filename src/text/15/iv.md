@@ -2,35 +2,162 @@
 const prev = "/text/15/iii"
 const next = "/text/15/v"
 const section = "IV"
-const title = "Practicing the Holy Instant"
-const pageNumber = 193
+const title = "Littleness versus Magnitude"
 const chapter = "Tx:15"
 const layout = "mylayout.njk"
 const reference = `${chapter}.${section}`
 const headerTitle = `${section}. ${title}`
 const eleventyNavigation = {
 	key: reference,
-	order: pageNumber,
+	order: 4,
 	title: headerTitle,
 	parent: `${chapter}`
 }
 ---
-This course is not beyond immediate learning, unless you believe that what God wills takes time. And this means only that you would rather delay the recognition that Her Will is so. The holy instant is this instant and every instant. The one you want it to be it is. The one you would not have it be is lost to you. You must decide when it is. Delay it not. For beyond the past and future, where you will not find it, it stands in shimmering readiness for your acceptance. Yet you cannot bring it into glad awareness while you do not want it, for it holds the whole release from littleness.
+Be not content with
+littleness, but be sure you understand what littleness is and why you
+could never *be* content with it. Littleness is the offering you gave
+*yourself*. You offered this in place of magnitude, and you
+*accepted* it. Everything in this world is little because it is
+a world made out of littleness in the strange belief that littleness
+can content you. When you strive for anything in this world with the
+belief that it will bring you peace, you are belittling yourself and
+blinding yourself to glory. Littleness and glory are the choices open
+to your striving and your vigilance. You will always choose one at
+the *expense* of the other.
 
-Your practice must therefore rest upon your willingness to let all littleness go. The instant in which magnitude dawns upon you is but as far away as your desire for it. As long as you desire it not and cherish littleness instead, by so much is it far from you. By so much as you want it will you bring it nearer. Think not that you can find salvation in your own way and have it. Give over every plan you have made for your salvation in exchange for God’s. Hers will content you, and nothing else can bring you peace. For peace is of God, and no one beside Her.
+Yet what you do not
+realize each time you choose is that your choice is your evaluation
+of *yourself*. Choose littleness and you will not have peace,
+for you will have judged yourself unworthy of it. And whatever you
+offer as a substitute is much too poor a gift to satisfy you. It is
+essential that you accept the fact, and accept it gladly, that there
+is no form of littleness that can *ever* content you. You are
+free to try as many as you wish, but all you will be doing is to
+delay your homecoming. For you will be content only in magnitude,
+which is your home.
 
-Be humble before Her, and yet great _in_ Her. And value no plan of the ego before the plan of God. For you leave empty your place in Her plan, which you must fill if you would join with me, by your decision to join in any plan but Hers. I call you to fulfill your holy part in the plan that She has given to the world for its release from littleness. God would have Her host abide in perfect freedom. Every allegiance to a plan of salvation apart from Her diminishes the value of Her Will for you in your own mind. And yet it is your mind that is the host to Her.
+There is a deep
+responsibility you owe yourself, and one which you must learn to
+remember all the time. The lesson will seem hard at first, but you
+will learn to love it when you realize that it is true and
+constitutes a tribute to your power. You who have sought and found
+littleness, remember this: Every decision which you make stems from
+what you think you *are* and represents the value that you
+*put* upon yourself. Believe the little can content you, and by
+limiting yourself, you will not be satisfied. For your function is
+*not* little, and it is only by finding your function and
+fulfilling it that you can escape from littleness.
 
-Would you learn how perfect and immaculate is the holy altar on which your Mother has placed Herself? This you will recognize in the holy instant, in which you willingly and gladly give over every plan but Hers. For there lies peace, perfectly clear because you have been willing to meet its conditions. You can claim the holy instant any time and anywhere you want it. In your practice, try to give over every plan you have accepted for finding magnitude in littleness. _It is not there._ Use the holy instant only to recognize that you alone cannot know where it is, and can only deceive yourself.
+There is no doubt about
+what your function is, for the Holy Spirit *knows* what it is.
+There is no doubt about its magnitude, for it reaches you through Him
+*from* Magnitude. You do not have to strive for it because you
+*have* it. All your striving must be directed *against*
+littleness, for it *does* require vigilance to protect your
+magnitude in this world. To hold your magnitude in perfect awareness
+in a world of littleness is a task the little cannot undertake. Yet
+it is asked of you in tribute to your magnitude and *not* your
+littleness. Nor is it asked of you alone.
 
-I stand within the holy instant, as clear as you would have me. And the extent to which you learn to accept me is the measure of the time in which the holy instant will be yours. I call to you to make the holy instant yours at once, for the release from littleness in the mind of the host of God depends on willingness, and not on time.
+The power of God will
+support every effort you make on behalf of Her dear Child. Search for
+the little, and you deny yourself Her power. God is not willing that
+Her Child be content with less than everything. For She is not content
+without Her Child, and Her Child cannot be content with less than their
+Mother has given them. We asked you once before, “Would you be
+hostage to the ego or host to God?”. Let this question be asked
+you by the Holy Spirit in you every time you make a decision. For
+every decision you make *does* answer this and invites sorrow or
+joy accordingly.
 
-The reason this course is simple is that truth is simple. Complexity is of the ego, and is nothing more than the ego’s attempt to obscure the obvious. You could live forever in the holy instant, beginning now and reaching to eternity, but for a very simple reason. Do not obscure the simplicity of this reason, for if you do, it will be only because you prefer not to recognize it and not to let it go. The simple reason, simply stated, is this: The holy instant is a time in which you receive and give perfect communication. This means, however, that it is a time in which your mind is open, both to receive and give. It is the recognition that all minds are in communication. It therefore seeks to change nothing, but merely to accept everything.
+When God gave Herself to
+you in your creation, She established you as host to Her forever. She
+has not left you, and you have not left Her. All your attempts to
+deny Her magnitude and make Her Child hostage to the ego cannot make
+little whom God has joined with Her. Every decision you make is for
+Heaven or for hell and will bring you awareness of what you decided
+*for*. The Holy Spirit can hold your magnitude, clean of all
+littleness, clearly and in perfect safety in your minds, untouched by
+every little gift the world of littleness would offer you. But for
+this, you cannot side *against* Him in what He wills for
+you.
 
-How can you do this when you would prefer to have private thoughts and keep them? The only way you could do that would be to deny the perfect communication that makes the holy instant what it is. You believe you can harbor thoughts you would not share, and that salvation lies in keeping thoughts to yourself alone. For in private thoughts, known only to yourself, you think you find a way to keep what you would have alone, and share what _you_ would share. And then you wonder why it is that you are not in full communication with those around you, and with God Who surrounds all of you together.
+Decide for God through
+Him. For littleness and the belief that you can be content with
+littleness are the decisions you have made about yourself. The power
+and the glory that lie in you from God are for all who, like you,
+perceive themselves as little and have deceived themselves into
+believing that littleness can be blown up by them into a sense of
+magnitude that can content them. Neither give littleness, nor accept
+it. All honor is due the host of God. Your littleness deceives you,
+but your magnitude is of Her Who dwells in you and in Whom you dwell.
+Touch no one, then, with littleness, in the name of Christ, eternal
+Host unto His Mother.
 
-Every thought you would keep hidden shuts communication off, because you would have it so. It is impossible to recognize perfect communication while breaking communication holds value to you. Ask yourself honestly, “Would I want to have perfect communication, and am I wholly willing to let everything that interferes with it go forever?” If the answer is no, then the Holy Spirit’s readiness to give it to you is not enough to make it yours, for you are not ready to share it with Him. And it cannot come into a mind that has decided to oppose it. For the holy instant is given and received with equal willingness, being the acceptance of the single Will that governs all thought.
+In this season
+(Christmas), which celebrates the birth of holiness into this world,
+join with me, who decided for holiness for *you*. It is our task
+*together* to restore the awareness of magnitude to the host
+whom God appointed for Herself. It is beyond all your littleness to
+give the gift of God, but *not* beyond *you*. For God would
+give Herself through you. She reaches from you to everyone and
+beyond everyone to Her Child’s creations, but without leaving you.
+Far beyond your little world but still in you, She extends forever.
+Yet She brings all Her extensions to you as host to Her.
 
-The necessary condition for the holy instant does not require that you have no thoughts that are not pure. But it does require that you have none that you would keep. Innocence is not of your making. It is given you the instant you would have it. Atonement would not be if there were no need for it. You will not be able to accept perfect communication as long as you would hide it from yourself. For what you would hide _is_ hidden from you. In your practice, then, try only to be vigilant against deception, and seek not to protect the thoughts you would keep to yourself. Let the Holy Spirit’s purity shine them away, and bring all your awareness to the readiness for purity He offers you. Thus will He make you ready to acknowledge that you are host to God, and hostage to no one and to nothing. 
+Is it a sacrifice to leave
+littleness behind and wander not in vain? It is not sacrifice to wake
+to glory. But it *is* a sacrifice to accept anything *less*
+than glory. Learn that you *must* be worthy of the Prince of
+Peace, born in you in honor of Her Whose host you are. You know not
+what love means because you have sought to purchase it with little
+gifts, thus valuing it too little to be able to understand its
+magnitude. Love is *not* little, and love dwells in you, for you
+are host to Her. Before the greatness that lives in you, your poor
+appreciation of yourself and all the little offerings you have given
+slip into nothingness. Holy Child of God, when will you learn that
+*only* holiness can content you and give you peace?
 
-{% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+Remember that you learn
+not for yourself alone, no more than I did. It is *because* I
+learned for you that you can learn of me. I would but teach you what
+is yours, so that together we can replace the shabby littleness that
+binds the host of God to guilt and weakness with the glad awareness
+of the glory that is in them. My birth in you is your awakening to
+grandeur. Welcome me not into a manger but into the altar to
+holiness, where holiness abides in perfect peace. My Realm is not
+of this world because it is in *you.* And you are of your
+Mother. Let us join in honoring you, who must remain forever beyond
+littleness.
+
+Decide with me, who have
+decided to abide with you. I will as my Mother wills, knowing Her
+Will is constant and at peace forever with Itself. You will be
+content with nothing *but* Her Will. Accept no less, remembering
+that everything I learned is yours. What my Mother loves, I love as
+She does, and I can no more accept it as what it is not than She can.
+And no more can *you*. When you have learned to accept what you
+are, you will make no more gifts to offer to yourselves, for you will
+know you are complete, in need of nothing, and unable to accept
+*anything* for yourself. But you will gladly give, *having*
+received. The host of God need not seek to find anything.
+
+If you are wholly willing
+to leave salvation to the plan of God and unwilling to attempt to
+grasp for peace yourself, salvation will be *given* you. Yet
+think not you can substitute your plan for Hers. Rather, join with me
+in Hers that we may release all those who would be bound, proclaiming
+together that the Child of God is host to Her. Thus will we let no one
+forget what *you* would remember. And thus will you remember
+it.
+
+Call forth in everyone
+only the remembrance of God and of the Heaven that is in them. For
+where you would help your companions be, there will you think *you*
+are. Hear not their call for hell and littleness, but only their call for
+Heaven and greatness. Forget not that their call is yours, and answer
+them with me. God’s power is forever on the side of Her host, for
+it protects only the peace in which She dwells. Lay not littleness
+before Her holy altar, which rises above the stars and reaches even
+to Heaven because of what is given it.

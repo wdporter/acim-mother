@@ -1,9 +1,8 @@
 ---js
 const prev = "/text/19/i"
 const next = "/text/19/iii"
-const title = "Sin versus Error"
+const title = "Healing and the Mind"
 const section = "II"
-const pageNumber = 230
 const chapter = "19"
 const volume = "Tx"
 const parent = `${volume}:${chapter}`
@@ -11,26 +10,168 @@ const reference = `${parent}.${section}`
 const headerTitle = `${section}. ${title}`
 const eleventyNavigation = {
 	key: reference,
-	order: pageNumber,
+	order: 2,
 	title: headerTitle,
 	parent
 }
 const layout = "mylayout.njk"
 ---
-It is essential that error be not confused with sin, and it is this distinction that makes salvation possible. For error can be corrected, and the wrong made right. But sin, were it possible, would be irreversible. The belief in sin is necessarily based on the firm conviction that minds, not bodies, can attack. And thus the mind is guilty, and will forever so remain unless a mind not part of it can give it absolution. Sin calls for punishment as error for correction, and the belief that punishment _is_ correction is clearly insane.
+The body cannot heal
+because it cannot make itself sick. It *needs* no healing. Its
+health or sickness depends entirely on how the mind perceives it and
+the purpose which the mind would use it *for*. And it is obvious
+that a segment of the mind *can* see itself as separated from the
+Universal Purpose. When this occurs, the body becomes its weapon used
+*against* this Purpose to demonstrate the “fact” that
+separation has occurred. The body thus becomes the instrument of
+illusion, acting accordingly; seeing what is not there, hearing what
+truth has never said, and behaving insanely, being imprisoned
+*by* insanity.
 
-Sin is not an error, for sin entails an arrogance which the idea of error lacks. To sin would be to violate reality, and to succeed. Sin is the proclamation that attack is real and guilt is justified. It assumes the Son of God is guilty, and has thus succeeded in losing his innocence and making himself what God created not. Thus is creation seen as not eternal, and the Will of God open to opposition and defeat. Sin is the grand illusion underlying all the ego’s grandiosity. For by it God Herself is changed, and rendered incomplete.
+Do not overlook our earlier
+statement that faithlessness leads straight to illusions. For
+faithlessness is the perception of a companion as a body, and the body
+cannot be used for purposes of union. If, then, you see your companion
+*as* a body, you have established a condition in which uniting with them
+becomes impossible. Your faithlessness to them has separated you from
+them and kept you *both* apart from being healed. Your
+faithlessness has thus opposed the Holy Spirit’s purpose and
+brought illusions centered on the *body* to stand between you. And the
+body *will* seem to be sick, for you have made of it an
+“enemy” of healing and the opposite of truth.
 
-The Son of God can be mistaken; he can deceive himself; he can even turn the power of his mind against himself. But he _cannot_ sin. There is nothing he can do that would really change his reality in any way, nor make him really guilty. That is what sin would do, for such is its purpose. Yet for all the wild insanity inherent in the whole idea of sin, it is impossible. For the wages of sin _is_ death, and how can the immortal die?
+It cannot be difficult to
+realize that faith must be the opposite of faithlessness. Yet the
+difference in how they operate is less apparent, though it follows
+directly from the fundamental difference in what they are.
+Faithlessness would always limit and attack; faith would remove all
+limitations and make whole. [Faithlessness would destroy and
+*separate*; faith would unite and *heal*.] Faithlessness
+would interpose illusions between the Child of God and their Creator;
+faith would remove all obstacles that seem to rise between them.
+Faithlessness is wholly dedicated to illusions; faith wholly to
+truth. Partial dedication is impossible. Truth is the *absence* of
+illusion; illusion the *absence* of truth.
 
-A major tenet in the ego’s insane religion is that sin is not error but truth, and it is innocence that would deceive. Purity is seen as arrogance, and the acceptance of the self as sinful is perceived as holiness. And it is this doctrine that replaces the reality of the Son of God as his Mother created him, and willed that he be forever. Is this humility? Or is it, rather, an attempt to wrest creation away from truth, and keep it separate?
+Both cannot *be*
+together nor perceived in the same place. To dedicate yourself to
+both is to set up a goal forever impossible to attain, for part of it
+is sought through the body, thought of as a means for seeking out
+reality through attack, while the other part would heal and therefore
+calls upon the mind and not the body. The inevitable compromise is
+the belief that the body must be healed, and not the mind. For this
+divided goal has given both an equal reality, which could be possible
+only if the mind is limited to the body and divided into little parts
+of seeming wholeness but without connection. This will not harm the
+body, but it *will* keep the delusional thought system in the
+*mind*.
 
-Any attempt to reinterpret sin as error is always indefensible to the ego. The idea of sin is wholly sacrosanct to its thought system, and quite unapproachable except with reverence and awe. It is the most “holy” concept in the ego’s system; lovely and powerful, wholly true, and necessarily protected with every defense at its disposal. For here lies its “best” defense, which all the others serve. Here is its armor, its protection, and the fundamental purpose of the special relationship in its interpretation.
+Here then is healing
+needed. And it is here that healing *is*. For God gave healing
+not apart from sickness, nor established remedy where sickness cannot
+be. They are together, and when they are seen together, all attempts
+to keep both truth and illusion in the mind, where both must be, are
+recognized as dedication to illusion and given up when brought to
+truth and seen as totally irreconcilable with truth in any respect or
+in any way.
 
-It can indeed be said the ego made its world on sin. Only in such a world could everything be upside down. This is the strange illusion that makes the clouds of guilt seem heavy and impenetrable. The solidness that this world’s foundation seems to have is found in this. For sin has changed creation from an idea of God to an ideal the ego wants; a world it rules, made up of bodies, mindless and capable of complete corruption and decay. If this is a mistake, it can be undone easily by truth. Any mistake can be corrected, if truth be left to judge it. But if the mistake is given the status of truth, to what can it be brought? The “holiness” of sin is kept in place by just this strange device. As truth it is inviolate, and everything is brought to _it_ for judgment. As a mistake, _it_ must be brought to truth. It is impossible to have faith in sin, for sin is faithlessness. Yet it is possible to have faith that a mistake can be corrected.
+Truth and illusion have
+*no* connection. This will remain forever true, however much you
+seek to connect them. But illusions are always connected, as is
+truth. Each is united, a complete thought system, but totally
+disconnected to each other. Where there is no overlap, there
+separation must be complete. And to perceive this is to recognize
+where separation is and where it must be healed. The result of an
+idea is never separate from its source. The *idea* of separation
+produced the body and remains connected to it, making it sick because
+of its identification with it. You think you are protecting the body
+by hiding this connection, for this concealment seems to keep your
+identification safe from the “attack” of truth.
 
-There is no stone in all the ego’s embattled citadel that is more heavily defended than the idea that sin is real; the natural expression of what the Son of God has made himself to be, and what he is. To the ego, this is no mistake. For this is its reality; this is the “truth” from which escape will always be impossible. This is his past, his present and his future. For he has somehow managed to corrupt his Mother, and change His Mind completely. Mourn, then, the death of God, Whom sin has killed! And this would be the ego’s wish, which in its madness it believes it has accomplished.
+If you but understood how
+much this strange concealment has hurt your mind and how confused
+your own identification has become because of it! You do not see how
+great the devastation wrought by your faithlessness. For
+faithlessness is an attack which seems to be justified by its
+*results*. For by withholding faith, you see what *is* unworthy of it and
+cannot look beyond the barrier to what is joined with you.
 
-Would you not rather that all this be nothing more than a mistake, entirely correctable, and so easily escaped from that its whole correction is like walking through a mist into the sun? For that is all it is. Perhaps you would be tempted to agree with the ego that it is far better to be sinful than mistaken. Yet think you carefully before you allow yourself to make this choice. Approach it not lightly, for it is the choice of hell or Heaven. 
+To have faith is to heal.
+It is the sign that you have accepted the Atonement for yourself and
+would therefore share it. By faith you offer the gift of freedom from
+the past, which *you* received. You do not use anything your companions
+have done before to condemn them *now*. You freely choose to
+overlook their errors, looking past all barriers between your self and
+theirs and seeing them as one. And in that one you see your faith is
+fully justified. There *is* no justification for faithlessness,
+but faith is *always* justified.
 
- {% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+Faith is the opposite of
+fear, as much a part of love as fear is of attack. Faith is the
+acknowledgment of union. It is the gracious acknowledgment of
+everyone as a Child of your most loving Mother, loved by Her like you
+and therefore loved by you as yourself. It is Her Love that joins
+you, and for Her Love you would keep no one separate from *yours*. Each
+one appears just as they are perceived in the holy instant, united in
+your purpose to be released from guilt. You saw the Christ in them,
+and they were healed because you looked on what makes faith forever
+justified in everyone.
+
+Faith is the gift of God,
+through Him [the Holy Spirit] Whom God has given you. Faithlessness looks upon the Child
+of God and judges them unworthy of forgiveness. But through the eyes
+of faith, the Child of God is seen *already* forgiven, free of all the
+guilt they laid upon themself. Faith sees them only *now* because it
+looks not to the past to judge them, but would see in them only what it
+would see in *you*. It sees not through the body’s eyes nor looks
+to bodies for its justification. It is the messenger of the new
+perception sent forth to gather witnesses unto its coming and to
+return their messages to you. Faith is as easily exchanged for
+knowledge as is the real world. For faith arises from the Holy
+Spirit’s perception and is the sign you share it with Him. Faith
+is a gift you offer to the Child of God through Him, and wholly
+acceptable to their Mother as to them. And therefore offered *you*.
+
+Your holy relationship,
+with its new purpose, offers you faith to give unto each other. Your
+faithlessness had driven you apart, and so you did not recognize
+salvation in each other. Yet faith *unites* you in the holiness you
+see, not through the body’s eyes but in the sight of Him Who
+joined you and in Whom *you* are united. Grace is not given to a body,
+but to a *mind*. And the mind that receives it looks instantly
+beyond the body and sees the holy place where it was healed. *There* is
+the altar where the grace was given, in which it stands. Do you,
+then, offer grace and blessing to each other, for you stand at the
+same altar where grace was laid for *both* of you. And be you healed by
+grace together, that *you* may heal through faith.
+
+In the holy instant, you
+stand before the altar God has raised unto Himself and *both* of you.
+Lay faithlessness aside and come to it together. There will you see
+the miracle of your relationship as it was made again through faith.
+And there it is that you will realize that there is nothing faith
+cannot forgive. No error interferes with its calm sight, which brings
+the miracle of healing with equal ease to *all* of them. For what the
+messengers of love are sent to do *they do*, returning the glad
+tidings that it was done to you who stand together before the altar
+from which they were sent forth.
+
+As faithlessness will keep
+your little kingdoms barren and separate, so will faith help the Holy
+Spirit prepare the ground for the most holy garden which He would
+make of it. For faith brings peace, and so it calls on truth to enter
+and make lovely what has already been prepared for loveliness. Truth
+follows faith and peace, completing the process of making lovely
+which they begin. For faith is still a learning goal, no longer
+needed when the lesson has been learned. Yet truth will stay
+forever.
+
+Let then your dedication
+be to the eternal and learn how *not* to interfere with it and make it
+slave to time. For what you think you do to the eternal you do to
+*you*. Whom God created as His Son is slave to nothing, being
+lord of all along with his Creator. You can enslave a body, but an
+*idea* is free, incapable of being kept in prison or limited in
+any way except by the mind that thought it. For it remains joined to
+its source, which is its jailor or its liberator, according to which
+it chooses as its purpose for itself.

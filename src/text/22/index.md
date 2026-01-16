@@ -11,8 +11,8 @@ const eleventyNavigation = {
 	parent: volume,
 	order: chapter
 }
-const prev = "/text/21/ix"
-const next = "/text/22/i"
+const prev = "/text/21"
+const next = "/text/23"
 ---
 
 {% assign navPages = collections.all | eleventyNavigation: reference %}

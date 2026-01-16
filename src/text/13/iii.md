@@ -15,7 +15,7 @@ const prev = "/text/13/ii"
 const next = "/text/13/iv"
 ---
 Guilt remains the only
-thing that hides the Mother, for guilt is the attack upon Her Son.
+thing that hides the Mother, for guilt is the attack upon Her Child.
 The guilty *always* condemn, and having done so, they
 *will* condemn, linking the future to the past as is the
 ego’s law. Fidelity unto this law lets no light in, for it
@@ -54,8 +54,8 @@ re-evaluation of everything you cherish, for it is the means by which
 the Holy Spirit can separate the false and the true, which you have
 accepted into your minds *without distinction.* Therefore,
 *you* cannot value one without the other, and guilt has become
-as true *for you* as innocence. You do not believe the Son of
-God is guiltless because you see the past and see *him* not.
+as true *for you* as innocence. You do not believe the Child of
+God is guiltless because you see the past and see *them* not.
 When you condemn a companion, you are saying, "I who was guilty
 choose to *remain* so." You have denied *their* freedom,
 and by so doing you have denied the witness unto *yours.* You
@@ -66,8 +66,8 @@ freedom would have been your *own*.
 Lay not their guilt upon
 them, for their guilt lies in their secret that they think that  they have done
 this unto *you*. Would you, then, teach them that they are
-*right* in their delusion? The idea that the guiltless Son of God
-can attack himself and *make* himself guilty is insane. In
+*right* in their delusion? The idea that the guiltless Child of God
+can attack themself and *make* themself guilty is insane. In
 *any* form, in *anyone*, *believe this not*. For sin
 and condemnation are the same, and the belief in one is faith in the
 other, calling for punishment *instead* of love. *Nothing*
@@ -76,11 +76,11 @@ can justify insanity, and to call for punishment upon yourself
 
 See no one, then, as
 guilty, and you will affirm the truth of guiltlessness unto
-*yourself*. In every condemnation that you offer the Son of God
+*yourself*. In every condemnation that you offer the Child of God
 lies the conviction of your *own* guilt. If you would have the
 Holy Spirit make you free of it, accept His offer of Atonement for
 all your companions. For so you learn that it is true for *you*.
-Remember always that it is impossible to condemn the Son of God *in
+Remember always that it is impossible to condemn the Child of God *in 
 part*. Those whom you see as guilty become the witnesses to guilt
 in *you*, and you will *see* it there, for it *is*
 there until it is undone. Guilt is *always* in your own mind,

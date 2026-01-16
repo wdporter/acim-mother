@@ -1,36 +1,150 @@
 ---js
 const layout = "mylayout.njk"
-const title = "The Fear to Look Within"
+const title = "Faith, Belief and Vision"
 const volume = "Tx"
 const chapter = 21
 const parent = `${volume}:${chapter}`
 const section = "IV"
 const reference = `${parent}.${section}`
 const headerTitle = `${section}. ${title}`
-const pageNumber = 255
 const eleventyNavigation = {
 	key: reference,
-	order: pageNumber,
+	order: 4,
 	title: headerTitle,
 	parent 
 }
 const prev = "/text/21/iii"
 const next = "/text/21/v"
 ---
-The Holy Spirit will never teach you that you are sinful. Errors He will correct, but this makes no one fearful. You are indeed afraid to look within and see the sin you think is there. This you would not be fearful to admit. Fear in association with sin the ego deems quite appropriate, and smiles approvingly. It has no fear to let you feel ashamed. It doubts not your belief and faith in sin. Its temples do not shake because of this. Your faith that sin is there but witnesses to your desire that it _be_ there to see. This merely seems to be the source of fear.
+All special relationships
+have sin as their goal. For they are bargains with reality, toward
+which the seeming union is adjusted. Forget not this—to bargain is to
+set a limit, and any companion with whom you have a limited
+relationship *you hate*. You may attempt to keep the bargain in
+the name of “fairness”, sometimes demanding payment of
+yourself, perhaps more often of the other. Thus in the
+“fairness” you attempt to ease the guilt that comes from
+the accepted purpose of the relationship. And that is why the Holy
+Spirit must change its purpose to make it useful to *them* and
+harmless unto *you*.
 
-Remember that the ego is not alone. Its rule is tempered, and its unknown “enemy,” Whom it cannot even see, it fears. Loudly the ego tells you not to look inward, for if you do your eyes will light on sin, and God will strike you blind. This you believe, and so you do not look. Yet this is not the ego’s hidden fear, nor yours who serve it. Loudly indeed the ego claims it is; too loudly and too often. For underneath this constant shout and frantic proclamation, the ego is not certain it is so. Beneath your fear to look within because of sin is yet another fear, and one which makes the ego tremble.
+If you accept this change,
+you have accepted the idea of making room for truth. The
+*source* of sin is gone. You may imagine that you still
+experience its effects, but it is not your purpose, and you no longer
+*want* it. No one allows a purpose to be replaced while they
+desire it, for nothing is so cherished and protected as is a goal
+the mind accepts. This it will follow, grimly or happily, but always
+with faith and with the persistence that faith inevitably brings. The
+power of faith is *never* recognized if it is placed in sin. But
+it is *always* recognized if it is placed in love.
 
-What if you looked within and saw no sin? This “fearful” question is one the ego never asks. And you who ask it now are threatening the ego’s whole defensive system too seriously for it to bother to pretend it is your friend. Those who have joined their companions have detached themselves from their belief that their identity lies in the ego. A holy relationship is one in which you join with what is part of you in truth. And your belief in sin has been already shaken, nor are you now entirely unwilling to look within and see it not.
+Why is it strange to you
+that faith can move mountains? This is indeed a little feat for such
+a power. For faith can keep the Child of God in chains as long as they
+believe they *are* in chains. And when they are released from them 
+[chains], it will be simply because they [Child of God] no longer believe in 
+them [chains], withdrawing faith that they can hold them [Child of God] and placing it [faith] in their freedom instead. It is impossible to place equal faith 
+in opposite directions. What faith you give to sin you *take away* from 
+holiness. And what you offer holiness has been *removed* from sin.
 
-Your liberation still is only partial; still limited and incomplete, yet born within you. Not wholly mad, you have been willing to look on much of your insanity and recognize its madness. Your faith is moving inward, past insanity and on to reason. And what your reason tells you now the ego would not hear. The Holy Spirit’s purpose was accepted by the part of your mind the ego knows not of. No more did you. And yet this part, with which you now identify, is not afraid to look upon itself. It knows no sin. How, otherwise, could it have been willing to see the Holy Spirit’s purpose as its own?
+Faith and belief and
+vision are the means by which the goal of holiness is reached.
+Through them the Holy Spirit leads you to the real world and away
+from all illusions where your faith was laid. This is His direction,
+the only one He ever sees. And when you wander, He reminds you there
+*is* but one. His faith and His belief and vision are all for
+you. And when you have accepted them completely instead of yours, you
+will have need of them no longer. For faith and vision and belief are
+meaningful only *before* the state of certainty is reached. In
+Heaven they are unknown. Yet Heaven is reached through them.
 
-This part has seen your companions, and recognized them perfectly since time began. And it desired nothing but to join with them and to be free again, as once it was. It has been waiting for the birth of freedom; the acceptance of release to come to you. And now you recognize that it was not the ego that joined the Holy Spirit’s purpose, and so there must be something else. Think not that this is madness. For this your reason tells you, and it follows perfectly from what you have already learned.
+It is impossible that the
+Child of God lack faith, but they can choose where they would have it
+*be*. Faithlessness is not a *lack* of faith, but faith in
+*nothing*. Faith given to illusions does not lack power, for by
+it does the Child of God believe that they are powerless. Thus are they
+faithless to themself, but strong in faith in their illusions
+*about* themself. For faith, perception, and belief *you*
+made as means for losing certainty and finding sin. This mad
+direction was your choice, and by your faith in what you chose, you
+made what you desired.
 
-There is no inconsistency in what the Holy Spirit teaches. This is the reasoning of the sane. You have perceived the ego’s madness, and not been made afraid because you did not choose to share in it. At times it still deceives you. Yet in your saner moments, its ranting strikes no terror in your heart. For you have realized that all the gifts it would withdraw from you, in rage at your “presumptuous” wish to look within, you do not want. A few remaining trinkets still seem to shine and catch your eye. Yet you would not “sell” Heaven to have them.
+The Holy Spirit has a use
+for all the means for sin by which you sought to find it. But as He
+uses them, they lead *away* from sin because His purpose lies in
+the opposite direction. He sees the *means* you use but not the
+*purpose* for which you made them. He would not take them from
+you, for He sees their value as a means for what *He* wills for
+you. You made perception that you might choose among your companions
+and seek for sin with them. The Holy Spirit sees perception as a
+means to teach you that the vision of a holy relationship is all you
+*want* to see. Then will you give your faith to holiness,
+desiring and believing in it *because* of your desire.
 
-And now the ego _is_ afraid. Yet what it hears in terror, the other part hears as the sweetest music; the song it longed to hear since first the ego came into your mind. The ego’s weakness is its strength. The song of freedom, which sings the praises of another world, brings to it hope of peace. For it remembers Heaven, and now it sees that Heaven has come to earth at last, from which the ego’s rule has kept it out so long. Heaven has come because it found a home in your relationship on earth. And earth can hold no longer what has been given Heaven as its own.
+Faith and belief become
+attached to vision, as all the means that once served sin are
+redirected now toward holiness. For what you think is sin is
+*limitation*, and whom you try to limit to the body you hate
+because you fear. In your refusal to forgive them, you would condemn
+them to the body because the means for sin are dear to you. And so the
+body has your faith and your belief. But holiness would set your
+companion free, removing hatred by removing fear, not as a symptom, but
+at its source.
 
-Look gently on your companion, and remember the ego’s weakness is revealed in both your sight. What it would keep apart has met and joined, and looks upon the ego unafraid. Little child, innocent of sin, follow in gladness the way to certainty. Be not held back by fear’s insane insistence that sureness lies in doubt. This has no meaning. What matters it to you how loudly it is proclaimed? The senseless is not made meaningful by repetition and by clamor. The quiet way is open. Follow it happily, and question not what must be so.
+Those who would free their
+companions from the body can *have* no fear. They have renounced
+the means for sin by choosing to let all limitations be removed.
+Desiring to look upon their companions in holiness, the power of belief
+and faith goes far beyond the body, *supporting* vision, not
+obstructing it. But first they chose to recognize how much their
+faith had limited their understanding of the world, desiring to place
+its power elsewhere should another point of view be given them. The
+miracles which follow this decision are also born of faith. For all
+who choose to look away from sin are given vision and are led to
+holiness.
 
-{% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+Those who believe in sin
+*must* think the Holy Spirit asks for sacrifice, for this is how
+they think *their* purpose is accomplished. Friends, the Holy
+Spirit knows that sacrifice brings *nothing*. He makes no
+bargains. And if you seek to limit Him, you will hate Him because you
+are afraid. The gift that He has given you is more than anything that
+stands this side of Heaven. The instant for its recognition is at
+hand. Join your awareness to what has been *already* joined. The
+faith you give each other can accomplish this. For He Who loves the
+world is seeing it for you without one spot of sin upon it and in the
+innocence which makes the sight of it as beautiful as Heaven.
+
+Your faith in sacrifice
+has given it great power in your sight, except you do not realize you
+cannot see *because* of it. For sacrifice must be exacted of a
+body and by another body. The mind could neither ask it nor receive
+it of itself. And no more could the body. The intention is in the
+mind, which tries to use the body to carry out the means for sin in
+which the *mind* believes. Thus is the joining of mind and body
+an inescapable belief of those who value sin. And so is sacrifice
+invariably a means for limitation and thus for hate.
+
+Think you the Holy Spirit
+is concerned with *this*? He gives not what it is His purpose to
+lead you *from*. You think He would deprive you for your good.
+But “good” and “deprivation” are opposites and
+cannot meaningfully join in any way. It is like saying that the moon
+and sun are one because they come with night and day, and so they
+*must* be joined. Yet sight of one is but the sign the other has
+disappeared from sight. Nor is it possible that what gives light be
+one with what depends on darkness to be seen. Neither demands the
+sacrifice of the other. Yet on the *absence* of the other does
+each depend.
+
+The body was made to be a
+sacrifice to sin, and in the darkness so it still is seen. Yet in the
+light of vision, it is looked upon quite differently. You *can*
+have faith in it to serve the Holy Spirit’s goal and give it
+power to serve as means to help the blind to see. But in their
+seeing, they look *past* it, as do you. The faith and the belief
+you gave it *belongs* beyond. You gave perception and belief and
+faith from mind to body. Let them now be given back to what produced
+them and can use them still to save itself from what it
+made.

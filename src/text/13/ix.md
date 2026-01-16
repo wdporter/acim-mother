@@ -1,34 +1,96 @@
 ---js
 const layout = "mylayout.njk"
-const title = "The Cloud of Guilt"
+const title = "The Way of Salvation"
 const chapter = "Tx:13"
 const section = "IX"
 const reference = `${chapter}.${section}`
-const pageNumber = 173
 const headerTitle = `${section}. ${title}`
 const eleventyNavigation = {
 	key: reference,
-	order: pageNumber,
+	order: 9,
 	title: headerTitle,
 	parent: `${chapter}`
 }
 const prev = "/text/13/viii"
-const next = "/text/13/x"
+const next = "/text/14/i"
 ---
-Guilt remains the only thing that hides the Mother, for guilt is the attack upon Her Son. The guilty always condemn, and having done so they will still condemn, linking the future to the past as is the ego’s law. Fidelity to this law lets no light in, for it demands fidelity to darkness and forbids awakening. The ego’s laws are strict, and breaches are severely punished. Therefore give no obedience to its laws, for they are laws of punishment. And those who follow them believe that they are guilty, and so they must condemn. Between the future and the past the laws of God must intervene, if you would free yourself. Atonement stands between them, like a lamp shining so brightly that the chain of darkness in which you bound yourself will disappear.
+When you accept companions’ guiltlessness, you will see the Atonement in them. For
+by proclaiming it in them, you make it *yours,* and you
+*will* see what you sought. You will not see the symbol of your
+companions’ guiltlessness shining within them while you still
+believe it is not there. *Their* guiltlessness is *your*
+Atonement. Grant it to them, and you will see the truth of what you
+have acknowledged. Yet truth is offered *first* to be received,
+even as God gave it first to Her Child. The first in time means
+nothing, but the First in eternity is God the Mother, Who is both
+First and One. Beyond the First, there is no other, for there is no
+order, no second or third and nothing *but* the First.
 
-Release from guilt is the ego’s whole undoing. _Make no one fearful,_ for their guilt is yours, and by obeying the ego’s harsh commandments you bring its condemnation on yourself, and you will not escape the punishment it offers those who obey it. The ego rewards fidelity to it with pain, for faith in it _is_ pain. And faith can be rewarded only in terms of the belief in which the faith was placed. Faith makes the power of belief, and where it is invested determines its reward. For faith is always given what is treasured, and what is treasured is returned to you.
+You who belong to the
+First Cause, created by Her like unto Herself and part of Her, are
+more than merely guiltless. The state of guiltlessness is only the
+condition in which what is not there has been removed from the
+disordered mind that thought it *was*. This state, and only
+this, must *you* attain with God beside you. For until you do,
+you will still think that you are separate from Her. You can feel Her
+Presence next to you but *cannot* know that you are one with
+Her. This need not be taught. Learning applies only to the condition
+in which it happens *of itself*.
 
-The world can give you only what you gave it, for being nothing but your own projection, it has no meaning apart from what you found in it and placed your faith in. Be faithful unto darkness and you will not see, because your faith will be rewarded as you gave it. You _will_ accept your treasure, and if you place your faith in the past, the future will be like it. Whatever you hold dear you think is yours. The power of your valuing will make it so.
+When you have let all that
+obscured the truth in your most holy mind be undone for you and stand
+in grace before your Mother, She will give Herself to you as She has
+always done. Giving Herself is all She knows, and so it is all
+knowledge. For what She knows not cannot be and therefore cannot be
+given. Ask not to be forgiven, for this has already been
+accomplished. Ask, rather, to learn how to *forgive* and restore
+what always was to your unforgiving mind. Atonement becomes real and
+visible to them that *use* it. On earth this is your only
+function, and you must learn that it is all you *want* to
+learn.
 
-Atonement brings a re-evaluation of everything you cherish, for it is the means by which the Holy Spirit can separate the false and the true, which you have accepted into your mind without distinction. Therefore you cannot value one without the other, and guilt has become as true for you as innocence. You do not believe the Son of God is guiltless because you see the past, and see him not. When you condemn companions you are saying, “I who was guilty choose to remain so.” You have denied their freedom, and by so doing you have denied the witness unto yours. You could as easily have freed them from the past, and lifted from their mind the cloud of guilt that binds them to it. And in their freedom would have been your own.
+You *will* feel
+guilty till you learn this. For in the end, whatever form it takes,
+your guilt arises from your failure to fulfill your function in
+God’s Mind with all of *yours*. Can you escape this guilt by
+failing to fulfill your function here? You need not understand
+creation to do what must be done before that knowledge would be
+meaningful to you. God breaks no barriers; neither did She *make*
+them. When *you* release them, they are gone. God will not fail
+nor ever has in anything.
 
-Lay not their guilt upon them, for their guilt lies in their secret thoughts that they have done this unto you. Would you, then, teach them they are right in their delusion? The idea that the guiltless Son of God can attack himself and make himself guilty is insane. In any form, in anyone, _believe this not._ For sin and condemnation are the same, and the belief in one is faith in the other, calling for punishment instead of love. Nothing can justify insanity, and to call for punishment upon yourself must be insane.
+Decide that God is right
+and *you* are wrong about yourself. She created you out of
+Herself but still within Her. She *knows* what you are. Remember
+that there is no second to Her. There cannot, therefore, be anyone
+without Her Holiness nor anyone unworthy of Her perfect Love. Fail
+not in your function of loving in a loveless place made out of
+darkness and deceit, for thus are darkness and deceit undone. Fail
+not *yourself,* but instead offer to God *and you* Her
+blameless Child. For this small gift of appreciation for Her Love, God
+will Herself exchange your gift for Hers.
 
-See no one, then, as guilty, and you will affirm the truth of guiltlessness unto yourself. In every condemnation that you offer the Son of God lies the conviction of your own guilt. If you would have the Holy Spirit make you free of it, accept His offer of Atonement for all your companions. For so you learn that it is true for you. Remember always that it is impossible to condemn the Son of God in part. Those whom you see as guilty become the witnesses to guilt in you, and you will see it there, for it _is_ there until it is undone. Guilt is always in your mind, which has condemned itself. Project it not, for while you do, it cannot be undone. With everyone whom you release from guilt great is the joy in Heaven, where the witnesses to your motherhood rejoice.
+Before you make *any*
+decisions for yourself, remember that you have decided *against*
+your function in Heaven and consider carefully whether you
+*want* to make decisions here. Your function here is only to
+decide *against* deciding what you want in recognition that you
+do not *know.* How, then, can you decide what you should do?
+Leave all decisions to the One Who speaks for God and for your
+function as He *knows* it. So will He teach you to remove the
+awful burden you have laid upon yourself by loving not the Child of God
+and trying to teach them guilt instead of love. Give up this frantic
+and insane attempt, which cheats you of the joy of living with your
+God and Mother, and awaking gladly to Her Love and Holiness, which
+join together as the truth in you, making you one with Her.
 
-Guilt makes you blind, for while you see one spot of guilt within you, you will not see the light. And by projecting it the world seems dark, and shrouded in your guilt. You throw a dark veil over it, and cannot see it because you cannot look within. You are afraid of what you would see there, but it is not there. _The thing you fear is gone._ If you would look within you would see only the Atonement, shining in quiet and in peace upon the altar to your Mother.
-
-Do not be afraid to look within. The ego tells you all is black with guilt within you, and bids you not to look. Instead, it bids you look upon your companions, and see the guilt in them. Yet this you cannot do without remaining blind. For those who see their companions in the dark, and guilty in the dark in which they shroud them, are too afraid to look upon the light within. Within you is not what you believe is there, and what you put your faith in. Within you is the holy sign of perfect faith your Mother has in you. She does not value you as you do. She knows Herself, and knows the truth in you. She knows there is no difference, for She knows not of differences. Can you see guilt where God knows there is perfect innocence? You can deny Her knowledge, but you cannot change it. Look, then, upon the light She placed within you, and learn that what you feared was there has been replaced with love.
-
-{% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+When you have learned how
+to decide *with* God, all decisions become as easy and as right
+as breathing. There is no effort, and you will be led as gently as if
+you were being carried along a quiet path in summer. Only your own
+volition seems to make deciding hard. The Holy Spirit will not delay
+at all in answering your *every* question what to do. He
+*knows*. And He will *tell* you and then do it *for*
+you. You who are tired might consider whether this is not more
+restful than sleep. For you can bring your guilt into sleeping but
+not into this.

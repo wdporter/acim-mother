@@ -10,21 +10,162 @@ const reference = `${chapter}.${section}`
 const headerTitle = `${section}. ${title}`
 const eleventyNavigation = {
 	key: reference,
-	order: pageNumber,
+	order: 2,
 	title: headerTitle,
 	parent: `${chapter}`
 }
 ---
-The Atonement is _in_ time, but not _for_ time. Being in you, it is eternal. What holds remembrance of God cannot be bound by time. No more are you. For unless God is bound, you cannot be. An instant offered to the Holy Spirit is offered to God on your behalf, and in that instant you will awaken gently in Her. In the blessed instant you will let go all your past learning, and the Holy Spirit will quickly offer you the whole lesson of peace. What can take time, when all the obstacles to learning it have been removed? Truth is so far beyond time that all of it happens at once. For as it was created one, so its oneness depends not on time at all.
 
-Do not be concerned with time, and fear not the instant of holiness that will remove all fear. For the instant of peace is eternal _because_ it is without fear. It will come, being the lesson God gives you, through the Teacher She has appointed to translate time into eternity. Blessed is God’s Teacher, Whose joy it is to teach God’s holy Son his holiness. His [God’s Teacher’s] joy is not contained in time. His teaching is for you because His joy is yours. Through Him you stand before God’s altar, where He gently translates hell into Heaven. For it is only in Heaven that God would have you be.
+The ego is an ally of time,
+but not a friend. For it is as mistrustful of death as it is of life,
+and what it wants for you it cannot tolerate. The ego wants
+*you* dead, but *not* itself. The outcome of its strange
+religion must therefore be the conviction that it can pursue you
+beyond the grave. And out of its unwillingness for you to find peace
+even in the death it wants for you, it offers you immortality in
+hell. It speaks to you of Heaven but assures you that Heaven is not
+for you. How can the guilty hope for Heaven? The belief in hell is
+inescapable to those who identify with the ego. Their nightmares and
+their fears are all associated with it.
 
-How long can it take to be where God would have you? For you are where you have forever been and will forever be. All that you have, you have forever. The blessed instant reaches out to encompass time, as God extends Herself to encompass you. You who have spent days, hours and even years in chaining your companions to your ego in an attempt to support it and uphold its weakness, do not perceive the Source of strength. In this holy instant you will unchain all your companions, and refuse to support either their weakness or your own.
+The ego teaches that hell
+is in the *future*, for this is what all its teaching is
+directed to. Hell is its *goal*, for although the ego aims at
+death and dissolution as an end, it does not *believe* it. The
+goal of death, which it craves for you, leaves it unsatisfied. No one
+who follows the ego’s teaching is without the fear of death. Yet
+if death were thought of merely as an end to pain, would it be
+*feared*? We have seen this strange paradox in the ego’s
+thought system before, but never so clearly as here. For the ego must
+seem to *keep* fear from you to keep your allegiance. Yet it
+must *engender* fear in order to maintain *itself*.
 
-You do not realize how much you have misused your companions by seeing them as sources of ego support. As a result, they witness to the ego in your perception, and seem to provide reasons for not letting it go. Yet they are far stronger and much more compelling witnesses for the Holy Spirit. And they support His strength. It is, therefore, your choice whether they support the ego or the Holy Spirit in you. And you will recognize which you have chosen by _their_ reactions. A Son of God who has been released through the Holy Spirit in a companion is always recognized. He [a Son of God] cannot be denied. If you remain uncertain, it is only because you have not given complete release. And because of this, you have not given a single instant completely to the Holy Spirit. For when you have, you will be sure you have. You will be sure because the witness to Him will speak so clearly of Him that you will hear and understand. You will doubt until you hear one witness whom you have wholly released through the Holy Spirit. And then you will doubt no more.
+Again the ego tries and all
+too frequently succeeds in doing both by using dissociation for
+holding its contradictory aims together so that they *seem* to
+be reconciled. The ego teaches thus: Death is the end as far as hope
+of Heaven goes. Yet because you and itself cannot be separated, and
+because it cannot conceive of its *own* death, it will pursue
+you still because guilt is eternal. Such is the ego’s version of
+immortality. And it is this the ego’s version of time
+supports.
 
-The holy instant has not yet happened to you. Yet it will, and you will recognize it with perfect certainty. No gift of God is recognized in any other way. You can practice the mechanics of the holy instant, and will learn much from doing so. Yet its shining and glittering brilliance, which will literally blind you to this world by its own vision, you cannot supply. And here it is, all in this instant, complete, accomplished and given wholly.
+The ego teaches that Heaven
+is here and now because the *future* is hell. Even when it
+attacks so savagely that it tries to take the life of someone who
+hears it temporarily as the *only* voice, it speaks of hell even
+to them. For it tells them hell is *here* and bids them leap from
+hell into oblivion. The only time the ego allows anyone to look upon
+with some amount of equanimity is the past. And even there its only
+value is that it is no more.
 
-Start now to practice your little part in separating out the holy instant. You will receive very specific instructions as you go along. To learn to separate out this single second, and to experience it as timeless, is to begin to experience yourself as not separate. Fear not that you will not be given help in this. God’s Teacher and His lesson will support your strength. It is only your weakness that will depart from you in this practice, for it is the practice of the power of God in you. Use it but for one instant, and you will never deny it again. Who can deny the Presence of what the universe bows to, in appreciation and gladness? Before the recognition of the universe that witnesses to It, your doubts must disappear.
+How bleak and despairing is
+the ego’s use of time! And how terrifying! For underneath its
+fanatical insistence that the past and future be the same is hidden a
+far more insidious threat to peace. The ego does not advertise its
+final threat, for it would have its worshipers still believe that it
+can offer the *escape* from it. But the belief in guilt
+*must* lead to the belief in hell, *and* *always
+does*. The only way in which the ego allows the fear of hell to be
+experienced is to bring hell *here,* but always as a foretaste
+of the future. For no one who considers themself as deserving hell can
+believe that punishment will end in peace.
 
-{% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+The Holy Spirit teaches
+thus: There *is* no hell. Hell is only what the ego has made of
+the *present.* The belief in hell is what prevents you from
+*understanding* the present, because you are *afraid* of
+it. The Holy Spirit leads as steadily to Heaven as the ego drives to
+hell. For the Holy Spirit, Who knows *only* the present, uses it
+to undo the fear by which the ego would make the present useless.
+There is *no* escape from fear in the ego’s use of time. For
+time, according to its teaching, is nothing but a teaching device for
+*compounding* guilt until it becomes all-encompassing and
+demands vengeance forever.
+
+The Holy Spirit would undo
+all of this *now*. Fear is *not* of the present but only of
+the past and future, which do not exist. There is no fear in the
+present when each instant stands clear and separated from the past,
+without its shadow reaching out into the future. Each instant is a
+clean, untarnished birth, in which the Child of God emerges from the
+past into the present. And the present extends forever. It is so
+beautiful and so clean and free of guilt that nothing but happiness
+is there. No darkness is remembered, and immortality and joy are
+*now*.
+
+This lesson takes
+*no* time. For what is time without a past and future? It
+*has* taken time to misguide you so completely, but it takes no
+time at all to be what you *are.* Begin to practice the Holy
+Spirit’s use of time as a teaching aid to happiness and peace.
+Take this very instant, *now*, and think of it as *all there
+is* of time. Nothing can reach you here out of the past, and it is
+here that you are *completely* absolved, *completely* free,
+and *wholly* without condemnation. From this holy instant
+wherein holiness was born again, you will go forth in time without
+fear and with no sense of change *with* time.
+
+Time is inconceivable
+without change, yet holiness does not change. Learn from this instant
+more than merely hell does not exist. In this redeeming instant lies
+Heaven. And Heaven will not change, for the birth into the holy
+present is *salvation* from change. Change is an illusion,
+taught by those who could not see themselves as guiltless. There is
+no change in Heaven because there is no change in God. In the holy
+instant in which you see yourself as bright with freedom, you
+*will* remember God. For remembering Her *is* to remember
+freedom.
+
+Whenever you are tempted
+to be dispirited by the thought of how long it would take to change
+your mind so completely, ask yourself, “How long is an
+instant?”. Could you not give so short a time to the Holy Spirit
+for your salvation? He asks no more, for He has no need of more. It
+takes far longer to teach you how to be willing to give Him this than
+for Him to use this tiny instant to offer you the whole of Heaven. In
+exchange for this instant, He stands ready to give you the
+remembrance of eternity.
+
+You will never give this
+holy instant to the Holy Spirit on behalf of your release while you
+are unwilling to give it to your companions on behalf of *theirs.*
+For the instant of holiness is shared, and cannot be yours alone.
+Remember, then, when you are tempted to attack a companion, that *their*
+instant of release is *yours*. Miracles are the instants of
+release you offer and will *receive*. They attest to your
+willingness to *be* released and to offer time to the Holy
+Spirit for His use of it. How long is an instant? It is as short for
+your companion as it is for you. Practice giving this blessed instant
+of freedom to all who are enslaved by time and thus make time their
+friend *for* them. The Holy Spirit gives their blessed instant
+to *you* through your giving it. As you give it, He offers it to
+*you*.
+
+Be not unwilling to give
+what you would receive of Him, for you join with Him in giving. In
+the crystal cleanness of the release you give is your
+*instantaneous* escape from guilt. You *must* be holy if
+you offer holiness. How long is an instant? As long as it takes to
+reestablish perfect sanity, perfect peace, and perfect love for
+everyone, for God, and for *yourself*. As long as it takes to
+remember immortality and your immortal creations who share it with
+you. As long as it takes to exchange hell for Heaven. Long enough to
+transcend all of the ego’s making and ascend unto your
+Mother.
+
+Time is your friend if you
+leave it to the Holy Spirit to use. He needs but very little to
+restore God’s whole power to you. He Who transcends time for you
+understands what time is *for*. Holiness lies not in time but in
+eternity. There never was an instant in which God’s Child could
+lose their purity. Their changeless state is beyond time, for their purity
+remains forever beyond attack and without variability. Time stands
+still in their holiness and changes not. And so it is no longer time at
+all. For, caught in the single instant of the eternal sanctity of
+God’s creation, it is transformed into forever. *Give* the
+eternal instant that eternity may be remembered *for* you in
+that shining instant of perfect release. Offer the miracle of the
+holy instant through the Holy Spirit and leave His giving it to you
+to Him.
+

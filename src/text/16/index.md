@@ -1,6 +1,6 @@
 ---js
-const prev = "/text/15/xi"
-const next = "/text/16/i"
+const prev = "/text/15"
+const next = "/text/17"
 const title = "The Forgiveness of Illusions"
 const chapter = 16
 const volume = "Tx"
