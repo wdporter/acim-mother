@@ -1,9 +1,8 @@
 ---js
 const prev = "/text/30/ii"
 const next = "/text/30/iv"
-const title = "Beyond All Idols"
+const title = "Freedom of Will"
 const section = "III"
-const pageNumber = 336
 const chapter = 30
 const layout = "mylayout.njk"
 const volume = "Tx"
@@ -12,31 +11,63 @@ const reference = `${parent}.${section}`
 const headerTitle = `${section}. ${title}`
 const eleventyNavigation = {
 	key: reference,
-	order: pageNumber,
+	order: 3,
 	title: headerTitle,
 	parent
 }
 ---
-Idols are quite specific. But your will is universal, being limitless. And so it has no form, nor is content for its expression in the terms of form. Idols are limits. They are the belief that there are forms that will bring happiness, and that, by limiting, is all attained. It is as if you said, “I have no need of everything. This little thing I want, and it will be as everything to me.” And this must fail to satisfy, because it is your will that everything be yours. Decide for idols and you ask for loss. Decide for truth and everything is yours.
+Do you not understand that
+to oppose the Holy Spirit is to fight *yourself*? He tells you
+but *your* will; He speaks for *you.* In His divinity is
+but your own. And all He knows is but your knowledge, saved for you
+that you may do your will through Him. God *asks* you do your
+will. She joins with *you*. She did not set Her Realm up alone.
+And Heaven itself but represents your will, where everything created
+is for you. No spark of life but was created with your glad consent,
+as you would have it be. And not one Thought that God has ever had
+but waited for your blessing to be born. God is no enemy to you. She
+asks no more than that She hear you call Her “Friend”.
 
-It is not form you seek. What form can be a substitute for God the Mother’s Love? What form can take the place of all the love in the Divinity of God the Son? What idol can make two of what is one? And can the limitless be limited? You do not want an idol. It is not your will to have one. It will not bestow on you the gift you seek. When you decide upon the form of what you want, you lose the understanding of its purpose. So you see your will within the idol, thus reducing it to a specific form. Yet this could never be your will, because what shares in all creation cannot be content with small ideas and little things.
+How wonderful it is to do
+your will! For that is freedom. There is nothing else that ever
+should be called by freedom’s name. Unless you do your will, you
+are not free. And would God leave Her Child without what they have chosen
+for themself? God but ensured that you would never lose your will when
+She gave you Her perfect answer. Hear it now that you may be reminded
+of Her Love and learn your will. God would not have Her Child made
+prisoner to what they do not want. She *joins* with you in
+willing you be free. And to oppose Her is to make a choice against
+*yourself* and choose that *you* be bound.
 
-Behind the search for every idol lies the yearning for completion. Wholeness has no form because it is unlimited. To seek a special person or a thing to add to you to make yourself complete, can only mean that you believe some form is missing. And by finding this, you will achieve completion in a form you like. This is the purpose of an idol; that you will not look beyond it, to the source of the belief that you are incomplete. Only if you had sinned could this be so. For sin is the idea you are alone and separated off from what is whole. And thus it would be necessary for the search for wholeness to be made beyond the boundaries of limits on yourself.
+Look once again upon your
+enemy, the one you chose to hate instead of love. For thus was hatred
+born into the world, and thus the rule of fear established there. Now
+hear God speak to you through Him Who is Her Voice and yours as well,
+reminding you that it is not your will to hate and be a prisoner to
+fear, a slave to death, a little creature with a little life. Your
+will is boundless; it is not your will that it be bound. What lies in
+you has joined with God Herself in all creation’s birth. Remember
+She Who has created you and through your will created everything. Not
+one created thing but gives you thanks, for it is by your will that
+it was born. No light of Heaven shines except for you, for it was set
+in Heaven by your will.
 
-It never is the idol that you want. But what you think it offers you, you want indeed and have the right to ask for. Nor could it be possible it be denied. Your will to be complete is but God’s Will, and this is given you by being Hers. God knows not form. She cannot answer you in terms that have no meaning. And your will could not be satisfied with empty forms, made but to fill a gap that is not there. It is not this you want. Creation gives no separate person and no separate thing the power to complete the Son of God. What idol can be called upon to give the Son of God what he already has?
+What cause have you for
+anger in a world which merely waits your blessing to be free? If you
+be prisoner, then God Herself could not be free. For what is done to
+they whom God so loves is done to God Herself. Think not She wills to
+bind you, Who has made you co-creator of the universe along with Her.
+She would but keep your will forever and forever limitless.
 
-Completion is the _function_ of God’s Son. He has no need to seek for it at all. Beyond all idols stands his holy will to be but what he is. For more than whole is meaningless. If there were change in him, if he could be reduced to any form and limited to what is not in him, he would not be as God created him. What idol can he need to be himself? For can he give a part of him away? What is not whole cannot make whole. But what is really asked for cannot be denied. Your will _is_ granted. Not in any form that would content you not, but in the whole completely lovely Thought God holds of you.
-
-Nothing that God knows not exists. And what She knows exists forever, changelessly. For thoughts endure as long as does the mind that thought of them. And in the Mind of God there is no ending, nor a time in which Her Thoughts were absent or could suffer change. Thoughts are not born and cannot die. They share the attributes of their creator, nor have they a separate life apart from theirs. The thoughts you think are in your mind, as you are in the Mind which thought of you. And so there are no separate parts in what exists within God’s Mind. It is forever One, eternally united and at peace.
-
-Thoughts seem to come and go. Yet all this means is that you are sometimes aware of them, and sometimes not. An unremembered thought is born again to you when it returns to your awareness. Yet it did not die when you forgot it. It was always there, but you were unaware of it. The Thought God holds of you is perfectly unchanged by your forgetting. It will always be exactly as it was before the time when you forgot, and will be just the same when you remember. And it is the same within the interval when you forgot.
-
-The Thoughts of God are far beyond all change, and shine forever. They await not birth. They wait for welcome and remembering. The Thought God holds of you is like a star, unchangeable in an eternal sky. So high in Heaven is it set that those outside of Heaven know not it is there. Yet still and white and lovely will it shine through all eternity. There was no time it was not there; no instant when its light grew dimmer or less perfect ever was.
-
-Who knows the Mother knows this light, for She is the eternal sky that holds it safe, forever lifted up and anchored sure. Its perfect purity does not depend on whether it is seen on earth or not. The sky embraces it and softly holds it in its perfect place, which is as far from earth as earth from Heaven. It is not the distance nor the time that keeps this star invisible to earth. But those who seek for idols cannot know the star is there.
-
-Beyond all idols is the Thought God holds of you. Completely unaffected by the turmoil and the terror of the world, the dreams of birth and death that here are dreamed, the myriad of forms that fear can take; quite undisturbed, the Thought God holds of you remains exactly as it always was. Surrounded by a stillness so complete no sound of battle comes remotely near, it rests in certainty and perfect peace. Here is your one reality kept safe, completely unaware of all the world that worships idols, and that knows not God. In perfect sureness of its changelessness and of its rest in its eternal home, the Thought God holds of you has never left the Mind of its Creator Whom it knows, as its Creator knows that it is there.
-
-Where could the Thought God holds of you exist but where you are? Is your reality a thing apart from you, and in a world which your reality knows nothing of? Outside you there is no eternal sky, no changeless star and no reality. The mind of Heaven’s Son in Heaven is, for there the Mind of Mother and of Son joined in creation which can have no end. You have not two realities, but one. Nor can you be aware of more than one. An idol _or_ the Thought God holds of you is your reality. Forget not, then, that idols must keep hidden what you are, not from the Mind of God, but from your own. The star shines still; the sky has never changed. But you, the holy Son of God Herself, are unaware of your reality.
-
-{% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+This world awaits the
+freedom you will give when you have recognized that *you* are
+free. But you will not forgive the world until you have forgiven Her
+Who gave your will to you. For it is *by* your will the world is
+given freedom. Nor can you be free apart from Her Whose holy Will you
+share. God turns to you to ask the world be saved, for by your own
+salvation it is healed. And no one walks upon the earth but must
+depend on your decision, that they learn death has no power over them
+because they share your freedom as they share your will. It *is*
+your will to heal them, and because you have decided *with* them,
+they are healed. And now is God forgiven, for you chose to look upon
+your companion as a friend.

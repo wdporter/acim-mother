@@ -33,7 +33,7 @@ restoration of your sanity. For if you accept your invulnerability,
 you are recognizing that attack *has* no effect. Although you
 have attacked yourself, and very brutally, you will demonstrate that
 *nothing happened*. Therefore, by attacking you have not done
-*anything*. Once you realize this, there is no longer any
+*anything*. Once you realise this, there is no longer any
 *sense* in attack, for it manifestly *does not work* and
 *cannot* protect you. Yet the recognition of your
 invulnerability has more than negative value. If your attacks on
@@ -41,7 +41,7 @@ yourself have *failed* to weaken you, *you are still
 strong*. You therefore have no need to “equalize” the
 situation to establish your strength.
 
-You will never realize the
+You will never realise the
 utter uselessness of attack *except* by recognizing that your
 attack on *yourself* had no effects. For others *do* react
 to attack if they perceive it, and if you are trying to attack
@@ -108,7 +108,7 @@ you can *not* overcome it, for all *your* learning is on
 its *behalf*. Yet your will speaks against your learning, as
 your learning speaks against your will, and so you fight
 *against* learning and succeed, for that *is* your will.
-But you do not realize even yet that there *is* something you
+But you do not realise even yet that there *is* something you
 *do* will to learn, and that you can learn it because it
 *is* your will to do so.
 

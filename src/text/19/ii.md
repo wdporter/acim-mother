@@ -41,7 +41,7 @@ body *will* seem to be sick, for you have made of it an
 “enemy” of healing and the opposite of truth.
 
 It cannot be difficult to
-realize that faith must be the opposite of faithlessness. Yet the
+realise that faith must be the opposite of faithlessness. Yet the
 difference in how they operate is less apparent, though it follows
 directly from the fundamental difference in what they are.
 Faithlessness would always limit and attack; faith would remove all
@@ -149,7 +149,7 @@ In the holy instant, you
 stand before the altar God has raised unto Himself and *both* of you.
 Lay faithlessness aside and come to it together. There will you see
 the miracle of your relationship as it was made again through faith.
-And there it is that you will realize that there is nothing faith
+And there it is that you will realise that there is nothing faith
 cannot forgive. No error interferes with its calm sight, which brings
 the miracle of healing with equal ease to *all* of them. For what the
 messengers of love are sent to do *they do*, returning the glad

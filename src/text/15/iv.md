@@ -27,7 +27,7 @@ to your striving and your vigilance. You will always choose one at
 the *expense* of the other.
 
 Yet what you do not
-realize each time you choose is that your choice is your evaluation
+realise each time you choose is that your choice is your evaluation
 of *yourself*. Choose littleness and you will not have peace,
 for you will have judged yourself unworthy of it. And whatever you
 offer as a substitute is much too poor a gift to satisfy you. It is
@@ -40,7 +40,7 @@ which is your home.
 There is a deep
 responsibility you owe yourself, and one which you must learn to
 remember all the time. The lesson will seem hard at first, but you
-will learn to love it when you realize that it is true and
+will learn to love it when you realise that it is true and
 constitutes a tribute to your power. You who have sought and found
 littleness, remember this: Every decision which you make stems from
 what you think you *are* and represents the value that you
@@ -90,7 +90,7 @@ and the glory that lie in you from God are for all who, like you,
 perceive themselves as little and have deceived themselves into
 believing that littleness can be blown up by them into a sense of
 magnitude that can content them. Neither give littleness, nor accept
-it. All honor is due the host of God. Your littleness deceives you,
+it. All honour is due the host of God. Your littleness deceives you,
 but your magnitude is of Her Who dwells in you and in Whom you dwell.
 Touch no one, then, with littleness, in the name of Christ, eternal
 Host unto His Mother.
@@ -110,7 +110,7 @@ Is it a sacrifice to leave
 littleness behind and wander not in vain? It is not sacrifice to wake
 to glory. But it *is* a sacrifice to accept anything *less*
 than glory. Learn that you *must* be worthy of the Prince of
-Peace, born in you in honor of Her Whose host you are. You know not
+Peace, born in you in honour of Her Whose host you are. You know not
 what love means because you have sought to purchase it with little
 gifts, thus valuing it too little to be able to understand its
 magnitude. Love is *not* little, and love dwells in you, for you
@@ -128,7 +128,7 @@ of the glory that is in them. My birth in you is your awakening to
 grandeur. Welcome me not into a manger but into the altar to
 holiness, where holiness abides in perfect peace. My Realm is not
 of this world because it is in *you.* And you are of your
-Mother. Let us join in honoring you, who must remain forever beyond
+Mother. Let us join in honouring you, who must remain forever beyond
 littleness.
 
 Decide with me, who have

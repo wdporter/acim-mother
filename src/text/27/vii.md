@@ -1,52 +1,98 @@
 ---js
 const layout = "mylayout.njk"
-const title = "The Dreamer of the Dream"
+const title = "The Purpose of Pain"
 const volume = "Tx"
 const chapter = 27
 const parent = `${volume}:${chapter}`
 const section = "VII"
 const reference = `${parent}.${section}`
 const headerTitle = `${section}. ${title}`
-const pageNumber = 312
 const eleventyNavigation = {
 	key: reference,
-	order: pageNumber,
+	order: 7,
 	title: headerTitle,
 	parent
 }
 const prev = "/text/27/vi"
 const next = "/text/27/viii"
 ---
-Suffering is an emphasis upon all that the world has done to injure you. Here is the world’s demented version of salvation clearly shown. Like to a dream of punishment, in which dreamers are unconscious of what brought on the attack against themselves, they sees themselves attacked unjustly and by something not themselves. They are the victim of this “something else,” a thing outside themselves, for which they have no reason to be held responsible. They must be innocent because they know not what they do, but what is done to them. Yet is their own attack upon themselves apparent still, for it is they who bear the suffering. And they cannot escape because its source is seen outside themselves.
+Pain demonstrates the body
+must be real. It is a loud, obscuring voice whose shrieks would
+silence what the Holy Spirit says and keep His words from your
+awareness. Pain compels attention, drawing it away from Him and
+focusing upon itself. Its purpose is the same as pleasure, for they
+both are means to make the body real. What shares a common purpose is
+the same. This is the law of purpose, which unites all those who
+share in it within itself. Pleasure and pain are equally unreal,
+because their purpose cannot *be* achieved. Thus are they means
+for nothing, for they have a goal without a meaning. And they share
+the lack of meaning which their purpose has.
 
-Now you are being shown you _can_ escape. All that is needed is you look upon the problem as it is, and not the way that you have set it up. How could there be another way to solve a problem that is very simple, but has been obscured by heavy clouds of complication, which were made to keep the problem unresolved? Without the clouds the problem will emerge in all its primitive simplicity. The choice will not be difficult, because the problem is absurd when clearly seen. No one has difficulty making up their mind to let a simple problem be resolved if it is seen as hurting them, and also very easily removed.
+Sin shifts from pain to
+pleasure and again to pain. For either witness is the same and
+carries but one message: “You are here within this body, and you
+can be hurt. You can have pleasure, too, but only at the cost of
+pain”. These witnesses are joined by many more. Each one seems
+different because it has a different name, and so it seems to answer
+to a different sound. Except for this, the witnesses of sin are all
+alike. Call pleasure pain, and it will hurt. Call pain a pleasure,
+and the pain behind the pleasure will be felt no more. Sin’s
+witnesses but shift from name to name, as one steps forward and
+another back. Yet which is foremost makes no difference. Sin’s
+witnesses hear but the call of death.
 
-The “reasoning” by which the world is made, on which it rests, by which it is maintained, is simply this: “_You_ are the cause of what I do. Your presence justifies my wrath, and you exist and think apart from me. While you attack I must be innocent. And what I suffer from is your attack.” No one who looks upon this “reasoning” exactly as it is could fail to see it does not follow and it makes no sense. Yet it seems sensible, because it looks as if the world were hurting you. And so it seems as if there is no need to go beyond the obvious in terms of cause.
+This body, purposeless
+within itself, holds all your memories and all your hopes. You use
+its eyes to see, its ears to hear, and let it tell you what it is it
+feels. *It does not know.* It tells you but the names you gave to it to use when *you* call forth the witnesses to its reality.
+You cannot choose among them which are real, for any one you choose
+is like the rest. This name or that, but nothing more, you choose.
+You do not make a witness true because you called them by truth’s
+name. The truth is found in them if it is truth they *represent*.
+And otherwise they lie, if you should call them by the holy Name of God
+Herself.
 
-There is indeed a need. The world’s escape from condemnation is a need which those within the world are joined in sharing. Yet they do not recognize their common need. For each one thinks that if they do their part, the condemnation of the world will rest on them. And it is this that they perceive to _be_ their part in its deliverance. Vengeance must have a focus. Otherwise is the avenger’s knife in their own hand, and pointed to themselves. And they must see it in another’s hand, if they would be a victim of attack they did not choose. And thus they suffer from the wounds a knife they do not hold has made upon themselves.
+God’s Witness sees no
+witnesses *against* the body. Neither does He [God’s Witness, that is, the 
+Holy Spirit] harken to the witnesses by other names which speak in other 
+ways for its reality. He *knows* it is not real. For nothing could contain what you believe it holds within. Nor could it tell a part of God Herself what
+it should feel and what its function is. Yet must He love whatever
+you hold dear. And for each witness to the body’s death He sends
+a witness to your life in Her Who knows no death. Each miracle He
+brings is witness that the body is not real. Its pains and pleasures
+does He heal alike, for *all* sin’s witnesses do His
+replace.
 
-This is the purpose of the world they see. And looked at thus, the world provides the means by which this purpose seems to be fulfilled. The means attest the purpose, but are not themselves a cause. Nor will the cause be changed by seeing it apart from its effects. The cause produces the effects, which then bear witness to the cause, and not themselves. Look, then, beyond effects. It is not here the cause of suffering and sin must lie. And dwell not on the suffering and sin, for they are but reflections of their cause.
+The miracle makes no
+distinctions in the names by which sin’s witnesses are called. It
+merely proves that what they represent has no effects. And this it
+proves because its own effects have come to take their place. It
+matters not the name by which you called your suffering. It is no
+longer there. The One Who brings the miracle perceived them all as
+one and called by name of fear. As fear is witness unto death, so is
+the miracle the witness unto life. It is a witness no one can deny,
+for it is the *effects* of life it brings. The dying live, the
+dead arise, and pain has vanished. Yet a miracle speaks not but for
+itself, but what it represents.
 
-The part you play in salvaging the world from condemnation is your own escape. Forget not that the witness to the world of evil cannot speak except for what has seen a need for evil in the world. And this is where your guilt was first beheld. In separation from your companion was the first attack upon yourself begun. And it is this the world bears witness to. Seek not another cause, nor look among the mighty legions of its witnesses for its undoing. They support its claim on your allegiance. What conceals the truth is not where you should look to _find_ the truth.
+Love, too, has symbols in
+a world of sin. The miracle forgives because it stands for what is
+past forgiveness and is true. How foolish and insane it is to think a
+miracle is bound by laws which it came solely to undo! The laws of
+sin have different witnesses with different strengths. And they
+attest to different sufferings. Yet to the One Who sends forth
+miracles to bless the world, a tiny stab of pain, a little worldly
+pleasure, and the throes of death itself are but a single sound — a
+call for healing and a plaintive cry for help within a world of
+misery. It is their *sameness* that the miracle attests. It is
+their sameness that it *proves*.
 
-The witnesses to sin all stand within one little space. And it is here you find the cause of your perspective on the world. Once you were unaware of what the cause of everything the world appeared to thrust upon you, uninvited and unasked, must really be. Of one thing you were sure: Of all the many causes you perceived as bringing pain and suffering to you, your guilt was not among them. Nor did you in any way request them for yourself. This is how all illusions came about. The ones who makes them do not see themselves as making them, and their reality does not depend on them. Whatever cause they have is something quite apart from them, and what they see is separate from their mind. They cannot doubt their dreams’ reality, because they do not see the part they play in making them and making them seem real.
+The laws which call them
+different are dissolved and *shown* as powerless. The purpose of
+a miracle is to accomplish this. And God Herself has guaranteed the
+strength of miracles for what they witness to. Be witnesses unto the
+miracle and not the laws of sin. There is no need to suffer any more.
+But there *is* need that you be healed, because the suffering of the world has made it deaf to its salvation and deliverance.
 
-No one can waken from a dream the world is dreaming for them. They become a part of someone else’s dream. They cannot choose to waken from a dream they did not make. Helpless they stand, victims to a dream conceived and cherished by a separate mind. Careless indeed of them this mind must be, as thoughtless of their peace and happiness as is the weather or the time of day. It loves them not, but casts them as it will in any role that satisfies its dream. So little is their worth that they are but a dancing shadow, leaping up and down according to a senseless plot conceived within the idle dreaming of the world.
+The resurrection of the world awaits your healing and your happiness, that you may demonstrate the healing of the world. The holy instant will replace all sin if you but carry its effects with you. And no one will elect to suffer more. What better function could you serve than this? Be healed that you may heal, and suffer not the laws of sin to be applied to you. And truth will be revealed to you who chose to let love’s symbols take the place of sin.
 
-This is the only picture you can see; the one alternative that you can choose, the other possibility of cause, if you be not the dreamer of your dreams. And this is what you choose if you deny the cause of suffering is in your mind. Be glad indeed it is, for thus are you the one decider of your destiny in time. The choice is yours to make between a sleeping death and dreams of evil or a happy wakening and joy of life.
-
-What could you choose between but life or death, waking or sleeping, peace or war, your dreams or your reality? There is a risk of thinking death is peace, because the world equates the body with the Self which God created. Yet a thing can never be its opposite. And death is opposite to peace, because it is the opposite of life. And life is peace. Awaken and forget all thoughts of death, and you will find you have the peace of God. Yet if the choice is really given you, then you must see the causes of the things you choose between exactly as they are and where they are.
-
-What choices can be made between two states, but one of which is clearly recognized? Who could be free to choose between effects, when only one is seen as up to them? An honest choice could never be perceived as one in which the choice is split between a tiny you and an enormous world, with different dreams about the truth in you. The gap between reality and dreams lies not between the dreaming of the world and what you dream in secret. They are one. The dreaming of the world is but a part of your own dream you gave away, and saw as if it were its start and ending, both. Yet was it started by your secret dream, which you do not perceive although it caused the part you see and do not doubt is real. How could you doubt it while you lie asleep, and dream in secret that its cause is real?
-
-A companion separated from yourself, an ancient enemy, a murderer who stalks you in the night and plots your death, yet plans that it be lingering and slow; of this you dream. Yet underneath this dream is yet another, in which you become the murderer, the secret enemy, the scavenger and the destroyer of your companion and the world alike. Here is the cause of suffering, the space between your little dreams and your reality. The little gap you do not even see, the birthplace of illusions and of fear, the time of terror and of ancient hate, the instant of disaster, all are here. Here is the cause of unreality. And it is here that it will be undone.
-
-_You_ are the dreamer of the world of dreams. No other cause it has, nor ever will. Nothing more fearful than an idle dream has terrified God’s Son, and made him think that he has lost his innocence, denied his Mother, and made war upon himself. So fearful is the dream, so seeming real, he could not waken to reality without the sweat of terror and a scream of mortal fear, unless a gentler dream preceded his awaking, and allowed his calmer mind to welcome, not to fear, the Voice that calls with love to waken him; a gentler dream, in which his suffering was healed and where his companion was his friend. God willed he waken gently and with joy, and gave him means to waken without fear.
-
-Accept the dream She gave instead of yours. It is not difficult to change a dream when once the dreamer has been recognized. Rest in the Holy Spirit, and allow His gentle dreams to take the place of those you dreamed in terror and in fear of death. He brings forgiving dreams, in which the choice is not who is the murderer and who shall be the victim. In the dreams He brings there is no murder and there is no death. The dream of guilt is fading from your sight, although your eyes are closed. A smile has come to lighten up your sleeping face. The sleep is peaceful now, for these are happy dreams.
-
-Dream softly of your sinless companion, who unites with you in holy innocence. And from this dream the Lord of Heaven will Herself awaken Her beloved Son. Dream of your companions’ kindnesses instead of dwelling in your dreams on their mistakes. Select their thoughtfulness to dream about instead of counting up the hurts they gave. Forgive them their illusions, and give thanks to them for all the helpfulness they gave. And do not brush aside their many gifts because they are not perfect in your dreams. They represent their Mother, Whom you see as offering both life and death to you.
-
-Friend, She gives but life. Yet what you see as gifts your companion offers represent the gifts you dream your Mother gives to you. Let all your companions’ gifts be seen in light of charity and kindness offered you. And let no pain disturb your dream of deep appreciation for their gifts to you. (
-
-{% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}

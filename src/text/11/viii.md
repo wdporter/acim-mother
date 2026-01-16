@@ -53,7 +53,7 @@ must be and finally *know* what He is.
 
 You cannot see the Holy
 Spirit, but you can see His manifestations. And unless you do, you
-will not realize He is there. Miracles are His witnesses and speak
+will not realise He is there. Miracles are His witnesses and speak
 for His Presence. What you cannot see becomes real to you only
 through the witnesses who speak for it. For you can be *aware*
 of what you cannot see, and it can become compellingly real to you as
@@ -196,7 +196,7 @@ believe that *you* want death. And from what you want, God does
 
 When you are tempted to
 yield to the desire for death, *remember that I did not die*.
-You will realize that this is true when you look within and
+You will realise that this is true when you look within and
 *see* me. Would I have overcome death for myself alone? And
 would eternal life have been given me of the Mother *unless* She
 had also given it to you? When you learn to make *me* manifest,

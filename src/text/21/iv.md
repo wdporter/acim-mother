@@ -117,7 +117,7 @@ world is seeing it for you without one spot of sin upon it and in the
 innocence which makes the sight of it as beautiful as Heaven.
 
 Your faith in sacrifice
-has given it great power in your sight, except you do not realize you
+has given it great power in your sight, except you do not realise you
 cannot see *because* of it. For sacrifice must be exacted of a
 body and by another body. The mind could neither ask it nor receive
 it of itself. And no more could the body. The intention is in the

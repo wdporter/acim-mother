@@ -122,7 +122,7 @@ particularly unfortunate because frightened people are apt to be
 vicious. Sacrificing another in *any* way is a clear cut
 violation of God’s own injunction that people should be merciful
 even as their Mother in Heaven. It has been hard for many Christians to
-realize that this commandment (or assignment) also applies to
+realise that this commandment (or assignment) also applies to
 *themselves.* Good teachers never terrorize their students. To
 terrorize is to attack, and this results in rejection of what the
 teacher offers. The result is learning failure.
@@ -153,8 +153,8 @@ it associates innocence with strength, *not* with weakness.
 Innocence is
 *incapable* of sacrificing anything because the innocent mind
 *has* everything and strives only to *protect* its
-wholeness. This is why it *cannot* misproject. It can only honor
-people because honor is the natural greeting of the truly loved to
+wholeness. This is why it *cannot* misproject. It can only honour
+people because honour is the natural greeting of the truly loved to
 others who are like them. The lamb taketh away the sins of the world
 only in the sense that the state of innocence, or grace, is one in
 which the meaning of the Atonement is perfectly apparent. The

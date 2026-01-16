@@ -70,7 +70,7 @@ of the time you dismiss it, but you do *not* dismiss the
 *ego’s* thought system. You have *seen* its results and
 you *still* lack faith in it. You *must*, then, believe
 that by *not* learning the course, you are *protecting*
-yourself. And you do not realize that it is only your guiltlessness
+yourself. And you do not realise that it is only your guiltlessness
 which *can* protect you.
 
 The Atonement has always

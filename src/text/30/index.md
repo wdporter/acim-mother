@@ -1,8 +1,8 @@
 ---js
 const title = "The New Beginning"
 const chapter = 30
-const prev = "/text/29/x"
-const next = "/text/30/i"
+const prev = "/text/29"
+const next = "/text/31"
 const layout = "mylayout.njk"
 const volume = "Tx"
 const reference = `${volume}:${chapter}`

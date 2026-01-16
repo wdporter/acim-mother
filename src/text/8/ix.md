@@ -89,7 +89,7 @@ sensible. Believing in the power of attack, the ego *wants*
 attack.
 
 You have surely begun to
-realize that this is a very practical course which means
+realise that this is a very practical course which means
 *exactly* what it says. So does the Bible, if it is properly
 understood. There has been a marked tendency on the part of many of
 the Bible’s followers and also its translators to be entirely

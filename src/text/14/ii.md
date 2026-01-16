@@ -79,7 +79,7 @@ the guiltlessness which *must* have been denied to produce
 *need* of healing. Do not withhold this glad acknowledgment, for
 hope of happiness and release from suffering of every kind lie in it.
 Who is there but wishes to be free of pain? They may not yet have
-learned *how* to exchange their guilt for innocence nor realize
+learned *how* to exchange their guilt for innocence nor realise
 that only in this exchange can freedom from pain be theirs. Yet those
 who have failed to learn need *teaching, not* attack. To attack
 those who have need of teaching is to fail to learn from them.

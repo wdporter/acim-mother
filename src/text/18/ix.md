@@ -107,7 +107,7 @@ So should it be with the
 dark clouds of guilt, no more impenetrable and no more substantial.
 You will not bruise yourself against them in traveling through. Let
 your Guide *teach* you their unsubstantial nature as He leads you past
-them, for beneath them is a world of light whereon they cast no
+them, for beneath them is a world of light whereön they cast no
 shadows. Their shadows lie upon the world beyond them, still further
 from the light. Yet from them *to* the light their shadows
 cannot fall.

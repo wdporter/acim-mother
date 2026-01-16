@@ -1,6 +1,6 @@
 ---js
-const prev = "/text/28/viii"
-const next = "/text/29/i"
+const prev = "/text/28i"
+const next = "/text/30"
 const title = "The Awakening"
 const chapter = 29
 const volume = "Tx"

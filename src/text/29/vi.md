@@ -1,9 +1,8 @@
 ---js
 const prev = "/text/29/v"
 const next = "/text/29/vii"
-const title = "Forgiveness and the End of Time"
+const title = "The Changeless Dwelling Place"
 const section = "VI"
-const pageNumber = 328
 const chapter = 29
 const volume = "Tx"
 const parent = `${volume}:${chapter}`
@@ -12,21 +11,85 @@ const reference = `${parent}.${section}`
 const headerTitle = `${section}. ${title}`
 const eleventyNavigation = {
 	key: reference,
-	order: pageNumber,
+	order: 6,
 	title: headerTitle,
 	parent
 }
 ---
-How willing are you to forgive your companion? How much do you desire peace instead of endless strife and misery and pain? These questions are the same, in different form. Forgiveness is your peace, for herein lies the end of separation and the dream of danger and destruction, sin and death; of madness and of murder, grief and loss. This is the “sacrifice” salvation asks, and gladly offers peace instead of this.
+There is a place in you
+where this whole world has been forgotten, where no memory of sin and
+of illusion lingers still. There is a place in you which time has
+left, and echoes of eternity are heard. There is a resting place so
+still no sound except a hymn to Heaven rises up to gladden God the
+Mother and the Child. Where both abide are They remembered, both. And
+where They are is Heaven and is peace. Think not that you can change
+Their dwelling place. For your Identity abides in Them, and where
+They are, forever must *you* be.
 
-Swear not to die, you holy Son of God! You make a bargain that you cannot keep. The Son of Life cannot be killed. He is immortal as his Mother. What he is cannot be changed. He is the only thing in all the universe that must be one. What _seems_ eternal all will have an end. The stars will disappear, and night and day will be no more. All things that come and go, the tides, the seasons and the lives of men; all things that change with time and bloom and fade will not return. Where time has set an end is not where the eternal is. God’s Son can never change by what men made of him. He will be as he was and as he is, for time appointed not his destiny, nor set the hour of his birth and death. Forgiveness will not change him. Yet time waits upon forgiveness that the things of time may disappear because they have no use.
+The changelessness of
+Heaven is in you, so deep within that nothing in this world but
+passes by, unnoticed and unseen. The still infinity of endless peace
+surrounds you gently in its soft embrace, so strong and quiet,
+tranquil in the might of its Creator; nothing can intrude upon the
+sacred Child of God within. Here is the role the Holy Spirit gives to
+you who wait upon the Child of God and would behold them waken and be
+glad. They are a part of you, and you of them because they are their
+Mother’s Child and not for any purpose you may see in them. Nothing
+is asked of you but to accept the changeless and eternal that abide
+in them, for your Identity is there. The peace in you can but be found
+in them. And every thought of love you offer them but brings you nearer
+to your wakening to peace eternal and to endless joy.
 
-Nothing survives its purpose. If it be conceived to die, then die it must unless it does not take this purpose as its own. Change is the only thing that can be made a blessing here, where purpose is not fixed, however changeless it appears to be. Think not that you can set a goal unlike God’s purpose for you, and establish it as changeless and eternal. You can give yourself a purpose that you do not have. But you can not remove the power to change your mind, and see another purpose there.
+This sacred Child of God is
+like yourself  —  the mirror of their Mother’s love for you, the soft
+reminder of their Mother’s love by which they were created and which
+still abides in them, as it abides in you. Be very still and hear
+God’s Voice in them and let It tell you what their function is. He [God’s 
+Voice, that is, the Holy Spirit] was created that you might be whole, for only the complete can be a part of God’s completion, Which created you.
 
-Change is the greatest gift God gave to all that you would make eternal, to ensure that only Heaven would not pass away. You were not born to die. You cannot change, because your function has been fixed by God. All other goals are set in time and change that time might be preserved, excepting one. Forgiveness does not aim at keeping time, but at its ending, when it has no use. Its purpose ended, it is gone. And where it once held seeming sway is now restored the function God established for Her Son in full awareness. Time can set no end to its fulfillment nor its changelessness. There is no death because the living share the function their Creator gave to them. Life’s function cannot be to die. It must be life’s extension, that it be as one forever and forever, without end.
+There is no gift the
+Mother asks of you but that you see in all creation but the shining
+glory of Her gift to you. Behold Her Child, Her perfect gift in whom
+their Mother shines forever and to whom is all creation given as their [the 
+Child’s] own. Because they have it is it given you, and where it lies in them,
+behold your peace. The quiet that surrounds you dwells in them, and
+from this quiet come the happy dreams in which your hands are joined
+in innocence. These are not hands that grasp in dreams of pain. They
+hold no sword, for they have left their hold on every vain illusion
+of the world. And being empty, they received instead a companion’s
+hand in which completion lay.
 
-This world will bind your feet and tie your hands and kill your body only if you think that it was made to crucify God’s Son. For even though it was a dream of death, you need not let it stand for this to you. Let _this_ be changed, and nothing in the world but must be changed as well. For nothing here but is defined as what you see it for.
+If you but knew the
+glorious goal that lies beyond forgiveness, you would not keep hold
+on any thought, however light the touch of evil on it may appear to
+be. For you would understand how great the cost of holding anything
+God did not give in minds that can direct the hand to bless and lead
+God’s Child unto their Mother’s house. Would you not *want*
+to be a friend to them, created by their Mother as Her home? If God
+esteems them worthy of Herself, would *you* attack them with the
+hands of hate? Who would lay bloody hands on Heaven itself and hope
+to find its peace? Your companion thinks they holds the hand of death.
+Believe them not. But learn instead how blessed are you who can
+release them just by offering them yours.
 
-How lovely is the world whose purpose is forgiveness of God’s Son! How free from fear, how filled with blessing and with happiness! And what a joyous thing it is to dwell a little while in such a happy place! Nor can it be forgot, in such a world, it _is_ a little while till timelessness comes quietly to take the place of time.
+A dream is given you in
+which they are your savior, not your enemy in hate. A dream is given you
+in which you have forgiven them for all their dreams of death  —  a dream of
+hope you share with them instead of dreaming evil separate dreams of
+hate. Why does it seem so hard to share this dream? Because unless
+the Holy Spirit gives the dream its function, it was made for hate
+and will continue in death’s services. Each form it takes in some
+way calls for death. And those who serve the lord of death have come
+to worship in a separated world, each with their tiny spear and rusted
+sword to keep their ancient promises to die.
 
-{% render "acim-org-link", pageNumber: pageNumber, reference: reference  %}
+Such is the core of fear
+in every dream that has been kept apart from use by Him Who [the Holy 
+Spirit] sees a different function for a dream. When dreams are shared, they lose the function of attack and separation, even though it was for this that
+every dream was made. Yet nothing in the world of dreams remains
+without the hope of change and betterment, for here is not where
+changelessness is found. Let us be glad indeed that this is so and
+seek not the eternal in this world. Forgiving dreams are means to
+step aside from dreaming of a world outside yourself. And leading
+finally beyond all dreams unto the peace of everlasting
+life.

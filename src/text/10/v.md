@@ -46,7 +46,7 @@ lies in its limitlessness. Limit the peace you share, and your own
 Soul *must* be unknown to you. Every altar to God is part of
 your Soul because the light She created is one with Her. Would you cut
 off companions from the light that is yours? You would not do so if
-you realized that you can only darken your *own* mind. As you
+you realised that you can only darken your *own* mind. As you
 bring *them* back, so will *your* mind return. That is the
 law of God for the protection of the wholeness of Her Child.
 
@@ -58,7 +58,7 @@ to recognize and to oppose steadfastly and *without exception*.
 This is a crucial step in the reawakening. The beginning phases of
 this reversal are often quite painful for, as blame is withdrawn from
 without, there is a strong tendency to harbor it within. It is difficult
-at first to realize that this is *exactly* the same thing, for
+at first to realise that this is *exactly* the same thing, for
 there *is* no distinction between within and without.
 
 If your companions are part
