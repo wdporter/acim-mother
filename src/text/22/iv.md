@@ -57,7 +57,7 @@ whole, without the meaning that the whole would give. And yet
 mistakes, regardless of their form, can be corrected. Sin is but
 error in a special form the ego venerates. It would preserve all
 errors and make them sins. For here is its own stability, its heavy
-anchor in the shifting world it made—the rock on which its church is
+anchor in the shifting world it made — the rock on which its church is
 built and where its worshipers are bound to bodies and believe the
 body’s freedom is their own.
 
@@ -113,5 +113,5 @@ against their will. And thus they lay their sins upon the other and are
 attracted to them to *perpetuate* their sins. And so it must become
 impossible for each to see themself as *causing* sin by their
 desire to have sin real. Yet reason sees a holy relationship as what
-it is—a common state of mind, where both give errors gladly to
+it is — a common state of mind, where both give errors gladly to
 correction that both may happily be healed as one.

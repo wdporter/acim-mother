@@ -41,7 +41,7 @@ is blessed in Her.
 
 Each one of you has a
 special part to play in the Atonement, but the message given to each
-to share is always the same—*God’s Child is guiltless.*
+to share is always the same — *God’s Child is guiltless.*
 Each one teaches the message differently and learns it differently.
 Yet until they teach it and learn it, they will suffer the pain of dim
 awareness that their true function remains unfulfilled in them. The

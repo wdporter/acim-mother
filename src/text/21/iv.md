@@ -18,7 +18,7 @@ const next = "/text/21/v"
 ---
 All special relationships
 have sin as their goal. For they are bargains with reality, toward
-which the seeming union is adjusted. Forget not this—to bargain is to
+which the seeming union is adjusted. Forget not this — to bargain is to
 set a limit, and any companion with whom you have a limited
 relationship *you hate*. You may attempt to keep the bargain in
 the name of “fairness”, sometimes demanding payment of

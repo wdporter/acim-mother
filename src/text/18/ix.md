@@ -132,7 +132,7 @@ Source. Here you are led that God Herself can take the final step
 unhindered, for here does nothing interfere with love, letting it be
 itself. A step beyond this holy place [of forgiveness], a step still
 further inward but the one *you* cannot take, transports you to
-something completely different. Here is the Source of light—nothing
+something completely different. Here is the Source of light — nothing
 perceived, forgiven, nor transformed, but merely *known*.
 
 

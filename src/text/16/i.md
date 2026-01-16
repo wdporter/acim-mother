@@ -37,13 +37,13 @@ except to strengthen *itself.* [Having identified with what it
 *increase* itself by sharing what is *like* itself.] Make
 no mistake about this maneuver; the ego always empathizes to
 *weaken*, and to weaken is *always* to attack. You do not
-know what empathizing means. Yet of this you may be sure—if you
+know what empathizing means. Yet of this you may be sure — if you
 will merely sit quietly by and let the Holy Spirit relate through
 you, you will empathize with *strength* and *both* of you
 will gain in strength, and not in weakness.
 
 Your part is only to
-remember this—you do not want anything *you* value to come
+remember this — you do not want anything *you* value to come
 of the relationship. You will neither to hurt it nor to heal it in
 your own way. You do not know what healing is. All you have learned
 of empathy is from the *past.* And there is nothing from the

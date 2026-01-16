@@ -126,7 +126,7 @@ This in no way contradicts
 the changelessness of mind as *God* created it, but you think
 that you *have* changed it as long as you learn through the ego.
 This *does* place you in a position of needing to learn a lesson
-which seems contradictory—you must learn to change your mind
+which seems contradictory — you must learn to change your mind
 *about* your mind. Only by this can you learn that it *is*
 changeless. When you heal that is exactly what you *are*
 learning. You are recognizing the changeless mind in your companions by
@@ -149,7 +149,7 @@ love because you will *understand* it. Understanding is
 accepted it with love.
 
 That is how God Herself
-created *you*—in understanding, in appreciation, and in love.
+created *you* — in understanding, in appreciation, and in love.
 The ego is totally unable to understand this, because it does
 *not* understand what it makes; it does *not* appreciate
 it; and it does *not* love it. It incorporates to *take

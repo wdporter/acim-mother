@@ -145,8 +145,8 @@ banish love have not succeeded, but you who choose to banish fear
 *will* succeed. The Lord is with you, but you know it not. Yet
 your Redeemer liveth and abideth in you in the peace out of which He
 was created. Would you not exchange *this* awareness for the
-awareness of your fear? When we have overcome fear—not by hiding it,
-not by minimizing it, not by denying its full import in any way—this
+awareness of your fear? When we have overcome fear — not by hiding it,
+not by minimizing it, not by denying its full import in any way — this
 *is* what you will really see. You cannot lay aside the obstacle
 to real vision without looking upon it, for to lay aside means to
 judge *against*. If *you* will look, the Holy Spirit will
