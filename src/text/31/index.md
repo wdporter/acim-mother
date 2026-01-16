@@ -2,7 +2,7 @@
 const title = "The Simplicity of Salvation"
 const chapter = 31
 const prev = "/text/30"
-const next = "/workbook/in"
+const next = "/workbook/p-i/i"
 const layout = "mylayout.njk"
 const volume = "Tx"
 const reference = `${volume}:${chapter}`

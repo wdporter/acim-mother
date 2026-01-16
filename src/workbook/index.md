@@ -9,7 +9,7 @@ const eleventyNavigation = {
 	order: 401
 }
 const prev = "/text/31/viii"
-const next = "/workbook/1-50/1"
+const next = "/workbook/p-i/i"
 ---
 {%- assign navPages = collections.all | eleventyNavigation: reference -%}
 {%- render "indexpage", navPages: navPages  -%}

@@ -1,16 +1,17 @@
 ---js
 const layout = "mylayout.njk"
-const title = "Lessons 1 to 50"
+const title = "Part I"
 const volume = "W"
-const reference = volume + "-1–50"
+const part = 1
+const reference = `${volume}${part}`
 const eleventyNavigation = {
 	key: reference,
 	title,
 	parent: volume,
-	order: 2
+	order: 1
 }
-const prev = "/workbook/in"
-const next = "/workbook/1-50/1"
+const prev = "/manual"
+const next = "/workbook/pII"
 ---
 {%- assign navPages = collections.all | eleventyNavigation: reference -%}
 {%- render "indexpage", navPages: navPages  -%}
