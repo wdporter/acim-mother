@@ -31,7 +31,7 @@ misprojections of a large number of my would-be followers, has led
 many people to be bitterly afraid of God. This particularly
 anti-religious concept enters into many religions, and this is
 neither by chance nor by coincidence. Yet the real Christian would
-have to pause and ask, “How could this be?” Is it likely
+have to pause and ask, “How could this be?”. Is it likely
 that God Herself would be capable of the kind of thinking which Her
 own words have clearly stated is unworthy of people?
 
@@ -42,14 +42,14 @@ turn a whole frame of reference around in order to justify it. This
 procedure is painful in its minor applications and genuinely tragic
 on a mass basis. Persecution is a frequent result, undertaken to
 justify the terrible misperception that God Herself persecuted Her
-own Son on behalf of salvation. The very words are meaningless.
+own Child on behalf of salvation. The very words are meaningless.
 
 It has been particularly
 difficult to overcome this because, although the error itself is no
 harder to overcome than any other error, men were unwilling to give
 this one up because of its prominent “escape” value. In
 milder forms a parent says, “This hurts me more than it hurts
-you,” and feels exonerated in beating a child. Can you believe
+you”, and feels exonerated in beating a child. Can you believe
 that the Mother *really* thinks this way? It is so essential
 that *all* such thinking be dispelled that we must be very sure
 that *nothing* of this kind remains in your mind. I was
@@ -58,7 +58,7 @@ lesson the Atonement teaches is lost if it is tainted with this kind
 of distortion in *any* form.
 
 “Vengeance is
-Mine sayeth the Lord,” is a strictly karmic viewpoint. It is a
+Mine sayeth the Lord”, is a strictly karmic viewpoint. It is a
 real misperception of truth by which people assigns their own
 “evil” past to God. The “evil conscience” from
 the past has nothing to do with God. She did not create it, and She
@@ -102,7 +102,7 @@ instances separately. If you can accept the *one* generalization
 *now*, there will be no need to learn from many smaller
 lessons.
 
-*Nothing* can prevail against a Child of God who commends their Spirit into the hands of their Mother. By doing this, the mind awakens from its sleep, and [the Soul] remembers its Creator. All sense of separation disappears, and level confusion vanishes. The Son of God *is* part of the Holy Trinity, but the
+*Nothing* can prevail against a Child of God who commends their Spirit into the hands of their Mother. By doing this, the mind awakens from its sleep, and [the Soul] remembers its Creator. All sense of separation disappears, and level confusion vanishes. The Child of God *is* part of the Holy Trinity, but the
 Trinity itself is *One*. There is no confusion within its levels
 because they are of One Mind and One Will. This single purpose
 creates perfect integration and establishes the peace of God. Yet
@@ -114,7 +114,7 @@ themselves *against* it. Understanding the lesson of the
 Atonement, they are without the will to attack, and therefore they
 see truly. This is what the Bible means when it says, “When He
 shall appear (or be perceived) we shall be like Him, for we shall see
-Him as He *is*.”
+Him as He *is*”.
 
 Sacrifice is a notion
 totally unknown to God. It arises solely from fear. This is
@@ -129,7 +129,7 @@ teacher offers. The result is learning failure.
 
 I have been correctly
 referred to as “the Lamb of God who taketh away the sins of the
-world.” Those who represent the lamb as blood-stained, an
+world”. Those who represent the lamb as blood-stained, an
 all-too-widespread error, do *not* understand the meaning of the
 symbol. Correctly understood, it is a very simple parable which
 merely speaks of my innocence. The lion and the lamb lying down
@@ -158,7 +158,7 @@ people because honor is the natural greeting of the truly loved to
 others who are like them. The lamb taketh away the sins of the world
 only in the sense that the state of innocence, or grace, is one in
 which the meaning of the Atonement is perfectly apparent. The
-innocence of God is the true state of mind of Her Son. In this state,
+innocence of God is the true state of mind of Her Child. In this state,
 peoples’ minds *do* see God, [and because] they sees Her as She is, [they know] that the Atonement, *not* sacrifice, is the *only*
 appropriate gift to Her own altar, where nothing except
 true perfection  belongs. The understanding of the innocent is

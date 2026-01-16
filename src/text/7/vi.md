@@ -57,17 +57,17 @@ Healing only
 *strengthens*. Magic *always* tries to weaken. Healing
 perceives *nothing* in the healer that everyone else does not
 *share* with them. Magic *always* sees something
-“special”in the healer which they believe they can offer as a
+“special” in the healer which they believe they can offer as a
 gift to someone who does *not* have it. They may believe that the
 gift comes *from* God *to* them, but it is quite evident that they
 does not understand God if they think they have something that others *do not*. You might well ask, then, why some healing *can*
 result from this kind of thinking, and there is a reason for this.
 
 
-However misguided “magical healers”may be, they are *also* trying to help.
+However misguided “magical healers” may be, they are *also* trying to help.
 They are conflicted and unstable, but *at times* they are offering
-something to the Sonship, and the only thing the Sonship can
-*accept* is healing. When the so-called “healing”
+something to the Family of God, and the only thing the Family can
+*accept* is healing. When the so-called “healing”  
 works, then, the impulse to help and to *be* helped have
 coincided. This is coincidental because healers may *not* be
 experiencing themselves as truly helpful at the time, but the belief
@@ -87,7 +87,7 @@ and for always?
 Love is incapable of
 *any* exceptions. Only if there is fear does the *idea* of
 exceptions seem to be meaningful. Exceptions are fearful because they
-are made *by* fear. The “fearful healer”is a
+are made *by* fear. The “fearful healer” is a
 contradiction in terms and is therefore a concept which *only* a
 conflicted mind could possibly perceive as meaningful. Fear does
 *not* gladden. Healing *does*. Fear *always* makes
@@ -182,11 +182,11 @@ companions, and as we see them truly, they *will* be healed. Let
 *your* mind shine with mine upon their minds and by our gratitude to them, make them aware of the light in *them*.
 
 This light will shine back
-upon *you* and on the whole Family because this is your proper
+upon *you* and on the whole Family of God because this is your proper
 gift to God. She will accept it and give it to the Family because it
 is acceptable to Her and therefore to Her Children. This is the true
 communion of the Spirit, Who sees the altar of God in everyone and,
 by bringing it to *your* appreciation, calls upon you to love
-God *and* Her creations. You can appreciate the Sonship
+God *and* Her creations. You can appreciate the Family of God
 *only* as one. This is part of the Law of Creation and therefore
 governs *all* thought.

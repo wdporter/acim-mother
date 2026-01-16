@@ -14,7 +14,6 @@ const eleventyNavigation = {
 	parent: chapter
 }
 ---
-
 If you cannot hear the
 Voice of God, it is because you do not choose to listen. The fact
 that you *do* listen to the voice of your ego is demonstrated by
@@ -107,7 +106,7 @@ protection, and love from it.
 You are mirrors of truth
 in which God Herself shines in perfect light. To the ego’s dark
 glass you need but say, “I will not look there because I
-*know* these images are not true.” Then let the Holy One
+*know* these images are not true”. Then let the Holy One
 shine on you in peace, knowing that this and *only* this must
 be. Her Mind shone on you in your creation and brought *your*
 mind into being. Her Mind still shines on you and must shine
@@ -116,7 +115,7 @@ on you, but it *can* prevent you from letting Her shine
 *through* you.
 
 The first coming of Christ
-is just another name for the creation, for Christ is the Son of God.
+is just another name for the creation, for Christ is the Child of God.
 The *second* coming of Christ means nothing more than the end of
 the ego’s rule over part of the minds of men and the healing of
 the mind. I was created like you in the first, and I have called you

@@ -60,7 +60,7 @@ of how you have used sleep. To whom did you give it? Under which
 teacher did you place it? Whenever you wake dispiritedly, it was
 *not* of the Holy Spirit. *Only* when you awaken joyously
 have you utilized sleep according to the Holy Spirit’s purpose.
-You can indeed be “drugged by sleep,” but this is always
+You can indeed be “drugged by sleep”, but this is always
 because you have *misused* it on behalf of sickness. Sleep is no
 more a form of death than death is a form of unconsciousness.
 *Unconsciousness is impossible*. You can rest in peace only
@@ -95,7 +95,7 @@ understood. There has been a marked tendency on the part of many of
 the Bible’s followers and also its translators to be entirely
 literal about fear and *its* effects but *not* about love
 and *its* results. Thus, “hellfire” means
-“burning,” but raising the dead becomes allegorical.
+“burning”, but raising the dead becomes allegorical.
 Actually, it is *particularly* the references to the outcomes of
 love which *should* be taken literally because the Bible is
 *about* love, being about God.
@@ -104,7 +104,7 @@ The Bible enjoins you to
 be perfect, to heal *all* errors, to take no thought of the body
 *as separate,* and to accomplish all things in my name. This is
 not my name alone, for ours is a shared identification. The name of
-God’s Son is one, and you are enjoined to do the works of love
+God’s Child is one, and you are enjoined to do the works of love
 because we *share* this oneness. Our minds are whole
 *because* they are one. If you are sick you are withdrawing from
 me. Yet you cannot withdraw from me alone. You can only withdraw from

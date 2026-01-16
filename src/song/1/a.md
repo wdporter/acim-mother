@@ -16,14 +16,14 @@ const prev = "/psychotherapy/4/c"
 const next = "/song/1/b"
 const layout = "mylayout.njk"
 ---
-Prayer is the greatest gift with which God blessed Her Son
-at his creation. It was then what it is to become; the single Voice
-Creator and creation share; the song the Son sings to the Mother,
-Who returns the thanks it offers Her unto the Son. Endless the
+Prayer is the greatest gift with which God blessed Her Child
+at their creation. It was then what it is to become; the single Voice
+Creator and creation share; the song the Child sings to the Mother,
+Who returns the thanks it offers Her unto the Child. Endless the
 harmony, and endless too the joyous concord of the Love They give
 forever to each other. And in this creation is extended. God gives
-thanks to Her extension in Her Son. Her Son gives thanks for his
-creation, in the song of his creating in his Motherʹs Name. The Love
+thanks to Her extension in Her Child. Her Child gives thanks for their
+creation, in the song of their creating in their Motherʹs Name. The Love
 They share is what all prayer will be throughout eternity, when time
 is done. For such it was before time seemed to be.
 
@@ -31,11 +31,11 @@ To you who are in time a little while, prayer takes the form
 that best will suit your need. You have but one. What God created
 one must recognize its oneness, and rejoice that what illusions
 seemed to separate is one forever in the Mind of God. Prayer now
-must be the means by which Godʹs Son leaves separate goals and
+must be the means by which Godʹs Child leaves separate goals and
 separate interests by, and turns in holy gladness to the truth of
-union in his Mother and himself.
+union in their Mother and themself.
 
-Lay down your dreams, you holy Son of God, and rising up
+Lay down your dreams, you holy Child of God, and rising up
 as God created you, dispense with idols and remember Her. Prayer
 will sustain you now, and bless you as you lift your hearts to Her
 in rising song that reaches higher and then higher still until both

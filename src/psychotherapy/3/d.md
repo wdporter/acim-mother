@@ -15,7 +15,6 @@ const eleventyNavigation = {
 }
 const prev = "/psychotherapy/3/c"
 const next = "/psychotherapy/3/e"
-
 ---
 Psychotherapists are a leaders in the sense that they walk
 slightly ahead of the patient, and help them to avoid a few of the

@@ -34,7 +34,7 @@ errors which the ego fosters; that it is capable of true change, and
 therefore of true creativity. When we speak of ʺthe saving illusionʺ
 or ʺthe final dream,ʺ this is not what we mean, but here is the egoʹs
 last defense. ʺResistanceʺ is its way of looking at things; its
-interpretation of “progress” and “growth.” These interpretations
+interpretation of “progress” and “growth”. These interpretations
 will be wrong of necessity, because they are delusional. The
 “changes” the ego seeks to make are not really changes. They are
 but deeper shadows, or perhaps different cloud patterns. Yet what

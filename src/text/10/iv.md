@@ -13,7 +13,7 @@ const eleventyNavigation = {
 	order: chapter,
 	title: headerTitle,
 	parent,
-	order: pageNumber
+	order: 4
 }
 const layout = "mylayout.njk"
 ---
@@ -22,16 +22,16 @@ remember you have hurt yourself. Your Comforter will rest you, but
 *you* cannot. You do not know *how*, for if you did you
 could never have grown weary. Unless you have hurt yourselves, you
 could never suffer in *any* way, for that is not God’s Will
-for Her Son. Pain is not of Her, for She knows no attack and Her peace
+for Her Child. Pain is not of Her, for She knows no attack and Her peace
 surrounds you silently. God is very quiet, for there is no conflict
 in Her. Conflict is the root of all evil, for being blind, it does
-not see whom it attacks. Yet it *always* attacks the Son of God,
-and the Son of God is *you*.
+not see whom it attacks. Yet it *always* attacks the Child of God,
+and the Child of God is *you*.
 
-God’s Son is indeed in
-need of comfort, for he knows not what he does, believing his will is
-not his own. The Realm is his, and yet he wanders homelessly. At
-home in God, he is lonely, and amid all his companions, he is
+God’s Child is indeed in
+need of comfort, for they know not what they do, believing their will is
+not their own. The Realm is theirs, and yet they wander homelessly. At
+home in God, they are lonely, and amid all their companions, they are
 friendless. Would God *let* this be real if She did not will to
 be alone Herself? And if your will is Hers, it cannot be true of you
 *because* it is not true of Her. Oh, my children, if you knew
@@ -51,7 +51,7 @@ wills for *you*, and what She wills for you *is* yours.
 
 The way is not hard, but
 it *is* very different. Yours is the way of pain, of which God
-knows nothing. *That* way is hard indeed and very lonely. Fear and grief are your guests, and they go with you and abide with you on the way. But the dark journey is not the way of God’s Son. Walk in light, and do not see the dark companions, for they are not fit companions for the Son of God, who was created *of* Light and
+knows nothing. *That* way is hard indeed and very lonely. Fear and grief are your guests, and they go with you and abide with you on the way. But the dark journey is not the way of God’s Child. Walk in light, and do not see the dark companions, for they are not fit companions for the Child of God, who was created *of* Light and
 *in* Light. The Great Light always surrounds you and shines out
 *from* you. How can you see the dark companions in a light such
 as this? If you see *them*, it is only because you are
@@ -59,9 +59,9 @@ as this? If you see *them*, it is only because you are
 is here, and the way is clear.
 
 God hides nothing from Her
-Son, even though Her Son would hide himself. Yet the Son of God
-cannot hide his glory, for God wills him to be glorious and gave him
-the light that shines in him. You will never lose your way, for God
+Child, even though Her Child would hide themself. Yet the Child of God
+cannot hide their glory, for God wills them to be glorious and gave them
+the light that shines in them. You will never lose your way, for God
 leads you. When you wander, you but undertake a journey which is not
 real. The dark companions, the dark way, are all illusions. Turn
 toward the light, for the little spark in you is part of a light so
@@ -71,14 +71,14 @@ Mother *is* your Creator, and you *are* like Her.
 The children of light
 cannot abide in darkness, for darkness is not in them. Do not be
 deceived by the dark comforters, and never let them enter the mind of
-God’s Son, for they have no place in Her temple. When you are
+God’s Child, for they have no place in Her temple. When you are
 tempted to deny Her, remember that there *are* no other gods
 that you can place before Her, and accept Her Will for you in peace.
 For you *cannot* accept it otherwise.
 
 Only God’s Comforter
 *can* comfort you. In the quiet of Her temple, He waits to give
-you the peace that is yours. *Give* His peace that you may enter
+you the peace that is yours. *Give* Her peace that you may enter
 the temple and find it waiting for you. But be holy in the Presence
 of God, or you will not know that you are there. For what is unlike
 God cannot enter Her Mind because it was not Her Thought and
@@ -91,11 +91,11 @@ beside you, but you also cannot enter alone.
 *All* your companions
 must enter *with* you, for until you have accepted them,
 *you* cannot enter. For you cannot understand Wholeness unless
-*you* are whole, and no part of the Son can be excluded if they
+*you* are whole, and no part of the Child can be excluded if they
 would know the Wholeness of their Mother. In your mind, you can accept
-the whole Family and bless it with the light your Mother gave it.
+the whole Family of God and bless it with the light your Mother gave it.
 Then you will be worthy to dwell in the temple *with* Her
-because it is *your* will not to be alone. God blessed Her Son
-forever. If you will bless him in time, you will *be* in
+because it is *your* will not to be alone. God blessed Her Child
+forever. If you will bless them in time, you will *be* in
 eternity. Time cannot separate you from God if you use it on
 *behalf* of the eternal.
