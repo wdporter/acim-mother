@@ -50,26 +50,24 @@ blindly and indiscriminately, but you have *not* uncovered its
 source. For the ego *does* want to kill you, and if you identify 
 *with* it, you must believe *its* goal is *yours.*
 
-We once said that the
-crucifixion is the symbol of the ego. When it was confronted with the
-*real* guiltlessness of God’s Child, it *did* attempt to
-kill them, and the reason it gave was that guiltlessness is
-blasphemous to God. To the ego *the ego* is god, and
-guiltlessness *must* be interpreted as the final guilt which
-fully justifies murder. You do not yet understand that all your fear
-of this course stems ultimately from this interpretation, but if you
-will consider your reactions to it, you will become increasingly
+We once said that the crucifixion is the symbol of the ego. When it was 
+confronted with the *real* guiltlessness of God’s Child, it *did* attempt to 
+kill them, and the reason it gave was that guiltlessness is 
+blasphemous to God. To the ego *the ego* is god, and 
+guiltlessness *must* be interpreted as the final guilt which 
+fully justifies murder. You do not yet understand that all your fear 
+of this course stems ultimately from this interpretation, but if you 
+will consider your reäctions to it, you will become increasingly 
 convinced that this is so.
 
-This course has explicitly
-stated that its goal for you is happiness and peace. Yet you are
-*afraid* of it. You have been told again and again that it will
-make you free, yet you react as if it is trying to imprison you. Most
-of the time you dismiss it, but you do *not* dismiss the
-*ego’s* thought system. You have *seen* its results and
-you *still* lack faith in it. You *must*, then, believe
-that by *not* learning the course, you are *protecting*
-yourself. And you do not realise that it is only your guiltlessness
+This course has explicitly stated that its goal for you is happiness and peace. Yet 
+you are *afraid* of it. You have been told again and again that it will 
+make you free, yet you reäct as if it is trying to imprison you. Most 
+of the time you dismiss it, but you do *not* dismiss the 
+*ego’s* thought system. You have *seen* its results and 
+you *still* lack faith in it. You *must*, then, believe 
+that by *not* learning the course, you are *protecting* 
+yourself. And you do not realise that it is only your guiltlessness 
 which *can* protect you.
 
 The Atonement has always been interpreted as the release from guilt, and this 
