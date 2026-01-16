@@ -22,7 +22,7 @@ bookAbbreviation: ACIM
 	<div><button popovertarget=menu title="menu">☰</button></div>
 </header>
 	<main>
-		<nav>
+		<nav class="text-sm">
 		{#- breadcrumbs -#}
 		{%- set bPages = collections.all | eleventyNavigationBreadcrumb(reference, { includeSelf: true, allowMissing: true }) -%}
 		{%- for myPage in bPages -%}
