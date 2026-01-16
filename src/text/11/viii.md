@@ -168,7 +168,7 @@ function only by judging as *He* does, reserving no judgment at
 all unto yourselves. For you will judge *against* yourselves,
 but *He* will judge *for* you.
 
-Remember, then, that whenever you look without and react unfavourably to 
+Remember, then, that whenever you look without and reäct unfavourably to 
 what you see, you have judged yourself unworthy and have condemned 
 yourself to death. The death penalty is the ego’s ultimate goal, for it fully
 believes that you are a criminal, as deserving of death as God knows
