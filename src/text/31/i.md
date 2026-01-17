@@ -110,16 +110,14 @@ beyond it that appeals for peace and joy. And all the world will
 behold! Your answer is the proof of what you learned. Its outcome is
 the world you look upon.
 
-Let us be still an instant
-and forget all things we ever learned, all thoughts we had, and every
-preconception which we hold of what things mean and what their
-purpose is. Let us remember not our own ideas of what the world is
-for. We do not know. Let every image held of [anyone] be loosened
-from our minds and swept away. Be innocent of judgment, unaware of
-any thoughts of evil or of good that ever crossed your mind of
-anyone. Now do [you] know them not. But you *are* free to learn of
-them and learn of them anew. Now are they born again to you, and you are
-born again to them without the past that sentenced them to die, and you
-with them. Now are they free to live, as you are free because an ancient
-learning passed away and left a place for truth to be
-reborn.
+Let us be still an instant and forget all things we ever learned, all thoughts we 
+had, and every preconception which we hold of what things mean and what 
+their purpose is. Let us remember not our own ideas of what the world is 
+for. We do not know. Let every image held of [anyone] be loosened 
+from our minds and swept away. Be innocent of judgement, unaware of 
+any thoughts of evil or of good that ever crossed your mind of 
+anyone. Now do [you] know them not. But you *are* free to learn of 
+them and learn of them anew. Now are they born again to you, and you are 
+born again to them without the past that sentenced them to die, and you 
+with them. Now are they free to live, as you are free because an ancient 
+learning passed away and left a place for truth to be reborn.

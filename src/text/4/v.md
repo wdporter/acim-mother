@@ -89,18 +89,17 @@ how many of them you have refused? There is no limit to the power of
 Sons of God, but they themself can limit the expression of their power as
 much as they choose.
 
-Your mind and mine can
-unite in shining your ego away and releasing the strength of God into
-everything you think and will and do. Do not settle for anything
-*less* than this, and refuse to accept anything *but* this
-as your goal. Watch your minds carefully for *any* beliefs that
-hinder its accomplishment, and step away from them. Judge how well
-you have done this by your own feelings, for this is the one
-*right* use of judgment. Judgment, like any other defense, can
-be used to attack or protect, to hurt or to heal. The ego
-*should* be brought to your judgment and found wanting there.
-Without your own allegiance, protection, and love, it cannot exist.
-Judge your ego truly, and you *must* withdraw allegiance,
+Your mind and mine can unite in shining your ego away and releasing the 
+strength of God into everything you think and will and do. Do not settle for 
+anything *less* than this, and refuse to accept anything *but* this 
+as your goal. Watch your minds carefully for *any* beliefs that 
+hinder its accomplishment, and step away from them. Judge how well 
+you have done this by your own feelings, for this is the one 
+*right* use of judgement. Judgement, like any other defense, can 
+be used to attack or protect, to hurt or to heal. The ego 
+*should* be brought to your judgement and found wanting there. 
+Without your own allegiance, protection, and love, it cannot exist. 
+Judge your ego truly, and you *must* withdraw allegiance, 
 protection, and love from it.
 
 You are mirrors of truth
@@ -114,17 +113,16 @@ mind into being. Her Mind still shines on you and must shine
 on you, but it *can* prevent you from letting Her shine
 *through* you.
 
-The first coming of Christ
-is just another name for the creation, for Christ is the Child of God.
-The *second* coming of Christ means nothing more than the end of
-the ego’s rule over part of the minds of men and the healing of
-the mind. I was created like you in the first, and I have called you
-to join with me in the second. If you will think over your lives, you
-will see how carefully the preparations were made. I am in charge of
-the second coming, and my judgment, which is used only for
-protection, cannot be wrong because it *never* attacks.
-*Yours* is so distorted that you believe I was mistaken in
-choosing you. I assure you this is a mistake of your egos. Do
+The first coming of Christ is just another name for the creation, for Christ is the 
+Child of God. The *second* coming of Christ means nothing more than the end 
+of the ego’s rule over part of the minds of men and the healing of 
+the mind. I was created like you in the first, and I have called you 
+to join with me in the second. If you will think over your lives, you 
+will see how carefully the preparations were made. I am in charge of 
+the second coming, and my judgement, which is used only for 
+protection, cannot be wrong because it *never* attacks. 
+*Yours* is so distorted that you believe I was mistaken in 
+choosing you. I assure you this is a mistake of your egos. Do 
 *not* mistake it for humility.
 
 Your egos are trying to convince you that *they* are real and *I* am not 

@@ -57,49 +57,46 @@ of the ego. Either must be an error, for both would place the
 attributes where they cannot be. And both must be undone for purposes 
 of truth.
 
-The body *is* the
-means by which the ego tries to make the unholy relationship seem
-real. The unholy instant *is* the time of bodies. But the
-*purpose* here is sin. It cannot be attained *but* in illusion,
-and so the illusion of a companion as a body is quite in keeping with
-the purpose of unholiness. Because of this consistency, the means
-remain unquestioned while the end is cherished. Vision adapts to
-wish, for sight is always secondary to desire. And if you see the
-body, you have chosen judgment and not vision. For vision, like
+The body *is* the means by which the ego tries to make the unholy relationship 
+seem real. The unholy instant *is* the time of bodies. But the 
+*purpose* here is sin. It cannot be attained *but* in illusion, 
+and so the illusion of a companion as a body is quite in keeping with 
+the purpose of unholiness. Because of this consistency, the means 
+remain unquestioned while the end is cherished. Vision adapts to 
+wish, for sight is always secondary to desire. And if you see the 
+body, you have chosen judgement and not vision. For vision, like 
 relationships, has no order. You either *see* or not.
 
-Who sees a companion’s
-body has laid a judgment on them and sees them not. They [the judger] do not really see them [companion] as sinful; they does not see them at all. In the darkness of
-sin, they [companion] are invisible. They can but be imagined in the darkness, and it
-is here that the illusions you hold about them are not held up to their
-reality. Here are illusions and reality kept separated. Here are
-illusions never brought to truth and always hidden from it. And here
-in darkness is your companion’s reality imagined as a body, in
-unholy relationships with other bodies, serving the cause of sin an
+Who sees a companion’s body has laid a judgement on them and sees them 
+not. They [the judger] do not really see them [companion] as sinful; they does 
+not see them at all. In the darkness of sin, they [companion] are invisible. They 
+can but be imagined in the darkness, and it is here that the illusions you hold 
+about them are not held up to their reality. Here are illusions and reality kept 
+separated. Here are illusions never brought to truth and always hidden from it. 
+And here in darkness is your companion’s reality imagined as a body, in 
+unholy relationships with other bodies, serving the cause of sin an 
 instant before they die.
 
-There is indeed a
-difference between this vain imagining and vision. The difference
-lies not in them, but in their purpose. Both are but means, each one
-appropriate to the end for which it is employed. Neither can serve
-the purpose of the other, for each one is a choice of purpose,
-employed on its behalf. Either is meaningless without the end for
-which it was intended, nor is it valued as a separate thing apart
-from the intention. The means seem real because the *goal* is valued.
-And judgment has no value *unless* the goal is sin.
+There is indeed a difference between this vain imagining and vision. The 
+difference lies not in them, but in their purpose. Both are but means, each one 
+appropriate to the end for which it is employed. Neither can serve 
+the purpose of the other, for each one is a choice of purpose, 
+employed on its behalf. Either is meaningless without the end for 
+which it was intended, nor is it valued as a separate thing apart 
+from the intention. The means seem real because the *goal* is valued. 
+And judgement has no value *unless* the goal is sin.
 
-The body cannot be looked
-upon except through judgment. To see the body is the sign that you
-lack vision and have denied the means the Holy Spirit offers you to
-serve *His* purpose. How can a holy relationship achieve its purpose
-through the means of sin? Judgment you taught yourself; vision is
-learned from Him Who would *undo* your teaching. His vision cannot see
-the body because it cannot look on sin. And thus it leads you to
-reality. Your holy companion, sight of whom is your release, is no
-illusion. Attempt to see them not in darkness, for your imaginings
-about them *will* seem real there. You closed your eyes to shut them out.
-Such was your purpose, and while this purpose seems to have any
-meaning, the means for its attainment will be evaluated as worth the
+The body cannot be looked upon except through judgement. To see the body is 
+the sign that you lack vision and have denied the means the Holy Spirit offers 
+you to serve *His* purpose. How can a holy relationship achieve its purpose 
+through the means of sin? Judgement you taught yourself; vision is 
+learned from Him Who would *undo* your teaching. His vision cannot see 
+the body because it cannot look on sin. And thus it leads you to 
+reality. Your holy companion, sight of whom is your release, is no 
+illusion. Attempt to see them not in darkness, for your imaginings 
+about them *will* seem real there. You closed your eyes to shut them out. 
+Such was your purpose, and while this purpose seems to have any 
+meaning, the means for its attainment will be evaluated as worth the 
 seeing, and so you will not see.
 
 Your question should not

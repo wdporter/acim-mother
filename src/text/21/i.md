@@ -28,7 +28,9 @@ meaningless. Everything looked upon with vision is healed and holy.
 Nothing perceived without it means anything. And where there is no
 meaning, there is chaos.
 
-Damnation is your judgment on yourself, and this you *will* project upon the world. See it as damned, and all you see is what you did to hurt the Child of God. If you behold disaster and catastrophe, you tried to crucify them. If you 
+Damnation is your judgement on yourself, and this you *will* project upon the 
+world. See it as damned, and all you see is what you did to hurt the Child of 
+God. If you behold disaster and catastrophe, you tried to crucify them. If you 
 see holiness and hope, you joined the Will of God to set them free. 
 There is no choice that lies between these two decisions. And you 
 *will* see the witness to the choice you made and learn from 

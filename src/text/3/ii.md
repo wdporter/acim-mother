@@ -38,16 +38,15 @@ Pragmatically, what has no real effect has no real existence. Its
 effect, then, is emptiness. Being without substantial content, it
 lends itself to projection in the improper sense.
 
-5\. The level-adjustment
-power of the miracle induces the right perception for healing. 
-Until this has occurred, healing cannot be understood. Forgiveness is
-an empty gesture unless it entails correction. Without this it is
-essentially judgmental rather than healing.
+5\. The level-adjustment power of the miracle induces the right perception for 
+healing.  Until this has occurred, healing cannot be understood. Forgiveness is 
+an empty gesture unless it entails correction. Without this it is 
+essentially judgemental rather than healing.
 
-6\. Miraculous forgiveness
-is *only* correction. It has *no* element of judgment at
-all. “Father forgive them for they know not what they
-do” in no way evaluates *what* they do. It is strictly limited to an appeal to God to heal their minds. There is no reference to the outcome of their mis-thought.
+6\. Miraculous forgiveness is *only* correction. It has *no* element of 
+judgement at all. “Father forgive them for they know not what they 
+do” in no way evaluates *what* they do. It is strictly limited to an appeal to God 
+to heal their minds. There is no reference to the outcome of their mis-thought. 
 *That* does not matter.
 
 7\. The biblical

@@ -68,10 +68,9 @@ short to make a world in answer to creation—did this world appear to
 rise. So very long ago, for such a tiny interval of time that not one
 note in Heaven’s song was missed.
 
-Yet in each unforgiving
-act or thought, in every judgment, and in all belief in sin, is that
-one instant still called back, as if it could be made again in time.
-You keep an ancient memory before your eyes. And they who live in
+Yet in each unforgiving act or thought, in every judgement, and in all belief in 
+sin, is that one instant still called back, as if it could be made again in time. 
+You keep an ancient memory before your eyes. And they who live in 
 memories alone is unaware of where they are.
 
 [Forgiveness is the great

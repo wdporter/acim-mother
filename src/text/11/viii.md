@@ -156,15 +156,13 @@ world as God created it together. Through the eyes of Christ,
 decide, so will you see. And all that you see but witnesses to your
 decision.
 
-When you look within and
-see me, it will be because you have decided to manifest truth. And as
-you manifest it, you will see it both without *and* within, for
-you will see it without *because* you saw it first within.
-Everything you behold without is a judgment of what you beheld
-within. If it is *your* judgment, it will be wrong, for judgment
-is not your function. If it is the judgment of the Holy Spirit, it
-will be right, for judgment *is* His function. You share His
-function only by judging as *He* does, reserving no judgment at
+When you look within and see me, it will be because you have decided to manifest truth. And as you manifest it, you will see it both without *and* 
+within, for you will see it without *because* you saw it first within.
+Everything you behold without is a judgement of what you beheld
+within. If it is *your* judgement, it will be wrong, for judgement
+is not your function. If it is the judgement of the Holy Spirit, it
+will be right, for judgement *is* His function. You share His
+function only by judging as *He* does, reserving no judgement at
 all unto yourselves. For you will judge *against* yourselves,
 but *He* will judge *for* you.
 

@@ -46,18 +46,17 @@ Self is theirs and whom She knows? Only the special could have enemies,
 for they are different and not the same. And difference of any kind 
 imposes orders of reality and a need to judge that cannot be escaped.
 
-What God created cannot be
-attacked, for there is nothing in the universe unlike itself. But
-what is different *calls* for judgment, and this must come from
-someone “better”, someone incapable of being like what they
-condemn, “above” it, sinless by comparison with it. And
-thus does specialness become a means and end at once. For specialness
-not only sets apart but serves as grounds from which attack on those
-who seem “beneath” the special one is “natural”
-and “just”. The special ones feel weak and frail
-*because* of differences, for what would make them special
-*is* their enemy. Yet they protect its enmity and call it
-“friend”. On its behalf they fight against the universe,
+What God created cannot be attacked, for there is nothing in the universe unlike 
+itself. But what is different *calls* for judgement, and this must come from 
+someone “better”, someone incapable of being like what they 
+condemn, “above” it, sinless by comparison with it. And 
+thus does specialness become a means and end at once. For specialness 
+not only sets apart but serves as grounds from which attack on those 
+who seem “beneath” the special one is “natural” 
+and “just”. The special ones feel weak and frail 
+*because* of differences, for what would make them special 
+*is* their enemy. Yet they protect its enmity and call it 
+“friend”. On its behalf they fight against the universe, 
 for nothing in the world they value more.
 
 Specialness is the great
@@ -106,7 +105,7 @@ purpose that is not the same and none your Mother does not share with
 you. For your relationship has been made clean of special goals. And 
 would you now *defeat* the goal of holiness that Heaven gave it? 
 What perspective can the special have that does not change with every 
-seeming blow, each slight, or fancied judgment on itself?
+seeming blow, each slight, or fancied judgement on itself?
 
 Those who are special
 *must* defend illusions against the truth. For what is
