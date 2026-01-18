@@ -38,11 +38,11 @@ bookAbbreviation: ACIM
 
 	{%- if superTitle -%}
 		<h2>{{ superTitle }}</h2>
-		<h2>{%- if longTitle -%}
+		<h3>{%- if longTitle -%}
 			{{longTitle}}
 		{%- else -%}
 			{{ headerTitle if headerTitle else title }}
-		{%-  endif -%}</h2>
+		{%-  endif -%}</h3>
 	{%- else -%}
 		<h2>{%- if longTitle -%}
 			{{longTitle}}

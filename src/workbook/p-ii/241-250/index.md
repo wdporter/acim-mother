@@ -1,16 +1,22 @@
 ---js
-const title = "(241–250) 3. What is the World?"
-const prev = "/workbook/231-240/240"
-const next = "/workbook/241-250/3"
+const title = "Lessons 241–250"
 const volume = "W"
-const reference = volume + "-241–250"
-const layout = "mylayout.njk"
+const part = "2"
+const parent = `${volume}${part}`
+const chapter = "241-250"
+const reference = `${parent}:${chapter}`
+const indexPageTitle = `${title} (3. What is the World?)`
 const eleventyNavigation = {
 	key: reference,
 	title,
-	parent: volume,
-	order: 654
+	parent,
+	order: 4,
+	indexPageTitle,
+	menuTitle: indexPageTitle
 }
+const prev = "/workbook/231-240/"
+const next = "/workbook/251-260/"
+const layout = "mylayout.njk"
 ---
 {%- assign navPages = collections.all | eleventyNavigation: reference -%}
 {%- render "indexpage", navPages: navPages  -%}

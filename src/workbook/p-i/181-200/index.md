@@ -12,7 +12,7 @@ const eleventyNavigation = {
 	parent,
 	order: 12
 }
-const prev = "/workbook/p-vi/r-v/"
+const prev = "/workbook/p-i/r-v/"
 const next = "/workbook/p-i/r-vi"
 const layout = "mylayout.njk"
 ---
