@@ -126,7 +126,7 @@ which seems contradictory — you must learn to change your mind
 *about* your mind. Only by this can you learn that it *is* 
 changeless. When you heal that is exactly what you *are* 
 learning. You are recognising the changeless mind in your companions by 
-realizing that they *could* not have changed their mind. That is how 
+realising that they *could* not have changed their mind. That is how 
 you perceive the Holy Spirit in them. It is *only* the Holy 
 Spirit in them that never changes His mind. They themselves must think they 
 *can*, or they would not perceive themselves as sick. They therefore 

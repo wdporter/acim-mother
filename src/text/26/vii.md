@@ -45,7 +45,7 @@ has no substitute, for what illusion can replace the truth?
 Who dwells with shadows is
 alone indeed, and loneliness is not the Will of God. Would you allow
 one shadow to usurp the throne that God appointed for your Friend if
-you but realized its emptiness has left *yours* empty and
+you but realised its emptiness has left *yours* empty and
 unoccupied? Make no illusion friend, for if you do, it can but take
 the place of Him whom God has called your Friend. And it is He who is
 your *only* Friend in truth. He brings you gifts that are not of

@@ -50,7 +50,7 @@ you realised that you can only darken your *own* mind. As you
 bring *them* back, so will *your* mind return. That is the
 law of God for the protection of the wholeness of Her Child.
 
-*Only you can deprive yourself of anything*. Do not oppose this realization, for 
+*Only you can deprive yourself of anything*. Do not oppose this realisation, for 
 it is truly the beginning of the dawn of light. Remember also that the
 denial of this simple fact takes many forms, and these you must learn
 to recognise and to oppose steadfastly and *without exception*.

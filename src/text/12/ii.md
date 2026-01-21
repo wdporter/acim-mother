@@ -18,7 +18,7 @@ const next = "/text/12/iii"
 ---
 The darkest of your hidden
 cornerstones holds your belief in guilt from your awareness. For in
-that dark and secret place is the realization that you have betrayed
+that dark and secret place is the realisation that you have betrayed
 God’s Child by condemning them to death. You do not even suspect
 this murderous but insane idea lies hidden there, for the ego’s
 destructive urge is so intense that nothing short of the crucifixion

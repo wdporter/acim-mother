@@ -17,7 +17,7 @@ const eleventyNavigation = {
 const layout = "mylayout.njk"
 ---
 Yet the ideal outcome is rarely achieved. But psychotherapy
-begins with the realization that healing is of the mind, and in
+begins with the realisation that healing is of the mind, and in
 psychotherapy those have come together who believe this. It may
 be they will not get much further, for no‐one learns beyond their own
 readiness. Yet levels of readiness change, and when therapist or
