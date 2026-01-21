@@ -16,6 +16,7 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addPlugin(eleventyNavigationPlugin)
 	eleventyConfig.addPassthroughCopy("src/assets")
 	eleventyConfig.addPassthroughCopy({"_temp/tailwind.css": "assets/tailwind.css"})
+	eleventyConfig.addPassthroughCopy("src/robots.txt")
 	
 	eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(markdownItAttrs));
 
