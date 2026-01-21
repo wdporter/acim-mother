@@ -59,6 +59,6 @@ you, and show you they are true. Remember only this — you need not
 believe them, you need not accept them, and you need not welcome
 them. Some of them you may actively resist. None of this will matter
 nor decrease their efficacy. But allow yourself to make no exceptions
-in applying the ideas the exercises contain. Whatever your reactions
+in applying the ideas the exercises contain. Whatever your reäctions
 to the ideas may be, use them. Nothing more than this is
 required.
