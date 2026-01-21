@@ -14,13 +14,12 @@ const eleventyNavigation = {
 }
 const layout = "mylayout.njk"
 ---
-We have repeatedly stated
-that the basic concepts referred to in this course are *not*
-matters of degree. Certain fundamental concepts *cannot* be
-meaningfully understood in terms of coexisting polarities. It is
-impossible to conceive of light and darkness, or everything and
-nothing, as joint possibilities. They are all true *or* all
-false. It is essential that you realise that behavior is erratic
+We have repeatedly stated that the basic concepts referred to in this course are 
+*not* matters of degree. Certain fundamental concepts *cannot* be 
+meaningfully understood in terms of coëxisting polarities. It is 
+impossible to conceive of light and darkness, or everything and 
+nothing, as joint possibilities. They are all true *or* all 
+false. It is essential that you realise that behavior is erratic 
 until a firm commitment to one or the other is made.
 
 A firm commitment to

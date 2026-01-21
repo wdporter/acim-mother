@@ -30,7 +30,7 @@ respond *as if* they had actually done so, because you have made
 their error *real* to you. To interpret error is to give it power,
 and having done this, you *will* overlook truth.
 
-The analysis of ego-motivation is very complicated, very obscuring, and *never* 
+The analysis of ego-motivation is very complicated, very obscuring and *never* 
 without the risk of your own ego-involvement. The whole process 
 represents a clear-cut attempt to demonstrate your *own* ability 
 to understand what you perceive. This is shown by the fact that you 

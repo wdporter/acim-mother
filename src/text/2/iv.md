@@ -66,12 +66,12 @@ First, you can will to do
 conflicting things, either simultaneously or successively. This
 produces conflicted behavior, which is intolerable to yourself
 because the part of the will that wants to do something *else*
-is outraged. {.ml-12 .mr-12}
+is outraged. {.ml-8 .mr-8}
 
 Second, you can *behave* as
 you think you should but without entirely *willing* to do so.
 This produces consistent behavior but entails great strain
-*within* the self. {.ml-12 .mr-12}
+*within* the self. {.ml-8 .mr-8}
 
 In both cases, the will and the behavior are out of accord, resulting in a situation in which you are doing what you do *not* will. This arouses a sense of coercion, which usually produces rage. The rage then invades the mind and projection in the wrong sense is likely to follow. Depression or anxiety is virtually certain.
 

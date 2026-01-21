@@ -49,13 +49,12 @@ do” in no way evaluates *what* they do. It is strictly limited to an appeal to
 to heal their minds. There is no reference to the outcome of their mis-thought. 
 *That* does not matter.
 
-7\. The biblical
-injunction, “Be of one mind” is the statement for
-revelation-readiness. My *own* injunction, “Do this in
-remembrance of me” is the request for cooperation from miracle
-workers. It should be noted that the two statements are not in the
-same order of reality. The latter involves a time awareness since to
-remember implies recalling the past in the present. Time is under
-*my* direction, but Timelessness belongs to God alone. In time
-we exist for and with each other. In Timelessness we coexist with
+7\. The biblical injunction, “Be of one mind” is the statement for 
+revelation-readiness. My *own* injunction, “Do this in 
+remembrance of me” is the request for coöperation from miracle 
+workers. It should be noted that the two statements are not in the 
+same order of reality. The latter involves a time awareness since to 
+remember implies recalling the past in the present. Time is under 
+*my* direction, but Timelessness belongs to God alone. In time 
+we exist for and with each other. In Timelessness we coëxist with
 God.
