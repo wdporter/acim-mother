@@ -88,19 +88,19 @@ bookAbbreviation: ACIM
 					<ul class="list-none pl-4 mt-0 mb-0">
 					{{ renderNavListItem(childNavPage) }}
 					{%- for grandchildNavPage in childNavPage.children -%}
-{%-  set grandchildTitle = grandchildNavPage.menuTitle if grandchildNavPage.menuTitle else grandchildNavPage.title -%}
-{%- if grandchildNavPage.children.length == 0 -%}
-	{{ renderNavListItem(grandchildNavPage) }}
-{% else %}
-	<details {% if grandchildNavPage.url in page.url %}open{% endif %}  class="pl-0 group"><summary class="group-open:-mb-2!">{{grandchildTitle}}</summary>
-		<ul class="list-none pl-4 mt-0 mb-0">
-		{{ renderNavListItem(grandchildNavPage) }}
-		{%- for greatgrandchildNavPage in grandchildNavPage.children -%}
-			{{ renderNavListItem(greatgrandchildNavPage) }}
-		{%- endfor -%}
-		</ul>
-	</details>
-{%- endif -%}
+						{%-  set grandchildTitle = grandchildNavPage.menuTitle if grandchildNavPage.menuTitle else grandchildNavPage.title -%}
+						{%- if grandchildNavPage.children.length == 0 -%}
+							{{ renderNavListItem(grandchildNavPage) }}
+						{% else %}
+							<details {% if grandchildNavPage.url in page.url %}open{% endif %}  class="pl-0 group"><summary class="group-open:-mb-2!">{{grandchildTitle}}</summary>
+								<ul class="list-none pl-4 mt-0 mb-0">
+								{{ renderNavListItem(grandchildNavPage) }}
+								{%- for greatgrandchildNavPage in grandchildNavPage.children -%}
+									{{ renderNavListItem(greatgrandchildNavPage) }}
+								{%- endfor -%}
+								</ul>
+							</details>
+						{%- endif -%}
 					{%- endfor -%}
 					</ul>
 				</details>
