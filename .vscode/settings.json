@@ -1,4 +1,6 @@
 {
 	"spellright.language": [ "en-AU" ],
-	"spellright.groupDictionaries": false
+	"spellright.groupDictionaries": false,
+	"editor.fontFamily": "Calibri",
+	"editor.fontSize": 18
 }
