@@ -1,15 +1,17 @@
 ---js
 const layout = "mylayout.njk"
 const title = "Fear as Lack of Love"
-const chapter = "Tx:2"
+const volume = "Tx"
+const chapter = "2"
+const parent = `${volume}:${chapter}`
 const section = "IV"
-const reference = `${chapter}.${section}`
+const reference = `${parent}.${section}`
 const headerTitle = `${section}. ${title}`
 const eleventyNavigation = {
 	key: reference,
 	order: 4,
 	title: headerTitle,
-	parent: chapter
+	parent
 }
 const prev = "/text/2/iii"
 const next = "/text/2/v"

@@ -142,16 +142,13 @@ you restore becomes *your* altar, for it was rebuilt through
 you. And everything you give to God *is* yours. Thus She creates,
 and thus must *you* restore.
 
-Each one you see you place
-within the holy circle of Atonement or leave outside, judging them fit
-for crucifixion or for redemption. If you bring them *into* the
-circle of purity, you will rest there with them. If you leave them
-*without*, you join them there. Judge not except in quietness
-which is not of you. Refuse to accept anyone as *without* the
-blessing of Atonement, and bring them *into* it by blessing them.
-Holiness must be shared, for therein lies everything that makes it
-holy. Come gladly to the holy circle, and look out in peace on all
-who think they are outside. Cast no one out, for this is what they
-seek, along with you. Come, let us join them in the holy place of
-peace, which is for all of us, united as one within the cause of
-peace.
+Each one you see you place within the holy circle of Atonement or leave 
+outside, judging them fit for crucifixion or for redemption. If you bring them 
+*into* the circle of purity, you will rest there with them. If you leave them 
+*without*, you join them there. Judge not except in quietness which is not of 
+you. Refuse to accept anyone as *without* the blessing of Atonement, and 
+bring them *into* it by blessing them. Holiness must be shared, for thereïn 
+lies everything that makes it holy. Come gladly to the holy circle, and look 
+out in peace on all who think they are outside. Cast no one out, for this is 
+what they seek, along with you. Come, let us join them in the holy place of 
+peace, which is for all of us, united as one within the cause of peace.

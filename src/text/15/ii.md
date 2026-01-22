@@ -94,17 +94,15 @@ beautiful and so clean and free of guilt that nothing but happiness
 is there. No darkness is remembered, and immortality and joy are
 *now*.
 
-This lesson takes
-*no* time. For what is time without a past and future? It
-*has* taken time to misguide you so completely, but it takes no
-time at all to be what you *are.* Begin to practice the Holy
-Spirit’s use of time as a teaching aid to happiness and peace.
-Take this very instant, *now*, and think of it as *all there
-is* of time. Nothing can reach you here out of the past, and it is
-here that you are *completely* absolved, *completely* free,
-and *wholly* without condemnation. From this holy instant
-wherein holiness was born again, you will go forth in time without
-fear and with no sense of change *with* time.
+This lesson takes *no* time. For what is time without a past and future? It 
+*has* taken time to misguide you so completely, but it takes no time at all to 
+be what you *are.* Begin to practice the Holy Spirit’s use of time as a 
+teaching aid to happiness and peace. Take this very instant, *now*, and think 
+of it as *all there is* of time. Nothing can reach you here out of the past, 
+and it is here that you are *completely* absolved, *completely* free, and 
+*wholly* without condemnation. From this holy instant whereïn holiness was 
+born again, you will go forth in time without fear and with no sense of change 
+*with* time. 
 
 Time is inconceivable
 without change, yet holiness does not change. Learn from this instant

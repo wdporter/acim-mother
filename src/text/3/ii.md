@@ -1,15 +1,17 @@
 ---js
 const layout = "mylayout.njk"
 const title = "Special Principles for Miracle Workers"
-const chapter = "Tx:3"
+const volume = "Tx"
+const chapter = 3
 const section = "II"
-const reference = `${chapter}.${section}`
+const parent = `${volume}:${chapter}`
+const reference = `${parent}.${section}`
 const headerTitle = `${section}. ${title}`
 const eleventyNavigation = {
 	key: reference,
-	order: 2,
+	order: chapter,
 	title: headerTitle,
-	parent: chapter
+	parent
 }
 const prev = "/text/3/i"
 const next = "/text/3/iii"
