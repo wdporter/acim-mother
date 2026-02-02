@@ -62,14 +62,7 @@ does not understand God if they think they have something that others *do not*. 
 result from this kind of thinking, and there is a reason for this.
 
 
-However misguided “magical healers” may be, they are *also* trying to help.
-They are conflicted and unstable, but *at times* they are offering
-something to the Family of God, and the only thing the Family can
-*accept* is healing. When the so-called “healing”  
-works, then, the impulse to help and to *be* helped have
-coincided. This is coincidental because healers may *not* be
-experiencing themselves as truly helpful at the time, but the belief
-that they *are*, in the mind of another, helps *them*.
+However misguided “magical healers” may be, they are *also* trying to help. They are conflicted and unstable, but *at times* they are offering something to the Family of God, and the only thing the Family of God can *accept* is healing. When the so-called “healing” works, then, the impulse to help and to *be* helped have coincided. This is coincidental because healers may *not* be experiencing themselves as truly helpful at the time, but the belief that they *are*, in the mind of another, helps *them*.
 
 The Holy Spirit does
 *not* work by chance, and healing that is of Him *always*
@@ -177,12 +170,4 @@ the truth in *you*. The Mind we share is shared by all our
 companions, and as we see them truly, they *will* be healed. Let
 *your* mind shine with mine upon their minds and by our gratitude to them, make them aware of the light in *them*.
 
-This light will shine back
-upon *you* and on the whole Family of God because this is your proper
-gift to God. She will accept it and give it to the Family because it
-is acceptable to Her and therefore to Her Children. This is the true
-communion of the Spirit, Who sees the altar of God in everyone and,
-by bringing it to *your* appreciation, calls upon you to love
-God *and* Her creations. You can appreciate the Family of God
-*only* as one. This is part of the Law of Creation and therefore
-governs *all* thought.
+This light will shine back upon *you* and on the whole Family of God because this is your proper gift to God. She will accept it and give it to the Family of God because it is acceptable to Her and therefore to Her Children. This is the true communion of the Spirit, Who sees the altar of God in everyone and, by bringing it to *your* appreciation, calls upon you to love God *and* Her creations. You can appreciate the Family of God *only* as one. This is part of the Law of Creation and therefore governs *all* thought.
