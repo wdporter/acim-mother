@@ -10,9 +10,8 @@ const headerTitle = `${section}. ${title}`
 const eleventyNavigation = {
 	key: reference,
 	order: 7,
-	title,
-	parent,
-	indexPageTitle: headerTitle
+	title: headerTitle,
+	parent
 }
 const prev = "/text/26/vi"
 const next = "/text/26/viii"

@@ -9,7 +9,7 @@ const reference = `${parent}.${section}`
 const headerTitle = `${section}. ${title}`
 const eleventyNavigation = {
 	key: reference,
-	order: chapter,
+	order: 2,
 	title: headerTitle,
 	parent
 }
