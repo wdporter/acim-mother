@@ -15,7 +15,8 @@ $filename = $args[0]
 (Get-Content $filename) -replace "<b>",  "**" | Set-Content $filename
 (Get-Content $filename) -replace "</b>",  "**" | Set-Content $filename
 (Get-Content $filename -encoding utf8) -replace "—",  " — " | Set-Content $filename
-(Get-Content $filename) -replace " """, ' “' | Set-Content $filename
+(Get-Content $filename) -replace ' "', ' “' | Set-Content $filename
 (Get-Content $filename) -replace "\.""", '”.' | Set-Content $filename
 (Get-Content $filename) -replace """ ", '” ' | Set-Content $filename
 (Get-Content $filename) -replace '= “', '= "' | Set-Content $filename
+(Get-Content $filename) -replace ',”', '”,' | Set-Content $filename
