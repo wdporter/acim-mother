@@ -20,3 +20,4 @@ $filename = $args[0]
 (Get-Content $filename) -replace """ ", '” ' | Set-Content $filename
 (Get-Content $filename) -replace '= “', '= "' | Set-Content $filename
 (Get-Content $filename) -replace ',”', '”,' | Set-Content $filename
+
