@@ -15,9 +15,13 @@ $filename = $args[0]
 (Get-Content $filename) -replace "<b>",  "**" | Set-Content $filename
 (Get-Content $filename) -replace "</b>",  "**" | Set-Content $filename
 (Get-Content $filename -encoding utf8) -replace "—",  " — " | Set-Content $filename
+(Get-Content $filename -encoding utf8) -replace '<p class="sayings"><sup>',  '' | Set-Content $filename
+(Get-Content $filename -encoding utf8) -replace '<span class="sayings2">',  '' | Set-Content $filename
+
+
 (Get-Content $filename) -replace ' "', ' “' | Set-Content $filename
-(Get-Content $filename) -replace "\.""", '”.' | Set-Content $filename
-(Get-Content $filename) -replace """ ", '” ' | Set-Content $filename
+(Get-Content $filename) -replace '" ', '” ' | Set-Content $filename
+(Get-Content $filename) -replace '\.”', '”.' | Set-Content $filename
 (Get-Content $filename) -replace '= “', '= "' | Set-Content $filename
 (Get-Content $filename) -replace ',”', '”,' | Set-Content $filename
 
