@@ -27,7 +27,7 @@ Child of God is because it is blind. Yet let it perceive guiltlessness
 anywhere, and it will try to destroy it because it is afraid.
 
 Much of the ego’s
-strange behavior is directly attributable to its definition of guilt.
+strange behaviour is directly attributable to its definition of guilt.
 To the ego, *the guiltless are guilty*. Those who do not attack
 are its “enemies” because, by not valuing its
 interpretation of salvation, they are in an excellent position *to

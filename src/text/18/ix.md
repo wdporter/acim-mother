@@ -30,7 +30,7 @@ This is the little part of
 you you think you stole from Heaven. Give it back to Heaven. Heaven
 has not lost it, but *you* have lost sight of Heaven. Let the Holy
 Spirit remove it from the withered realm in which you set it off,
-surrounded by darkness, guarded by attack, and reinforced by hate.
+surrounded by darkness, guarded by attack, and reïnforced by hate.
 Within its barricades is still a tiny segment of the Child of God,
 complete and holy, serene and unaware of what you think surrounds it.
 Be you not separate, for the One Who *does* surround it has brought

@@ -44,7 +44,7 @@ be yours.
 Wholeness heals because it
 is of the mind. *All* forms of sickness, even unto death, are
 physical expressions of the *fear of awakening*. They are
-attempts to reinforce *unconsciousness* out of fear of
+attempts to reïnforce *unconsciousness* out of fear of
 *consciousness*. This is a pathetic way of trying *not* to
 know by rendering the faculties for knowing ineffectual. “Rest
 in peace” is a blessing for the living, not the dead, because

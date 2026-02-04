@@ -30,7 +30,7 @@ vocation.
 communicate. Since the ego *cannot* obliterate the impulse to communicate because it is also the impulse to create, the ego can only teach you that the *body* can both communicate *and*
 create and therefore does not *need* the mind. The ego thus
 tries to teach you that the body can *act* like the mind and is
-therefore self-sufficient. Yet we have learned that behavior is
+therefore self-sufficient. Yet we have learned that behaviour is
 *not* the level for either teaching *or* learning. This
 must be so, since you *can* act in accordance with what you do
 *not* believe. To do this, however, will weaken you as teachers

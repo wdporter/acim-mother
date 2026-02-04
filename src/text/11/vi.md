@@ -44,8 +44,8 @@ You will never realise the utter uselessness of attack *except* by recognising
 that your attack on *yourself* had no effects. For others *do* reäct
 to attack if they perceive it, and if you are trying to attack
 *them*, you will be unable to avoid interpreting this as
-reinforcement. The *only* place where you can cancel out all
-reinforcement is in *yourself*. For *you* are always the
+reïnforcement. The *only* place where you can cancel out all
+reïnforcement is in *yourself*. For *you* are always the
 first point of your attack, and if *this* has never been, it
 *has* no consequences.
 

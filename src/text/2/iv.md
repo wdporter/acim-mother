@@ -24,7 +24,7 @@ The reason I cannot
 control fear for you is that you are attempting to raise to the mind
 level the proper content of lower-order reality. I do not foster
 level confusion, but *you* can choose to correct it. You would
-not tolerate insane *behavior* on your part and would hardly
+not tolerate insane *behaviour* on your part and would hardly
 advance the excuse that you could not help it. Why should you
 tolerate insane *thinking*? There is a confusion here which you
 would do well to look at clearly. *You* believe that you are
@@ -35,14 +35,14 @@ exercise choice.
 
 What you do *comes
 from* what you think. You cannot separate yourself from the truth
-by "giving" autonomy to behavior. This is controlled by me
+by "giving" autonomy to behaviour. This is controlled by me
 automatically as soon as you place what you think under my guidance.
 Whenever you are afraid, it is a sure sign that you have allowed your
 mind to miscreate or have *not* allowed me to guide it. It is
 pointless to believe that controlling the *outcome* of
 mis-thought can result in healing. When you are fearful you have
 willed wrongly. This is why you feel responsible for it. You must
-change your *mind,* not your behavior, and this *is* a
+change your *mind,* not your behaviour, and this *is* a
 matter of will.
 
 You do not need guidance
@@ -66,16 +66,16 @@ strain, which arises whenever the *will* to do conflicts with
 
 First, you can will to do
 conflicting things, either simultaneously or successively. This
-produces conflicted behavior, which is intolerable to yourself
+produces conflicted behaviour, which is intolerable to yourself
 because the part of the will that wants to do something *else*
 is outraged. {.ml-8 .mr-8}
 
 Second, you can *behave* as
 you think you should but without entirely *willing* to do so.
-This produces consistent behavior but entails great strain
+This produces consistent behaviour but entails great strain
 *within* the self. {.ml-8 .mr-8}
 
-In both cases, the will and the behavior are out of accord, resulting in a situation in which you are doing what you do *not* will. This arouses a sense of coercion, which usually produces rage. The rage then invades the mind and projection in the wrong sense is likely to follow. Depression or anxiety is virtually certain.
+In both cases, the will and the behaviour are out of accord, resulting in a situation in which you are doing what you do *not* will. This arouses a sense of coercion, which usually produces rage. The rage then invades the mind and projection in the wrong sense is likely to follow. Depression or anxiety is virtually certain.
 
 Remember that whenever there is fear, it is because you have not made up your 
 mind. Your will is split, and your behaviour inevitably becomes erratic. 

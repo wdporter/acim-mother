@@ -17,9 +17,9 @@ const eleventyNavigation = {
 If you cannot hear the
 Voice of God, it is because you do not choose to listen. The fact
 that you *do* listen to the voice of your ego is demonstrated by
-your attitudes, your feelings, and your behavior. Your attitudes are
+your attitudes, your feelings, and your behaviour. Your attitudes are
 obviously conflicted, your feelings have a narrow range on the
-negative side but are never purely joyous, and your behavior is
+negative side but are never purely joyous, and your behaviour is
 either strained or unpredictable. Yet this is what you *want.*
 This is what you are fighting to keep and what you are vigilant to
 save. Your minds are filled with schemes to save the face of your
@@ -29,7 +29,7 @@ of its existence except with mirrors? But where *you* look to
 find yourself is up to you.
 
 We have said that you
-cannot change your mind by changing your behavior, but we have also
+cannot change your mind by changing your behaviour, but we have also
 said, and many times before, that you *can* change your mind.
 When your mood tells you that you have chosen wrongly, and this is so
 whenever you are not joyous, then *know* this need not be. In
