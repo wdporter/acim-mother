@@ -58,4 +58,4 @@ this:
 *I am not alone, and I would not intrude\
 the past upon my Guest.\
 I have invited Him, and He is here.\
-I need do nothing except **not to interfere**.* {.ml-.mr-12}
+I need do nothing except **not to interfere**.* {.ml-8 .mr-8}
