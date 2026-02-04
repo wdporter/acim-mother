@@ -1,7 +1,7 @@
 ---js
 const prev = "/text/4/iv"
 const next = "/text/4/vi"
-const title = "The Escape From Fear"
+const title = "The Escape from Fear"
 const chapter = "Tx:4"
 const section = "V"
 const layout = "mylayout.njk"
