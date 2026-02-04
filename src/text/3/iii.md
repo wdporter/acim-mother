@@ -35,14 +35,7 @@ have to pause and ask, “How could this be?”. Is it likely
 that God Herself would be capable of the kind of thinking which Her
 own words have clearly stated is unworthy of people?
 
-The best defense, as
-always, is not to attack another’s position but rather to protect
-the truth. It is unwise to accept *any* concept if you have to
-turn a whole frame of reference around in order to justify it. This
-procedure is painful in its minor applications and genuinely tragic
-on a mass basis. Persecution is a frequent result, undertaken to
-justify the terrible misperception that God Herself persecuted Her
-own Child on behalf of salvation. The very words are meaningless.
+The best defence, as always, is not to attack another’s position but rather to protect the truth. It is unwise to accept *any* concept if you have to turn a whole frame of reference around in order to justify it. This procedure is painful in its minor applications and genuinely tragic on a mass basis. Persecution is a frequent result, undertaken to justify the terrible misperception that God Herself persecuted Her own Child on behalf of salvation. The very words are meaningless.
 
 It has been particularly
 difficult to overcome this because, although the error itself is no

@@ -29,17 +29,7 @@ commitment. Be assured of this; each will progress. Retrogression
 is temporary. The overall direction is one of progress toward the
 truth.
 
-Psychotherapy itself cannot be creative. This is one of the
-errors which the ego fosters; that it is capable of true change, and
-therefore of true creativity. When we speak of ʺthe saving illusionʺ
-or ʺthe final dream,ʺ this is not what we mean, but here is the egoʹs
-last defense. ʺResistanceʺ is its way of looking at things; its
-interpretation of “progress” and “growth”. These interpretations
-will be wrong of necessity, because they are delusional. The
-“changes” the ego seeks to make are not really changes. They are
-but deeper shadows, or perhaps different cloud patterns. Yet what
-is made of nothingness cannot be called new or different. Illusions
-are illusions; truth is truth.
+Psychotherapy itself cannot be creative. This is one of the errors which the ego fosters; that it is capable of true change, and therefore of true creativity. When we speak of ʺthe saving illusionʺ or ʺthe final dream,ʺ this is not what we mean, but here is the egoʹs last defence. ʺResistanceʺ is its way of looking at things; its interpretation of “progress” and “growth”. These interpretations will be wrong of necessity, because they are delusional. The “changes” the ego seeks to make are not really changes. They are but deeper shadows, or perhaps different cloud patterns. Yet what is made of nothingness cannot be called new or different. Illusions are illusions; truth is truth.
 
 Resistance as defined here can be characteristic of a
 therapist as well as of a patient. Either way, it sets a limit on

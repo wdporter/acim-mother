@@ -26,27 +26,9 @@ emotions of which you are capable. One is false, for it was made out
 of denial, and denial depends on the real belief in what is denied
 for its *own* existence.
 
-By interpreting fear
-correctly *as a positive affirmation of the underlying belief it
-masks*, you are undermining its perceived usefulness by rendering
-it useless. Defenses which do not work at all are
-*automatically* discarded. If you raise what fear conceals to
-*clear-cut, unequivocal predominance*, fear becomes meaningless.
-You have denied its power to conceal love, which was its only
-purpose. The mask which *you* have drawn across the face of love
-has disappeared.
+By interpreting fear correctly *as a positive affirmation of the underlying belief it masks*, you are undermining its perceived usefulness by rendering it useless. Defences which do not work at all are *automatically* discarded. If you raise what fear conceals to *clear-cut, unequivocal predominance*, fear becomes meaningless. You have denied its power to conceal love, which was its only purpose. The mask which *you* have drawn across the face of love has disappeared.
 
-If you would look upon love, which *is* the world’s reality, how could you do
-better than to recognise in every defense *against* it the
-underlying appeal *for* it? And how could you better learn of
-its reality than by answering the appeal for it by *giving* it?
-The Holy Spirit’s interpretation of fear *does* dispel it,
-for the *awareness* of truth cannot *be* denied. Thus does
-the Holy Spirit replace fear with love and translate error into
-truth. And thus will *you* learn of Him how to replace your
-dream of separation with the fact of unity. For the separation is
-only the *denial* of union and, correctly interpreted, attests
-to your eternal knowledge that union is true.
+If you would look upon love, which *is* the world’s reality, how could you do better than to recognise in every defence *against* it the underlying appeal *for* it? And how could you better learn of its reality than by answering the appeal for it by *giving* it? The Holy Spirit’s interpretation of fear *does* dispel it, for the *awareness* of truth cannot *be* denied. Thus does the Holy Spirit replace fear with love and translate error into truth. And thus will *you* learn of Him how to replace your dream of separation with the fact of unity. For the separation is only the *denial* of union and, correctly interpreted, attests to your eternal knowledge that union is true.
 
 Miracles are merely the
 translation of denial into truth. If to love oneself is to

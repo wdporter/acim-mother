@@ -60,18 +60,7 @@ without, there is a strong tendency to harbor it within. It is difficult
 at first to realise that this is *exactly* the same thing, for
 there *is* no distinction between within and without.
 
-If your companions are part
-of you and you blame *them* for your deprivation, you *are*
-blaming yourself. And you cannot blame yourself *without*
-blaming them. That is why blame must be undone, *not*
-re-allocated. Lay it to yourself and you cannot *know* yourself,
-for *only* the ego blames at all. Self-blame is therefore ego
-identification and as strong an ego defense as blaming others. *You
-cannot enter God’s Presence if you attack Her Child*. When Her
-Child lifts their voice in praise of their Creator, they *will* hear the
-Voice of their Mother. Yet the Creator cannot be praised *without*
-Her child, for their glory is shared, and they are glorified
-together.
+If your companions are part of you and you blame *them* for your deprivation, you *are* blaming yourself. And you cannot blame yourself *without* blaming them. That is why blame must be undone, *not* reällocated. Lay it to yourself and you cannot *know* yourself, for *only* the ego blames at all. Self-blame is therefore ego identification and as strong an ego defence as blaming others. *You cannot enter God’s Presence if you attack Her Child*. When Her Child lifts their voice in praise of their Creator, they *will* hear the Voice of their Mother. Yet the Creator cannot be praised *without* Her child, for their glory is shared, and they are glorified together.
 
 Christ is at God’s
 altar, waiting to welcome Her Child. But come wholly without

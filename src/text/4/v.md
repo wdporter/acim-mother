@@ -86,21 +86,10 @@ you back. The disheartened are useless to themselves and to me, but
 only the ego can *be* disheartened. Have you *really*
 considered how many opportunities you have to gladden yourselves and
 how many of them you have refused? There is no limit to the power of
-Sons of God, but they themself can limit the expression of their power as
+Children of God, but they themself can limit the expression of their power as
 much as they choose.
 
-Your mind and mine can unite in shining your ego away and releasing the 
-strength of God into everything you think and will and do. Do not settle for 
-anything *less* than this, and refuse to accept anything *but* this 
-as your goal. Watch your minds carefully for *any* beliefs that 
-hinder its accomplishment, and step away from them. Judge how well 
-you have done this by your own feelings, for this is the one 
-*right* use of judgement. Judgement, like any other defense, can 
-be used to attack or protect, to hurt or to heal. The ego 
-*should* be brought to your judgement and found wanting there. 
-Without your own allegiance, protection, and love, it cannot exist. 
-Judge your ego truly, and you *must* withdraw allegiance, 
-protection, and love from it.
+Your mind and mine can unite in shining your ego away and releasing the  strength of God into everything you think and will and do. Do not settle for anything *less* than this, and refuse to accept anything *but* this  as your goal. Watch your minds carefully for *any* beliefs that  hinder its accomplishment, and step away from them. Judge how well  you have done this by your own feelings, for this is the one  *right* use of judgement. Judgement, like any other defence, can  be used to attack or protect, to hurt or to heal. The ego *should* be brought to your judgement and found wanting there. Without your own allegiance, protection, and love, it cannot exist. Judge your ego truly, and you *must* withdraw allegiance, protection, and love from it.
 
 You are mirrors of truth
 in which God Herself shines in perfect light. To the ego’s dark

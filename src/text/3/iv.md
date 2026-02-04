@@ -22,11 +22,7 @@ nothing, as joint possibilities. They are all true *or* all
 false. It is essential that you realise that behaviour is erratic 
 until a firm commitment to one or the other is made.
 
-A firm commitment to
-darkness or nothingness is impossible. No one has ever lived who has
-not experienced *some* light and *some* [of everything]. This makes everyone really unable to deny truth totally, even if they generally deceives themselves in this connection. That is why those who live largely in darkness and emptiness never find any lasting solace. Innocence is *not* a partial attribute. It is not a real defense
-*until* it is total. When it is partial, it is characterized by
-the same erratic nature that holds for other two-edged defenses.
+A firm commitment to darkness or nothingness is impossible. No one has ever lived who has not experienced *some* light and *some* [of everything]. This makes everyone really unable to deny truth totally, even if they generally deceives themselves in this connection. That is why those who live largely in darkness and emptiness never find any lasting solace. Innocence is *not* a partial attribute. It is not a real defence *until* it is total. When it is partial, it is characterised by the same erratic nature that holds for other two-edged defences.
 
 The partly innocent are
 apt to be quite stupid at times. It is not until their innocence
